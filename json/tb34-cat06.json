@@ -1,0 +1,378 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb34-cat06.json",
+   "type":"Manifest",
+   "label": { "en": [ "06   Portrait of a Lady ('La Schiavona'), c.1510-12 (NG5385)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>01   The Flight into Egypt, c.1507. The State Hermitage Museum, St Petersburg:<\/b> For further information about this picture see <a href=https:\/\/www.hermitagemuseum.org\/wps\/portal\/hermitage\/digital-collection\/01.+Paintings\/32250\/?lng=en>https:\/\/www.hermitagemuseum.org<\/a> (Accessed Feb 2022)<\/li><li><b>02   Christ and the Adulteress and Head of a Man, c.1508-10. Glasgow Museums:<\/b> For further information about this picture see <a href=http:\/\/collections.glasgowmuseums.com\/mwebcgi\/mweb?request=record;id=166789;type=101>http:\/\/collections.glasgowmuseums.com<\/a> (Accessed Feb 2022)<\/li><li><b>03   Rest on the Flight into Egypt, c.1508-9. The Most Hon. the Marquess of Bath, Longleat House, Warminster, Wiltshire.:<\/b> At this time no further information is available for this painting.<\/li>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-34.json\">vol-34<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb34-cats-a.json\">tb34-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-34\">Technical Bulletin Vol. 34<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-34-catalogue-2013\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/vol-34-cat-1-to-7-2013.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>01   The Flight into Egypt, c.1507. The State Hermitage Museum, St Petersburg:<\/b> For further information about this picture see <a href=https:\/\/www.hermitagemuseum.org\/wps\/portal\/hermitage\/digital-collection\/01.+Paintings\/32250\/?lng=en>https:\/\/www.hermitagemuseum.org<\/a> (Accessed Feb 2022)<\/li><li><b>02   Christ and the Adulteress and Head of a Man, c.1508-10. Glasgow Museums:<\/b> For further information about this picture see <a href=http:\/\/collections.glasgowmuseums.com\/mwebcgi\/mweb?request=record;id=166789;type=101>http:\/\/collections.glasgowmuseums.com<\/a> (Accessed Feb 2022)<\/li><li><b>03   Rest on the Flight into Egypt, c.1508-9. The Most Hon. the Marquess of Bath, Longleat House, Warminster, Wiltshire.:<\/b> At this time no further information is available for this painting.<\/li>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-5385-00-000084-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), about 1510-12, Oil on canvas, (119.4 x 96.5 cm) (7112x5574px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-5385-00-000084-PYR.tif\/full\/348,444\/0\/default.jpg","type":"Image","width":348,"height":444,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-5385-00-000084-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":696,"height":889,"sizes":[[{"width":174,"height":222},{"width":348,"height":444},{"width":696,"height":889}]]}]}],
+      "height":7112,
+      "width":5574,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-5385-00-000084-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-5385-00-000084-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-5385-00-000084-PYR.tif\/full\/1393,1778\/0\/default.jpg","type":"Image","width":1393,"height":1778,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-5385-00-000084-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5574,"height":7112,"sizes":[[{"width":174,"height":222},{"width":348,"height":444},{"width":696,"height":889},{"width":1393,"height":1778},{"width":2787,"height":3556}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-5385-00-000084-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), infrared reflectogram (OSIRIS) (3894x3366px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a-PYR.tif\/full\/420,486\/0\/default.jpg","type":"Image","width":420,"height":486,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":841,"height":973,"sizes":[[{"width":210,"height":243},{"width":420,"height":486},{"width":841,"height":973}]]}]}],
+      "height":3894,
+      "width":3366,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a-PYR.tif\/full\/1683,1947\/0\/default.jpg","type":"Image","width":1683,"height":1947,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3366,"height":3894,"sizes":[[{"width":210,"height":243},{"width":420,"height":486},{"width":841,"height":973},{"width":1683,"height":1947}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), infrared reflectogram (OSIRIS), contrast adjusted to show more detail in the background. (3894x3366px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a2-PYR.tif\/full\/420,486\/0\/default.jpg","type":"Image","width":420,"height":486,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":841,"height":973,"sizes":[[{"width":210,"height":243},{"width":420,"height":486},{"width":841,"height":973}]]}]}],
+      "height":3894,
+      "width":3366,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a2-PYR.tif\/full\/1683,1947\/0\/default.jpg","type":"Image","width":1683,"height":1947,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng5385_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3366,"height":3894,"sizes":[[{"width":210,"height":243},{"width":420,"height":486},{"width":841,"height":973},{"width":1683,"height":1947}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng5385_dirrO_a2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/02/19/ng5385_dirrO_d01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), infrared reflectogram (OSIRIS), detail. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/02\/19\/ng5385_dirrO_d01-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/02\/19\/ng5385_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/02/19/ng5385_dirrO_d01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/02/19/ng5385_dirrO_d01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/02\/19\/ng5385_dirrO_d01-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/02\/19\/ng5385_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/02/19/ng5385_dirrO_d01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-5385-00-000068-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (14636x12464px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-5385-00-000068-PYR.tif\/full\/389,457\/0\/default.jpg","type":"Image","width":389,"height":457,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-5385-00-000068-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":779,"height":914,"sizes":[[{"width":194,"height":228},{"width":389,"height":457},{"width":779,"height":914}]]}]}],
+      "height":14636,
+      "width":12464,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-5385-00-000068-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-5385-00-000068-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-5385-00-000068-PYR.tif\/full\/1558,1829\/0\/default.jpg","type":"Image","width":1558,"height":1829,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-5385-00-000068-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":12464,"height":14636,"sizes":[[{"width":194,"height":228},{"width":389,"height":457},{"width":779,"height":914},{"width":1558,"height":1829},{"width":3116,"height":3659},{"width":6232,"height":7318}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-5385-00-000068-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-5385-00-000067-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), X-radiograph (Computer assembled mosaic) (14636x12464px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-5385-00-000067-PYR.tif\/full\/389,457\/0\/default.jpg","type":"Image","width":389,"height":457,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-5385-00-000067-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":779,"height":914,"sizes":[[{"width":194,"height":228},{"width":389,"height":457},{"width":779,"height":914}]]}]}],
+      "height":14636,
+      "width":12464,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-5385-00-000067-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-5385-00-000067-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-5385-00-000067-PYR.tif\/full\/1558,1829\/0\/default.jpg","type":"Image","width":1558,"height":1829,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-5385-00-000067-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":12464,"height":14636,"sizes":[[{"width":194,"height":228},{"width":389,"height":457},{"width":779,"height":914},{"width":1558,"height":1829},{"width":3116,"height":3659},{"width":6232,"height":7318}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-5385-00-000067-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m003_reddressleftedge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), photomicrograph of the dress at the left edge of the painting. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m003_reddressleftedge-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m003_reddressleftedge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m003_reddressleftedge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m003_reddressleftedge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m003_reddressleftedge-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m003_reddressleftedge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m003_reddressleftedge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m008_reddress_shadow_midtone-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), photomicrograph of a shadow in the dress. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m008_reddress_shadow_midtone-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m008_reddress_shadow_midtone-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m008_reddress_shadow_midtone-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m008_reddress_shadow_midtone-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m008_reddress_shadow_midtone-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m008_reddress_shadow_midtone-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m008_reddress_shadow_midtone-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m009_reddress_midtone-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), photomicrograph of a midtone of the dress. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m009_reddress_midtone-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m009_reddress_midtone-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m009_reddress_midtone-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m009_reddress_midtone-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m009_reddress_midtone-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m009_reddress_midtone-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m009_reddress_midtone-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0010_red_dress_next_to_white-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), photomicrograph of red dress next to white sleeve. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0010_red_dress_next_to_white-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0010_red_dress_next_to_white-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0010_red_dress_next_to_white-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0010_red_dress_next_to_white-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0010_red_dress_next_to_white-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0010_red_dress_next_to_white-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0010_red_dress_next_to_white-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0011_scarfoverreddress-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), photomicrograph of scarf. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0011_scarfoverreddress-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0011_scarfoverreddress-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0011_scarfoverreddress-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0011_scarfoverreddress-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0011_scarfoverreddress-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0011_scarfoverreddress-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0011_scarfoverreddress-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0012_rings_properrighthand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), photomicrograph of rings on right hand. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0012_rings_properrighthand-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0012_rings_properrighthand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0012_rings_properrighthand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0012_rings_properrighthand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0012_rings_properrighthand-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/30\/ng5385_m0012_rings_properrighthand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/30/ng5385_m0012_rings_properrighthand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-5385-00-000019-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), photograph taken in 1960, during restoration, before the oculus had been touched out. (5976x5028px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-5385-00-000019-PYR.tif\/full\/314,373\/0\/default.jpg","type":"Image","width":314,"height":373,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-5385-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":628,"height":747,"sizes":[[{"width":157,"height":186},{"width":314,"height":373},{"width":628,"height":747}]]}]}],
+      "height":5976,
+      "width":5028,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-5385-00-000019-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-5385-00-000019-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-5385-00-000019-PYR.tif\/full\/1257,1494\/0\/default.jpg","type":"Image","width":1257,"height":1494,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-5385-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5028,"height":5976,"sizes":[[{"width":157,"height":186},{"width":314,"height":373},{"width":628,"height":747},{"width":1257,"height":1494},{"width":2514,"height":2988}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-5385-00-000019-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_VIS_50xB-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), paint cross-section from the purple dress. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_VIS_50xB-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_VIS_50xB-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_VIS_50xB-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_VIS_50xB-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_VIS_50xB-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_VIS_50xB-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_VIS_50xB-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_UV_50xA-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5385: Titian, Portrait of a Lady ('La Schiavona'), paint cross-section from the purple dress ultraviolet fluorescence image. (2064x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_UV_50xA-PYR.tif\/full\/260,129\/0\/default.jpg","type":"Image","width":260,"height":129,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_UV_50xA-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":258,"sizes":[[{"width":130,"height":64},{"width":260,"height":129},{"width":520,"height":258}]]}]}],
+      "height":2064,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_UV_50xA-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_UV_50xA-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_UV_50xA-PYR.tif\/full\/1041,516\/0\/default.jpg","type":"Image","width":1041,"height":516,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/22\/NG5385_B_XS_UV_50xA-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2064,"sizes":[[{"width":130,"height":64},{"width":260,"height":129},{"width":520,"height":258},{"width":1041,"height":516},{"width":2082,"height":1032}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/22/NG5385_B_XS_UV_50xA-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

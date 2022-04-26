@@ -1,0 +1,202 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb36-cat03.json",
+   "type":"Manifest",
+   "label": { "en": [ "Venus and Adonis, 1554-6 (NG 34)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-36.json\">vol-36<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb36-cats-a.json\">tb36-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\">Technical Bulletin Vol. 36<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\/catalogue\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/24099\/vol36-cats1-4.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0034-00-000046-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis, about 1554, Oil on canvas, (177.9 x 188.9 cm) (8838x9258px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0034-00-000046-PYR.tif\/full\/289,276\/0\/default.jpg","type":"Image","width":289,"height":276,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0034-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":578,"height":552,"sizes":[[{"width":144,"height":138},{"width":289,"height":276},{"width":578,"height":552}]]}]}],
+      "height":8838,
+      "width":9258,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0034-00-000046-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0034-00-000046-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0034-00-000046-PYR.tif\/full\/1157,1104\/0\/default.jpg","type":"Image","width":1157,"height":1104,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0034-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9258,"height":8838,"sizes":[[{"width":144,"height":138},{"width":289,"height":276},{"width":578,"height":552},{"width":1157,"height":1104},{"width":2314,"height":2209},{"width":4629,"height":4419}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0034-00-000046-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis,Infrared reflectogram (OSIRIS) (6488x6914px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif\/full\/432,405\/0\/default.jpg","type":"Image","width":432,"height":405,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":864,"height":811,"sizes":[[{"width":216,"height":202},{"width":432,"height":405},{"width":864,"height":811}]]}]}],
+      "height":6488,
+      "width":6914,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif\/full\/1728,1622\/0\/default.jpg","type":"Image","width":1728,"height":1622,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6914,"height":6488,"sizes":[[{"width":216,"height":202},{"width":432,"height":405},{"width":864,"height":811},{"width":1728,"height":1622},{"width":3457,"height":3244}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000050-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (22324x23175px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000050-PYR.tif\/full\/362,348\/0\/default.jpg","type":"Image","width":362,"height":348,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000050-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":724,"height":697,"sizes":[[{"width":181,"height":174},{"width":362,"height":348},{"width":724,"height":697}]]}]}],
+      "height":22324,
+      "width":23175,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000050-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000050-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000050-PYR.tif\/full\/1448,1395\/0\/default.jpg","type":"Image","width":1448,"height":1395,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000050-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":23175,"height":22324,"sizes":[[{"width":181,"height":174},{"width":362,"height":348},{"width":724,"height":697},{"width":1448,"height":1395},{"width":2896,"height":2790},{"width":5793,"height":5581},{"width":11587,"height":11162}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000050-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000049-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis, X-radiograph (Computer assembled mosaic) (22324x23175px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000049-PYR.tif\/full\/362,348\/0\/default.jpg","type":"Image","width":362,"height":348,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":724,"height":697,"sizes":[[{"width":181,"height":174},{"width":362,"height":348},{"width":724,"height":697}]]}]}],
+      "height":22324,
+      "width":23175,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000049-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000049-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000049-PYR.tif\/full\/1448,1395\/0\/default.jpg","type":"Image","width":1448,"height":1395,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/02\/02\/N-0034-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":23175,"height":22324,"sizes":[[{"width":181,"height":174},{"width":362,"height":348},{"width":724,"height":697},{"width":1448,"height":1395},{"width":2896,"height":2790},{"width":5793,"height":5581},{"width":11587,"height":11162}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/02/02/N-0034-00-000049-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/13/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis, paint cross-section from the flesh of Adonis\u2019 thigh. (2064x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/13\/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif\/full\/260,129\/0\/default.jpg","type":"Image","width":260,"height":129,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/13\/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":258,"sizes":[[{"width":130,"height":64},{"width":260,"height":129},{"width":520,"height":258}]]}]}],
+      "height":2064,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/13/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/13/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/13\/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif\/full\/1041,516\/0\/default.jpg","type":"Image","width":1041,"height":516,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/13\/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2064,"sizes":[[{"width":130,"height":64},{"width":260,"height":129},{"width":520,"height":258},{"width":1041,"height":516},{"width":2082,"height":1032}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/13/NG34_IS1_XS_VIS_DF_50x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis, paint cross-section from the blue-green hill in the distant landscape at the right. (1356x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif\/full\/259,84\/0\/default.jpg","type":"Image","width":259,"height":84,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":169,"sizes":[[{"width":129,"height":42},{"width":259,"height":84},{"width":519,"height":169}]]}]}],
+      "height":1356,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif\/full\/1038,339\/0\/default.jpg","type":"Image","width":1038,"height":339,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1356,"sizes":[[{"width":129,"height":42},{"width":259,"height":84},{"width":519,"height":169},{"width":1038,"height":339},{"width":2076,"height":678}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS3_XS_VIS_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis, paint cross-section from the yellow vase at the bottom left. (1392x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif\/full\/259,87\/0\/default.jpg","type":"Image","width":259,"height":87,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":174,"sizes":[[{"width":129,"height":43},{"width":259,"height":87},{"width":519,"height":174}]]}]}],
+      "height":1392,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif\/full\/1038,348\/0\/default.jpg","type":"Image","width":1038,"height":348,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1392,"sizes":[[{"width":129,"height":43},{"width":259,"height":87},{"width":519,"height":174},{"width":1038,"height":348},{"width":2076,"height":696}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG34_IS6_XS_VIS_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

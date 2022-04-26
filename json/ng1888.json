@@ -1,0 +1,751 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng1888.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG1888: Jan Gossaert (Jean Gossart), The Virgin and Child" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/catalogues.json\">catalogues<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/sixteenth_century_netherlandish.json\">sixteenth_century_netherlandish<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG1888\">Find out more about the painting<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1888-00-000048-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "\u2018Virgin and Child\u2019, oil on oak panel, 30.7 x 24.3 cm (7125x5193px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1888-00-000048-PYR.tif\/full\/324,445\/0\/default.jpg","type":"Image","width":324,"height":445,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1888-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":649,"height":890,"sizes":[[{"width":162,"height":222},{"width":324,"height":445},{"width":649,"height":890}]]}]}],
+      "height":7125,
+      "width":5193,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1888-00-000048-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1888-00-000048-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1888-00-000048-PYR.tif\/full\/1298,1781\/0\/default.jpg","type":"Image","width":1298,"height":1781,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1888-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5193,"height":7125,"sizes":[[{"width":162,"height":222},{"width":324,"height":445},{"width":649,"height":890},{"width":1298,"height":1781},{"width":2596,"height":3562}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1888-00-000048-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m001_virgin_left_face-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Virgin\u2019s face (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m001_virgin_left_face-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m001_virgin_left_face-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m001_virgin_left_face-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m001_virgin_left_face-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m001_virgin_left_face-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m001_virgin_left_face-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m001_virgin_left_face-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m002_virgin_right_hand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Virgin\u2019s right hand (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m002_virgin_right_hand-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m002_virgin_right_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m002_virgin_right_hand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m002_virgin_right_hand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m002_virgin_right_hand-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m002_virgin_right_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m002_virgin_right_hand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m003_virgin_left_hand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Virgin\u2019s left hand (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m003_virgin_left_hand-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m003_virgin_left_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m003_virgin_left_hand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m003_virgin_left_hand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m003_virgin_left_hand-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m003_virgin_left_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m003_virgin_left_hand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m004_virgin_robe_neckline-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the necklines of the Virgin\u2019s clothes with a damage caused by the use of compasses to draw the architecture (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m004_virgin_robe_neckline-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m004_virgin_robe_neckline-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m004_virgin_robe_neckline-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m004_virgin_robe_neckline-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m004_virgin_robe_neckline-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m004_virgin_robe_neckline-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m004_virgin_robe_neckline-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m005_virgin_robe_breast-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Virgin\u2019s dress (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m005_virgin_robe_breast-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m005_virgin_robe_breast-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m005_virgin_robe_breast-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m005_virgin_robe_breast-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m005_virgin_robe_breast-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m005_virgin_robe_breast-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m005_virgin_robe_breast-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m006_virgin_left_arm-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Virgin\u2019s left sleeve (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m006_virgin_left_arm-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m006_virgin_left_arm-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m006_virgin_left_arm-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m006_virgin_left_arm-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m006_virgin_left_arm-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m006_virgin_left_arm-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m006_virgin_left_arm-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m007_virgin_cloak_knee-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Virgin\u2019s red cloak over her knee (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m007_virgin_cloak_knee-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m007_virgin_cloak_knee-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m007_virgin_cloak_knee-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m007_virgin_cloak_knee-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m007_virgin_cloak_knee-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m007_virgin_cloak_knee-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m007_virgin_cloak_knee-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m008_virgin_cloak_bottom-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the bottom edge of the Virgin\u2019s cloak (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m008_virgin_cloak_bottom-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m008_virgin_cloak_bottom-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m008_virgin_cloak_bottom-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m008_virgin_cloak_bottom-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m008_virgin_cloak_bottom-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m008_virgin_cloak_bottom-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m008_virgin_cloak_bottom-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m009_virgin_drapery-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the bottom of the Virgin\u2019s dress and cloak (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m009_virgin_drapery-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m009_virgin_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m009_virgin_drapery-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m009_virgin_drapery-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m009_virgin_drapery-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m009_virgin_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m009_virgin_drapery-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m010_child_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Child\u2019s face (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m010_child_head-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m010_child_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m010_child_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m010_child_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m010_child_head-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m010_child_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m010_child_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m011_child_hair-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Child\u2019s hair (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m011_child_hair-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m011_child_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m011_child_hair-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m011_child_hair-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m011_child_hair-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m011_child_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m011_child_hair-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m012_child_right_hand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Child\u2019s right hand (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m012_child_right_hand-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m012_child_right_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m012_child_right_hand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m012_child_right_hand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m012_child_right_hand-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m012_child_right_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m012_child_right_hand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m013_child_left_hand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Child\u2019s left hand (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m013_child_left_hand-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m013_child_left_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m013_child_left_hand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m013_child_left_hand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m013_child_left_hand-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m013_child_left_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m013_child_left_hand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m014_child_right_leg-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the Child\u2019s right leg (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m014_child_right_leg-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m014_child_right_leg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m014_child_right_leg-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m014_child_right_leg-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m014_child_right_leg-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m014_child_right_leg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m014_child_right_leg-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m015_stool_left_foot-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the claw foot at the left of the footstool (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m015_stool_left_foot-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m015_stool_left_foot-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m015_stool_left_foot-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m015_stool_left_foot-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m015_stool_left_foot-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m015_stool_left_foot-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m015_stool_left_foot-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m016_stool_centre_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the cherub\u2019s head at the centre of the footstool (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m016_stool_centre_head-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m016_stool_centre_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m016_stool_centre_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m016_stool_centre_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m016_stool_centre_head-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m016_stool_centre_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m016_stool_centre_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m017_stool_right_foot-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the claw foot at the right of the footstool (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m017_stool_right_foot-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m017_stool_right_foot-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m017_stool_right_foot-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m017_stool_right_foot-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m017_stool_right_foot-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m017_stool_right_foot-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m017_stool_right_foot-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m018_niche_right_bottom-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing architecture, the base of the arch on the right (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m018_niche_right_bottom-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m018_niche_right_bottom-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m018_niche_right_bottom-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m018_niche_right_bottom-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m018_niche_right_bottom-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m018_niche_right_bottom-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m018_niche_right_bottom-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m019_base_middle_right-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the base of the niche on the right, upper modelling (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m019_base_middle_right-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m019_base_middle_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m019_base_middle_right-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m019_base_middle_right-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m019_base_middle_right-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m019_base_middle_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m019_base_middle_right-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m020_base_bottom_right-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the base of the niche on the right, lower modelling (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m020_base_bottom_right-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m020_base_bottom_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m020_base_bottom_right-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m020_base_bottom_right-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m020_base_bottom_right-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m020_base_bottom_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m020_base_bottom_right-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m021_base_bottom_left-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the base of the niche on the left (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m021_base_bottom_left-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m021_base_bottom_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m021_base_bottom_left-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m021_base_bottom_left-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m021_base_bottom_left-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m021_base_bottom_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m021_base_bottom_left-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m022_inscription_IHS-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing lettering of the inscription (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m022_inscription_IHS-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m022_inscription_IHS-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m022_inscription_IHS-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m022_inscription_IHS-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m022_inscription_IHS-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m022_inscription_IHS-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m022_inscription_IHS-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m023_inscription_SER-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing lettering of the inscription (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m023_inscription_SER-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m023_inscription_SER-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m023_inscription_SER-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m023_inscription_SER-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m023_inscription_SER-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m023_inscription_SER-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m023_inscription_SER-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m024_inscription_PEN-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing lettering of the inscription (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m024_inscription_PEN-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m024_inscription_PEN-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m024_inscription_PEN-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m024_inscription_PEN-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m024_inscription_PEN-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m024_inscription_PEN-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m024_inscription_PEN-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m025_inscription_CAP-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing lettering of the inscription (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m025_inscription_CAP-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m025_inscription_CAP-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m025_inscription_CAP-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m025_inscription_CAP-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m025_inscription_CAP-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m025_inscription_CAP-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m025_inscription_CAP-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m026_inscription_PVT-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing lettering of the inscription (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m026_inscription_PVT-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m026_inscription_PVT-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m026_inscription_PVT-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m026_inscription_PVT-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m026_inscription_PVT-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m026_inscription_PVT-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m026_inscription_PVT-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m027_inscription_VI-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing lettering of the inscription (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m027_inscription_VI-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m027_inscription_VI-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m027_inscription_VI-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m027_inscription_VI-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m027_inscription_VI-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m027_inscription_VI-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m027_inscription_VI-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m028_inscription_T-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing lettering of the inscription (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m028_inscription_T-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m028_inscription_T-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m028_inscription_T-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m028_inscription_T-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m028_inscription_T-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/03\/ng1888_m028_inscription_T-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/03/ng1888_m028_inscription_T-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail infrared reflectogram mosaic, the Child (1978x2000px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d01-PYR.tif\/full\/500,494\/0\/default.jpg","type":"Image","width":500,"height":494,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1000,"height":989,"sizes":[[{"width":250,"height":247},{"width":500,"height":494},{"width":1000,"height":989}]]}]}],
+      "height":1978,
+      "width":2000,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d01-PYR.tif\/full\/1000,989\/0\/default.jpg","type":"Image","width":1000,"height":989,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2000,"height":1978,"sizes":[[{"width":250,"height":247},{"width":500,"height":494},{"width":1000,"height":989}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d02-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail infrared reflectogram mosaic, the bottom of the architecture on the right (1822x908px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d02-PYR.tif\/full\/227,455\/0\/default.jpg","type":"Image","width":227,"height":455,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":454,"height":911,"sizes":[[{"width":113,"height":227},{"width":227,"height":455},{"width":454,"height":911}]]}]}],
+      "height":1822,
+      "width":908,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d02-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d02-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d02-PYR.tif\/full\/454,911\/0\/default.jpg","type":"Image","width":454,"height":911,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1888\/ng1888_irr_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":908,"height":1822,"sizes":[[{"width":113,"height":227},{"width":227,"height":455},{"width":454,"height":911}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1888/ng1888_irr_d02-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/29/N-1888-00-000046-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (3858x3030px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/29\/N-1888-00-000046-PYR.tif\/full\/378,482\/0\/default.jpg","type":"Image","width":378,"height":482,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/29\/N-1888-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":757,"height":964,"sizes":[[{"width":189,"height":241},{"width":378,"height":482},{"width":757,"height":964}]]}]}],
+      "height":3858,
+      "width":3030,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/29/N-1888-00-000046-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/29/N-1888-00-000046-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/29\/N-1888-00-000046-PYR.tif\/full\/1515,1929\/0\/default.jpg","type":"Image","width":1515,"height":1929,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/29\/N-1888-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3030,"height":3858,"sizes":[[{"width":189,"height":241},{"width":378,"height":482},{"width":757,"height":964},{"width":1515,"height":1929}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/29/N-1888-00-000046-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

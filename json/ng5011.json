@@ -1,0 +1,136 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng5011.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG5011: Adolphe Monticelli, Fountain in a Park" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/stonor_morrison2012.json\">stonor_morrison2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG5011\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/Stonor-Morrison2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5011-00-000011-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5011: Adolphe Monticelli, Fountain in a Park, about 1875-80, Oil on wood, probably mahogany, (19.1 x 47 cm), Image Originally dated: 2011-08-25 (2890x7519px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5011-00-000011-PYR.tif\/full\/469,180\/0\/default.jpg","type":"Image","width":469,"height":180,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5011-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":939,"height":361,"sizes":[[{"width":234,"height":90},{"width":469,"height":180},{"width":939,"height":361}]]}]}],
+      "height":2890,
+      "width":7519,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5011-00-000011-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5011-00-000011-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5011-00-000011-PYR.tif\/full\/1879,722\/0\/default.jpg","type":"Image","width":1879,"height":722,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5011-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7519,"height":2890,"sizes":[[{"width":234,"height":90},{"width":469,"height":180},{"width":939,"height":361},{"width":1879,"height":722},{"width":3759,"height":1445}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5011-00-000011-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5011: Adolphe Monticelli, Fountain in a Park, about 1875-80, Oil on wood, probably mahogany, (19.1 x 47 cm), Reverse Image, Image Originally dated: 2011-08-25 (2946x7572px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000014-PYR.tif\/full\/473,184\/0\/default.jpg","type":"Image","width":473,"height":184,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":946,"height":368,"sizes":[[{"width":236,"height":92},{"width":473,"height":184},{"width":946,"height":368}]]}]}],
+      "height":2946,
+      "width":7572,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000014-PYR.tif\/full\/1893,736\/0\/default.jpg","type":"Image","width":1893,"height":736,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7572,"height":2946,"sizes":[[{"width":236,"height":92},{"width":473,"height":184},{"width":946,"height":368},{"width":1893,"height":736},{"width":3786,"height":1473}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Front, Raking light to highlight surface texture (3855x7994px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000016-PYR.tif\/full\/499,240\/0\/default.jpg","type":"Image","width":499,"height":240,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":999,"height":481,"sizes":[[{"width":249,"height":120},{"width":499,"height":240},{"width":999,"height":481}]]}]}],
+      "height":3855,
+      "width":7994,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000016-PYR.tif\/full\/1998,963\/0\/default.jpg","type":"Image","width":1998,"height":963,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/26\/N-5011-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7994,"height":3855,"sizes":[[{"width":249,"height":120},{"width":499,"height":240},{"width":999,"height":481},{"width":1998,"height":963},{"width":3997,"height":1927}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/26/N-5011-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/19/ng5011_m001_horse_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph: Horse\u2019s head showing wet-in-wet brushwork, Image Originally dated: 2012-08-24 (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/19\/ng5011_m001_horse_head-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/19\/ng5011_m001_horse_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/19/ng5011_m001_horse_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/19/ng5011_m001_horse_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/19\/ng5011_m001_horse_head-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/19\/ng5011_m001_horse_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/19/ng5011_m001_horse_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

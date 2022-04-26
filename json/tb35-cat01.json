@@ -1,0 +1,268 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat01.json",
+   "type":"Manifest",
+   "label": { "en": [ "Captain Robert Orme, 1756 (NG 681)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-a.json\">tb35-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23857\/volume35cataloguepart1.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/02/N-0681-00-000019-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, 1756, Oil on canvas, (239 x 147 cm) (7591x4524px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/02\/N-0681-00-000019-PYR.tif\/full\/282,474\/0\/default.jpg","type":"Image","width":282,"height":474,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/02\/N-0681-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":565,"height":948,"sizes":[[{"width":141,"height":237},{"width":282,"height":474},{"width":565,"height":948}]]}]}],
+      "height":7591,
+      "width":4524,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/02/N-0681-00-000019-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/02/N-0681-00-000019-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/02\/N-0681-00-000019-PYR.tif\/full\/1131,1897\/0\/default.jpg","type":"Image","width":1131,"height":1897,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/02\/N-0681-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4524,"height":7591,"sizes":[[{"width":141,"height":237},{"width":282,"height":474},{"width":565,"height":948},{"width":1131,"height":1897},{"width":2262,"height":3795}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/02/N-0681-00-000019-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000029-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, 1756, Oil on canvas, (239 x 147 cm),X-radiograph (Computer assembled mosaic). (29528x18506px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000029-PYR.tif\/full\/289,461\/0\/default.jpg","type":"Image","width":289,"height":461,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000029-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":578,"height":922,"sizes":[[{"width":144,"height":230},{"width":289,"height":461},{"width":578,"height":922}]]}]}],
+      "height":29528,
+      "width":18506,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000029-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000029-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000029-PYR.tif\/full\/1156,1845\/0\/default.jpg","type":"Image","width":1156,"height":1845,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000029-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18506,"height":29528,"sizes":[[{"width":144,"height":230},{"width":289,"height":461},{"width":578,"height":922},{"width":1156,"height":1845},{"width":2313,"height":3691},{"width":4626,"height":7382},{"width":9253,"height":14764}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000029-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000030-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, 1756, Oil on canvas, (239 x 147 cm),X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. (29528x18506px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000030-PYR.tif\/full\/289,461\/0\/default.jpg","type":"Image","width":289,"height":461,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":578,"height":922,"sizes":[[{"width":144,"height":230},{"width":289,"height":461},{"width":578,"height":922}]]}]}],
+      "height":29528,
+      "width":18506,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000030-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000030-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000030-PYR.tif\/full\/1156,1845\/0\/default.jpg","type":"Image","width":1156,"height":1845,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/31\/N-0681-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18506,"height":29528,"sizes":[[{"width":144,"height":230},{"width":289,"height":461},{"width":578,"height":922},{"width":1156,"height":1845},{"width":2313,"height":3691},{"width":4626,"height":7382},{"width":9253,"height":14764}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/31/N-0681-00-000030-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from red glaze on sitter's jacket. (1584x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif\/full\/260,99\/0\/default.jpg","type":"Image","width":260,"height":99,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":198,"sizes":[[{"width":130,"height":49},{"width":260,"height":99},{"width":520,"height":198}]]}]}],
+      "height":1584,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif\/full\/1041,396\/0\/default.jpg","type":"Image","width":1041,"height":396,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1584,"sizes":[[{"width":130,"height":49},{"width":260,"height":99},{"width":520,"height":198},{"width":1041,"height":396},{"width":2082,"height":792}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS1_XS_Vis_DF_50x_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS1_XS_UV_50x_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from red glaze on sitter's jacket, ultraviolet fluorescence image. (1584x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS1_XS_UV_50x_a-PYR.tif\/full\/260,99\/0\/default.jpg","type":"Image","width":260,"height":99,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS1_XS_UV_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":198,"sizes":[[{"width":130,"height":49},{"width":260,"height":99},{"width":520,"height":198}]]}]}],
+      "height":1584,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS1_XS_UV_50x_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS1_XS_UV_50x_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS1_XS_UV_50x_a-PYR.tif\/full\/1041,396\/0\/default.jpg","type":"Image","width":1041,"height":396,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS1_XS_UV_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1584,"sizes":[[{"width":130,"height":49},{"width":260,"height":99},{"width":520,"height":198},{"width":1041,"height":396},{"width":2082,"height":792}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS1_XS_UV_50x_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from blue lining of sitter's jacket, showing two layers of blue paint above the double ground. (2436x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif\/full\/260,152\/0\/default.jpg","type":"Image","width":260,"height":152,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":304,"sizes":[[{"width":130,"height":76},{"width":260,"height":152},{"width":520,"height":304}]]}]}],
+      "height":2436,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif\/full\/1041,609\/0\/default.jpg","type":"Image","width":1041,"height":609,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2436,"sizes":[[{"width":130,"height":76},{"width":260,"height":152},{"width":520,"height":304},{"width":1041,"height":609},{"width":2082,"height":1218}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_Vis_DF_50x_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_UV_50x_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from blue lining of sitter's jacket, showing two layers of blue paint above the double ground, ultraviolet fluorescence image. (2436x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_UV_50x_a-PYR.tif\/full\/260,152\/0\/default.jpg","type":"Image","width":260,"height":152,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_UV_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":304,"sizes":[[{"width":130,"height":76},{"width":260,"height":152},{"width":520,"height":304}]]}]}],
+      "height":2436,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_UV_50x_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_UV_50x_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_UV_50x_a-PYR.tif\/full\/1041,609\/0\/default.jpg","type":"Image","width":1041,"height":609,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS2_XS_UV_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2436,"sizes":[[{"width":130,"height":76},{"width":260,"height":152},{"width":520,"height":304},{"width":1041,"height":609},{"width":2082,"height":1218}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS2_XS_UV_50x_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from the sky. (1692x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif\/full\/260,105\/0\/default.jpg","type":"Image","width":260,"height":105,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":211,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":211}]]}]}],
+      "height":1692,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif\/full\/1041,423\/0\/default.jpg","type":"Image","width":1041,"height":423,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1692,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":211},{"width":1041,"height":423},{"width":2082,"height":846}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG681_IS4_XS_Vis_DF_50x_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from thick foliage paint at the left edge of the picture. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from thick foliage paint at the left edge of the picture, ultraviolet fluorescence image. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

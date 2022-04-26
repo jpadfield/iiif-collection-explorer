@@ -1,0 +1,90 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/cranach2015.json",
+   "type":"Manifest",
+   "label": { "en": [ "Details from Lucas Cranach the Elder, \u2018Cupid complaining to Venus\u2019, 1526\u20137" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Images details from Lucas Cranach the Elder, \u2018Cupid complaining to Venus\u2019, 1526\u20137, as featured in National Gallery Catalogues, forthcoming: 'The German Paintings before 1800'." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/webimages.json\">webimages<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Images details from Lucas Cranach the Elder, \u2018Cupid complaining to Venus\u2019, 1526\u20137, as featured in National Gallery Catalogues, forthcoming: 'The German Paintings before 1800'.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/05/03/N-6344-00-000016-WZ-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Lucas Cranach the Elder, \u2018Cupid complaining to Venus\u2019, 1526\u20137 (NG6344) (6000x4085px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/05\/03\/N-6344-00-000016-WZ-PYR.tif\/full\/255,375\/0\/default.jpg","type":"Image","width":255,"height":375,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/05\/03\/N-6344-00-000016-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":510,"height":750,"sizes":[[{"width":127,"height":187},{"width":255,"height":375},{"width":510,"height":750}]]}]}],
+      "height":6000,
+      "width":4085,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/05/03/N-6344-00-000016-WZ-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/05/03/N-6344-00-000016-WZ-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/05\/03\/N-6344-00-000016-WZ-PYR.tif\/full\/1021,1500\/0\/default.jpg","type":"Image","width":1021,"height":1500,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/05\/03\/N-6344-00-000016-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4085,"height":6000,"sizes":[[{"width":127,"height":187},{"width":255,"height":375},{"width":510,"height":750},{"width":1021,"height":1500},{"width":2042,"height":3000}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/05/03/N-6344-00-000016-WZ-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/13/ng6344_s07_hat_red_underdrawing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Lucas Cranach the Elder, \u2018Cupid complaining to Venus\u2019, 1526\u20137 (NG6344). Photomicrograph of part of the hat, showing traces of red underdrawing below the paint of the hat. (3534x5484px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/13\/ng6344_s07_hat_red_underdrawing-PYR.tif\/full\/342,220\/0\/default.jpg","type":"Image","width":342,"height":220,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/13\/ng6344_s07_hat_red_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":685,"height":441,"sizes":[[{"width":171,"height":110},{"width":342,"height":220},{"width":685,"height":441}]]}]}],
+      "height":3534,
+      "width":5484,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/13/ng6344_s07_hat_red_underdrawing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/13/ng6344_s07_hat_red_underdrawing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/13\/ng6344_s07_hat_red_underdrawing-PYR.tif\/full\/1371,883\/0\/default.jpg","type":"Image","width":1371,"height":883,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/13\/ng6344_s07_hat_red_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5484,"height":3534,"sizes":[[{"width":171,"height":110},{"width":342,"height":220},{"width":685,"height":441},{"width":1371,"height":883},{"width":2742,"height":1767}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/13/ng6344_s07_hat_red_underdrawing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

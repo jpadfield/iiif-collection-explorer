@@ -1,0 +1,532 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat08.json",
+   "type":"Manifest",
+   "label": { "en": [ "Miss Jane Bowles, 1775-6, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-a.json\">tb35-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23857\/volume35cataloguepart1.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/30/M-1400-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, , 91 x 70.9 cm, after cleaning and restoration. The Wallace Collection. (7728x5686px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/30\/M-1400-00-000020-PYR.tif\/full\/355,483\/0\/default.jpg","type":"Image","width":355,"height":483,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/30\/M-1400-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":710,"height":966,"sizes":[[{"width":177,"height":241},{"width":355,"height":483},{"width":710,"height":966}]]}]}],
+      "height":7728,
+      "width":5686,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/30/M-1400-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/30/M-1400-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/30\/M-1400-00-000020-PYR.tif\/full\/1421,1932\/0\/default.jpg","type":"Image","width":1421,"height":1932,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/30\/M-1400-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5686,"height":7728,"sizes":[[{"width":177,"height":241},{"width":355,"height":483},{"width":710,"height":966},{"width":1421,"height":1932},{"width":2843,"height":3864}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/30/M-1400-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/06/M-1400-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, ultraviolet fluorescence image, after cleaning. The Wallace Collection. (7730x5413px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/06\/M-1400-00-000016-PYR.tif\/full\/338,483\/0\/default.jpg","type":"Image","width":338,"height":483,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/06\/M-1400-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":676,"height":966,"sizes":[[{"width":169,"height":241},{"width":338,"height":483},{"width":676,"height":966}]]}]}],
+      "height":7730,
+      "width":5413,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/06/M-1400-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/06/M-1400-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/06\/M-1400-00-000016-PYR.tif\/full\/1353,1932\/0\/default.jpg","type":"Image","width":1353,"height":1932,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/06\/M-1400-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5413,"height":7730,"sizes":[[{"width":169,"height":241},{"width":338,"height":483},{"width":676,"height":966},{"width":1353,"height":1932},{"width":2706,"height":3865}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/06/M-1400-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000009-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, X-radiograph (Computer assembled mosaic). The Wallace Collection. (11117x8850px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000009-PYR.tif\/full\/276,347\/0\/default.jpg","type":"Image","width":276,"height":347,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000009-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":553,"height":694,"sizes":[[{"width":138,"height":173},{"width":276,"height":347},{"width":553,"height":694}]]}]}],
+      "height":11117,
+      "width":8850,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000009-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000009-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000009-PYR.tif\/full\/1106,1389\/0\/default.jpg","type":"Image","width":1106,"height":1389,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000009-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8850,"height":11117,"sizes":[[{"width":138,"height":173},{"width":276,"height":347},{"width":553,"height":694},{"width":1106,"height":1389},{"width":2212,"height":2779},{"width":4425,"height":5558}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000009-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000010-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (11117x8850px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000010-PYR.tif\/full\/276,347\/0\/default.jpg","type":"Image","width":276,"height":347,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":553,"height":694,"sizes":[[{"width":138,"height":173},{"width":276,"height":347},{"width":553,"height":694}]]}]}],
+      "height":11117,
+      "width":8850,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000010-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000010-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000010-PYR.tif\/full\/1106,1389\/0\/default.jpg","type":"Image","width":1106,"height":1389,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/08\/M-1400-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8850,"height":11117,"sizes":[[{"width":138,"height":173},{"width":276,"height":347},{"width":553,"height":694},{"width":1106,"height":1389},{"width":2212,"height":2779},{"width":4425,"height":5558}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/08/M-1400-00-000010-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/m1400_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, infrared reflectogram (OSIRIS). The Wallace Collection. (4016x3204px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/m1400_dirrO_a-PYR.tif\/full\/400,502\/0\/default.jpg","type":"Image","width":400,"height":502,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/m1400_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":801,"height":1004,"sizes":[[{"width":200,"height":251},{"width":400,"height":502},{"width":801,"height":1004}]]}]}],
+      "height":4016,
+      "width":3204,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/m1400_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/m1400_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/m1400_dirrO_a-PYR.tif\/full\/1602,2008\/0\/default.jpg","type":"Image","width":1602,"height":2008,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/m1400_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3204,"height":4016,"sizes":[[{"width":200,"height":251},{"width":400,"height":502},{"width":801,"height":1004},{"width":1602,"height":2008}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/m1400_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m016_drapery-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, photomicrograph of decoration on the sitter's right shoulder. The Wallace Collection. (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m016_drapery-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m016_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m016_drapery-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m016_drapery-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m016_drapery-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m016_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m016_drapery-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m015_drapery-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, photomicrograph of decoration on the sitter's right shoulder. The Wallace Collection. (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m015_drapery-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m015_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m015_drapery-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m015_drapery-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m015_drapery-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m015_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m015_drapery-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from sleeve, showing almost pure white paint over a beige underlayer.  The Wallace Collection. (1224x4128px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif\/full\/258,76\/0\/default.jpg","type":"Image","width":258,"height":76,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":516,"height":153,"sizes":[[{"width":129,"height":38},{"width":258,"height":76},{"width":516,"height":153}]]}]}],
+      "height":1224,
+      "width":4128,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif\/full\/1032,306\/0\/default.jpg","type":"Image","width":1032,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4128,"height":1224,"sizes":[[{"width":129,"height":38},{"width":258,"height":76},{"width":516,"height":153},{"width":1032,"height":306},{"width":2064,"height":612}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_vis_DF_x20_repolished_1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_UV_x20_repolished_1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from sleeve, ultraviolet fluorescence image.  The Wallace Collection. (1224x4128px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_UV_x20_repolished_1-PYR.tif\/full\/258,76\/0\/default.jpg","type":"Image","width":258,"height":76,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_UV_x20_repolished_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":516,"height":153,"sizes":[[{"width":129,"height":38},{"width":258,"height":76},{"width":516,"height":153}]]}]}],
+      "height":1224,
+      "width":4128,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_UV_x20_repolished_1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_UV_x20_repolished_1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_UV_x20_repolished_1-PYR.tif\/full\/1032,306\/0\/default.jpg","type":"Image","width":1032,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/18\/M1400_XS6_UV_x20_repolished_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4128,"height":1224,"sizes":[[{"width":129,"height":38},{"width":258,"height":76},{"width":516,"height":153},{"width":1032,"height":306},{"width":2064,"height":612}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/18/M1400_XS6_UV_x20_repolished_1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m039_foliage-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, photomicrograph of foliage in the background, left side, showing brown translucent 'glaze-like' paint applied over more opaque yellow and green underlayers.  The Wallace Collection. (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m039_foliage-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m039_foliage-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m039_foliage-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m039_foliage-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m039_foliage-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m039_foliage-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m039_foliage-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_vis_DF_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from background, upper left.  The Wallace Collection. (1140x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_vis_DF_x20-PYR.tif\/full\/260,71\/0\/default.jpg","type":"Image","width":260,"height":71,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_vis_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":142,"sizes":[[{"width":130,"height":35},{"width":260,"height":71},{"width":520,"height":142}]]}]}],
+      "height":1140,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_vis_DF_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_vis_DF_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_vis_DF_x20-PYR.tif\/full\/1041,285\/0\/default.jpg","type":"Image","width":1041,"height":285,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_vis_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1140,"sizes":[[{"width":130,"height":35},{"width":260,"height":71},{"width":520,"height":142},{"width":1041,"height":285},{"width":2082,"height":570}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_vis_DF_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_UV_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from background, upper left, ultraviolet fluorescence image.  The Wallace Collection. (1140x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_UV_x20-PYR.tif\/full\/260,71\/0\/default.jpg","type":"Image","width":260,"height":71,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":142,"sizes":[[{"width":130,"height":35},{"width":260,"height":71},{"width":520,"height":142}]]}]}],
+      "height":1140,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_UV_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_UV_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_UV_x20-PYR.tif\/full\/1041,285\/0\/default.jpg","type":"Image","width":1041,"height":285,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/18\/M1400_XS10_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1140,"sizes":[[{"width":130,"height":35},{"width":260,"height":71},{"width":520,"height":142},{"width":1041,"height":285},{"width":2082,"height":570}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/18/M1400_XS10_UV_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_vis_DF_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from dark background, left of sitter's head, level with cheek.  The Wallace Collection. (1908x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_vis_DF_x20-PYR.tif\/full\/260,119\/0\/default.jpg","type":"Image","width":260,"height":119,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_vis_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":238,"sizes":[[{"width":130,"height":59},{"width":260,"height":119},{"width":520,"height":238}]]}]}],
+      "height":1908,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_vis_DF_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_vis_DF_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_vis_DF_x20-PYR.tif\/full\/1041,477\/0\/default.jpg","type":"Image","width":1041,"height":477,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_vis_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1908,"sizes":[[{"width":130,"height":59},{"width":260,"height":119},{"width":520,"height":238},{"width":1041,"height":477},{"width":2082,"height":954}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_vis_DF_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_UV_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from dark background, left of sitter's head, level with cheek, ultraviolet fluorescence image.  The Wallace Collection. (1908x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_UV_x20-PYR.tif\/full\/260,119\/0\/default.jpg","type":"Image","width":260,"height":119,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":238,"sizes":[[{"width":130,"height":59},{"width":260,"height":119},{"width":520,"height":238}]]}]}],
+      "height":1908,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_UV_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_UV_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_UV_x20-PYR.tif\/full\/1041,477\/0\/default.jpg","type":"Image","width":1041,"height":477,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS11_repolished_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1908,"sizes":[[{"width":130,"height":59},{"width":260,"height":119},{"width":520,"height":238},{"width":1041,"height":477},{"width":2082,"height":954}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS11_repolished_UV_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from dark background, left of sitter's head, level with bow in hair.  The Wallace Collection. (1488x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif\/full\/260,93\/0\/default.jpg","type":"Image","width":260,"height":93,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":186,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186}]]}]}],
+      "height":1488,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif\/full\/1041,372\/0\/default.jpg","type":"Image","width":1041,"height":372,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1488,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186},{"width":1041,"height":372},{"width":2082,"height":744}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_vis_DF_x20_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_UV_x20_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from dark background, left of sitter's head, level with bow in hair, ultraviolet fluorescence image.  The Wallace Collection. (1488x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_UV_x20_A-PYR.tif\/full\/260,93\/0\/default.jpg","type":"Image","width":260,"height":93,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_UV_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":186,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186}]]}]}],
+      "height":1488,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_UV_x20_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_UV_x20_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_UV_x20_A-PYR.tif\/full\/1041,372\/0\/default.jpg","type":"Image","width":1041,"height":372,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/M1400_XS12_repolished_UV_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1488,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186},{"width":1041,"height":372},{"width":2082,"height":744}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/M1400_XS12_repolished_UV_x20_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_vis_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from foliage in the background, near to the top edge. The Wallace Collection. (1116x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_vis_x20-PYR.tif\/full\/259,69\/0\/default.jpg","type":"Image","width":259,"height":69,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_vis_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":139,"sizes":[[{"width":129,"height":34},{"width":259,"height":69},{"width":519,"height":139}]]}]}],
+      "height":1116,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_vis_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_vis_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_vis_x20-PYR.tif\/full\/1038,279\/0\/default.jpg","type":"Image","width":1038,"height":279,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_vis_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1116,"sizes":[[{"width":129,"height":34},{"width":259,"height":69},{"width":519,"height":139},{"width":1038,"height":279},{"width":2076,"height":558}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_vis_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_UV_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from foliage in the background, near to the top edge, ultraviolet fluorescence image. The Wallace Collection. (1116x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_UV_x20-PYR.tif\/full\/259,69\/0\/default.jpg","type":"Image","width":259,"height":69,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":139,"sizes":[[{"width":129,"height":34},{"width":259,"height":69},{"width":519,"height":139}]]}]}],
+      "height":1116,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_UV_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_UV_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_UV_x20-PYR.tif\/full\/1038,279\/0\/default.jpg","type":"Image","width":1038,"height":279,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_XS3_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1116,"sizes":[[{"width":129,"height":34},{"width":259,"height":69},{"width":519,"height":139},{"width":1038,"height":279},{"width":2076,"height":558}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_XS3_UV_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m008_drapery-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, photomicrograph of the cream coloured lining of the overskirt, showing the brown glaze over the surface.   The Wallace Collection. (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m008_drapery-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m008_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m008_drapery-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m008_drapery-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m008_drapery-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1400_m008_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1400_m008_drapery-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_S5_UF_vis_x10-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, un-mounted fragment of glaze from lining of overskirt, photographed in transmitted light. The Wallace Collection. (1920x2124px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_S5_UF_vis_x10-PYR.tif\/full\/265,240\/0\/default.jpg","type":"Image","width":265,"height":240,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_S5_UF_vis_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":531,"height":480,"sizes":[[{"width":132,"height":120},{"width":265,"height":240},{"width":531,"height":480}]]}]}],
+      "height":1920,
+      "width":2124,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_S5_UF_vis_x10-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_S5_UF_vis_x10-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_S5_UF_vis_x10-PYR.tif\/full\/1062,960\/0\/default.jpg","type":"Image","width":1062,"height":960,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/19\/M1400_S5_UF_vis_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2124,"height":1920,"sizes":[[{"width":132,"height":120},{"width":265,"height":240},{"width":531,"height":480},{"width":1062,"height":960}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/19/M1400_S5_UF_vis_x10-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_vis_x50-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from lining of overskirt. The Wallace Collection. (1620x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_vis_x50-PYR.tif\/full\/259,101\/0\/default.jpg","type":"Image","width":259,"height":101,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_vis_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":202,"sizes":[[{"width":129,"height":50},{"width":259,"height":101},{"width":519,"height":202}]]}]}],
+      "height":1620,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_vis_x50-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_vis_x50-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_vis_x50-PYR.tif\/full\/1038,405\/0\/default.jpg","type":"Image","width":1038,"height":405,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_vis_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1620,"sizes":[[{"width":129,"height":50},{"width":259,"height":101},{"width":519,"height":202},{"width":1038,"height":405},{"width":2076,"height":810}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_vis_x50-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_UV_x50-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1400: Sir Joshua Reynolds, Miss Jane Bowles, paint cross-section from lining of overskirt, ultraviolet fluorescence image. The thick wax layer above the paint is less fluorescent then the subsequent layers of varnish.  The two glaze layers appear darker and have a weak orange fluorescence. The Wallace Collection. (1620x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_UV_x50-PYR.tif\/full\/259,101\/0\/default.jpg","type":"Image","width":259,"height":101,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_UV_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":202,"sizes":[[{"width":129,"height":50},{"width":259,"height":101},{"width":519,"height":202}]]}]}],
+      "height":1620,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_UV_x50-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_UV_x50-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_UV_x50-PYR.tif\/full\/1038,405\/0\/default.jpg","type":"Image","width":1038,"height":405,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/02\/M1400_XS5_UV_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1620,"sizes":[[{"width":129,"height":50},{"width":259,"height":101},{"width":519,"height":202},{"width":1038,"height":405},{"width":2076,"height":810}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/02/M1400_XS5_UV_x50-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

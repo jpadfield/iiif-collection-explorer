@@ -1,0 +1,92 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng579.2.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG579.2: Niccol\u00f2 di Pietro Gerini, Saint Peter: Left Main Tier Panel" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/new_howard_billinge_tomlinson_peggie_gordon2012.json\">new_howard_billinge_tomlinson_peggie_gordon2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG579.2\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/New-Howard-Billinge-Tomlinson-Peggie-Gordon_2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/14/N-0579-02-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG579.2: Niccol\u00f2 di Pietro Gerini, Saint Peter: Left Main Tier Panel, 1387, Egg tempera on wood, (123.5 x 37 cm), Image Originally dated: 2010-12-06 (8058x3537px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/14\/N-0579-02-000014-PYR.tif\/full\/221,503\/0\/default.jpg","type":"Image","width":221,"height":503,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/14\/N-0579-02-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":442,"height":1007,"sizes":[[{"width":110,"height":251},{"width":221,"height":503},{"width":442,"height":1007}]]}]}],
+      "height":8058,
+      "width":3537,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/14/N-0579-02-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/14/N-0579-02-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/14\/N-0579-02-000014-PYR.tif\/full\/884,2014\/0\/default.jpg","type":"Image","width":884,"height":2014,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/14\/N-0579-02-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3537,"height":8058,"sizes":[[{"width":110,"height":251},{"width":221,"height":503},{"width":442,"height":1007},{"width":884,"height":2014},{"width":1768,"height":4029}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/14/N-0579-02-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-02-000018-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Ultraviolet fluorescence image, Image Originally dated: 2010-12-07 (8058x3044px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-02-000018-PYR.tif\/full\/190,503\/0\/default.jpg","type":"Image","width":190,"height":503,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-02-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":380,"height":1007,"sizes":[[{"width":95,"height":251},{"width":190,"height":503},{"width":380,"height":1007}]]}]}],
+      "height":8058,
+      "width":3044,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-02-000018-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-02-000018-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-02-000018-PYR.tif\/full\/761,2014\/0\/default.jpg","type":"Image","width":761,"height":2014,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-02-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3044,"height":8058,"sizes":[[{"width":95,"height":251},{"width":190,"height":503},{"width":380,"height":1007},{"width":761,"height":2014},{"width":1522,"height":4029}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-02-000018-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

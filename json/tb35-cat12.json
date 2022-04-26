@@ -1,0 +1,488 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat12.json",
+   "type":"Manifest",
+   "label": { "en": [ "Lady Elizabeth Seymour-ConwayandFrances, Countess of Lincoln, 1781-4, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-b.json\">tb35-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23858\/volume35cataloguepart2.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1385-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, , 60.7 x 46.5 cm. The Wallace Collection. (7798x5843px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1385-00-000002-PYR.tif\/full\/365,487\/0\/default.jpg","type":"Image","width":365,"height":487,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1385-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":730,"height":974,"sizes":[[{"width":182,"height":243},{"width":365,"height":487},{"width":730,"height":974}]]}]}],
+      "height":7798,
+      "width":5843,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1385-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1385-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1385-00-000002-PYR.tif\/full\/1460,1949\/0\/default.jpg","type":"Image","width":1460,"height":1949,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1385-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5843,"height":7798,"sizes":[[{"width":182,"height":243},{"width":365,"height":487},{"width":730,"height":974},{"width":1460,"height":1949},{"width":2921,"height":3899}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1385-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1386-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, , 60.7 x 46.5 cm. The Wallace Collection. (7694x5616px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1386-00-000002-PYR.tif\/full\/351,480\/0\/default.jpg","type":"Image","width":351,"height":480,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1386-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":702,"height":961,"sizes":[[{"width":175,"height":240},{"width":351,"height":480},{"width":702,"height":961}]]}]}],
+      "height":7694,
+      "width":5616,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1386-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1386-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1386-00-000002-PYR.tif\/full\/1404,1923\/0\/default.jpg","type":"Image","width":1404,"height":1923,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/18\/M-1386-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5616,"height":7694,"sizes":[[{"width":175,"height":240},{"width":351,"height":480},{"width":702,"height":961},{"width":1404,"height":1923},{"width":2808,"height":3847}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/18/M-1386-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000007-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, X-radiograph (Computer assembled mosaic). The Wallace Collection. (7521x5807px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000007-PYR.tif\/full\/362,470\/0\/default.jpg","type":"Image","width":362,"height":470,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":725,"height":940,"sizes":[[{"width":181,"height":235},{"width":362,"height":470},{"width":725,"height":940}]]}]}],
+      "height":7521,
+      "width":5807,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000007-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000007-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000007-PYR.tif\/full\/1451,1880\/0\/default.jpg","type":"Image","width":1451,"height":1880,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5807,"height":7521,"sizes":[[{"width":181,"height":235},{"width":362,"height":470},{"width":725,"height":940},{"width":1451,"height":1880},{"width":2903,"height":3760}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000007-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000008-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (7521x5807px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000008-PYR.tif\/full\/362,470\/0\/default.jpg","type":"Image","width":362,"height":470,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":725,"height":940,"sizes":[[{"width":181,"height":235},{"width":362,"height":470},{"width":725,"height":940}]]}]}],
+      "height":7521,
+      "width":5807,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000008-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000008-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000008-PYR.tif\/full\/1451,1880\/0\/default.jpg","type":"Image","width":1451,"height":1880,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M-1385-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5807,"height":7521,"sizes":[[{"width":181,"height":235},{"width":362,"height":470},{"width":725,"height":940},{"width":1451,"height":1880},{"width":2903,"height":3760}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M-1385-00-000008-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_Vis_DF_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, paint cross-section from flower on sleeve. The Wallace Collection. (972x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_Vis_DF_20x-PYR.tif\/full\/260,60\/0\/default.jpg","type":"Image","width":260,"height":60,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":121,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121}]]}]}],
+      "height":972,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_Vis_DF_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_Vis_DF_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_Vis_DF_20x-PYR.tif\/full\/1041,243\/0\/default.jpg","type":"Image","width":1041,"height":243,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":972,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121},{"width":1041,"height":243},{"width":2082,"height":486}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_Vis_DF_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, paint cross-section from flower on sleeve, ultraviolet fluorescence image. The Wallace Collection. (972x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_UV_20x-PYR.tif\/full\/260,60\/0\/default.jpg","type":"Image","width":260,"height":60,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":121,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121}]]}]}],
+      "height":972,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_UV_20x-PYR.tif\/full\/1041,243\/0\/default.jpg","type":"Image","width":1041,"height":243,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1385s2_repolished_2_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":972,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121},{"width":1041,"height":243},{"width":2082,"height":486}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1385s2_repolished_2_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m001_flower-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, photomicrograph of flower on sleeve. The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m001_flower-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m001_flower-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m001_flower-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m001_flower-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m001_flower-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m001_flower-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m001_flower-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m002_flower-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, photomicrograph of flower on sleeve. The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m002_flower-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m002_flower-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m002_flower-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m002_flower-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m002_flower-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1385_m002_flower-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1385_m002_flower-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m019_drapery-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, photomicrograph of drapery showing wet-in-wet feathered brushstrokes.   The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m019_drapery-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m019_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m019_drapery-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m019_drapery-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m019_drapery-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m019_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m019_drapery-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000006-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, X-radiograph (Computer assembled mosaic). The Wallace Collection. (7611x5830px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000006-PYR.tif\/full\/364,475\/0\/default.jpg","type":"Image","width":364,"height":475,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000006-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":728,"height":951,"sizes":[[{"width":182,"height":237},{"width":364,"height":475},{"width":728,"height":951}]]}]}],
+      "height":7611,
+      "width":5830,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000006-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000006-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000006-PYR.tif\/full\/1457,1902\/0\/default.jpg","type":"Image","width":1457,"height":1902,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000006-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5830,"height":7611,"sizes":[[{"width":182,"height":237},{"width":364,"height":475},{"width":728,"height":951},{"width":1457,"height":1902},{"width":2915,"height":3805}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000006-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000007-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (7611x5830px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000007-PYR.tif\/full\/364,475\/0\/default.jpg","type":"Image","width":364,"height":475,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":728,"height":951,"sizes":[[{"width":182,"height":237},{"width":364,"height":475},{"width":728,"height":951}]]}]}],
+      "height":7611,
+      "width":5830,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000007-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000007-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000007-PYR.tif\/full\/1457,1902\/0\/default.jpg","type":"Image","width":1457,"height":1902,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/21\/M-1386-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5830,"height":7611,"sizes":[[{"width":182,"height":237},{"width":364,"height":475},{"width":728,"height":951},{"width":1457,"height":1902},{"width":2915,"height":3805}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/21/M-1386-00-000007-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_Vis_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, paint cross-section from dark blue sky at the left edge. The Wallace Collection. (1572x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_Vis_20x_A-PYR.tif\/full\/260,98\/0\/default.jpg","type":"Image","width":260,"height":98,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_Vis_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":196,"sizes":[[{"width":130,"height":49},{"width":260,"height":98},{"width":520,"height":196}]]}]}],
+      "height":1572,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_Vis_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_Vis_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_Vis_20x_A-PYR.tif\/full\/1041,393\/0\/default.jpg","type":"Image","width":1041,"height":393,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_Vis_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1572,"sizes":[[{"width":130,"height":49},{"width":260,"height":98},{"width":520,"height":196},{"width":1041,"height":393},{"width":2082,"height":786}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_Vis_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, paint cross-section from dark blue sky at the left edge, ultraviolet fluorescence image. The Wallace Collection. (1572x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_UV_20x_A-PYR.tif\/full\/260,98\/0\/default.jpg","type":"Image","width":260,"height":98,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":196,"sizes":[[{"width":130,"height":49},{"width":260,"height":98},{"width":520,"height":196}]]}]}],
+      "height":1572,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_UV_20x_A-PYR.tif\/full\/1041,393\/0\/default.jpg","type":"Image","width":1041,"height":393,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1385s1_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1572,"sizes":[[{"width":130,"height":49},{"width":260,"height":98},{"width":520,"height":196},{"width":1041,"height":393},{"width":2082,"height":786}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1385s1_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m048_sky_emerging_paint-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, photomicrograph of the sky showing paint emerging from cracks and the red pigment in the upper glaze layer.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m048_sky_emerging_paint-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m048_sky_emerging_paint-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m048_sky_emerging_paint-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m048_sky_emerging_paint-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m048_sky_emerging_paint-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1386_m048_sky_emerging_paint-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1386_m048_sky_emerging_paint-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_Vis_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, paint cross-section from blue sky near the left edge. The Wallace Collection. (1296x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_Vis_x20-PYR.tif\/full\/260,81\/0\/default.jpg","type":"Image","width":260,"height":81,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_Vis_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":162,"sizes":[[{"width":130,"height":40},{"width":260,"height":81},{"width":520,"height":162}]]}]}],
+      "height":1296,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_Vis_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_Vis_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_Vis_x20-PYR.tif\/full\/1041,324\/0\/default.jpg","type":"Image","width":1041,"height":324,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_Vis_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1296,"sizes":[[{"width":130,"height":40},{"width":260,"height":81},{"width":520,"height":162},{"width":1041,"height":324},{"width":2082,"height":648}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_Vis_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_UV_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, paint cross-section from blue sky near the left edge, ultraviolet fluorescence image. The Wallace Collection. (1296x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_UV_x20-PYR.tif\/full\/260,81\/0\/default.jpg","type":"Image","width":260,"height":81,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":162,"sizes":[[{"width":130,"height":40},{"width":260,"height":81},{"width":520,"height":162}]]}]}],
+      "height":1296,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_UV_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_UV_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_UV_x20-PYR.tif\/full\/1041,324\/0\/default.jpg","type":"Image","width":1041,"height":324,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/15\/M1386s3_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1296,"sizes":[[{"width":130,"height":40},{"width":260,"height":81},{"width":520,"height":162},{"width":1041,"height":324},{"width":2082,"height":648}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/15/M1386s3_UV_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_Vis_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, paint cross-section from blue sash. The Wallace Collection. (1104x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_Vis_20x-PYR.tif\/full\/260,69\/0\/default.jpg","type":"Image","width":260,"height":69,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_Vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":138,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":138}]]}]}],
+      "height":1104,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_Vis_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_Vis_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_Vis_20x-PYR.tif\/full\/1041,276\/0\/default.jpg","type":"Image","width":1041,"height":276,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_Vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1104,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":138},{"width":1041,"height":276},{"width":2082,"height":552}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_Vis_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1385: Sir Joshua Reynolds, Lady Elizabeth Seymour-Conway, paint cross-section from blue sash, ultraviolet fluorescence image. The Wallace Collection. (1104x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_UV_20x-PYR.tif\/full\/260,69\/0\/default.jpg","type":"Image","width":260,"height":69,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":138,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":138}]]}]}],
+      "height":1104,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_UV_20x-PYR.tif\/full\/1041,276\/0\/default.jpg","type":"Image","width":1041,"height":276,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/17\/M1385s4_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1104,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":138},{"width":1041,"height":276},{"width":2082,"height":552}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/17/M1385s4_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_Vis_DF_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, paint cross-section from sleeve. The Wallace Collection. (1212x3336px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_Vis_DF_20x-PYR.tif\/full\/417,151\/0\/default.jpg","type":"Image","width":417,"height":151,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":834,"height":303,"sizes":[[{"width":208,"height":75},{"width":417,"height":151},{"width":834,"height":303}]]}]}],
+      "height":1212,
+      "width":3336,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_Vis_DF_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_Vis_DF_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_Vis_DF_20x-PYR.tif\/full\/1668,606\/0\/default.jpg","type":"Image","width":1668,"height":606,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3336,"height":1212,"sizes":[[{"width":208,"height":75},{"width":417,"height":151},{"width":834,"height":303},{"width":1668,"height":606}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_Vis_DF_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1386: Sir Joshua Reynolds, Frances, Countess of Lincoln, paint cross-section from sleeve, ultraviolet fluorescence image. The Wallace Collection. (1212x3336px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_UV_20x-PYR.tif\/full\/417,151\/0\/default.jpg","type":"Image","width":417,"height":151,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":834,"height":303,"sizes":[[{"width":208,"height":75},{"width":417,"height":151},{"width":834,"height":303}]]}]}],
+      "height":1212,
+      "width":3336,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_UV_20x-PYR.tif\/full\/1668,606\/0\/default.jpg","type":"Image","width":1668,"height":606,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/21\/M1386_s5_XS_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3336,"height":1212,"sizes":[[{"width":208,"height":75},{"width":417,"height":151},{"width":834,"height":303},{"width":1668,"height":606}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/21/M1386_s5_XS_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

@@ -1,0 +1,576 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat16.json",
+   "type":"Manifest",
+   "label": { "en": [ "Mrs Jane Braddyll, 1788, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-b.json\">tb35-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23858\/volume35cataloguepart2.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1382-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, 1788, 75.5 x 63 cm.  The Wallace Collection. (6215x5951px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1382-00-000002-PYR.tif\/full\/371,388\/0\/default.jpg","type":"Image","width":371,"height":388,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1382-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":743,"height":776,"sizes":[[{"width":185,"height":194},{"width":371,"height":388},{"width":743,"height":776}]]}]}],
+      "height":6215,
+      "width":5951,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1382-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1382-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1382-00-000002-PYR.tif\/full\/1487,1553\/0\/default.jpg","type":"Image","width":1487,"height":1553,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1382-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5951,"height":6215,"sizes":[[{"width":185,"height":194},{"width":371,"height":388},{"width":743,"height":776},{"width":1487,"height":1553},{"width":2975,"height":3107}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1382-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, reverse image.  The Wallace Collection. (7491x5619px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif\/full\/351,468\/0\/default.jpg","type":"Image","width":351,"height":468,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":702,"height":936,"sizes":[[{"width":175,"height":234},{"width":351,"height":468},{"width":702,"height":936}]]}]}],
+      "height":7491,
+      "width":5619,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif\/full\/1404,1872\/0\/default.jpg","type":"Image","width":1404,"height":1872,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5619,"height":7491,"sizes":[[{"width":175,"height":234},{"width":351,"height":468},{"width":702,"height":936},{"width":1404,"height":1872},{"width":2809,"height":3745}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m040_loss_lhs_edge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph showing a damage at the left edge of the panel where the sealing layer can be seen.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m040_loss_lhs_edge-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m040_loss_lhs_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m040_loss_lhs_edge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m040_loss_lhs_edge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m040_loss_lhs_edge-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m040_loss_lhs_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m040_loss_lhs_edge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_Vis_DF_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, paint cross-section from black drapery at lower edge. Above the light grey ground is a thin layer containing Prussian blue, followed by two further grey layers, presumably related to the underlying white drapery.  This is covered with a stroke of black paint.  The Wallace Collection. (1764x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_Vis_DF_x20-PYR.tif\/full\/260,110\/0\/default.jpg","type":"Image","width":260,"height":110,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_Vis_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":220,"sizes":[[{"width":130,"height":55},{"width":260,"height":110},{"width":520,"height":220}]]}]}],
+      "height":1764,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_Vis_DF_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_Vis_DF_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_Vis_DF_x20-PYR.tif\/full\/1041,441\/0\/default.jpg","type":"Image","width":1041,"height":441,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_Vis_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1764,"sizes":[[{"width":130,"height":55},{"width":260,"height":110},{"width":520,"height":220},{"width":1041,"height":441},{"width":2082,"height":882}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_Vis_DF_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_UV_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, paint cross-section from black drapery at lower edge, ultraviolet fluorescence image.  The Wallace Collection. (1764x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_UV_x20-PYR.tif\/full\/260,110\/0\/default.jpg","type":"Image","width":260,"height":110,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":220,"sizes":[[{"width":130,"height":55},{"width":260,"height":110},{"width":520,"height":220}]]}]}],
+      "height":1764,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_UV_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_UV_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_UV_x20-PYR.tif\/full\/1041,441\/0\/default.jpg","type":"Image","width":1041,"height":441,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/10\/M1382s3_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1764,"sizes":[[{"width":130,"height":55},{"width":260,"height":110},{"width":520,"height":220},{"width":1041,"height":441},{"width":2082,"height":882}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/10/M1382s3_UV_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_DF_x20_220311-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, paint cross-section from the the left edge. Layer structure includes sealing layers on the panel, ground, three layers of blue\/grey paint containing mixtures of lead white, smalt, Prussian blue and bone black, followed by pink paint in two layers all depicting the sky. The upper layer of mixed brown paint relates to the foliage of the tree.  The Wallace Collection. (2052x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_DF_x20_220311-PYR.tif\/full\/260,128\/0\/default.jpg","type":"Image","width":260,"height":128,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_DF_x20_220311-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":256,"sizes":[[{"width":130,"height":64},{"width":260,"height":128},{"width":520,"height":256}]]}]}],
+      "height":2052,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_DF_x20_220311-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_DF_x20_220311-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_DF_x20_220311-PYR.tif\/full\/1041,513\/0\/default.jpg","type":"Image","width":1041,"height":513,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_DF_x20_220311-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2052,"sizes":[[{"width":130,"height":64},{"width":260,"height":128},{"width":520,"height":256},{"width":1041,"height":513},{"width":2082,"height":1026}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_DF_x20_220311-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_UV_x20_220311-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, paint cross-section from the the left edge, ultraviolet fluorescence image.  The Wallace Collection. (2052x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_UV_x20_220311-PYR.tif\/full\/260,128\/0\/default.jpg","type":"Image","width":260,"height":128,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_UV_x20_220311-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":256,"sizes":[[{"width":130,"height":64},{"width":260,"height":128},{"width":520,"height":256}]]}]}],
+      "height":2052,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_UV_x20_220311-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_UV_x20_220311-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_UV_x20_220311-PYR.tif\/full\/1041,513\/0\/default.jpg","type":"Image","width":1041,"height":513,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s7_XS_UV_x20_220311-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2052,"sizes":[[{"width":130,"height":64},{"width":260,"height":128},{"width":520,"height":256},{"width":1041,"height":513},{"width":2082,"height":1026}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s7_XS_UV_x20_220311-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1382-00-000005-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, X-radiograph (Computer assembled mosaic).  The Wallace Collection. (9281x7818px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1382-00-000005-PYR.tif\/full\/244,290\/0\/default.jpg","type":"Image","width":244,"height":290,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1382-00-000005-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":488,"height":580,"sizes":[[{"width":122,"height":145},{"width":244,"height":290},{"width":488,"height":580}]]}]}],
+      "height":9281,
+      "width":7818,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1382-00-000005-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1382-00-000005-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1382-00-000005-PYR.tif\/full\/977,1160\/0\/default.jpg","type":"Image","width":977,"height":1160,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1382-00-000005-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7818,"height":9281,"sizes":[[{"width":122,"height":145},{"width":244,"height":290},{"width":488,"height":580},{"width":977,"height":1160},{"width":1954,"height":2320},{"width":3909,"height":4640}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1382-00-000005-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/20/m1382_dirrO_a2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, infrared reflectogram (OSIRIS).  The Wallace Collection. (3884x3364px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/20\/m1382_dirrO_a2-PYR.tif\/full\/420,485\/0\/default.jpg","type":"Image","width":420,"height":485,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/20\/m1382_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":841,"height":971,"sizes":[[{"width":210,"height":242},{"width":420,"height":485},{"width":841,"height":971}]]}]}],
+      "height":3884,
+      "width":3364,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/20/m1382_dirrO_a2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/20/m1382_dirrO_a2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/20\/m1382_dirrO_a2-PYR.tif\/full\/1682,1942\/0\/default.jpg","type":"Image","width":1682,"height":1942,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/20\/m1382_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3364,"height":3884,"sizes":[[{"width":210,"height":242},{"width":420,"height":485},{"width":841,"height":971},{"width":1682,"height":1942}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/20/m1382_dirrO_a2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1382_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, infrared reflectogram (OSIRIS). Contrast adjusted to show more detail in darks.  The Wallace Collection. (3884x3364px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1382_dirrO_a-PYR.tif\/full\/420,485\/0\/default.jpg","type":"Image","width":420,"height":485,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1382_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":841,"height":971,"sizes":[[{"width":210,"height":242},{"width":420,"height":485},{"width":841,"height":971}]]}]}],
+      "height":3884,
+      "width":3364,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1382_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1382_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1382_dirrO_a-PYR.tif\/full\/1682,1942\/0\/default.jpg","type":"Image","width":1682,"height":1942,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1382_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3364,"height":3884,"sizes":[[{"width":210,"height":242},{"width":420,"height":485},{"width":841,"height":971},{"width":1682,"height":1942}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1382_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m003_mouth_PR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of the sitter's mouth.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m003_mouth_PR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m003_mouth_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m003_mouth_PR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m003_mouth_PR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m003_mouth_PR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m003_mouth_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m003_mouth_PR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m004_nostril_PR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of the sitter's nose.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m004_nostril_PR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m004_nostril_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m004_nostril_PR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m004_nostril_PR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m004_nostril_PR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m004_nostril_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m004_nostril_PR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m005_earring_PR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of the sitter's earing.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m005_earring_PR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m005_earring_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m005_earring_PR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m005_earring_PR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m005_earring_PR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m005_earring_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m005_earring_PR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m012_drapery_boddice_PR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of area where drapery crosses onto sitter\u2019s arm showing wet in wet application.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m012_drapery_boddice_PR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m012_drapery_boddice_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m012_drapery_boddice_PR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m012_drapery_boddice_PR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m012_drapery_boddice_PR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m012_drapery_boddice_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m012_drapery_boddice_PR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m009_ruffle_elbow_PR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of edge of ruffle at the sitter's elbow.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m009_ruffle_elbow_PR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m009_ruffle_elbow_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m009_ruffle_elbow_PR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m009_ruffle_elbow_PR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m009_ruffle_elbow_PR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m009_ruffle_elbow_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m009_ruffle_elbow_PR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m016_drapery_ribbon_PR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of ribbon on sitter's bodice.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m016_drapery_ribbon_PR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m016_drapery_ribbon_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m016_drapery_ribbon_PR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m016_drapery_ribbon_PR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m016_drapery_ribbon_PR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m016_drapery_ribbon_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m016_drapery_ribbon_PR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m007_pearls_PR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of the pearl bracelet.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m007_pearls_PR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m007_pearls_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m007_pearls_PR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m007_pearls_PR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m007_pearls_PR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m007_pearls_PR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m007_pearls_PR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m032_foliage_rhs_crack-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of foliage in the background showing cracking and liquid appearance of paint beneath the varnish.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m032_foliage_rhs_crack-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m032_foliage_rhs_crack-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m032_foliage_rhs_crack-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m032_foliage_rhs_crack-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m032_foliage_rhs_crack-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m032_foliage_rhs_crack-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m032_foliage_rhs_crack-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m029_foliage_rhs_paint_globules-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of foliage in the background showing paint emerging from the cracks onto the surface.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m029_foliage_rhs_paint_globules-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m029_foliage_rhs_paint_globules-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m029_foliage_rhs_paint_globules-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m029_foliage_rhs_paint_globules-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m029_foliage_rhs_paint_globules-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m029_foliage_rhs_paint_globules-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m029_foliage_rhs_paint_globules-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m030_foliage_rhs_paint_globules-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of foliage in the background showing rough edged cracks and paint emerging onto the surface.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m030_foliage_rhs_paint_globules-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m030_foliage_rhs_paint_globules-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m030_foliage_rhs_paint_globules-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m030_foliage_rhs_paint_globules-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m030_foliage_rhs_paint_globules-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1382_m030_foliage_rhs_paint_globules-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1382_m030_foliage_rhs_paint_globules-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m036_foliage_top_lhs_holes-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of foliage in the background showing a wide crack with multiple edges formed as the paint has continued to contract.   The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m036_foliage_top_lhs_holes-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m036_foliage_top_lhs_holes-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m036_foliage_top_lhs_holes-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m036_foliage_top_lhs_holes-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m036_foliage_top_lhs_holes-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m036_foliage_top_lhs_holes-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m036_foliage_top_lhs_holes-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m039_foliage_top_lhs_holes-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, photomicrograph of foliage in the background showing cracking and a hole or bubble in the paint layer with the pale ground layer visible around the edge.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m039_foliage_top_lhs_holes-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m039_foliage_top_lhs_holes-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m039_foliage_top_lhs_holes-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m039_foliage_top_lhs_holes-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m039_foliage_top_lhs_holes-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/m1382_m039_foliage_top_lhs_holes-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/m1382_m039_foliage_top_lhs_holes-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_Vis_x20_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, paint cross-section from background foliage at the top edge.  The Wallace Collection. (1704x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_Vis_x20_A-PYR.tif\/full\/260,106\/0\/default.jpg","type":"Image","width":260,"height":106,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_Vis_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":213,"sizes":[[{"width":130,"height":53},{"width":260,"height":106},{"width":520,"height":213}]]}]}],
+      "height":1704,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_Vis_x20_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_Vis_x20_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_Vis_x20_A-PYR.tif\/full\/1041,426\/0\/default.jpg","type":"Image","width":1041,"height":426,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_Vis_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1704,"sizes":[[{"width":130,"height":53},{"width":260,"height":106},{"width":520,"height":213},{"width":1041,"height":426},{"width":2082,"height":852}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_Vis_x20_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_UV_x20_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, paint cross-section from background foliage at the top edge, ultraviolet fluorescence image.  The Wallace Collection. (1704x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_UV_x20_A-PYR.tif\/full\/260,106\/0\/default.jpg","type":"Image","width":260,"height":106,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_UV_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":213,"sizes":[[{"width":130,"height":53},{"width":260,"height":106},{"width":520,"height":213}]]}]}],
+      "height":1704,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_UV_x20_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_UV_x20_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_UV_x20_A-PYR.tif\/full\/1041,426\/0\/default.jpg","type":"Image","width":1041,"height":426,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/M1382s2_UV_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1704,"sizes":[[{"width":130,"height":53},{"width":260,"height":106},{"width":520,"height":213},{"width":1041,"height":426},{"width":2082,"height":852}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/M1382s2_UV_x20_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

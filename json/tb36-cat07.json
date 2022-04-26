@@ -1,0 +1,994 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb36-cat07.json",
+   "type":"Manifest",
+   "label": { "en": [ "The Virgin suckling the Infant Christ, about 1565-75 (NG 270)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-36.json\">vol-36<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb36-cats-b.json\">tb36-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\">Technical Bulletin Vol. 36<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\/catalogue\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/24100\/vol36-cats5-8.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, about 1565-75, Oil on canvas, (76.2 x 63.5 cm) (9074x7501px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif\/full\/234,283\/0\/default.jpg","type":"Image","width":234,"height":283,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":468,"height":567,"sizes":[[{"width":117,"height":141},{"width":234,"height":283},{"width":468,"height":567}]]}]}],
+      "height":9074,
+      "width":7501,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif\/full\/937,1134\/0\/default.jpg","type":"Image","width":937,"height":1134,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7501,"height":9074,"sizes":[[{"width":117,"height":141},{"width":234,"height":283},{"width":468,"height":567},{"width":937,"height":1134},{"width":1875,"height":2268},{"width":3750,"height":4537}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/10/ng3948_dirrO_a1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, Infrared reflectogram (OSIRIS) (4096x3584px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/10\/ng3948_dirrO_a1-PYR.tif\/full\/448,512\/0\/default.jpg","type":"Image","width":448,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/10\/ng3948_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":896,"height":1024,"sizes":[[{"width":224,"height":256},{"width":448,"height":512},{"width":896,"height":1024}]]}]}],
+      "height":4096,
+      "width":3584,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/10/ng3948_dirrO_a1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/10/ng3948_dirrO_a1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/10\/ng3948_dirrO_a1-PYR.tif\/full\/1792,2048\/0\/default.jpg","type":"Image","width":1792,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/10\/ng3948_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3584,"height":4096,"sizes":[[{"width":224,"height":256},{"width":448,"height":512},{"width":896,"height":1024},{"width":1792,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/10/ng3948_dirrO_a1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-3948-00-000031-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (9265x7819px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-3948-00-000031-PYR.tif\/full\/244,289\/0\/default.jpg","type":"Image","width":244,"height":289,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-3948-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":488,"height":579,"sizes":[[{"width":122,"height":144},{"width":244,"height":289},{"width":488,"height":579}]]}]}],
+      "height":9265,
+      "width":7819,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-3948-00-000031-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-3948-00-000031-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-3948-00-000031-PYR.tif\/full\/977,1158\/0\/default.jpg","type":"Image","width":977,"height":1158,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/18\/N-3948-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7819,"height":9265,"sizes":[[{"width":122,"height":144},{"width":244,"height":289},{"width":488,"height":579},{"width":977,"height":1158},{"width":1954,"height":2316},{"width":3909,"height":4632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/18/N-3948-00-000031-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-3948-00-000030-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, X-radiograph (Computer assembled mosaic) (9265x7819px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-3948-00-000030-PYR.tif\/full\/244,289\/0\/default.jpg","type":"Image","width":244,"height":289,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-3948-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":488,"height":579,"sizes":[[{"width":122,"height":144},{"width":244,"height":289},{"width":488,"height":579}]]}]}],
+      "height":9265,
+      "width":7819,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-3948-00-000030-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-3948-00-000030-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-3948-00-000030-PYR.tif\/full\/977,1158\/0\/default.jpg","type":"Image","width":977,"height":1158,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/19\/N-3948-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7819,"height":9265,"sizes":[[{"width":122,"height":144},{"width":244,"height":289},{"width":488,"height":579},{"width":977,"height":1158},{"width":1954,"height":2316},{"width":3909,"height":4632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/19/N-3948-00-000030-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m001_background_left_of_virgin-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the background left of the Virgin. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m001_background_left_of_virgin-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m001_background_left_of_virgin-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m001_background_left_of_virgin-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m001_background_left_of_virgin-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m001_background_left_of_virgin-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m001_background_left_of_virgin-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m001_background_left_of_virgin-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m004_curtain_top_edge_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the curtain at the top edge of the painting (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m004_curtain_top_edge_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m004_curtain_top_edge_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m004_curtain_top_edge_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m004_curtain_top_edge_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m004_curtain_top_edge_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m004_curtain_top_edge_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m004_curtain_top_edge_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m005_curtain_pale_green_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of a pale green part of the curtain (X16) (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m005_curtain_pale_green_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m005_curtain_pale_green_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m005_curtain_pale_green_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m005_curtain_pale_green_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m005_curtain_pale_green_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m005_curtain_pale_green_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m005_curtain_pale_green_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m006_curtain_pale_green_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of a pale green part of the curtain (X40) (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m006_curtain_pale_green_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m006_curtain_pale_green_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m006_curtain_pale_green_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m006_curtain_pale_green_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m006_curtain_pale_green_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m006_curtain_pale_green_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m006_curtain_pale_green_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m007_curtain_yellow_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of a yellow part of the curtain (X40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m007_curtain_yellow_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m007_curtain_yellow_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m007_curtain_yellow_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m007_curtain_yellow_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m007_curtain_yellow_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m007_curtain_yellow_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m007_curtain_yellow_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m008_curtain_green_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of a green part of the curtain (X40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m008_curtain_green_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m008_curtain_green_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m008_curtain_green_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m008_curtain_green_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m008_curtain_green_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m008_curtain_green_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m008_curtain_green_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m009_virgin_head_dress-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's head dress. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m009_virgin_head_dress-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m009_virgin_head_dress-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m009_virgin_head_dress-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m009_virgin_head_dress-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m009_virgin_head_dress-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m009_virgin_head_dress-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m009_virgin_head_dress-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m010_virgin_left_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's left eye. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m010_virgin_left_eye-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m010_virgin_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m010_virgin_left_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m010_virgin_left_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m010_virgin_left_eye-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m010_virgin_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m010_virgin_left_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m011_virgin_breast-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's breast. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m011_virgin_breast-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m011_virgin_breast-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m011_virgin_breast-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m011_virgin_breast-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m011_virgin_breast-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m011_virgin_breast-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m011_virgin_breast-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m012_child_hair-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Child's hair. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m012_child_hair-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m012_child_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m012_child_hair-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m012_child_hair-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m012_child_hair-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m012_child_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m012_child_hair-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m013_child_ear-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Child's ear. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m013_child_ear-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m013_child_ear-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m013_child_ear-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m013_child_ear-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m013_child_ear-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m013_child_ear-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m013_child_ear-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m014_child_cheek-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Child's cheek. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m014_child_cheek-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m014_child_cheek-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m014_child_cheek-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m014_child_cheek-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m014_child_cheek-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m014_child_cheek-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m014_child_cheek-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m015_child_thumb-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Child's thumb. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m015_child_thumb-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m015_child_thumb-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m015_child_thumb-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m015_child_thumb-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m015_child_thumb-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m015_child_thumb-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m015_child_thumb-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m016_virgin_little_finger-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's little finger. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m016_virgin_little_finger-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m016_virgin_little_finger-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m016_virgin_little_finger-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m016_virgin_little_finger-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m016_virgin_little_finger-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m016_virgin_little_finger-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m016_virgin_little_finger-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m017_child_leg_red_line-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Child's leg showing a red line. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m017_child_leg_red_line-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m017_child_leg_red_line-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m017_child_leg_red_line-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m017_child_leg_red_line-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m017_child_leg_red_line-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m017_child_leg_red_line-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m017_child_leg_red_line-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m018_white_by_child_hand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of a white brushstroke near the Child's hand. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m018_white_by_child_hand-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m018_white_by_child_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m018_white_by_child_hand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m018_white_by_child_hand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m018_white_by_child_hand-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m018_white_by_child_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m018_white_by_child_hand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m019_white_cloth-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the white cloth between the Virgin's fingers. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m019_white_cloth-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m019_white_cloth-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m019_white_cloth-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m019_white_cloth-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m019_white_cloth-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m019_white_cloth-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m019_white_cloth-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m020_white_cloth_between_legs-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the white cloth between the Child's legs. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m020_white_cloth_between_legs-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m020_white_cloth_between_legs-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m020_white_cloth_between_legs-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m020_white_cloth_between_legs-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m020_white_cloth_between_legs-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m020_white_cloth_between_legs-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m020_white_cloth_between_legs-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m021_virgin_waist_red_line-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of a red line at the Virgn's waist. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m021_virgin_waist_red_line-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m021_virgin_waist_red_line-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m021_virgin_waist_red_line-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m021_virgin_waist_red_line-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m021_virgin_waist_red_line-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m021_virgin_waist_red_line-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m021_virgin_waist_red_line-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m022_virgin_cloak-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's head covering over her shoulder. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m022_virgin_cloak-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m022_virgin_cloak-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m022_virgin_cloak-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m022_virgin_cloak-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m022_virgin_cloak-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m022_virgin_cloak-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m022_virgin_cloak-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m023_virgin_cloak_shadow-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of shadows in the Virgin's head covering over her shoulder. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m023_virgin_cloak_shadow-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m023_virgin_cloak_shadow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m023_virgin_cloak_shadow-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m023_virgin_cloak_shadow-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m023_virgin_cloak_shadow-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m023_virgin_cloak_shadow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m023_virgin_cloak_shadow-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m024_virgin_cloak_fringe_top-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the top of the fringe to the Virgin's head covering over her shoulder. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m024_virgin_cloak_fringe_top-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m024_virgin_cloak_fringe_top-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m024_virgin_cloak_fringe_top-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m024_virgin_cloak_fringe_top-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m024_virgin_cloak_fringe_top-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m024_virgin_cloak_fringe_top-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m024_virgin_cloak_fringe_top-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m025_virgin_cloak_fringe-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the fringe to the Virgin's head covering over her shoulder. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m025_virgin_cloak_fringe-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m025_virgin_cloak_fringe-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m025_virgin_cloak_fringe-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m025_virgin_cloak_fringe-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m025_virgin_cloak_fringe-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m025_virgin_cloak_fringe-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m025_virgin_cloak_fringe-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the upper part of the Virgin's sleeve showing wrinkled paint and exposed underlayers (x06). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m026_virgin_upper_sleeve_x06-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the upper part of the Virgin's sleeve showing wrinkled paint and exposed underlayers (x16). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m027_virgin_upper_sleeve_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the upper part of the Virgin's sleeve showing wrinkled paint and exposed underlayers (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m028_virgin_upper_sleeve_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m029_virgin_sleeve_purple-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of purple paint on the Virgin's sleeve. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m029_virgin_sleeve_purple-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m029_virgin_sleeve_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m029_virgin_sleeve_purple-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m029_virgin_sleeve_purple-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m029_virgin_sleeve_purple-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m029_virgin_sleeve_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m029_virgin_sleeve_purple-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of purple paint on the Virgin's sleeve at the elbow. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m030_virgin_sleeve_elbow_purple-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's sleeve at the elbow (x16). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m031_virgin_sleeve_elbow_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's sleeve at the elbow (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m032_virgin_sleeve_elbow_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of wrinkled paint in the Virgin's sleeve. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m033_virgin_sleeve_wrinkling-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of wrinkled paint in the Virgin's sleeve. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m034_virgin_sleeve_wrinkling-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's cuff, showing underpaint (x16). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m035_virgin_sleeve_cuff_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's cuff, showing underpaint (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m036_virgin_sleeve_cuff_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m037_virgin_skirt_wrinkling-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of wrinkled paint in the virgin's skirt. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m037_virgin_skirt_wrinkling-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m037_virgin_skirt_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m037_virgin_skirt_wrinkling-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m037_virgin_skirt_wrinkling-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m037_virgin_skirt_wrinkling-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m037_virgin_skirt_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m037_virgin_skirt_wrinkling-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m038_virgin_skirt_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the virgin's skirt (x16). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m038_virgin_skirt_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m038_virgin_skirt_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m038_virgin_skirt_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m038_virgin_skirt_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m038_virgin_skirt_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m038_virgin_skirt_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m038_virgin_skirt_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m039_virgin_skirt_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, photomicrograph of the Virgin's skirt (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m039_virgin_skirt_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m039_virgin_skirt_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m039_virgin_skirt_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m039_virgin_skirt_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m039_virgin_skirt_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/17\/ng3948_m039_virgin_skirt_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/17/ng3948_m039_virgin_skirt_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, paint cross-section from an area of shadow in the Virgin\u2019s purple dress, below the Child\u2019s right foot. (1536x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif\/full\/259,96\/0\/default.jpg","type":"Image","width":259,"height":96,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":192,"sizes":[[{"width":129,"height":48},{"width":259,"height":96},{"width":519,"height":192}]]}]}],
+      "height":1536,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif\/full\/1038,384\/0\/default.jpg","type":"Image","width":1038,"height":384,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1536,"sizes":[[{"width":129,"height":48},{"width":259,"height":96},{"width":519,"height":192},{"width":1038,"height":384},{"width":2076,"height":768}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_Vis_DF_50x_b-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_UV_50x_b-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, paint cross-section from an area of shadow in the Virgin\u2019s purple dress, below the Child\u2019s right foot, ultraviolet fluorescence image. (1536x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_UV_50x_b-PYR.tif\/full\/259,96\/0\/default.jpg","type":"Image","width":259,"height":96,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_UV_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":192,"sizes":[[{"width":129,"height":48},{"width":259,"height":96},{"width":519,"height":192}]]}]}],
+      "height":1536,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_UV_50x_b-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_UV_50x_b-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_UV_50x_b-PYR.tif\/full\/1038,384\/0\/default.jpg","type":"Image","width":1038,"height":384,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/29\/NG3948_IS1_XS_UV_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1536,"sizes":[[{"width":129,"height":48},{"width":259,"height":96},{"width":519,"height":192},{"width":1038,"height":384},{"width":2076,"height":768}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/29/NG3948_IS1_XS_UV_50x_b-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

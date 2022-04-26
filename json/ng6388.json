@@ -1,0 +1,158 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng6388.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG6388: Edouard Vuillard, La Terrasse at Vasouy, The Garden" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/robbins_stonor2012.json\">robbins_stonor2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG6388\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/Robbins-Stonor_2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/09/N-6388-00-000015-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6388: Edouard Vuillard, La Terrasse at Vasouy, The Garden, 1901, reworked 1935, Distemper on canvas, (220.2 x 191 cm), Image Originally dated: 2011-08-09 (7221x5744px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/09\/N-6388-00-000015-PYR.tif\/full\/359,451\/0\/default.jpg","type":"Image","width":359,"height":451,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/09\/N-6388-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":718,"height":902,"sizes":[[{"width":179,"height":225},{"width":359,"height":451},{"width":718,"height":902}]]}]}],
+      "height":7221,
+      "width":5744,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/09/N-6388-00-000015-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/09/N-6388-00-000015-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/09\/N-6388-00-000015-PYR.tif\/full\/1436,1805\/0\/default.jpg","type":"Image","width":1436,"height":1805,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/09\/N-6388-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5744,"height":7221,"sizes":[[{"width":179,"height":225},{"width":359,"height":451},{"width":718,"height":902},{"width":1436,"height":1805},{"width":2872,"height":3610}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/09/N-6388-00-000015-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000019-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (Computer assembled mosaic), Image Originally dated: 2011-08-10 (26551x22399px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000019-PYR.tif\/full\/349,414\/0\/default.jpg","type":"Image","width":349,"height":414,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":699,"height":829,"sizes":[[{"width":174,"height":207},{"width":349,"height":414},{"width":699,"height":829}]]}]}],
+      "height":26551,
+      "width":22399,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000019-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000019-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000019-PYR.tif\/full\/1399,1659\/0\/default.jpg","type":"Image","width":1399,"height":1659,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":22399,"height":26551,"sizes":[[{"width":174,"height":207},{"width":349,"height":414},{"width":699,"height":829},{"width":1399,"height":1659},{"width":2799,"height":3318},{"width":5599,"height":6637},{"width":11199,"height":13275}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000019-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation, Image Originally dated: 2011-08-10 (26551x22399px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000020-PYR.tif\/full\/349,414\/0\/default.jpg","type":"Image","width":349,"height":414,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":699,"height":829,"sizes":[[{"width":174,"height":207},{"width":349,"height":414},{"width":699,"height":829}]]}]}],
+      "height":26551,
+      "width":22399,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000020-PYR.tif\/full\/1399,1659\/0\/default.jpg","type":"Image","width":1399,"height":1659,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/24\/N-6388-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":22399,"height":26551,"sizes":[[{"width":174,"height":207},{"width":349,"height":414},{"width":699,"height":829},{"width":1399,"height":1659},{"width":2799,"height":3318},{"width":5599,"height":6637},{"width":11199,"height":13275}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/24/N-6388-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/11/6388_S4_XS_VIS_x50-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Cross-section from the distant soldier in blue, showing the cobalt blue containing paint going over the earlier purplish black costume, Image Originally dated: 2011-08-11 (2268x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/11\/6388_S4_XS_VIS_x50-PYR.tif\/full\/259,141\/0\/default.jpg","type":"Image","width":259,"height":141,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/11\/6388_S4_XS_VIS_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":283,"sizes":[[{"width":129,"height":70},{"width":259,"height":141},{"width":519,"height":283}]]}]}],
+      "height":2268,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/11/6388_S4_XS_VIS_x50-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/11/6388_S4_XS_VIS_x50-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/11\/6388_S4_XS_VIS_x50-PYR.tif\/full\/1038,567\/0\/default.jpg","type":"Image","width":1038,"height":567,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/11\/6388_S4_XS_VIS_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":2268,"sizes":[[{"width":129,"height":70},{"width":259,"height":141},{"width":519,"height":283},{"width":1038,"height":567},{"width":2076,"height":1134}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/11/6388_S4_XS_VIS_x50-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/28/6388orgS2_XS_VIS_x20_dg-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Cross-section from Lucy Hessel\u2019s white dress showing the green foliage paint of the 1901 composition and the complex build up of layers used to depict the dress. The 1935 campaign contains titanium white, not available in 1901. Both campaigns include air bubbles, Image Originally dated: 2011-07-28 (2292x2976px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/28\/6388orgS2_XS_VIS_x20_dg-PYR.tif\/full\/372,286\/0\/default.jpg","type":"Image","width":372,"height":286,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/28\/6388orgS2_XS_VIS_x20_dg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":744,"height":573,"sizes":[[{"width":186,"height":143},{"width":372,"height":286},{"width":744,"height":573}]]}]}],
+      "height":2292,
+      "width":2976,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/28/6388orgS2_XS_VIS_x20_dg-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/28/6388orgS2_XS_VIS_x20_dg-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/28\/6388orgS2_XS_VIS_x20_dg-PYR.tif\/full\/1488,1146\/0\/default.jpg","type":"Image","width":1488,"height":1146,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/28\/6388orgS2_XS_VIS_x20_dg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2976,"height":2292,"sizes":[[{"width":186,"height":143},{"width":372,"height":286},{"width":744,"height":573},{"width":1488,"height":1146}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/28/6388orgS2_XS_VIS_x20_dg-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

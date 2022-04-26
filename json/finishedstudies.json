@@ -1,0 +1,91 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/finishedstudies.json",
+   "type":"Manifest",
+   "label": { "en": [ "Barocci Drawings: Finished compositional studies" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Barocci was a very innovative draftsman due to his unusual techniques and his original approach to the final phase of the preparatory process. After experimenting with innumerable preparatory studies, once he had a good idea of how he wanted a painting to look, he would make a finished compositional study in oil or gouache to explore \u2018chiaroscuro\u2019 effects. This new type of drawing was termed by Bellori \u2018cartoncino per i lumi\u2019 or \u2018per il chiaroscuro\u2019 (small cartoon for the study of light and shade) and was the most elaborate drawing in the entire process. After having completed this compositional drawing he would place a full-scale cartoon in charcoal, chalk, or pastels on paper over the primed canvas and trace the contours with a stylus so that the drawing never deviated from the original design." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/exhibitions.json\">exhibitions<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/baroccidrawings2013.json\">baroccidrawings2013<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/typesofdrawing.json\">typesofdrawing<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/federico-barocci-the-madonna-of-the-cat-la-madonna-del-gatto\">View the painting<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/learn-about-art\/paintings-in-depth\/barocci-a-lesson-in-drawing\">Barocci: a lesson in drawing<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Barocci was a very innovative draftsman due to his unusual techniques and his original approach to the final phase of the preparatory process. After experimenting with innumerable preparatory studies, once he had a good idea of how he wanted a painting to look, he would make a finished compositional study in oil or gouache to explore \u2018chiaroscuro\u2019 effects. This new type of drawing was termed by Bellori \u2018cartoncino per i lumi\u2019 or \u2018per il chiaroscuro\u2019 (small cartoon for the study of light and shade) and was the most elaborate drawing in the entire process. After having completed this compositional drawing he would place a full-scale cartoon in charcoal, chalk, or pastels on paper over the primed canvas and trace the contours with a stylus so that the drawing never deviated from the original design.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0043-01-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R43.1: Federico Barocci, Compositional study for Cornelis Cort's Print of 'The Madonna of the Cat' ('La Madonna del Gatto'), before 1577, black and red chalk, with touches of white bodycolour, indented with squared lines on white paper, (30 x 23.8 cm), (inv. 1994-5-14-55 recto, The British Museum, London) Barocci made this copy drawn after \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019 to send to the Dutch printmaker Cornelis Cort in Rome as a scale model for an engraving. Barocci used three colours of chalk to convey the depth and warmth of the painting, which remained in the Marches. The incised outlines and squaring reveal Cort\u2019s methods for transferring the design to the copper plate from which his engraving (1577), was printed in reverse. Even if this is not a proper cartoncino (small cartoon) and it was made after the completion of the painting, it shows the high level of finish which Barocci was seeking in his completed compositional studies. \u00a9 The British Museum, London (3368x2679px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0043-01-000002-PYR.tif\/full\/334,421\/0\/default.jpg","type":"Image","width":334,"height":421,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0043-01-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":669,"height":842,"sizes":[[{"width":167,"height":210},{"width":334,"height":421},{"width":669,"height":842}]]}]}],
+      "height":3368,
+      "width":2679,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0043-01-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0043-01-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0043-01-000002-PYR.tif\/full\/1339,1684\/0\/default.jpg","type":"Image","width":1339,"height":1684,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0043-01-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2679,"height":3368,"sizes":[[{"width":167,"height":210},{"width":334,"height":421},{"width":669,"height":842},{"width":1339,"height":1684}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0043-01-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG29: Federico Barocci, The Madonna of the Cat ('La Madonna del Gatto'), probably about 1575, Oil on canvas, (112.7 x 92.7 cm) The young John the Baptist holds a goldfinch, a bird frequently kept as a pet but also a traditional symbol of Christ's Passion; the Baptist is teasing the cat shown in the left foreground by holding the bird above his head. The Virgin is suckling the Child and Saint Joseph looks on from the right.\nNG 29 may be the picture painted, according to Bellori (1672), for Count Antonio Brancaleoni, who lived near Perugia. The design was engraved in reverse in 1577 by Cornelius Cort and the painting probably dates from about 1575. Numerous drawings made in preparation for NG 29 are known; a highly finished drawing made by Barocci in preparation for the engraving and formerly in the National Gallery is now in the British Museum.\nThe window and the bench in the background seem to be based on windows in the Palazzo Ducale, Urbino. There are several copies and workshop versions of the picture.\nCesarei collection, Perugia, by 1784; acquired in Italy by Buchanan, about 1805; collection of Revd Holwell Carr, 1807; by whom bequeathed, 1831.\nGould 1975, pp. 11-12\nEmiliani 1985, I, pp. 93-103 Bequeathed by Revd Holwell Carr, 1831 (6000x4929px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif\/full\/308,375\/0\/default.jpg","type":"Image","width":308,"height":375,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":616,"height":750,"sizes":[[{"width":154,"height":187},{"width":308,"height":375},{"width":616,"height":750}]]}]}],
+      "height":6000,
+      "width":4929,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif\/full\/1232,1500\/0\/default.jpg","type":"Image","width":1232,"height":1500,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4929,"height":6000,"sizes":[[{"width":154,"height":187},{"width":308,"height":375},{"width":616,"height":750},{"width":1232,"height":1500},{"width":2464,"height":3000}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

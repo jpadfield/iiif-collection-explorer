@@ -1,0 +1,268 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng3268.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG3268: Pierre-Auguste Renoir, The Umbrellas" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/roy_billinge_riopelle2012.json\">roy_billinge_riopelle2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG3268\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/Roy-Billinge-Riopelle_2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000111-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3268: Pierre-Auguste Renoir, The Umbrellas, about 1881-6, Oil on canvas, (180.3 x 114.9 cm), Image Originally dated: 2012-05-25 (7862x4860px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000111-PYR.tif\/full\/303,491\/0\/default.jpg","type":"Image","width":303,"height":491,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000111-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":607,"height":982,"sizes":[[{"width":151,"height":245},{"width":303,"height":491},{"width":607,"height":982}]]}]}],
+      "height":7862,
+      "width":4860,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000111-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000111-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000111-PYR.tif\/full\/1215,1965\/0\/default.jpg","type":"Image","width":1215,"height":1965,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000111-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4860,"height":7862,"sizes":[[{"width":151,"height":245},{"width":303,"height":491},{"width":607,"height":982},{"width":1215,"height":1965},{"width":2430,"height":3931}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000111-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram (OSIRIS) (4052x2700px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_a-PYR.tif\/full\/337,506\/0\/default.jpg","type":"Image","width":337,"height":506,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":675,"height":1013,"sizes":[[{"width":168,"height":253},{"width":337,"height":506},{"width":675,"height":1013}]]}]}],
+      "height":4052,
+      "width":2700,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_a-PYR.tif\/full\/1350,2026\/0\/default.jpg","type":"Image","width":1350,"height":2026,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2700,"height":4052,"sizes":[[{"width":168,"height":253},{"width":337,"height":506},{"width":675,"height":1013},{"width":1350,"height":2026}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000045-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (Computer assembled mosaic), Image Originally dated: 2008-08-11 (21536x13968px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000045-PYR.tif\/full\/218,336\/0\/default.jpg","type":"Image","width":218,"height":336,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":436,"height":673,"sizes":[[{"width":109,"height":168},{"width":218,"height":336},{"width":436,"height":673}]]}]}],
+      "height":21536,
+      "width":13968,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000045-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000045-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000045-PYR.tif\/full\/873,1346\/0\/default.jpg","type":"Image","width":873,"height":1346,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":13968,"height":21536,"sizes":[[{"width":109,"height":168},{"width":218,"height":336},{"width":436,"height":673},{"width":873,"height":1346},{"width":1746,"height":2692},{"width":3492,"height":5384},{"width":6984,"height":10768}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000045-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000046-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation, Image Originally dated: 2008-08-20 (21536x13968px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000046-PYR.tif\/full\/218,336\/0\/default.jpg","type":"Image","width":218,"height":336,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":436,"height":673,"sizes":[[{"width":109,"height":168},{"width":218,"height":336},{"width":436,"height":673}]]}]}],
+      "height":21536,
+      "width":13968,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000046-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000046-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000046-PYR.tif\/full\/873,1346\/0\/default.jpg","type":"Image","width":873,"height":1346,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/08\/22\/N-3268-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":13968,"height":21536,"sizes":[[{"width":109,"height":168},{"width":218,"height":336},{"width":436,"height":673},{"width":873,"height":1346},{"width":1746,"height":2692},{"width":3492,"height":5384},{"width":6984,"height":10768}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/08/22/N-3268-00-000046-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000095-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Head of small girl, right (7987x5248px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000095-PYR.tif\/full\/328,499\/0\/default.jpg","type":"Image","width":328,"height":499,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000095-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":656,"height":998,"sizes":[[{"width":164,"height":249},{"width":328,"height":499},{"width":656,"height":998}]]}]}],
+      "height":7987,
+      "width":5248,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000095-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000095-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000095-PYR.tif\/full\/1312,1996\/0\/default.jpg","type":"Image","width":1312,"height":1996,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000095-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5248,"height":7987,"sizes":[[{"width":164,"height":249},{"width":328,"height":499},{"width":656,"height":998},{"width":1312,"height":1996},{"width":2624,"height":3993}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000095-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000097-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Full length of woman centre right (8026x5791px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000097-PYR.tif\/full\/361,501\/0\/default.jpg","type":"Image","width":361,"height":501,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000097-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":723,"height":1003,"sizes":[[{"width":180,"height":250},{"width":361,"height":501},{"width":723,"height":1003}]]}]}],
+      "height":8026,
+      "width":5791,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000097-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000097-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000097-PYR.tif\/full\/1447,2006\/0\/default.jpg","type":"Image","width":1447,"height":2006,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000097-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5791,"height":8026,"sizes":[[{"width":180,"height":250},{"width":361,"height":501},{"width":723,"height":1003},{"width":1447,"height":2006},{"width":2895,"height":4013}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000097-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000099-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Head of woman, centre right (7992x5956px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000099-PYR.tif\/full\/372,499\/0\/default.jpg","type":"Image","width":372,"height":499,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000099-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":744,"height":999,"sizes":[[{"width":186,"height":249},{"width":372,"height":499},{"width":744,"height":999}]]}]}],
+      "height":7992,
+      "width":5956,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000099-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000099-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000099-PYR.tif\/full\/1489,1998\/0\/default.jpg","type":"Image","width":1489,"height":1998,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/30\/N-3268-00-000099-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5956,"height":7992,"sizes":[[{"width":186,"height":249},{"width":372,"height":499},{"width":744,"height":999},{"width":1489,"height":1998},{"width":2978,"height":3996}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/30/N-3268-00-000099-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/25/N-3268-00-000109-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Head of woman and man behind her, far left (7859x5809px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/25\/N-3268-00-000109-PYR.tif\/full\/363,491\/0\/default.jpg","type":"Image","width":363,"height":491,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/25\/N-3268-00-000109-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":726,"height":982,"sizes":[[{"width":181,"height":245},{"width":363,"height":491},{"width":726,"height":982}]]}]}],
+      "height":7859,
+      "width":5809,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/25/N-3268-00-000109-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/25/N-3268-00-000109-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/25\/N-3268-00-000109-PYR.tif\/full\/1452,1964\/0\/default.jpg","type":"Image","width":1452,"height":1964,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/25\/N-3268-00-000109-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5809,"height":7859,"sizes":[[{"width":181,"height":245},{"width":363,"height":491},{"width":726,"height":982},{"width":1452,"height":1964},{"width":2904,"height":3929}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/25/N-3268-00-000109-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail Infrared reflectogram (OSIRIS): Head of woman and man behind her, far left (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d01-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d01-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d02-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail Infrared reflectogram (OSIRIS): Umbrellas, top middle (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d02-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d02-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d02-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d02-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/24\/ng3268_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/24/ng3268_dirrO_d02-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

@@ -1,0 +1,158 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng3899.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG3899: Master of the Pala Sforzesca, Saint Paul" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-32.json\">vol-32<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/spring_mazzotta_roy_billinge_peggie2011.json\">spring_mazzotta_roy_billinge_peggie2011<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-32\">Technical Bulletin Vol. 32<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG3899\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/spring_mazzotta_roy_billinge_peggie2011.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3899-00-000012-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Master of the Pala Sforzesca, 'Saint Paul', about 1490\u20135, oil on wood panel (8698x6756px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3899-00-000012-PYR.tif\/full\/211,271\/0\/default.jpg","type":"Image","width":211,"height":271,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3899-00-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":422,"height":543,"sizes":[[{"width":105,"height":135},{"width":211,"height":271},{"width":422,"height":543}]]}]}],
+      "height":8698,
+      "width":6756,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3899-00-000012-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3899-00-000012-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3899-00-000012-PYR.tif\/full\/844,1087\/0\/default.jpg","type":"Image","width":844,"height":1087,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3899-00-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6756,"height":8698,"sizes":[[{"width":105,"height":135},{"width":211,"height":271},{"width":422,"height":543},{"width":844,"height":1087},{"width":1689,"height":2174},{"width":3378,"height":4349}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3899-00-000012-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/03/N-3899-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (3022x1885px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/03\/N-3899-00-000014-PYR.tif\/full\/235,377\/0\/default.jpg","type":"Image","width":235,"height":377,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/03\/N-3899-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":471,"height":755,"sizes":[[{"width":117,"height":188},{"width":235,"height":377},{"width":471,"height":755}]]}]}],
+      "height":3022,
+      "width":1885,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/03/N-3899-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/03/N-3899-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/03\/N-3899-00-000014-PYR.tif\/full\/942,1511\/0\/default.jpg","type":"Image","width":942,"height":1511,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/03\/N-3899-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1885,"height":3022,"sizes":[[{"width":117,"height":188},{"width":235,"height":377},{"width":471,"height":755},{"width":942,"height":1511}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/03/N-3899-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng3899_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram (OSIRIS) (3592x2280px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng3899_dirrO_a-PYR.tif\/full\/142,224\/0\/default.jpg","type":"Image","width":142,"height":224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng3899_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":285,"height":449,"sizes":[[{"width":71,"height":112},{"width":142,"height":224},{"width":285,"height":449}]]}]}],
+      "height":3592,
+      "width":2280,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng3899_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng3899_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng3899_dirrO_a-PYR.tif\/full\/570,898\/0\/default.jpg","type":"Image","width":570,"height":898,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng3899_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2280,"height":3592,"sizes":[[{"width":71,"height":112},{"width":142,"height":224},{"width":285,"height":449},{"width":570,"height":898},{"width":1140,"height":1796}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng3899_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m001_right_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the Saint\u2019s right eye (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m001_right_eye-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m001_right_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m001_right_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m001_right_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m001_right_eye-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m001_right_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m001_right_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m010_marble_top_left-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the marble disc in the top left corner, showing wet-in-wet application of different colours (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m010_marble_top_left-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m010_marble_top_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m010_marble_top_left-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m010_marble_top_left-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m010_marble_top_left-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/06\/27\/ng3899_m010_marble_top_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/06/27/ng3899_m010_marble_top_left-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

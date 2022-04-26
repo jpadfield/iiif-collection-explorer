@@ -1,0 +1,356 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat06.json",
+   "type":"Manifest",
+   "label": { "en": [ "The Strawberry Girl, after 1773, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-a.json\">tb35-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23857\/volume35cataloguepart1.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/05/M-1402-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, , 76.1 x 63.1 cm. The Wallace Collection. (7798x5724px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/05\/M-1402-00-000002-PYR.tif\/full\/357,487\/0\/default.jpg","type":"Image","width":357,"height":487,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/05\/M-1402-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":715,"height":974,"sizes":[[{"width":178,"height":243},{"width":357,"height":487},{"width":715,"height":974}]]}]}],
+      "height":7798,
+      "width":5724,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/05/M-1402-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/05/M-1402-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/05\/M-1402-00-000002-PYR.tif\/full\/1431,1949\/0\/default.jpg","type":"Image","width":1431,"height":1949,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/05\/M-1402-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5724,"height":7798,"sizes":[[{"width":178,"height":243},{"width":357,"height":487},{"width":715,"height":974},{"width":1431,"height":1949},{"width":2862,"height":3899}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/05/M-1402-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/20/M-1402-00-000009-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, X-radiograph (Computer assembled mosaic). The Wallace Collection. (9399x7867px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/20\/M-1402-00-000009-PYR.tif\/full\/245,293\/0\/default.jpg","type":"Image","width":245,"height":293,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/20\/M-1402-00-000009-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":491,"height":587,"sizes":[[{"width":122,"height":146},{"width":245,"height":293},{"width":491,"height":587}]]}]}],
+      "height":9399,
+      "width":7867,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/20/M-1402-00-000009-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/20/M-1402-00-000009-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/20\/M-1402-00-000009-PYR.tif\/full\/983,1174\/0\/default.jpg","type":"Image","width":983,"height":1174,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/20\/M-1402-00-000009-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7867,"height":9399,"sizes":[[{"width":122,"height":146},{"width":245,"height":293},{"width":491,"height":587},{"width":983,"height":1174},{"width":1966,"height":2349},{"width":3933,"height":4699}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/20/M-1402-00-000009-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/21/M-1402-00-000010-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (9399x7867px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/21\/M-1402-00-000010-PYR.tif\/full\/245,293\/0\/default.jpg","type":"Image","width":245,"height":293,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/21\/M-1402-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":491,"height":587,"sizes":[[{"width":122,"height":146},{"width":245,"height":293},{"width":491,"height":587}]]}]}],
+      "height":9399,
+      "width":7867,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/21/M-1402-00-000010-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/21/M-1402-00-000010-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/21\/M-1402-00-000010-PYR.tif\/full\/983,1174\/0\/default.jpg","type":"Image","width":983,"height":1174,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/21\/M-1402-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7867,"height":9399,"sizes":[[{"width":122,"height":146},{"width":245,"height":293},{"width":491,"height":587},{"width":983,"height":1174},{"width":1966,"height":2349},{"width":3933,"height":4699}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/21/M-1402-00-000010-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/m1402_dirrO_a2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, infrared reflectogram (OSIRIS). The Wallace Collection. (3848x3288px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/m1402_dirrO_a2-PYR.tif\/full\/411,481\/0\/default.jpg","type":"Image","width":411,"height":481,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/m1402_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":822,"height":962,"sizes":[[{"width":205,"height":240},{"width":411,"height":481},{"width":822,"height":962}]]}]}],
+      "height":3848,
+      "width":3288,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/m1402_dirrO_a2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/m1402_dirrO_a2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/m1402_dirrO_a2-PYR.tif\/full\/1644,1924\/0\/default.jpg","type":"Image","width":1644,"height":1924,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/m1402_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3288,"height":3848,"sizes":[[{"width":205,"height":240},{"width":411,"height":481},{"width":822,"height":962},{"width":1644,"height":1924}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/m1402_dirrO_a2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1402_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, infrared reflectogram (OSIRIS). Contrast adjusted to show more detail in darks. The Wallace Collection. (3854x3293px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1402_dirrO_a-PYR.tif\/full\/411,481\/0\/default.jpg","type":"Image","width":411,"height":481,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1402_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":823,"height":963,"sizes":[[{"width":205,"height":240},{"width":411,"height":481},{"width":823,"height":963}]]}]}],
+      "height":3854,
+      "width":3293,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1402_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1402_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1402_dirrO_a-PYR.tif\/full\/1646,1927\/0\/default.jpg","type":"Image","width":1646,"height":1927,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1402_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3293,"height":3854,"sizes":[[{"width":205,"height":240},{"width":411,"height":481},{"width":823,"height":963},{"width":1646,"height":1927}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1402_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m013_drapery-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, photomicrograph of apron showing squashed texture of paint. The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m013_drapery-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m013_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m013_drapery-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m013_drapery-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m013_drapery-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m013_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m013_drapery-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m031_drapery-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, photomicrograph of bow showing the remains of an upper paint layer. The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m031_drapery-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m031_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m031_drapery-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m031_drapery-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m031_drapery-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/m1402_m031_drapery-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/m1402_m031_drapery-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_vis_DF_x20_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, paint cross-section from skirt near lower edge. The Wallace Collection. (1044x2952px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_vis_DF_x20_repolished-PYR.tif\/full\/369,130\/0\/default.jpg","type":"Image","width":369,"height":130,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_vis_DF_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":738,"height":261,"sizes":[[{"width":184,"height":65},{"width":369,"height":130},{"width":738,"height":261}]]}]}],
+      "height":1044,
+      "width":2952,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_vis_DF_x20_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_vis_DF_x20_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_vis_DF_x20_repolished-PYR.tif\/full\/1476,522\/0\/default.jpg","type":"Image","width":1476,"height":522,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_vis_DF_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2952,"height":1044,"sizes":[[{"width":184,"height":65},{"width":369,"height":130},{"width":738,"height":261},{"width":1476,"height":522}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_vis_DF_x20_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_UV_x20_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, paint cross-section from skirt near lower edge, ultraviolet fluorescence image. The Wallace Collection. (1044x2952px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_UV_x20_repolished-PYR.tif\/full\/369,130\/0\/default.jpg","type":"Image","width":369,"height":130,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_UV_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":738,"height":261,"sizes":[[{"width":184,"height":65},{"width":369,"height":130},{"width":738,"height":261}]]}]}],
+      "height":1044,
+      "width":2952,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_UV_x20_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_UV_x20_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_UV_x20_repolished-PYR.tif\/full\/1476,522\/0\/default.jpg","type":"Image","width":1476,"height":522,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/05\/09\/M1402_XS2_UV_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2952,"height":1044,"sizes":[[{"width":184,"height":65},{"width":369,"height":130},{"width":738,"height":261},{"width":1476,"height":522}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/05/09/M1402_XS2_UV_x20_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/21/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct%20scale-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, unmounted fragment of glaze from skirt, photographed in transmitted light using extended focus. The Wallace Collection. (1040x1388px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/21\/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct scale-PYR.tif\/full\/347,260\/0\/default.jpg","type":"Image","width":347,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/21\/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct scale-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":694,"height":520,"sizes":[[{"width":173,"height":130},{"width":347,"height":260},{"width":694,"height":520}]]}]}],
+      "height":1040,
+      "width":1388,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/21/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct%20scale-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/21/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct%20scale-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/21\/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct scale-PYR.tif\/full\/694,520\/0\/default.jpg","type":"Image","width":694,"height":520,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/21\/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct scale-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1388,"height":1040,"sizes":[[{"width":173,"height":130},{"width":347,"height":260},{"width":694,"height":520}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/21/M1402_S2_UF_varnish_only_vis_trans_x50_extended_focus_correct%20scale-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_vis_DF_x20_2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, paint cross-section from background at left edge. The Wallace Collection. (1260x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_vis_DF_x20_2-PYR.tif\/full\/260,78\/0\/default.jpg","type":"Image","width":260,"height":78,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_vis_DF_x20_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":157,"sizes":[[{"width":130,"height":39},{"width":260,"height":78},{"width":520,"height":157}]]}]}],
+      "height":1260,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_vis_DF_x20_2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_vis_DF_x20_2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_vis_DF_x20_2-PYR.tif\/full\/1041,315\/0\/default.jpg","type":"Image","width":1041,"height":315,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_vis_DF_x20_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1260,"sizes":[[{"width":130,"height":39},{"width":260,"height":78},{"width":520,"height":157},{"width":1041,"height":315},{"width":2082,"height":630}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_vis_DF_x20_2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_UV_x20_2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, paint cross-section from background at left edge, ultraviolet fluorescence image. The Wallace Collection. (1260x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_UV_x20_2-PYR.tif\/full\/260,78\/0\/default.jpg","type":"Image","width":260,"height":78,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_UV_x20_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":157,"sizes":[[{"width":130,"height":39},{"width":260,"height":78},{"width":520,"height":157}]]}]}],
+      "height":1260,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_UV_x20_2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_UV_x20_2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_UV_x20_2-PYR.tif\/full\/1041,315\/0\/default.jpg","type":"Image","width":1041,"height":315,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS3_UV_x20_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1260,"sizes":[[{"width":130,"height":39},{"width":260,"height":78},{"width":520,"height":157},{"width":1041,"height":315},{"width":2082,"height":630}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS3_UV_x20_2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_vis_DF_x20_2A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, paint cross-section from grey blue sky, upper right. The Wallace Collection. (1716x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_vis_DF_x20_2A-PYR.tif\/full\/260,107\/0\/default.jpg","type":"Image","width":260,"height":107,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_vis_DF_x20_2A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":214,"sizes":[[{"width":130,"height":53},{"width":260,"height":107},{"width":520,"height":214}]]}]}],
+      "height":1716,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_vis_DF_x20_2A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_vis_DF_x20_2A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_vis_DF_x20_2A-PYR.tif\/full\/1041,429\/0\/default.jpg","type":"Image","width":1041,"height":429,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_vis_DF_x20_2A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1716,"sizes":[[{"width":130,"height":53},{"width":260,"height":107},{"width":520,"height":214},{"width":1041,"height":429},{"width":2082,"height":858}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_vis_DF_x20_2A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_UV_x20_2A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1402: Sir Joshua Reynolds, The Strawberry Girl, paint cross-section from grey blue sky, upper right, ultraviolet fluorescence image. The Wallace Collection. (1716x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_UV_x20_2A-PYR.tif\/full\/260,107\/0\/default.jpg","type":"Image","width":260,"height":107,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_UV_x20_2A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":214,"sizes":[[{"width":130,"height":53},{"width":260,"height":107},{"width":520,"height":214}]]}]}],
+      "height":1716,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_UV_x20_2A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_UV_x20_2A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_UV_x20_2A-PYR.tif\/full\/1041,429\/0\/default.jpg","type":"Image","width":1041,"height":429,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/15\/M1402_XS4_UV_x20_2A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1716,"sizes":[[{"width":130,"height":53},{"width":260,"height":107},{"width":520,"height":214},{"width":1041,"height":429},{"width":2082,"height":858}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/15/M1402_XS4_UV_x20_2A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

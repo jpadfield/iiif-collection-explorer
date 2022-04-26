@@ -1,0 +1,1235 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng2211.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG2211: Jan Gossaert (Jean Gossart), A Young Princess (Dorothea of Denmark?)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/catalogues.json\">catalogues<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/sixteenth_century_netherlandish.json\">sixteenth_century_netherlandish<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG2211\">Find out more about the painting<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/08/N-2211-00-000031-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "'A Young Princess (Dorothea of Denmark?)\u2019, oil on oak panel, 38.2 x 29.1 cm (6576x4713px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/08\/N-2211-00-000031-PYR.tif\/full\/294,411\/0\/default.jpg","type":"Image","width":294,"height":411,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/08\/N-2211-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":589,"height":822,"sizes":[[{"width":147,"height":205},{"width":294,"height":411},{"width":589,"height":822}]]}]}],
+      "height":6576,
+      "width":4713,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/08/N-2211-00-000031-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/08/N-2211-00-000031-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/08\/N-2211-00-000031-PYR.tif\/full\/1178,1644\/0\/default.jpg","type":"Image","width":1178,"height":1644,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/08\/N-2211-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4713,"height":6576,"sizes":[[{"width":147,"height":205},{"width":294,"height":411},{"width":589,"height":822},{"width":1178,"height":1644},{"width":2356,"height":3288}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/08/N-2211-00-000031-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m001_right_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the right eye. (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m001_right_eye-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m001_right_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m001_right_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m001_right_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m001_right_eye-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m001_right_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m001_right_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m002_right_iris-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the iris of the right eye.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m002_right_iris-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m002_right_iris-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m002_right_iris-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m002_right_iris-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m002_right_iris-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m002_right_iris-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m002_right_iris-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m003_left_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the left eye.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m003_left_eye-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m003_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m003_left_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m003_left_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m003_left_eye-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m003_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m003_left_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m004_left_iris-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the iris of the left eye.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m004_left_iris-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m004_left_iris-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m004_left_iris-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m004_left_iris-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m004_left_iris-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m004_left_iris-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m004_left_iris-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m005_lips1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the mouth with repaint modifying the lips.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m005_lips1-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m005_lips1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m005_lips1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m005_lips1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m005_lips1-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m005_lips1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m005_lips1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m006_lips2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the upper lip with repaint covering damage.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m006_lips2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m006_lips2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m006_lips2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m006_lips2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m006_lips2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m006_lips2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m006_lips2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m007_cheek_edge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the cheek overlapping green background paint.  (Before cleaning) (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m007_cheek_edge-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m007_cheek_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m007_cheek_edge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m007_cheek_edge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m007_cheek_edge-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m007_cheek_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m007_cheek_edge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m008_cheek_edge_underdrawing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing underdrawing visible through the paint where the cheek and hair meet.  (Before cleaning) (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m008_cheek_edge_underdrawing-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m008_cheek_edge_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m008_cheek_edge_underdrawing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m008_cheek_edge_underdrawing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m008_cheek_edge_underdrawing-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m008_cheek_edge_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m008_cheek_edge_underdrawing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m009_hair-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing hair.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m009_hair-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m009_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m009_hair-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m009_hair-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m009_hair-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m009_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m009_hair-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m010_bonnet_front_edge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the patterned coif beneath the hood.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m010_bonnet_front_edge-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m010_bonnet_front_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m010_bonnet_front_edge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m010_bonnet_front_edge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m010_bonnet_front_edge-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m010_bonnet_front_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m010_bonnet_front_edge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m011_bonnet_pearl-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing showing large pearls on the hood.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m011_bonnet_pearl-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m011_bonnet_pearl-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m011_bonnet_pearl-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m011_bonnet_pearl-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m011_bonnet_pearl-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m011_bonnet_pearl-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m011_bonnet_pearl-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m012_bonnet_purple-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing purple paint of the hood, containing some large red lake particles.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m012_bonnet_purple-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m012_bonnet_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m012_bonnet_purple-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m012_bonnet_purple-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m012_bonnet_purple-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m012_bonnet_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m012_bonnet_purple-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m013_ribbon_bottom_edge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the bottom edge where purple of the dress has been protected by a frame from fading.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m013_ribbon_bottom_edge-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m013_ribbon_bottom_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m013_ribbon_bottom_edge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m013_ribbon_bottom_edge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m013_ribbon_bottom_edge-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m013_ribbon_bottom_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m013_ribbon_bottom_edge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m014_purple_bottom_edge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the bottom edge where purple of the dress has been protected by a frame from fading.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m014_purple_bottom_edge-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m014_purple_bottom_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m014_purple_bottom_edge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m014_purple_bottom_edge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m014_purple_bottom_edge-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m014_purple_bottom_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m014_purple_bottom_edge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m015_purple_ribbon1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing a purple ribbon in the sleeve now faded to blue.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m015_purple_ribbon1-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m015_purple_ribbon1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m015_purple_ribbon1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m015_purple_ribbon1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m015_purple_ribbon1-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m015_purple_ribbon1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m015_purple_ribbon1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m016_purple_ribbon2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing a purple ribbon in the sleeve now faded to blue.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m016_purple_ribbon2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m016_purple_ribbon2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m016_purple_ribbon2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m016_purple_ribbon2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m016_purple_ribbon2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m016_purple_ribbon2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m016_purple_ribbon2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m017_right_sleeve_purple-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing a ribbon on the right sleeve still slightly purple.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m017_right_sleeve_purple-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m017_right_sleeve_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m017_right_sleeve_purple-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m017_right_sleeve_purple-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m017_right_sleeve_purple-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m017_right_sleeve_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m017_right_sleeve_purple-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m018_right_sleeve_gold_thread-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing gold thread on the sleeves.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m018_right_sleeve_gold_thread-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m018_right_sleeve_gold_thread-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m018_right_sleeve_gold_thread-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m018_right_sleeve_gold_thread-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m018_right_sleeve_gold_thread-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m018_right_sleeve_gold_thread-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m018_right_sleeve_gold_thread-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m019_right_sleeve_pearls-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing a group of pearls on the right sleeve.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m019_right_sleeve_pearls-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m019_right_sleeve_pearls-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m019_right_sleeve_pearls-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m019_right_sleeve_pearls-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m019_right_sleeve_pearls-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m019_right_sleeve_pearls-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m019_right_sleeve_pearls-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m020_left_sleeve_underdrawing1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing underdrawing visible through the paint of the left sleeve.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m020_left_sleeve_underdrawing1-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m020_left_sleeve_underdrawing1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m020_left_sleeve_underdrawing1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m020_left_sleeve_underdrawing1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m020_left_sleeve_underdrawing1-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m020_left_sleeve_underdrawing1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m020_left_sleeve_underdrawing1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m021_left_sleeve_underdrawing2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing underdrawing visible through the paint of the left sleeve.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m021_left_sleeve_underdrawing2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m021_left_sleeve_underdrawing2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m021_left_sleeve_underdrawing2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m021_left_sleeve_underdrawing2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m021_left_sleeve_underdrawing2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m021_left_sleeve_underdrawing2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m021_left_sleeve_underdrawing2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m022_finger_tips_left_hand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing tips of fingers of the left hand.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m022_finger_tips_left_hand-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m022_finger_tips_left_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m022_finger_tips_left_hand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m022_finger_tips_left_hand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m022_finger_tips_left_hand-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m022_finger_tips_left_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m022_finger_tips_left_hand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m023_finger_tips_right_hand-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing tip of thumb and middle finger of the right hand.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m023_finger_tips_right_hand-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m023_finger_tips_right_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m023_finger_tips_right_hand-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m023_finger_tips_right_hand-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m023_finger_tips_right_hand-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m023_finger_tips_right_hand-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m023_finger_tips_right_hand-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing underdrawing visible through the paint of the right hand.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m024_fingers_right_hand_underdrawing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m025_green_combing1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing texture in the underpaint of the green background.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m025_green_combing1-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m025_green_combing1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m025_green_combing1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m025_green_combing1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m025_green_combing1-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m025_green_combing1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m025_green_combing1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m026_green_combing2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing texture in the underpaint of the green background.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m026_green_combing2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m026_green_combing2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m026_green_combing2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m026_green_combing2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m026_green_combing2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m026_green_combing2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m026_green_combing2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m027_necklace_central_jewel-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing central stone in the gold necklace, with old restoration.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m027_necklace_central_jewel-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m027_necklace_central_jewel-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m027_necklace_central_jewel-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m027_necklace_central_jewel-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m027_necklace_central_jewel-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m027_necklace_central_jewel-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m027_necklace_central_jewel-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m028_necklace_bow-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing red bows in the gold necklace, with repaint.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m028_necklace_bow-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m028_necklace_bow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m028_necklace_bow-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m028_necklace_bow-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m028_necklace_bow-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m028_necklace_bow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m028_necklace_bow-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m029_jewel_top_half-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the chain and pin holding the large jewel.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m029_jewel_top_half-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m029_jewel_top_half-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m029_jewel_top_half-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m029_jewel_top_half-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m029_jewel_top_half-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m029_jewel_top_half-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m029_jewel_top_half-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m030_jewel_bottom_half-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the lower part of the large jewel.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m030_jewel_bottom_half-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m030_jewel_bottom_half-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m030_jewel_bottom_half-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m030_jewel_bottom_half-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m030_jewel_bottom_half-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m030_jewel_bottom_half-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m030_jewel_bottom_half-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m031_jewel_jesu-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription around the left edge of the large jewel.  (Before cleaning) (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m031_jewel_jesu-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m031_jewel_jesu-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m031_jewel_jesu-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m031_jewel_jesu-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m031_jewel_jesu-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m031_jewel_jesu-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m031_jewel_jesu-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m032_jewel_pearl-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the pearl hanging from the bottom of the large jewel.  (Before cleaning) (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m032_jewel_pearl-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m032_jewel_pearl-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m032_jewel_pearl-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m032_jewel_pearl-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m032_jewel_pearl-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m032_jewel_pearl-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m032_jewel_pearl-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m033_belt_pearl1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing a pearl on the belt, seen though the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m033_belt_pearl1-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m033_belt_pearl1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m033_belt_pearl1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m033_belt_pearl1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m033_belt_pearl1-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m033_belt_pearl1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m033_belt_pearl1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m034_belt_pearl2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing a pearl on the belt, seen though the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m034_belt_pearl2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m034_belt_pearl2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m034_belt_pearl2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m034_belt_pearl2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m034_belt_pearl2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m034_belt_pearl2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m034_belt_pearl2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m035_belt_pearl3-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing a pearl on the belt, just above the left sleeve.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m035_belt_pearl3-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m035_belt_pearl3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m035_belt_pearl3-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m035_belt_pearl3-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m035_belt_pearl3-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m035_belt_pearl3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m035_belt_pearl3-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m036_chain-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the chain for the large jewel, painted over the red bodice.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m036_chain-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m036_chain-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m036_chain-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m036_chain-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m036_chain-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m036_chain-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m036_chain-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m037_chain_underdrawing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing underdrawing for the chain, visible through the paint of the red bodice.  (Before cleaning) (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m037_chain_underdrawing-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m037_chain_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m037_chain_underdrawing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m037_chain_underdrawing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m037_chain_underdrawing-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m037_chain_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m037_chain_underdrawing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m038_sphere_tip-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the handle of the armillary sphere, painted over the red bodice.  (Before cleaning) (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m038_sphere_tip-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m038_sphere_tip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m038_sphere_tip-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m038_sphere_tip-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m038_sphere_tip-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m038_sphere_tip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m038_sphere_tip-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m039_sphere_central_ball-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the central ball on the axis of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m039_sphere_central_ball-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m039_sphere_central_ball-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m039_sphere_central_ball-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m039_sphere_central_ball-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m039_sphere_central_ball-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/09\/ng2211_m039_sphere_central_ball-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/09/ng2211_m039_sphere_central_ball-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m040_sphere_bands-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing rings of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m040_sphere_bands-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m040_sphere_bands-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m040_sphere_bands-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m040_sphere_bands-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m040_sphere_bands-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m040_sphere_bands-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m040_sphere_bands-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m041_sphere_inscription_1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m041_sphere_inscription_1-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m041_sphere_inscription_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m041_sphere_inscription_1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m041_sphere_inscription_1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m041_sphere_inscription_1-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m041_sphere_inscription_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m041_sphere_inscription_1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m042_sphere_inscription_2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m042_sphere_inscription_2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m042_sphere_inscription_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m042_sphere_inscription_2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m042_sphere_inscription_2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m042_sphere_inscription_2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m042_sphere_inscription_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m042_sphere_inscription_2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m043_sphere_inscription_3-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m043_sphere_inscription_3-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m043_sphere_inscription_3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m043_sphere_inscription_3-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m043_sphere_inscription_3-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m043_sphere_inscription_3-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m043_sphere_inscription_3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m043_sphere_inscription_3-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m044_sphere_inscription_4-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m044_sphere_inscription_4-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m044_sphere_inscription_4-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m044_sphere_inscription_4-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m044_sphere_inscription_4-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m044_sphere_inscription_4-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m044_sphere_inscription_4-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m044_sphere_inscription_4-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m045_sphere_inscription_5-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m045_sphere_inscription_5-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m045_sphere_inscription_5-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m045_sphere_inscription_5-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m045_sphere_inscription_5-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m045_sphere_inscription_5-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m045_sphere_inscription_5-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m045_sphere_inscription_5-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m046_sphere_inscription_6-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m046_sphere_inscription_6-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m046_sphere_inscription_6-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m046_sphere_inscription_6-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m046_sphere_inscription_6-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m046_sphere_inscription_6-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m046_sphere_inscription_6-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m046_sphere_inscription_6-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m047_sphere_inscription_7-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m047_sphere_inscription_7-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m047_sphere_inscription_7-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m047_sphere_inscription_7-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m047_sphere_inscription_7-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m047_sphere_inscription_7-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m047_sphere_inscription_7-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m047_sphere_inscription_7-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m048_sphere_inscription_8-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the inscription on the central ring of the armillary sphere.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m048_sphere_inscription_8-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m048_sphere_inscription_8-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m048_sphere_inscription_8-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m048_sphere_inscription_8-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m048_sphere_inscription_8-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m048_sphere_inscription_8-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m048_sphere_inscription_8-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m049_corner_top_right_incisions-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing the top right corner of the painted frame with incisions.  (Before cleaning) (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m049_corner_top_right_incisions-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m049_corner_top_right_incisions-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m049_corner_top_right_incisions-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m049_corner_top_right_incisions-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m049_corner_top_right_incisions-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_m049_corner_top_right_incisions-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_m049_corner_top_right_incisions-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/06/ng2211_m050_back_paper_seal-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph showing an embossed paper seal on the reverse (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/06\/ng2211_m050_back_paper_seal-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/06\/ng2211_m050_back_paper_seal-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/06/ng2211_m050_back_paper_seal-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/06/ng2211_m050_back_paper_seal-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/06\/ng2211_m050_back_paper_seal-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/05\/06\/ng2211_m050_back_paper_seal-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/05/06/ng2211_m050_back_paper_seal-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_dirrO_dm_AT-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Composite infrared reflectogram.  Scale 22.5 pixels per mm (8098x6893px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_dirrO_dm_AT-PYR.tif\/full\/430,506\/0\/default.jpg","type":"Image","width":430,"height":506,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_dirrO_dm_AT-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":861,"height":1012,"sizes":[[{"width":215,"height":253},{"width":430,"height":506},{"width":861,"height":1012}]]}]}],
+      "height":8098,
+      "width":6893,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_dirrO_dm_AT-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_dirrO_dm_AT-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_dirrO_dm_AT-PYR.tif\/full\/1723,2024\/0\/default.jpg","type":"Image","width":1723,"height":2024,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2211\/ng2211_dirrO_dm_AT-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6893,"height":8098,"sizes":[[{"width":215,"height":253},{"width":430,"height":506},{"width":861,"height":1012},{"width":1723,"height":2024}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2211/ng2211_dirrO_dm_AT-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/05/06/N-2211-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Composite X-radiograph (4776x3676px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/05\/06\/N-2211-00-000020-PYR.tif\/full\/229,298\/0\/default.jpg","type":"Image","width":229,"height":298,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/05\/06\/N-2211-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":459,"height":597,"sizes":[[{"width":114,"height":149},{"width":229,"height":298},{"width":459,"height":597}]]}]}],
+      "height":4776,
+      "width":3676,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/05/06/N-2211-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/05/06/N-2211-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/05\/06\/N-2211-00-000020-PYR.tif\/full\/919,1194\/0\/default.jpg","type":"Image","width":919,"height":1194,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/05\/06\/N-2211-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3676,"height":4776,"sizes":[[{"width":114,"height":149},{"width":229,"height":298},{"width":459,"height":597},{"width":919,"height":1194},{"width":1838,"height":2388}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/05/06/N-2211-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/02/10/N-2211-00-000037-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared photograph of the reverse (6000x4694px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/02\/10\/N-2211-00-000037-PYR.tif\/full\/293,375\/0\/default.jpg","type":"Image","width":293,"height":375,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/02\/10\/N-2211-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":586,"height":750,"sizes":[[{"width":146,"height":187},{"width":293,"height":375},{"width":586,"height":750}]]}]}],
+      "height":6000,
+      "width":4694,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/02/10/N-2211-00-000037-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/02/10/N-2211-00-000037-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/02\/10\/N-2211-00-000037-PYR.tif\/full\/1173,1500\/0\/default.jpg","type":"Image","width":1173,"height":1500,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/02\/10\/N-2211-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4694,"height":6000,"sizes":[[{"width":146,"height":187},{"width":293,"height":375},{"width":586,"height":750},{"width":1173,"height":1500},{"width":2347,"height":3000}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/02/10/N-2211-00-000037-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

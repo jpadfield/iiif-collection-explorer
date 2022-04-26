@@ -1,0 +1,554 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb36-essay.json",
+   "type":"Manifest",
+   "label": { "en": [ "Titian after 1540" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Extra images are only available for National Gallery paintings." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-36.json\">vol-36<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\">Technical Bulletin Vol. 36<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/volume-36\/titian-after-1540-technique-and-style-in-his-later-works\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/24098\/vol36-introessay.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Extra images are only available for National Gallery paintings.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, about 1560-8 (perhaps begun in the 1540s), Oil on canvas, (112.2 x 103.2 cm) (6614x5673px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif\/full\/354,413\/0\/default.jpg","type":"Image","width":354,"height":413,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":709,"height":826,"sizes":[[{"width":177,"height":206},{"width":354,"height":413},{"width":709,"height":826}]]}]}],
+      "height":6614,
+      "width":5673,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif\/full\/1418,1653\/0\/default.jpg","type":"Image","width":1418,"height":1653,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5673,"height":6614,"sizes":[[{"width":177,"height":206},{"width":354,"height":413},{"width":709,"height":826},{"width":1418,"height":1653},{"width":2836,"height":3307}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000078-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money detail (6127x8172px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000078-PYR.tif\/full\/510,382\/0\/default.jpg","type":"Image","width":510,"height":382,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000078-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1021,"height":765,"sizes":[[{"width":255,"height":191},{"width":510,"height":382},{"width":1021,"height":765}]]}]}],
+      "height":6127,
+      "width":8172,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000078-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000078-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000078-PYR.tif\/full\/2043,1531\/0\/default.jpg","type":"Image","width":2043,"height":1531,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000078-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8172,"height":6127,"sizes":[[{"width":255,"height":191},{"width":510,"height":382},{"width":1021,"height":765},{"width":2043,"height":1531},{"width":4086,"height":3063}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000078-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, about 1559-75, Oil on canvas, (178.8 x 197.8 cm) (5334x5454px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif\/full\/340,333\/0\/default.jpg","type":"Image","width":340,"height":333,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":681,"height":666,"sizes":[[{"width":170,"height":166},{"width":340,"height":333},{"width":681,"height":666}]]}]}],
+      "height":5334,
+      "width":5454,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif\/full\/1363,1333\/0\/default.jpg","type":"Image","width":1363,"height":1333,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5454,"height":5334,"sizes":[[{"width":170,"height":166},{"width":340,"height":333},{"width":681,"height":666},{"width":1363,"height":1333},{"width":2727,"height":2667}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family,Infrared reflectogram (OSIRIS) (7504x10624px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif\/full\/332,234\/0\/default.jpg","type":"Image","width":332,"height":234,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":664,"height":469,"sizes":[[{"width":166,"height":117},{"width":332,"height":234},{"width":664,"height":469}]]}]}],
+      "height":7504,
+      "width":10624,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif\/full\/1328,938\/0\/default.jpg","type":"Image","width":1328,"height":938,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":10624,"height":7504,"sizes":[[{"width":166,"height":117},{"width":332,"height":234},{"width":664,"height":469},{"width":1328,"height":938},{"width":2656,"height":1876},{"width":5312,"height":3752}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money,Infrared reflectogram (OSIRIS) (4028x3852px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif\/full\/481,503\/0\/default.jpg","type":"Image","width":481,"height":503,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":963,"height":1007,"sizes":[[{"width":240,"height":251},{"width":481,"height":503},{"width":963,"height":1007}]]}]}],
+      "height":4028,
+      "width":3852,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif\/full\/1926,2014\/0\/default.jpg","type":"Image","width":1926,"height":2014,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3852,"height":4028,"sizes":[[{"width":240,"height":251},{"width":481,"height":503},{"width":963,"height":1007},{"width":1926,"height":2014}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG34: Workshop of Titian, Venus and Adonis,Infrared reflectogram (OSIRIS) (6488x6914px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif\/full\/432,405\/0\/default.jpg","type":"Image","width":432,"height":405,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":864,"height":811,"sizes":[[{"width":216,"height":202},{"width":432,"height":405},{"width":864,"height":811}]]}]}],
+      "height":6488,
+      "width":6914,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif\/full\/1728,1622\/0\/default.jpg","type":"Image","width":1728,"height":1622,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/11\/ng0034_dirrO_a_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6914,"height":6488,"sizes":[[{"width":216,"height":202},{"width":432,"height":405},{"width":864,"height":811},{"width":1728,"height":1622},{"width":3457,"height":3244}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/11/ng0034_dirrO_a_HR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000040-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG26: Paolo Veronese, The Consecration of Saint Nicholas, 1562, Oil on canvas, (286.5 x 175.3 cm) (7546x5555px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000040-PYR.tif\/full\/347,471\/0\/default.jpg","type":"Image","width":347,"height":471,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000040-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":694,"height":943,"sizes":[[{"width":173,"height":235},{"width":347,"height":471},{"width":694,"height":943}]]}]}],
+      "height":7546,
+      "width":5555,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000040-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000040-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000040-PYR.tif\/full\/1388,1886\/0\/default.jpg","type":"Image","width":1388,"height":1886,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000040-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5555,"height":7546,"sizes":[[{"width":173,"height":235},{"width":347,"height":471},{"width":694,"height":943},{"width":1388,"height":1886},{"width":2777,"height":3773}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000040-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000045-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG26: Paolo Veronese, The Consecration of Saint Nicholas detail (7649x5778px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000045-PYR.tif\/full\/361,478\/0\/default.jpg","type":"Image","width":361,"height":478,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":722,"height":956,"sizes":[[{"width":180,"height":239},{"width":361,"height":478},{"width":722,"height":956}]]}]}],
+      "height":7649,
+      "width":5778,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000045-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000045-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000045-PYR.tif\/full\/1444,1912\/0\/default.jpg","type":"Image","width":1444,"height":1912,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/24\/N-0026-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5778,"height":7649,"sizes":[[{"width":180,"height":239},{"width":361,"height":478},{"width":722,"height":956},{"width":1444,"height":1912},{"width":2889,"height":3824}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/24/N-0026-00-000045-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000088-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money detail (6100x8092px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000088-PYR.tif\/full\/505,381\/0\/default.jpg","type":"Image","width":505,"height":381,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000088-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1011,"height":762,"sizes":[[{"width":252,"height":190},{"width":505,"height":381},{"width":1011,"height":762}]]}]}],
+      "height":6100,
+      "width":8092,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000088-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000088-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000088-PYR.tif\/full\/2023,1525\/0\/default.jpg","type":"Image","width":2023,"height":1525,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000088-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8092,"height":6100,"sizes":[[{"width":252,"height":190},{"width":505,"height":381},{"width":1011,"height":762},{"width":2023,"height":1525},{"width":4046,"height":3050}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000088-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/06/N-6611-00-000197-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6611: Titian, Diana and Actaeon, 1556-9, Oil on canvas, (184.5 x 202.2 cm) (47908x52351px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/06\/N-6611-00-000197-PYR.tif\/full\/408,374\/0\/default.jpg","type":"Image","width":408,"height":374,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/06\/N-6611-00-000197-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":817,"height":748,"sizes":[[{"width":204,"height":187},{"width":408,"height":374},{"width":817,"height":748}]]}]}],
+      "height":47908,
+      "width":52351,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/06/N-6611-00-000197-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/06/N-6611-00-000197-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/06\/N-6611-00-000197-PYR.tif\/full\/1635,1497\/0\/default.jpg","type":"Image","width":1635,"height":1497,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/06\/N-6611-00-000197-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":52351,"height":47908,"sizes":[[{"width":204,"height":187},{"width":408,"height":374},{"width":817,"height":748},{"width":1635,"height":1497},{"width":3271,"height":2994},{"width":6543,"height":5988},{"width":13087,"height":11977},{"width":26175,"height":23954}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/06/N-6611-00-000197-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3948: Titian, The Virgin suckling the Infant Christ, about 1565-75, Oil on canvas, (76.2 x 63.5 cm) (9074x7501px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif\/full\/234,283\/0\/default.jpg","type":"Image","width":234,"height":283,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":468,"height":567,"sizes":[[{"width":117,"height":141},{"width":234,"height":283},{"width":468,"height":567}]]}]}],
+      "height":9074,
+      "width":7501,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif\/full\/937,1134\/0\/default.jpg","type":"Image","width":937,"height":1134,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3948-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7501,"height":9074,"sizes":[[{"width":117,"height":141},{"width":234,"height":283},{"width":468,"height":567},{"width":937,"height":1134},{"width":1875,"height":2268},{"width":3750,"height":4537}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3948-00-000028-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, about 1540-45, Oil on canvas, (206.1 x 288.5 cm) (5706x7519px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif\/full\/469,356\/0\/default.jpg","type":"Image","width":469,"height":356,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":939,"height":713,"sizes":[[{"width":234,"height":178},{"width":469,"height":356},{"width":939,"height":713}]]}]}],
+      "height":5706,
+      "width":7519,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif\/full\/1879,1426\/0\/default.jpg","type":"Image","width":1879,"height":1426,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7519,"height":5706,"sizes":[[{"width":234,"height":178},{"width":469,"height":356},{"width":939,"height":713},{"width":1879,"height":1426},{"width":3759,"height":2853}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of Gabriel (8063x6091px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif\/full\/380,503\/0\/default.jpg","type":"Image","width":380,"height":503,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":761,"height":1007,"sizes":[[{"width":190,"height":251},{"width":380,"height":503},{"width":761,"height":1007}]]}]}],
+      "height":8063,
+      "width":6091,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif\/full\/1522,2015\/0\/default.jpg","type":"Image","width":1522,"height":2015,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6091,"height":8063,"sizes":[[{"width":190,"height":251},{"width":380,"height":503},{"width":761,"height":1007},{"width":1522,"height":2015},{"width":3045,"height":4031}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of Andrea (8091x6114px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif\/full\/382,505\/0\/default.jpg","type":"Image","width":382,"height":505,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":764,"height":1011,"sizes":[[{"width":191,"height":252},{"width":382,"height":505},{"width":764,"height":1011}]]}]}],
+      "height":8091,
+      "width":6114,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif\/full\/1528,2022\/0\/default.jpg","type":"Image","width":1528,"height":2022,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6114,"height":8091,"sizes":[[{"width":191,"height":252},{"width":382,"height":505},{"width":764,"height":1011},{"width":1528,"height":2022},{"width":3057,"height":4045}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of brothers at right of painting (7210x5152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif\/full\/322,450\/0\/default.jpg","type":"Image","width":322,"height":450,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":644,"height":901,"sizes":[[{"width":161,"height":225},{"width":322,"height":450},{"width":644,"height":901}]]}]}],
+      "height":7210,
+      "width":5152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif\/full\/1288,1802\/0\/default.jpg","type":"Image","width":1288,"height":1802,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5152,"height":7210,"sizes":[[{"width":161,"height":225},{"width":322,"height":450},{"width":644,"height":901},{"width":1288,"height":1802},{"width":2576,"height":3605}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, 1556-9, Oil on canvas, (187 x 204.5 cm) (5946x6235px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif\/full\/389,371\/0\/default.jpg","type":"Image","width":389,"height":371,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":779,"height":743,"sizes":[[{"width":194,"height":185},{"width":389,"height":371},{"width":779,"height":743}]]}]}],
+      "height":5946,
+      "width":6235,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif\/full\/1558,1486\/0\/default.jpg","type":"Image","width":1558,"height":1486,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6235,"height":5946,"sizes":[[{"width":194,"height":185},{"width":389,"height":371},{"width":779,"height":743},{"width":1558,"height":1486},{"width":3117,"height":2973}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/11/N-6616-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto detail (8164x6118px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/11\/N-6616-00-000020-PYR.tif\/full\/382,510\/0\/default.jpg","type":"Image","width":382,"height":510,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/11\/N-6616-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":764,"height":1020,"sizes":[[{"width":191,"height":255},{"width":382,"height":510},{"width":764,"height":1020}]]}]}],
+      "height":8164,
+      "width":6118,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/11/N-6616-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/11/N-6616-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/11\/N-6616-00-000020-PYR.tif\/full\/1529,2041\/0\/default.jpg","type":"Image","width":1529,"height":2041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/11\/N-6616-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6118,"height":8164,"sizes":[[{"width":191,"height":255},{"width":382,"height":510},{"width":764,"height":1020},{"width":1529,"height":2041},{"width":3059,"height":4082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/11/N-6616-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6427-00-000023-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6427: Parmigianino, The Mystic Marriage of Saint Catherine, about 1527-31, Oil on wood, (74.2 x 57.2 cm) (9228x6969px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6427-00-000023-PYR.tif\/full\/217,288\/0\/default.jpg","type":"Image","width":217,"height":288,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6427-00-000023-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":435,"height":576,"sizes":[[{"width":108,"height":144},{"width":217,"height":288},{"width":435,"height":576}]]}]}],
+      "height":9228,
+      "width":6969,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6427-00-000023-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6427-00-000023-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6427-00-000023-PYR.tif\/full\/871,1153\/0\/default.jpg","type":"Image","width":871,"height":1153,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6427-00-000023-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6969,"height":9228,"sizes":[[{"width":108,"height":144},{"width":217,"height":288},{"width":435,"height":576},{"width":871,"height":1153},{"width":1742,"height":2307},{"width":3484,"height":4614}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6427-00-000023-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1883-00-000013-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1883: Andrea Schiavone, Arcas Hunting, about 1550, Oil on canvas, (18.8 x 18.4 cm) (5142x5572px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1883-00-000013-PYR.tif\/full\/348,321\/0\/default.jpg","type":"Image","width":348,"height":321,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1883-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":696,"height":642,"sizes":[[{"width":174,"height":160},{"width":348,"height":321},{"width":696,"height":642}]]}]}],
+      "height":5142,
+      "width":5572,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1883-00-000013-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1883-00-000013-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1883-00-000013-PYR.tif\/full\/1393,1285\/0\/default.jpg","type":"Image","width":1393,"height":1285,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1883-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5572,"height":5142,"sizes":[[{"width":174,"height":160},{"width":348,"height":321},{"width":696,"height":642},{"width":1393,"height":1285},{"width":2786,"height":2571}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1883-00-000013-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1884-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1884: Andrea Schiavone, Jupiter seducing Callisto, about 1550, Oil on canvas, (18.7 x 18.9 cm) (8301x8649px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1884-00-000014-PYR.tif\/full\/270,259\/0\/default.jpg","type":"Image","width":270,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1884-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":540,"height":518,"sizes":[[{"width":135,"height":129},{"width":270,"height":259},{"width":540,"height":518}]]}]}],
+      "height":8301,
+      "width":8649,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1884-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1884-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1884-00-000014-PYR.tif\/full\/1081,1037\/0\/default.jpg","type":"Image","width":1081,"height":1037,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1884-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8649,"height":8301,"sizes":[[{"width":135,"height":129},{"width":270,"height":259},{"width":540,"height":518},{"width":1081,"height":1037},{"width":2162,"height":2075},{"width":4324,"height":4150}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1884-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/22/N-0016-00-000082-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG16: Jacopo Tintoretto, Saint George and the Dragon, about 1555, Oil on canvas, (158.3 x 100.5 cm) (7751x4678px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/22\/N-0016-00-000082-PYR.tif\/full\/292,484\/0\/default.jpg","type":"Image","width":292,"height":484,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/22\/N-0016-00-000082-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":584,"height":968,"sizes":[[{"width":146,"height":242},{"width":292,"height":484},{"width":584,"height":968}]]}]}],
+      "height":7751,
+      "width":4678,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/22/N-0016-00-000082-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/22/N-0016-00-000082-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/22\/N-0016-00-000082-PYR.tif\/full\/1169,1937\/0\/default.jpg","type":"Image","width":1169,"height":1937,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/22\/N-0016-00-000082-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4678,"height":7751,"sizes":[[{"width":146,"height":242},{"width":292,"height":484},{"width":584,"height":968},{"width":1169,"height":1937},{"width":2339,"height":3875}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/22/N-0016-00-000082-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000037-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto detail (5955x8092px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000037-PYR.tif\/full\/505,372\/0\/default.jpg","type":"Image","width":505,"height":372,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1011,"height":744,"sizes":[[{"width":252,"height":186},{"width":505,"height":372},{"width":1011,"height":744}]]}]}],
+      "height":5955,
+      "width":8092,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000037-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000037-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000037-PYR.tif\/full\/2023,1488\/0\/default.jpg","type":"Image","width":2023,"height":1488,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8092,"height":5955,"sizes":[[{"width":252,"height":186},{"width":505,"height":372},{"width":1011,"height":744},{"width":2023,"height":1488},{"width":4046,"height":2977}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000037-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000047-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto detail (5871x7837px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000047-PYR.tif\/full\/489,366\/0\/default.jpg","type":"Image","width":489,"height":366,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000047-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":979,"height":733,"sizes":[[{"width":244,"height":183},{"width":489,"height":366},{"width":979,"height":733}]]}]}],
+      "height":5871,
+      "width":7837,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000047-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000047-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000047-PYR.tif\/full\/1959,1467\/0\/default.jpg","type":"Image","width":1959,"height":1467,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/13\/N-6616-00-000047-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7837,"height":5871,"sizes":[[{"width":244,"height":183},{"width":489,"height":366},{"width":979,"height":733},{"width":1959,"height":1467},{"width":3918,"height":2935}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/13/N-6616-00-000047-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

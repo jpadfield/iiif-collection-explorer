@@ -1,0 +1,92 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng781.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG781: Andrea del Verrocchio, Tobias and the Angel" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-32.json\">vol-32<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/dunkerton2011.json\">dunkerton2011<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-32\">Technical Bulletin Vol. 32<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG781\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/dunkerton2011.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0781-00-000051-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Workshop of Andrea del Verrocchio, 'Tobias and the Angel', tempera on panel, 83.6 x 66.0 cm (9151x7021px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0781-00-000051-PYR.tif\/full\/219,285\/0\/default.jpg","type":"Image","width":219,"height":285,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0781-00-000051-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":438,"height":571,"sizes":[[{"width":109,"height":142},{"width":219,"height":285},{"width":438,"height":571}]]}]}],
+      "height":9151,
+      "width":7021,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0781-00-000051-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0781-00-000051-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0781-00-000051-PYR.tif\/full\/877,1143\/0\/default.jpg","type":"Image","width":877,"height":1143,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0781-00-000051-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7021,"height":9151,"sizes":[[{"width":109,"height":142},{"width":219,"height":285},{"width":438,"height":571},{"width":877,"height":1143},{"width":1755,"height":2287},{"width":3510,"height":4575}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0781-00-000051-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/10/01/ng0781_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram (OSIRIS) (3713x2982px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/10\/01\/ng0781_dirrO_a-PYR.tif\/full\/372,464\/0\/default.jpg","type":"Image","width":372,"height":464,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/10\/01\/ng0781_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":745,"height":928,"sizes":[[{"width":186,"height":232},{"width":372,"height":464},{"width":745,"height":928}]]}]}],
+      "height":3713,
+      "width":2982,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/10/01/ng0781_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/10/01/ng0781_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/10\/01\/ng0781_dirrO_a-PYR.tif\/full\/1491,1856\/0\/default.jpg","type":"Image","width":1491,"height":1856,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2016\/10\/01\/ng0781_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2982,"height":3713,"sizes":[[{"width":186,"height":232},{"width":372,"height":464},{"width":745,"height":928},{"width":1491,"height":1856}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2016/10/01/ng0781_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

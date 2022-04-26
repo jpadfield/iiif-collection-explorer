@@ -1,0 +1,510 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat11.json",
+   "type":"Manifest",
+   "label": { "en": [ "Mrs Mary Nesbitt, 1781, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-b.json\">tb35-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23858\/volume35cataloguepart2.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1381-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, 1781, 75.5 x 62.5 cm.  The Wallace Collection. (6307x5957px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1381-00-000002-PYR.tif\/full\/372,394\/0\/default.jpg","type":"Image","width":372,"height":394,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1381-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":744,"height":788,"sizes":[[{"width":186,"height":197},{"width":372,"height":394},{"width":744,"height":788}]]}]}],
+      "height":6307,
+      "width":5957,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1381-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1381-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1381-00-000002-PYR.tif\/full\/1489,1576\/0\/default.jpg","type":"Image","width":1489,"height":1576,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/11\/M-1381-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5957,"height":6307,"sizes":[[{"width":186,"height":197},{"width":372,"height":394},{"width":744,"height":788},{"width":1489,"height":1576},{"width":2978,"height":3153}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/11/M-1381-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1381-00-000005-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, X-radiograph (Computer assembled mosaic).  The Wallace Collection. (9324x7789px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1381-00-000005-PYR.tif\/full\/243,291\/0\/default.jpg","type":"Image","width":243,"height":291,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1381-00-000005-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":486,"height":582,"sizes":[[{"width":121,"height":145},{"width":243,"height":291},{"width":486,"height":582}]]}]}],
+      "height":9324,
+      "width":7789,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1381-00-000005-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1381-00-000005-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1381-00-000005-PYR.tif\/full\/973,1165\/0\/default.jpg","type":"Image","width":973,"height":1165,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/M-1381-00-000005-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7789,"height":9324,"sizes":[[{"width":121,"height":145},{"width":243,"height":291},{"width":486,"height":582},{"width":973,"height":1165},{"width":1947,"height":2331},{"width":3894,"height":4662}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/M-1381-00-000005-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/18/M-1381-00-000006-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation.  The Wallace Collection. (9324x7789px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/18\/M-1381-00-000006-PYR.tif\/full\/243,291\/0\/default.jpg","type":"Image","width":243,"height":291,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/18\/M-1381-00-000006-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":486,"height":582,"sizes":[[{"width":121,"height":145},{"width":243,"height":291},{"width":486,"height":582}]]}]}],
+      "height":9324,
+      "width":7789,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/18/M-1381-00-000006-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/18/M-1381-00-000006-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/18\/M-1381-00-000006-PYR.tif\/full\/973,1165\/0\/default.jpg","type":"Image","width":973,"height":1165,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/18\/M-1381-00-000006-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7789,"height":9324,"sizes":[[{"width":121,"height":145},{"width":243,"height":291},{"width":486,"height":582},{"width":973,"height":1165},{"width":1947,"height":2331},{"width":3894,"height":4662}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/18/M-1381-00-000006-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/m1381_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, infrared reflectogram (OSIRIS).  The Wallace Collection. (4072x3516px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/m1381_dirrO_a-PYR.tif\/full\/439,509\/0\/default.jpg","type":"Image","width":439,"height":509,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/m1381_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":879,"height":1018,"sizes":[[{"width":219,"height":254},{"width":439,"height":509},{"width":879,"height":1018}]]}]}],
+      "height":4072,
+      "width":3516,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/m1381_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/m1381_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/m1381_dirrO_a-PYR.tif\/full\/1758,2036\/0\/default.jpg","type":"Image","width":1758,"height":2036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/m1381_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3516,"height":4072,"sizes":[[{"width":219,"height":254},{"width":439,"height":509},{"width":879,"height":1018},{"width":1758,"height":2036}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/m1381_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1381-00-000008-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, raking light to highlight surface texture.  The Wallace Collection. (7643x5601px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1381-00-000008-PYR.tif\/full\/350,477\/0\/default.jpg","type":"Image","width":350,"height":477,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1381-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":700,"height":955,"sizes":[[{"width":175,"height":238},{"width":350,"height":477},{"width":700,"height":955}]]}]}],
+      "height":7643,
+      "width":5601,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1381-00-000008-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1381-00-000008-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1381-00-000008-PYR.tif\/full\/1400,1910\/0\/default.jpg","type":"Image","width":1400,"height":1910,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1381-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5601,"height":7643,"sizes":[[{"width":175,"height":238},{"width":350,"height":477},{"width":700,"height":955},{"width":1400,"height":1910},{"width":2800,"height":3821}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1381-00-000008-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_vis_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the brown oval, near the bottom edge.   The Wallace Collection. (1284x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_vis_20x_A-PYR.tif\/full\/260,80\/0\/default.jpg","type":"Image","width":260,"height":80,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_vis_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":160,"sizes":[[{"width":130,"height":40},{"width":260,"height":80},{"width":520,"height":160}]]}]}],
+      "height":1284,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_vis_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_vis_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_vis_20x_A-PYR.tif\/full\/1041,321\/0\/default.jpg","type":"Image","width":1041,"height":321,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_vis_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1284,"sizes":[[{"width":130,"height":40},{"width":260,"height":80},{"width":520,"height":160},{"width":1041,"height":321},{"width":2082,"height":642}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_vis_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the brown oval, near the bottom edge, ultraviolet fluorescence image.   The Wallace Collection. (1284x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_UV_20x_A-PYR.tif\/full\/260,80\/0\/default.jpg","type":"Image","width":260,"height":80,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":160,"sizes":[[{"width":130,"height":40},{"width":260,"height":80},{"width":520,"height":160}]]}]}],
+      "height":1284,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_UV_20x_A-PYR.tif\/full\/1041,321\/0\/default.jpg","type":"Image","width":1041,"height":321,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s1_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1284,"sizes":[[{"width":130,"height":40},{"width":260,"height":80},{"width":520,"height":160},{"width":1041,"height":321},{"width":2082,"height":642}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s1_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_Vis_50x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the dark sky, to the left of the sitter.   The Wallace Collection. (1680x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_Vis_50x-PYR.tif\/full\/260,105\/0\/default.jpg","type":"Image","width":260,"height":105,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_Vis_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":210,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210}]]}]}],
+      "height":1680,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_Vis_50x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_Vis_50x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_Vis_50x-PYR.tif\/full\/1041,420\/0\/default.jpg","type":"Image","width":1041,"height":420,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_Vis_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1680,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210},{"width":1041,"height":420},{"width":2082,"height":840}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_Vis_50x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_UV_50x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the dark sky, to the left of the sitter, ultraviolet fluorescence image.  The Wallace Collection. (1680x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_UV_50x-PYR.tif\/full\/260,105\/0\/default.jpg","type":"Image","width":260,"height":105,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_UV_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":210,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210}]]}]}],
+      "height":1680,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_UV_50x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_UV_50x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_UV_50x-PYR.tif\/full\/1041,420\/0\/default.jpg","type":"Image","width":1041,"height":420,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s6_UV_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1680,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210},{"width":1041,"height":420},{"width":2082,"height":840}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s6_UV_50x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_Vis_50x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the paler sky near the left edge.  The Wallace Collection. (1884x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_Vis_50x-PYR.tif\/full\/260,117\/0\/default.jpg","type":"Image","width":260,"height":117,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_Vis_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":235,"sizes":[[{"width":130,"height":58},{"width":260,"height":117},{"width":520,"height":235}]]}]}],
+      "height":1884,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_Vis_50x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_Vis_50x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_Vis_50x-PYR.tif\/full\/1041,471\/0\/default.jpg","type":"Image","width":1041,"height":471,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_Vis_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1884,"sizes":[[{"width":130,"height":58},{"width":260,"height":117},{"width":520,"height":235},{"width":1041,"height":471},{"width":2082,"height":942}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_Vis_50x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_UV_50x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the paler sky near the left edge, ultraviolet fluorescence image.  The Wallace Collection. (1884x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_UV_50x-PYR.tif\/full\/260,117\/0\/default.jpg","type":"Image","width":260,"height":117,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_UV_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":235,"sizes":[[{"width":130,"height":58},{"width":260,"height":117},{"width":520,"height":235}]]}]}],
+      "height":1884,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_UV_50x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_UV_50x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_UV_50x-PYR.tif\/full\/1041,471\/0\/default.jpg","type":"Image","width":1041,"height":471,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/12\/M1381s2_UV_50x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1884,"sizes":[[{"width":130,"height":58},{"width":260,"height":117},{"width":520,"height":235},{"width":1041,"height":471},{"width":2082,"height":942}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/12/M1381s2_UV_50x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m025_background_top-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, photomicrograph of the sky showing the brown glaze.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m025_background_top-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m025_background_top-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m025_background_top-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m025_background_top-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m025_background_top-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m025_background_top-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m025_background_top-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m026_background_top-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, photomicrograph of the sky showing the brown glaze.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m026_background_top-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m026_background_top-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m026_background_top-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m026_background_top-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m026_background_top-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m026_background_top-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m026_background_top-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m019_edging_shoulder-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, photomicrograph of gold decoration on the sitter's shoulder.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m019_edging_shoulder-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m019_edging_shoulder-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m019_edging_shoulder-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m019_edging_shoulder-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m019_edging_shoulder-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m019_edging_shoulder-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m019_edging_shoulder-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m024_hair_ornament-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, photomicrograph of ornament in sitter's hair showing sratching in the wet paint.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m024_hair_ornament-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m024_hair_ornament-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m024_hair_ornament-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m024_hair_ornament-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m024_hair_ornament-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m024_hair_ornament-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m024_hair_ornament-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_Vis_DF_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the edge of the sleeve where it overlaps the blue background. The cream coloured paint contains vermilion, yellow earth and lead white and is applied above a thick varnish layer. The blue background is painted with Prussian blue, lead white and a little bone black over several brown underlayers, containing mixtures of lead white with earth pigments, carbon black and a little orpiment.  The Wallace Collection. (948x2856px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_Vis_DF_20x-PYR.tif\/full\/357,118\/0\/default.jpg","type":"Image","width":357,"height":118,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":714,"height":237,"sizes":[[{"width":178,"height":59},{"width":357,"height":118},{"width":714,"height":237}]]}]}],
+      "height":948,
+      "width":2856,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_Vis_DF_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_Vis_DF_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_Vis_DF_20x-PYR.tif\/full\/1428,474\/0\/default.jpg","type":"Image","width":1428,"height":474,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2856,"height":948,"sizes":[[{"width":178,"height":59},{"width":357,"height":118},{"width":714,"height":237},{"width":1428,"height":474}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_Vis_DF_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the edge of the sleeve where it overlaps the blue background, ultraviolet fluorescence image.  The Wallace Collection. (948x2856px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_UV_20x-PYR.tif\/full\/357,118\/0\/default.jpg","type":"Image","width":357,"height":118,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":714,"height":237,"sizes":[[{"width":178,"height":59},{"width":357,"height":118},{"width":714,"height":237}]]}]}],
+      "height":948,
+      "width":2856,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_UV_20x-PYR.tif\/full\/1428,474\/0\/default.jpg","type":"Image","width":1428,"height":474,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/26\/M1381s3_XS_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2856,"height":948,"sizes":[[{"width":178,"height":59},{"width":357,"height":118},{"width":714,"height":237},{"width":1428,"height":474}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/26/M1381s3_XS_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_Vis_DF_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the flesh paint of the sitter's back.  The Wallace Collection. (1200x2928px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_Vis_DF_20x-PYR.tif\/full\/366,150\/0\/default.jpg","type":"Image","width":366,"height":150,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":732,"height":300,"sizes":[[{"width":183,"height":75},{"width":366,"height":150},{"width":732,"height":300}]]}]}],
+      "height":1200,
+      "width":2928,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_Vis_DF_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_Vis_DF_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_Vis_DF_20x-PYR.tif\/full\/1464,600\/0\/default.jpg","type":"Image","width":1464,"height":600,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_Vis_DF_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2928,"height":1200,"sizes":[[{"width":183,"height":75},{"width":366,"height":150},{"width":732,"height":300},{"width":1464,"height":600}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_Vis_DF_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from the flesh paint of the sitter's back, ultraviolet fluorescence image.  The Wallace Collection. (1200x2928px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_UV_20x-PYR.tif\/full\/366,150\/0\/default.jpg","type":"Image","width":366,"height":150,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":732,"height":300,"sizes":[[{"width":183,"height":75},{"width":366,"height":150},{"width":732,"height":300}]]}]}],
+      "height":1200,
+      "width":2928,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_UV_20x-PYR.tif\/full\/1464,600\/0\/default.jpg","type":"Image","width":1464,"height":600,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/20\/M1381s4_repolished_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2928,"height":1200,"sizes":[[{"width":183,"height":75},{"width":366,"height":150},{"width":732,"height":300},{"width":1464,"height":600}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/20/M1381s4_repolished_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m014_face_wrinkling-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, photomicrograph of the sitter's face showing the wrinkling.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m014_face_wrinkling-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m014_face_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m014_face_wrinkling-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m014_face_wrinkling-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m014_face_wrinkling-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m014_face_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m014_face_wrinkling-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m016_face_wrinkling-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, photomicrograph of the sitter's face showing a wide crack with restoration.  The Wallace Collection. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m016_face_wrinkling-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m016_face_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m016_face_wrinkling-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m016_face_wrinkling-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m016_face_wrinkling-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/16\/m1381_m016_face_wrinkling-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/16/m1381_m016_face_wrinkling-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

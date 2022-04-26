@@ -1,0 +1,114 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng5018.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG5018: Adolphe Monticelli, Subject Composition" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/stonor_morrison2012.json\">stonor_morrison2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG5018\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/Stonor-Morrison2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000012-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5018: Adolphe Monticelli, Subject Composition, probably 1870-90, Oil on wood, (21 x 15.9 cm), Image Originally dated: 2011-08-29 (7743x5280px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000012-PYR.tif\/full\/330,483\/0\/default.jpg","type":"Image","width":330,"height":483,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":660,"height":967,"sizes":[[{"width":165,"height":241},{"width":330,"height":483},{"width":660,"height":967}]]}]}],
+      "height":7743,
+      "width":5280,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000012-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000012-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000012-PYR.tif\/full\/1320,1935\/0\/default.jpg","type":"Image","width":1320,"height":1935,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5280,"height":7743,"sizes":[[{"width":165,"height":241},{"width":330,"height":483},{"width":660,"height":967},{"width":1320,"height":1935},{"width":2640,"height":3871}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000012-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000015-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5018: Adolphe Monticelli, Subject Composition, probably 1870-90, Oil on wood, (21 x 15.9 cm), Reverse Image, Image Originally dated: 2011-08-29 (7949x5378px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000015-PYR.tif\/full\/336,496\/0\/default.jpg","type":"Image","width":336,"height":496,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":672,"height":993,"sizes":[[{"width":168,"height":248},{"width":336,"height":496},{"width":672,"height":993}]]}]}],
+      "height":7949,
+      "width":5378,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000015-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000015-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000015-PYR.tif\/full\/1344,1987\/0\/default.jpg","type":"Image","width":1344,"height":1987,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/30\/N-5018-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5378,"height":7949,"sizes":[[{"width":168,"height":248},{"width":336,"height":496},{"width":672,"height":993},{"width":1344,"height":1987},{"width":2689,"height":3974}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/30/N-5018-00-000015-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/31/N-5018-00-000017-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Front, Raking light to highlight surface texture (7776x5240px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/31\/N-5018-00-000017-PYR.tif\/full\/327,486\/0\/default.jpg","type":"Image","width":327,"height":486,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/31\/N-5018-00-000017-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":655,"height":972,"sizes":[[{"width":163,"height":243},{"width":327,"height":486},{"width":655,"height":972}]]}]}],
+      "height":7776,
+      "width":5240,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/31/N-5018-00-000017-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/31/N-5018-00-000017-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/31\/N-5018-00-000017-PYR.tif\/full\/1310,1944\/0\/default.jpg","type":"Image","width":1310,"height":1944,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/31\/N-5018-00-000017-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5240,"height":7776,"sizes":[[{"width":163,"height":243},{"width":327,"height":486},{"width":655,"height":972},{"width":1310,"height":1944},{"width":2620,"height":3888}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/31/N-5018-00-000017-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

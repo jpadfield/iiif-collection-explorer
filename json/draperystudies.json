@@ -1,0 +1,135 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/draperystudies.json",
+   "type":"Manifest",
+   "label": { "en": [ "Barocci Drawings: Drapery studies" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A crucial step in the rendering of human forms in paintings was the depiction of drapery, through which an artist could convincingly represent the fall of light and movement in a composition. Many Italian artists, including Barocci, drew from dressed life models and created three-dimensional sketches in preparation for their paintings. Bellori writes that after having made his finished drawing, Barocci made one or more models for the figures in clay or wax which were so beautiful that they appeared to be the work of a great sculptor. Unfortunately, none of these sculptures survive today. This practice developed out of a Renaissance artist\u2019s training spent making drawings from plaster casts, reliefs or antique sculptures." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/exhibitions.json\">exhibitions<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/baroccidrawings2013.json\">baroccidrawings2013<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/typesofdrawing.json\">typesofdrawing<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/federico-barocci-the-madonna-of-the-cat-la-madonna-del-gatto\">View the painting<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/learn-about-art\/paintings-in-depth\/barocci-a-lesson-in-drawing\">Barocci: a lesson in drawing<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A crucial step in the rendering of human forms in paintings was the depiction of drapery, through which an artist could convincingly represent the fall of light and movement in a composition. Many Italian artists, including Barocci, drew from dressed life models and created three-dimensional sketches in preparation for their paintings. Bellori writes that after having made his finished drawing, Barocci made one or more models for the figures in clay or wax which were so beautiful that they appeared to be the work of a great sculptor. Unfortunately, none of these sculptures survive today. This practice developed out of a Renaissance artist\u2019s training spent making drawings from plaster casts, reliefs or antique sculptures.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R18: Federico Barocci, Study for the Virgin and the two children, before 1575\u20136, black, red and white chalk on yellow paper, (27.8 x 23 cm), (inv. KdZ 20525 (3777), Staatliche Museen zu Berlin, Kupferstichkabinett) The rapidly sketched upper part of this drawing reveals that Barocci had already established the relationship between the figures. His main concern in this study is to outline the position of the Virgin\u2019s legs and feet and, consequently, the fall of her drapery. This is clearly evident in the lower part of the sheet in his use of black and white chalks to emphasize areas of light and shadow. The basket and the little table visible on the lower right of the painting had probably not been addressed at this stage. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ J\u00f6rg P. Anders (3324x2799px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif\/full\/349,415\/0\/default.jpg","type":"Image","width":349,"height":415,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":699,"height":831,"sizes":[[{"width":174,"height":207},{"width":349,"height":415},{"width":699,"height":831}]]}]}],
+      "height":3324,
+      "width":2799,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif\/full\/1399,1662\/0\/default.jpg","type":"Image","width":1399,"height":1662,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2799,"height":3324,"sizes":[[{"width":174,"height":207},{"width":349,"height":415},{"width":699,"height":831},{"width":1399,"height":1662}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R21: Federico Barocci, Study of drapery for the Virgin, before 1575\u20136, black, red and white chalk on blue paper, (27.4 x 39.7 cm), (inv. KdZ 20529 (4324), Staatliche Museen zu Berlin, Kupferstichkabinett) It is plausible that Barocci sketched the drapery study on the left of this sheet from a life model. It is also tempting to assume that a clothed male model was used due to the omission of the breast in the sketch. However, this conclusion cannot be firmly established as the figure of the Virgin is partly covered by the position of Christ in the finished painting. The pose of the Virgin\u2019s left arm with the long folding drapery of the sleeve differs from the one in \u2018The Madonna of the Cat ('La Madonna del Gatto')\u2019. Barocci might have carried out this drawing quite early on in the preparatory stages and he may also have used some of these studies in other compositions. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ Volker-H. Schneider (3584x5024px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif\/full\/314,224\/0\/default.jpg","type":"Image","width":314,"height":224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":628,"height":448,"sizes":[[{"width":157,"height":112},{"width":314,"height":224},{"width":628,"height":448}]]}]}],
+      "height":3584,
+      "width":5024,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif\/full\/1256,896\/0\/default.jpg","type":"Image","width":1256,"height":896,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5024,"height":3584,"sizes":[[{"width":157,"height":112},{"width":314,"height":224},{"width":628,"height":448},{"width":1256,"height":896},{"width":2512,"height":1792}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R22: Federico Barocci, Study of drapery for the Virgin, before 1575\u20136, black, red and white chalk on blue paper, (26 x 22.6 cm), (inv. KdZ 20524 (4399), Staatliche Museen zu Berlin, Kupferstichkabinett) Barocci worked on this drawing from different angles and possibly returned to it on two separate occasions. He began by studying the fall of the drapery over the outstretched legs of the Virgin using red and white chalk, focusing in particular on what will become the blue and yellow part of her skirt in the finished painting. He then turned the sheet upside-down and executed three black chalk sketches to investigate how the Virgin\u2019s green mantle stretches over the nipple of her exposed breast. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ J\u00f6rg P. Anders (3124x2760px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif\/full\/345,390\/0\/default.jpg","type":"Image","width":345,"height":390,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":690,"height":781,"sizes":[[{"width":172,"height":195},{"width":345,"height":390},{"width":690,"height":781}]]}]}],
+      "height":3124,
+      "width":2760,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif\/full\/1380,1562\/0\/default.jpg","type":"Image","width":1380,"height":1562,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2760,"height":3124,"sizes":[[{"width":172,"height":195},{"width":345,"height":390},{"width":690,"height":781},{"width":1380,"height":1562}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG29: Federico Barocci, The Madonna of the Cat ('La Madonna del Gatto'), probably about 1575, Oil on canvas, (112.7 x 92.7 cm) The young John the Baptist holds a goldfinch, a bird frequently kept as a pet but also a traditional symbol of Christ's Passion; the Baptist is teasing the cat shown in the left foreground by holding the bird above his head. The Virgin is suckling the Child and Saint Joseph looks on from the right.\nNG 29 may be the picture painted, according to Bellori (1672), for Count Antonio Brancaleoni, who lived near Perugia. The design was engraved in reverse in 1577 by Cornelius Cort and the painting probably dates from about 1575. Numerous drawings made in preparation for NG 29 are known; a highly finished drawing made by Barocci in preparation for the engraving and formerly in the National Gallery is now in the British Museum.\nThe window and the bench in the background seem to be based on windows in the Palazzo Ducale, Urbino. There are several copies and workshop versions of the picture.\nCesarei collection, Perugia, by 1784; acquired in Italy by Buchanan, about 1805; collection of Revd Holwell Carr, 1807; by whom bequeathed, 1831.\nGould 1975, pp. 11-12\nEmiliani 1985, I, pp. 93-103 Bequeathed by Revd Holwell Carr, 1831 (6000x4929px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif\/full\/308,375\/0\/default.jpg","type":"Image","width":308,"height":375,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":616,"height":750,"sizes":[[{"width":154,"height":187},{"width":308,"height":375},{"width":616,"height":750}]]}]}],
+      "height":6000,
+      "width":4929,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif\/full\/1232,1500\/0\/default.jpg","type":"Image","width":1232,"height":1500,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4929,"height":6000,"sizes":[[{"width":154,"height":187},{"width":308,"height":375},{"width":616,"height":750},{"width":1232,"height":1500},{"width":2464,"height":3000}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

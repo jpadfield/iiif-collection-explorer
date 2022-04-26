@@ -1,0 +1,642 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb36-cat01.json",
+   "type":"Manifest",
+   "label": { "en": [ "The Vendramin Family, venerating a Relic of the True Cross, 1540-5 (NG 4452)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-36.json\">vol-36<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb36-cats-a.json\">tb36-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\">Technical Bulletin Vol. 36<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\/catalogue\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/24099\/vol36-cats1-4.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, about 1540-45, Oil on canvas, (206.1 x 288.5 cm) (5706x7519px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif\/full\/469,356\/0\/default.jpg","type":"Image","width":469,"height":356,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":939,"height":713,"sizes":[[{"width":234,"height":178},{"width":469,"height":356},{"width":939,"height":713}]]}]}],
+      "height":5706,
+      "width":7519,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif\/full\/1879,1426\/0\/default.jpg","type":"Image","width":1879,"height":1426,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000101-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7519,"height":5706,"sizes":[[{"width":234,"height":178},{"width":469,"height":356},{"width":939,"height":713},{"width":1879,"height":1426},{"width":3759,"height":2853}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000101-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000104-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of boys at left of painting (7948x5525px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000104-PYR.tif\/full\/345,496\/0\/default.jpg","type":"Image","width":345,"height":496,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000104-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":690,"height":993,"sizes":[[{"width":172,"height":248},{"width":345,"height":496},{"width":690,"height":993}]]}]}],
+      "height":7948,
+      "width":5525,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000104-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000104-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000104-PYR.tif\/full\/1381,1987\/0\/default.jpg","type":"Image","width":1381,"height":1987,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000104-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5525,"height":7948,"sizes":[[{"width":172,"height":248},{"width":345,"height":496},{"width":690,"height":993},{"width":1381,"height":1987},{"width":2762,"height":3974}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000104-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000106-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of older brother at left of painting (8162x6114px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000106-PYR.tif\/full\/382,510\/0\/default.jpg","type":"Image","width":382,"height":510,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000106-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":764,"height":1020,"sizes":[[{"width":191,"height":255},{"width":382,"height":510},{"width":764,"height":1020}]]}]}],
+      "height":8162,
+      "width":6114,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000106-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000106-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000106-PYR.tif\/full\/1528,2040\/0\/default.jpg","type":"Image","width":1528,"height":2040,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000106-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6114,"height":8162,"sizes":[[{"width":191,"height":255},{"width":382,"height":510},{"width":764,"height":1020},{"width":1528,"height":2040},{"width":3057,"height":4081}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000106-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of Gabriel (8063x6091px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif\/full\/380,503\/0\/default.jpg","type":"Image","width":380,"height":503,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":761,"height":1007,"sizes":[[{"width":190,"height":251},{"width":380,"height":503},{"width":761,"height":1007}]]}]}],
+      "height":8063,
+      "width":6091,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif\/full\/1522,2015\/0\/default.jpg","type":"Image","width":1522,"height":2015,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/28\/N-4452-00-000108-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6091,"height":8063,"sizes":[[{"width":190,"height":251},{"width":380,"height":503},{"width":761,"height":1007},{"width":1522,"height":2015},{"width":3045,"height":4031}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/28/N-4452-00-000108-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of Andrea (8091x6114px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif\/full\/382,505\/0\/default.jpg","type":"Image","width":382,"height":505,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":764,"height":1011,"sizes":[[{"width":191,"height":252},{"width":382,"height":505},{"width":764,"height":1011}]]}]}],
+      "height":8091,
+      "width":6114,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif\/full\/1528,2022\/0\/default.jpg","type":"Image","width":1528,"height":2022,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/29\/N-4452-00-000110-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6114,"height":8091,"sizes":[[{"width":191,"height":252},{"width":382,"height":505},{"width":764,"height":1011},{"width":1528,"height":2022},{"width":3057,"height":4045}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/29/N-4452-00-000110-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of brothers at right of painting (7210x5152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif\/full\/322,450\/0\/default.jpg","type":"Image","width":322,"height":450,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":644,"height":901,"sizes":[[{"width":161,"height":225},{"width":322,"height":450},{"width":644,"height":901}]]}]}],
+      "height":7210,
+      "width":5152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif\/full\/1288,1802\/0\/default.jpg","type":"Image","width":1288,"height":1802,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4452-00-000097-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5152,"height":7210,"sizes":[[{"width":161,"height":225},{"width":322,"height":450},{"width":644,"height":901},{"width":1288,"height":1802},{"width":2576,"height":3605}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4452-00-000097-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/05/N-4452-00-000112-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of fur of Andrea's cloak (5775x7798px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/05\/N-4452-00-000112-PYR.tif\/full\/487,360\/0\/default.jpg","type":"Image","width":487,"height":360,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/05\/N-4452-00-000112-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":974,"height":721,"sizes":[[{"width":243,"height":180},{"width":487,"height":360},{"width":974,"height":721}]]}]}],
+      "height":5775,
+      "width":7798,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/05/N-4452-00-000112-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/05/N-4452-00-000112-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/05\/N-4452-00-000112-PYR.tif\/full\/1949,1443\/0\/default.jpg","type":"Image","width":1949,"height":1443,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/05\/N-4452-00-000112-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7798,"height":5775,"sizes":[[{"width":243,"height":180},{"width":487,"height":360},{"width":974,"height":721},{"width":1949,"height":1443},{"width":3899,"height":2887}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/05/N-4452-00-000112-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/08/N-4452-00-000113-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family detail of Gabriel's left hand, After Cleaning Before Retouching (5636x4687px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/08\/N-4452-00-000113-PYR.tif\/full\/292,352\/0\/default.jpg","type":"Image","width":292,"height":352,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/08\/N-4452-00-000113-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":585,"height":704,"sizes":[[{"width":146,"height":176},{"width":292,"height":352},{"width":585,"height":704}]]}]}],
+      "height":5636,
+      "width":4687,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/08/N-4452-00-000113-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/08/N-4452-00-000113-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/08\/N-4452-00-000113-PYR.tif\/full\/1171,1409\/0\/default.jpg","type":"Image","width":1171,"height":1409,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/08\/N-4452-00-000113-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4687,"height":5636,"sizes":[[{"width":146,"height":176},{"width":292,"height":352},{"width":585,"height":704},{"width":1171,"height":1409},{"width":2343,"height":2818}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/08/N-4452-00-000113-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family,Infrared reflectogram (OSIRIS) (7504x10624px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif\/full\/332,234\/0\/default.jpg","type":"Image","width":332,"height":234,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":664,"height":469,"sizes":[[{"width":166,"height":117},{"width":332,"height":234},{"width":664,"height":469}]]}]}],
+      "height":7504,
+      "width":10624,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif\/full\/1328,938\/0\/default.jpg","type":"Image","width":1328,"height":938,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/14\/ng4452_dirrO_a_m-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":10624,"height":7504,"sizes":[[{"width":166,"height":117},{"width":332,"height":234},{"width":664,"height":469},{"width":1328,"height":938},{"width":2656,"height":1876},{"width":5312,"height":3752}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/14/ng4452_dirrO_a_m-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d02-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, Infrared reflectogram (OSIRIS), head of Gabriel. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d02-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d02-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d02-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d02-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d02-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d03-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, Infrared reflectogram (OSIRIS) head of Andrea. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d03-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d03-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d03-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d03-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/11\/ng4452_dirrO_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/11/ng4452_dirrO_d03-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000087-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (24696x34510px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000087-PYR.tif\/full\/269,192\/0\/default.jpg","type":"Image","width":269,"height":192,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000087-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":539,"height":385,"sizes":[[{"width":134,"height":96},{"width":269,"height":192},{"width":539,"height":385}]]}]}],
+      "height":24696,
+      "width":34510,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000087-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000087-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000087-PYR.tif\/full\/1078,771\/0\/default.jpg","type":"Image","width":1078,"height":771,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000087-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":34510,"height":24696,"sizes":[[{"width":134,"height":96},{"width":269,"height":192},{"width":539,"height":385},{"width":1078,"height":771},{"width":2156,"height":1543},{"width":4313,"height":3087},{"width":8627,"height":6174},{"width":17255,"height":12348}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000087-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000086-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, X-radiograph (Computer assembled mosaic). (24696x34510px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000086-PYR.tif\/full\/269,192\/0\/default.jpg","type":"Image","width":269,"height":192,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000086-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":539,"height":385,"sizes":[[{"width":134,"height":96},{"width":269,"height":192},{"width":539,"height":385}]]}]}],
+      "height":24696,
+      "width":34510,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000086-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000086-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000086-PYR.tif\/full\/1078,771\/0\/default.jpg","type":"Image","width":1078,"height":771,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/11\/N-4452-00-000086-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":34510,"height":24696,"sizes":[[{"width":134,"height":96},{"width":269,"height":192},{"width":539,"height":385},{"width":1078,"height":771},{"width":2156,"height":1543},{"width":4313,"height":3087},{"width":8627,"height":6174},{"width":17255,"height":12348}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/11/N-4452-00-000086-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the dark green of the altarcloth. (1488x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif\/full\/259,93\/0\/default.jpg","type":"Image","width":259,"height":93,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":186,"sizes":[[{"width":129,"height":46},{"width":259,"height":93},{"width":519,"height":186}]]}]}],
+      "height":1488,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif\/full\/1038,372\/0\/default.jpg","type":"Image","width":1038,"height":372,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1488,"sizes":[[{"width":129,"height":46},{"width":259,"height":93},{"width":519,"height":186},{"width":1038,"height":372},{"width":2076,"height":744}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS4-a_XS_VIS_DF_20x_A_1994_ExtendedFocus-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the blue sky near the left edge where it covers Lunardo\u2019s nose in its initial position. (704x2768px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif\/full\/346,88\/0\/default.jpg","type":"Image","width":346,"height":88,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":692,"height":176,"sizes":[[{"width":173,"height":44},{"width":346,"height":88},{"width":692,"height":176}]]}]}],
+      "height":704,
+      "width":2768,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif\/full\/1384,352\/0\/default.jpg","type":"Image","width":1384,"height":352,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2768,"height":704,"sizes":[[{"width":173,"height":44},{"width":346,"height":88},{"width":692,"height":176},{"width":1384,"height":352}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS2_XS_VIS_DF_50x_A_ExtendedFocus_new_mounted_2014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the blue sky between the heads of Andrea and Gabriel. (512x1424px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif\/full\/356,128\/0\/default.jpg","type":"Image","width":356,"height":128,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":712,"height":256,"sizes":[[{"width":178,"height":64},{"width":356,"height":128},{"width":712,"height":256}]]}]}],
+      "height":512,
+      "width":1424,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif\/full\/712,256\/0\/default.jpg","type":"Image","width":712,"height":256,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1424,"height":512,"sizes":[[{"width":178,"height":64},{"width":356,"height":128},{"width":712,"height":256}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS1_XS_VIS_DF_20x_A_mounted2014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from a half shadow in the nose of the central boy in the group at the left of the painting. (400x1672px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif\/full\/418,100\/0\/default.jpg","type":"Image","width":418,"height":100,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":836,"height":200,"sizes":[[{"width":209,"height":50},{"width":418,"height":100},{"width":836,"height":200}]]}]}],
+      "height":400,
+      "width":1672,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif\/full\/836,200\/0\/default.jpg","type":"Image","width":836,"height":200,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1672,"height":400,"sizes":[[{"width":209,"height":50},{"width":418,"height":100},{"width":836,"height":200}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS3_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/04/28/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the deepest black of the sleeve of the boy at the right of the group at the left of the painting. (624x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/04\/28\/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif\/full\/259,39\/0\/default.jpg","type":"Image","width":259,"height":39,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/04\/28\/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":78,"sizes":[[{"width":129,"height":19},{"width":259,"height":39},{"width":519,"height":78}]]}]}],
+      "height":624,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/04/28/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/04/28/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/04\/28\/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif\/full\/1038,156\/0\/default.jpg","type":"Image","width":1038,"height":156,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/04\/28\/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":624,"sizes":[[{"width":129,"height":19},{"width":259,"height":39},{"width":519,"height":78},{"width":1038,"height":156},{"width":2076,"height":312}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/04/28/NG4452_IS6_XS_VIS_DF_20x_A_ExtendedFocus-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from a shadow in the hand of the central boy in the group at the left of the painting. (480x2176px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif\/full\/272,60\/0\/default.jpg","type":"Image","width":272,"height":60,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":544,"height":120,"sizes":[[{"width":136,"height":30},{"width":272,"height":60},{"width":544,"height":120}]]}]}],
+      "height":480,
+      "width":2176,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif\/full\/1088,240\/0\/default.jpg","type":"Image","width":1088,"height":240,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/06\/02\/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2176,"height":480,"sizes":[[{"width":136,"height":30},{"width":272,"height":60},{"width":544,"height":120},{"width":1088,"height":240}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/06/02/NG4452_IS4_XS_VIS_DF_20x_A_new_mounted_2014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from a deep shadow in the purple-red doublet just visible at the neck of the central boy in the group on the left. (600x2768px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/346,75\/0\/default.jpg","type":"Image","width":346,"height":75,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":692,"height":150,"sizes":[[{"width":173,"height":37},{"width":346,"height":75},{"width":692,"height":150}]]}]}],
+      "height":600,
+      "width":2768,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/1384,300\/0\/default.jpg","type":"Image","width":1384,"height":300,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2768,"height":600,"sizes":[[{"width":173,"height":37},{"width":346,"height":75},{"width":692,"height":150},{"width":1384,"height":300}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS8_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the orange doublet just visible at the neck of the boy at the right of the group at the left of the painting. (744x2768px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/346,93\/0\/default.jpg","type":"Image","width":346,"height":93,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":692,"height":186,"sizes":[[{"width":173,"height":46},{"width":346,"height":93},{"width":692,"height":186}]]}]}],
+      "height":744,
+      "width":2768,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/1384,372\/0\/default.jpg","type":"Image","width":1384,"height":372,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2768,"height":744,"sizes":[[{"width":173,"height":46},{"width":346,"height":93},{"width":692,"height":186},{"width":1384,"height":372}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS9_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the deep purple brocade coat of the youngest boy, at the right edge. (696x2312px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/289,87\/0\/default.jpg","type":"Image","width":289,"height":87,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":578,"height":174,"sizes":[[{"width":144,"height":43},{"width":289,"height":87},{"width":578,"height":174}]]}]}],
+      "height":696,
+      "width":2312,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/1156,348\/0\/default.jpg","type":"Image","width":1156,"height":348,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2312,"height":696,"sizes":[[{"width":144,"height":43},{"width":289,"height":87},{"width":578,"height":174},{"width":1156,"height":348}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS7_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the blue sky, where it covers a pentimento at the left of Gabriel\u2019s red cloak. (680x1896px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/474,170\/0\/default.jpg","type":"Image","width":474,"height":170,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":948,"height":340,"sizes":[[{"width":237,"height":85},{"width":474,"height":170},{"width":948,"height":340}]]}]}],
+      "height":680,
+      "width":1896,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif\/full\/948,340\/0\/default.jpg","type":"Image","width":948,"height":340,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/28\/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1896,"height":680,"sizes":[[{"width":237,"height":85},{"width":474,"height":170},{"width":948,"height":340}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/28/NG4452_IS10_XS_VIS_DF_20x_A_Repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from a deep red shadow near the left edge of Gabriel\u2019s red cloak. (624x2496px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif\/full\/312,78\/0\/default.jpg","type":"Image","width":312,"height":78,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":624,"height":156,"sizes":[[{"width":156,"height":39},{"width":312,"height":78},{"width":624,"height":156}]]}]}],
+      "height":624,
+      "width":2496,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif\/full\/1248,312\/0\/default.jpg","type":"Image","width":1248,"height":312,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2496,"height":624,"sizes":[[{"width":156,"height":39},{"width":312,"height":78},{"width":624,"height":156},{"width":1248,"height":312}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS6-a_XS_VIS_DF_20x_A_1994-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the deep purple of Andrea\u2019s cloak. (948x3240px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif\/full\/405,118\/0\/default.jpg","type":"Image","width":405,"height":118,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":810,"height":237,"sizes":[[{"width":202,"height":59},{"width":405,"height":118},{"width":810,"height":237}]]}]}],
+      "height":948,
+      "width":3240,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif\/full\/1620,474\/0\/default.jpg","type":"Image","width":1620,"height":474,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/05\/07\/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3240,"height":948,"sizes":[[{"width":202,"height":59},{"width":405,"height":118},{"width":810,"height":237},{"width":1620,"height":474}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/05/07/NG4452_IS5-a_XS_VIS_DF_20x_A_1994-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the dark green of the altarcloth. (1020x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif\/full\/260,63\/0\/default.jpg","type":"Image","width":260,"height":63,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":127,"sizes":[[{"width":130,"height":31},{"width":260,"height":63},{"width":520,"height":127}]]}]}],
+      "height":1020,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif\/full\/1041,255\/0\/default.jpg","type":"Image","width":1041,"height":255,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1020,"sizes":[[{"width":130,"height":31},{"width":260,"height":63},{"width":520,"height":127},{"width":1041,"height":255},{"width":2082,"height":510}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS4-a_XS_VIS_DF_20x_Aa_1994_ExtendedFocus-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4452: Titian, The Vendramin Family, paint cross-section from the greyish marbling of the altar just above the young boy\u2019s head. (1104x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif\/full\/260,69\/0\/default.jpg","type":"Image","width":260,"height":69,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":138,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":138}]]}]}],
+      "height":1104,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif\/full\/1041,276\/0\/default.jpg","type":"Image","width":1041,"height":276,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/29\/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1104,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":138},{"width":1041,"height":276},{"width":2082,"height":552}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/29/NG4452_IS2-a_XS_VIS_DF_50x_Aa_1994-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

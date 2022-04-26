@@ -1,0 +1,422 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb34-recovering.json",
+   "type":"Manifest",
+   "label": { "en": [ "Recovering Titian: Cleaning and Restoration of Three Overlooked Canvas Paintings" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. In this article an account is given of the cleaning and restoration of three works: 'Portrait of Girolamo Fracastoro' and 'The Music Lesson', both in the National Gallery, and 'The Triumph of Love', Ashmolean Museum, Oxford. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-34.json\">vol-34<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-34\">Technical Bulletin Vol. 34<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-34-essay-2-2013\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/vol-34-essay-2-2013.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. In this article an account is given of the cleaning and restoration of three works: 'Portrait of Girolamo Fracastoro' and 'The Music Lesson', both in the National Gallery, and 'The Triumph of Love', Ashmolean Museum, Oxford. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3949-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, before cleaning (7096x5170px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3949-00-000014-PYR.tif\/full\/323,443\/0\/default.jpg","type":"Image","width":323,"height":443,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3949-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":646,"height":887,"sizes":[[{"width":161,"height":221},{"width":323,"height":443},{"width":646,"height":887}]]}]}],
+      "height":7096,
+      "width":5170,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3949-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3949-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3949-00-000014-PYR.tif\/full\/1292,1774\/0\/default.jpg","type":"Image","width":1292,"height":1774,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3949-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5170,"height":7096,"sizes":[[{"width":161,"height":221},{"width":323,"height":443},{"width":646,"height":887},{"width":1292,"height":1774},{"width":2585,"height":3548}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3949-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-0003-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, before cleaning (7992x9683px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-0003-00-000014-PYR.tif\/full\/302,249\/0\/default.jpg","type":"Image","width":302,"height":249,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-0003-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":605,"height":499,"sizes":[[{"width":151,"height":124},{"width":302,"height":249},{"width":605,"height":499}]]}]}],
+      "height":7992,
+      "width":9683,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-0003-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-0003-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-0003-00-000014-PYR.tif\/full\/1210,999\/0\/default.jpg","type":"Image","width":1210,"height":999,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/17\/N-0003-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9683,"height":7992,"sizes":[[{"width":151,"height":124},{"width":302,"height":249},{"width":605,"height":499},{"width":1210,"height":999},{"width":2420,"height":1998},{"width":4841,"height":3996}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/17/N-0003-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-3949-00-000032-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (11384x9217px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-3949-00-000032-PYR.tif\/full\/288,355\/0\/default.jpg","type":"Image","width":288,"height":355,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-3949-00-000032-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":576,"height":711,"sizes":[[{"width":144,"height":177},{"width":288,"height":355},{"width":576,"height":711}]]}]}],
+      "height":11384,
+      "width":9217,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-3949-00-000032-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-3949-00-000032-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-3949-00-000032-PYR.tif\/full\/1152,1423\/0\/default.jpg","type":"Image","width":1152,"height":1423,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-3949-00-000032-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9217,"height":11384,"sizes":[[{"width":144,"height":177},{"width":288,"height":355},{"width":576,"height":711},{"width":1152,"height":1423},{"width":2304,"height":2846},{"width":4608,"height":5692}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-3949-00-000032-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/19/N-3949-00-000034-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, during removal of varnish and overpaint. (7075x5228px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/19\/N-3949-00-000034-PYR.tif\/full\/326,442\/0\/default.jpg","type":"Image","width":326,"height":442,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/19\/N-3949-00-000034-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":653,"height":884,"sizes":[[{"width":163,"height":221},{"width":326,"height":442},{"width":653,"height":884}]]}]}],
+      "height":7075,
+      "width":5228,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/19/N-3949-00-000034-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/19/N-3949-00-000034-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/19\/N-3949-00-000034-PYR.tif\/full\/1307,1768\/0\/default.jpg","type":"Image","width":1307,"height":1768,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/19\/N-3949-00-000034-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5228,"height":7075,"sizes":[[{"width":163,"height":221},{"width":326,"height":442},{"width":653,"height":884},{"width":1307,"height":1768},{"width":2614,"height":3537}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/19/N-3949-00-000034-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000019-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, back showing the printed Italian text used to secure one of the stretcher keys. (6912x5120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000019-PYR.tif\/full\/320,432\/0\/default.jpg","type":"Image","width":320,"height":432,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":640,"height":864,"sizes":[[{"width":160,"height":216},{"width":320,"height":432},{"width":640,"height":864}]]}]}],
+      "height":6912,
+      "width":5120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000019-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000019-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000019-PYR.tif\/full\/1280,1728\/0\/default.jpg","type":"Image","width":1280,"height":1728,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5120,"height":6912,"sizes":[[{"width":160,"height":216},{"width":320,"height":432},{"width":640,"height":864},{"width":1280,"height":1728},{"width":2560,"height":3456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000019-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000027-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, bottom left corner showing original paint on the tacking margin. (5410x7210px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000027-PYR.tif\/full\/450,338\/0\/default.jpg","type":"Image","width":450,"height":338,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000027-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":901,"height":676,"sizes":[[{"width":225,"height":169},{"width":450,"height":338},{"width":901,"height":676}]]}]}],
+      "height":5410,
+      "width":7210,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000027-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000027-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000027-PYR.tif\/full\/1802,1352\/0\/default.jpg","type":"Image","width":1802,"height":1352,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/05\/N-3949-00-000027-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7210,"height":5410,"sizes":[[{"width":225,"height":169},{"width":450,"height":338},{"width":901,"height":676},{"width":1802,"height":1352},{"width":3605,"height":2705}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/05/N-3949-00-000027-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/28/N-3949-00-000045-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, after cleaning, before restoration. (6913x5747px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/28\/N-3949-00-000045-PYR.tif\/full\/359,432\/0\/default.jpg","type":"Image","width":359,"height":432,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/28\/N-3949-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":718,"height":864,"sizes":[[{"width":179,"height":216},{"width":359,"height":432},{"width":718,"height":864}]]}]}],
+      "height":6913,
+      "width":5747,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/28/N-3949-00-000045-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/28/N-3949-00-000045-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/28\/N-3949-00-000045-PYR.tif\/full\/1436,1728\/0\/default.jpg","type":"Image","width":1436,"height":1728,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/28\/N-3949-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5747,"height":6913,"sizes":[[{"width":179,"height":216},{"width":359,"height":432},{"width":718,"height":864},{"width":1436,"height":1728},{"width":2873,"height":3456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/28/N-3949-00-000045-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/N-0003-00-000037-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, reverse, before cleaning and relining. (5997x6763px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/N-0003-00-000037-PYR.tif\/full\/422,374\/0\/default.jpg","type":"Image","width":422,"height":374,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/N-0003-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":845,"height":749,"sizes":[[{"width":211,"height":187},{"width":422,"height":374},{"width":845,"height":749}]]}]}],
+      "height":5997,
+      "width":6763,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/N-0003-00-000037-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/N-0003-00-000037-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/N-0003-00-000037-PYR.tif\/full\/1690,1499\/0\/default.jpg","type":"Image","width":1690,"height":1499,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/N-0003-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6763,"height":5997,"sizes":[[{"width":211,"height":187},{"width":422,"height":374},{"width":845,"height":749},{"width":1690,"height":1499},{"width":3381,"height":2998}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/N-0003-00-000037-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0003-00-000019-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, with cleaning tests. (5172x6121px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0003-00-000019-PYR.tif\/full\/382,323\/0\/default.jpg","type":"Image","width":382,"height":323,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0003-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":765,"height":646,"sizes":[[{"width":191,"height":161},{"width":382,"height":323},{"width":765,"height":646}]]}]}],
+      "height":5172,
+      "width":6121,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0003-00-000019-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0003-00-000019-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0003-00-000019-PYR.tif\/full\/1530,1293\/0\/default.jpg","type":"Image","width":1530,"height":1293,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0003-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6121,"height":5172,"sizes":[[{"width":191,"height":161},{"width":382,"height":323},{"width":765,"height":646},{"width":1530,"height":1293},{"width":3060,"height":2586}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0003-00-000019-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/05/26/N-0003-00-000013-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (12378x15405px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/05\/26\/N-0003-00-000013-PYR.tif\/full\/481,386\/0\/default.jpg","type":"Image","width":481,"height":386,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/05\/26\/N-0003-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":962,"height":773,"sizes":[[{"width":240,"height":193},{"width":481,"height":386},{"width":962,"height":773}]]}]}],
+      "height":12378,
+      "width":15405,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/05/26/N-0003-00-000013-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/05/26/N-0003-00-000013-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/05\/26\/N-0003-00-000013-PYR.tif\/full\/1925,1547\/0\/default.jpg","type":"Image","width":1925,"height":1547,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/05\/26\/N-0003-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":15405,"height":12378,"sizes":[[{"width":240,"height":193},{"width":481,"height":386},{"width":962,"height":773},{"width":1925,"height":1547},{"width":3851,"height":3094},{"width":7702,"height":6189}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/05/26/N-0003-00-000013-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000028-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, during early stages of removal of varnish. (5705x6558px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000028-PYR.tif\/full\/409,356\/0\/default.jpg","type":"Image","width":409,"height":356,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":819,"height":713,"sizes":[[{"width":204,"height":178},{"width":409,"height":356},{"width":819,"height":713}]]}]}],
+      "height":5705,
+      "width":6558,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000028-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000028-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000028-PYR.tif\/full\/1639,1426\/0\/default.jpg","type":"Image","width":1639,"height":1426,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6558,"height":5705,"sizes":[[{"width":204,"height":178},{"width":409,"height":356},{"width":819,"height":713},{"width":1639,"height":1426},{"width":3279,"height":2852}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000028-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000030-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, during early stages of removal of varnish ultraviolet fluorescence image (5676x6516px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000030-PYR.tif\/full\/407,354\/0\/default.jpg","type":"Image","width":407,"height":354,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":814,"height":709,"sizes":[[{"width":203,"height":177},{"width":407,"height":354},{"width":814,"height":709}]]}]}],
+      "height":5676,
+      "width":6516,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000030-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000030-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000030-PYR.tif\/full\/1629,1419\/0\/default.jpg","type":"Image","width":1629,"height":1419,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/07\/N-0003-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6516,"height":5676,"sizes":[[{"width":203,"height":177},{"width":407,"height":354},{"width":814,"height":709},{"width":1629,"height":1419},{"width":3258,"height":2838}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/07/N-0003-00-000030-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/28/N-0003-00-000058-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, during further cleaning. All the varnish layers remain in the upper right corner and much of the old repaint and filling has yet to be removed. (5694x6522px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/28\/N-0003-00-000058-PYR.tif\/full\/407,355\/0\/default.jpg","type":"Image","width":407,"height":355,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/28\/N-0003-00-000058-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":815,"height":711,"sizes":[[{"width":203,"height":177},{"width":407,"height":355},{"width":815,"height":711}]]}]}],
+      "height":5694,
+      "width":6522,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/28/N-0003-00-000058-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/28/N-0003-00-000058-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/28\/N-0003-00-000058-PYR.tif\/full\/1630,1423\/0\/default.jpg","type":"Image","width":1630,"height":1423,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/28\/N-0003-00-000058-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6522,"height":5694,"sizes":[[{"width":203,"height":177},{"width":407,"height":355},{"width":815,"height":711},{"width":1630,"height":1423},{"width":3261,"height":2847}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/28/N-0003-00-000058-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/10/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, photomicrograph of a finger nail of the viol player, taken during cleaning, showing repaint in the highlight. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/10\/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/10\/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/10/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/10/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/10\/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/10\/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/10/ng0003_m004_viol_player_f-nail_x16_DC-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/N-0003-00-000048-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, detail during cleaning, showing the grey and orange putty over losses along the lower edge. (6031x7840px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/N-0003-00-000048-PYR.tif\/full\/490,376\/0\/default.jpg","type":"Image","width":490,"height":376,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/N-0003-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":980,"height":753,"sizes":[[{"width":245,"height":188},{"width":490,"height":376},{"width":980,"height":753}]]}]}],
+      "height":6031,
+      "width":7840,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/N-0003-00-000048-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/N-0003-00-000048-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/N-0003-00-000048-PYR.tif\/full\/1960,1507\/0\/default.jpg","type":"Image","width":1960,"height":1507,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/10\/N-0003-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7840,"height":6031,"sizes":[[{"width":245,"height":188},{"width":490,"height":376},{"width":980,"height":753},{"width":1960,"height":1507},{"width":3920,"height":3015}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/10/N-0003-00-000048-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/13/N-0003-00-000065-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, detail of the back of the canvas following the removal of the old lining, showing the monogram of Charles I. (6100x8150px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/13\/N-0003-00-000065-PYR.tif\/full\/509,381\/0\/default.jpg","type":"Image","width":509,"height":381,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/13\/N-0003-00-000065-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1018,"height":762,"sizes":[[{"width":254,"height":190},{"width":509,"height":381},{"width":1018,"height":762}]]}]}],
+      "height":6100,
+      "width":8150,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/13/N-0003-00-000065-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/13/N-0003-00-000065-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/13\/N-0003-00-000065-PYR.tif\/full\/2037,1525\/0\/default.jpg","type":"Image","width":2037,"height":1525,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/13\/N-0003-00-000065-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8150,"height":6100,"sizes":[[{"width":254,"height":190},{"width":509,"height":381},{"width":1018,"height":762},{"width":2037,"height":1525},{"width":4075,"height":3050}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/13/N-0003-00-000065-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/11/22/N-0003-00-000069-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3: Possibly by Titian, The Music Lesson, after cleaning and relining, before restoration. (5620x6208px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/11\/22\/N-0003-00-000069-PYR.tif\/full\/388,351\/0\/default.jpg","type":"Image","width":388,"height":351,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/11\/22\/N-0003-00-000069-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":776,"height":702,"sizes":[[{"width":194,"height":175},{"width":388,"height":351},{"width":776,"height":702}]]}]}],
+      "height":5620,
+      "width":6208,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/11/22/N-0003-00-000069-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/11/22/N-0003-00-000069-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/11\/22\/N-0003-00-000069-PYR.tif\/full\/1552,1405\/0\/default.jpg","type":"Image","width":1552,"height":1405,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/11\/22\/N-0003-00-000069-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6208,"height":5620,"sizes":[[{"width":194,"height":175},{"width":388,"height":351},{"width":776,"height":702},{"width":1552,"height":1405},{"width":3104,"height":2810}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/11/22/N-0003-00-000069-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

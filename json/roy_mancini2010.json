@@ -1,0 +1,114 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/roy_mancini2010.json",
+   "type":"Manifest",
+   "label": { "en": [ "The Virgin and Child with an Angel', after Francia: A History of Error" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Selection of high resolution infrared images in support of the Roy and Mancini article from Technical Bulletin Volume 31" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-31.json\">vol-31<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-31\">Technical Bulletin Vol. 31<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin-vol-31\/roy_mancini2010\">Roy and Mancini article<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/Roy_Mancini_2010b.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Selection of high resolution infrared images in support of the Roy and Mancini article from Technical Bulletin Volume 31",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_a_MR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "After Francesco Francia, 'The Virgin and Child with an Angel' (NG3927), probably late nineteenth or early twentieth century, showing edges. Oil on poplar, 58.5 x 44.5cm, infrared reflectogram (3153x2412px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_a_MR-PYR.tif\/full\/301,394\/0\/default.jpg","type":"Image","width":301,"height":394,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_a_MR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":603,"height":788,"sizes":[[{"width":150,"height":197},{"width":301,"height":394},{"width":603,"height":788}]]}]}],
+      "height":3153,
+      "width":2412,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_a_MR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_a_MR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_a_MR-PYR.tif\/full\/1206,1576\/0\/default.jpg","type":"Image","width":1206,"height":1576,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_a_MR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2412,"height":3153,"sizes":[[{"width":150,"height":197},{"width":301,"height":394},{"width":603,"height":788},{"width":1206,"height":1576}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_a_MR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d1_HR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "After Francesco Francia, 'The Virgin and Child with an Angel' (NG3927), probably late nineteenth or early twentieth century, showing edges. Oil on poplar, 58.5 x 44.5cm, detail infrared reflectogram (4648x4636px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d1_HR-PYR.tif\/full\/289,290\/0\/default.jpg","type":"Image","width":289,"height":290,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d1_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":579,"height":581,"sizes":[[{"width":144,"height":145},{"width":289,"height":290},{"width":579,"height":581}]]}]}],
+      "height":4648,
+      "width":4636,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d1_HR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d1_HR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d1_HR-PYR.tif\/full\/1159,1162\/0\/default.jpg","type":"Image","width":1159,"height":1162,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d1_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4636,"height":4648,"sizes":[[{"width":144,"height":145},{"width":289,"height":290},{"width":579,"height":581},{"width":1159,"height":1162},{"width":2318,"height":2324}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d1_HR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d2_HR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "After Francesco Francia, 'The Virgin and Child with an Angel' (NG3927), probably late nineteenth or early twentieth century, showing edges. Oil on poplar, 58.5 x 44.5cm, detail infrared reflectogram (3640x3380px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d2_HR-PYR.tif\/full\/422,455\/0\/default.jpg","type":"Image","width":422,"height":455,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d2_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":845,"height":910,"sizes":[[{"width":211,"height":227},{"width":422,"height":455},{"width":845,"height":910}]]}]}],
+      "height":3640,
+      "width":3380,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d2_HR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d2_HR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d2_HR-PYR.tif\/full\/1690,1820\/0\/default.jpg","type":"Image","width":1690,"height":1820,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/technicalbulletin\/volume_31\/N-3927_dirr_d2_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3380,"height":3640,"sizes":[[{"width":211,"height":227},{"width":422,"height":455},{"width":845,"height":910},{"width":1690,"height":1820}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/technicalbulletin/volume_31/N-3927_dirr_d2_HR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

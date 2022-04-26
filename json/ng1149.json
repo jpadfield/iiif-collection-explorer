@@ -1,0 +1,400 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng1149.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG1149: Marco d'Oggiono, The Virgin and Child" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-32.json\">vol-32<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/spring_mazzotta_roy_billinge_peggie2011.json\">spring_mazzotta_roy_billinge_peggie2011<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-32\">Technical Bulletin Vol. 32<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG1149\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/spring_mazzotta_roy_billinge_peggie2011.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1149-00-000008-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Marco d\u2019Oggiono, 'The Virgin and Child', probably about 1520, oil on panel (9042x7053px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1149-00-000008-PYR.tif\/full\/220,282\/0\/default.jpg","type":"Image","width":220,"height":282,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1149-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":440,"height":565,"sizes":[[{"width":110,"height":141},{"width":220,"height":282},{"width":440,"height":565}]]}]}],
+      "height":9042,
+      "width":7053,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1149-00-000008-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1149-00-000008-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1149-00-000008-PYR.tif\/full\/881,1130\/0\/default.jpg","type":"Image","width":881,"height":1130,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1149-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7053,"height":9042,"sizes":[[{"width":110,"height":141},{"width":220,"height":282},{"width":440,"height":565},{"width":881,"height":1130},{"width":1763,"height":2260},{"width":3526,"height":4521}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1149-00-000008-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/11/18/N-1149-00-000024-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (computer assembled) (8097x6505px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/11\/18\/N-1149-00-000024-PYR.tif\/full\/406,506\/0\/default.jpg","type":"Image","width":406,"height":506,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/11\/18\/N-1149-00-000024-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":813,"height":1012,"sizes":[[{"width":203,"height":253},{"width":406,"height":506},{"width":813,"height":1012}]]}]}],
+      "height":8097,
+      "width":6505,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/11/18/N-1149-00-000024-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/11/18/N-1149-00-000024-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/11\/18\/N-1149-00-000024-PYR.tif\/full\/1626,2024\/0\/default.jpg","type":"Image","width":1626,"height":2024,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/11\/18\/N-1149-00-000024-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6505,"height":8097,"sizes":[[{"width":203,"height":253},{"width":406,"height":506},{"width":813,"height":1012},{"width":1626,"height":2024},{"width":3252,"height":4048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/11/18/N-1149-00-000024-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram (OSIRIS) (3908x3240px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_a-PYR.tif\/full\/405,488\/0\/default.jpg","type":"Image","width":405,"height":488,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":810,"height":977,"sizes":[[{"width":202,"height":244},{"width":405,"height":488},{"width":810,"height":977}]]}]}],
+      "height":3908,
+      "width":3240,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_a-PYR.tif\/full\/1620,1954\/0\/default.jpg","type":"Image","width":1620,"height":1954,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3240,"height":3908,"sizes":[[{"width":202,"height":244},{"width":405,"height":488},{"width":810,"height":977},{"width":1620,"height":1954}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_d01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram detail (OSIRIS), showing the Christ Child (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_d01-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_d01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_d01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_d01-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_dirrO_d01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m002_virgin_left_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the Virgin\u2019s left eye, showing small touches of discoloured repaint over original paint and damages (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m002_virgin_left_eye-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m002_virgin_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m002_virgin_left_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m002_virgin_left_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m002_virgin_left_eye-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m002_virgin_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m002_virgin_left_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m012_child_left_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the Child\u2019s left eye, showing small touches of discoloured repaint over original paint and damages (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m012_child_left_eye-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m012_child_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m012_child_left_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m012_child_left_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m012_child_left_eye-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m012_child_left_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m012_child_left_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m015_child_elbow-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the Child\u2019s elbow, showing underdrawing visible through the paint, as well as losses, dirt and discoloured retouchings (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m015_child_elbow-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m015_child_elbow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m015_child_elbow-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m015_child_elbow-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m015_child_elbow-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m015_child_elbow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m015_child_elbow-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m016_child_flesh-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of a light area of flesh paint on the Child, showing pigment particles (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m016_child_flesh-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m016_child_flesh-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m016_child_flesh-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m016_child_flesh-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m016_child_flesh-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m016_child_flesh-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m016_child_flesh-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m007_virgin_sleeve2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the Virgin\u2019s red sleeve (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m007_virgin_sleeve2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m007_virgin_sleeve2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m007_virgin_sleeve2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m007_virgin_sleeve2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m007_virgin_sleeve2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m007_virgin_sleeve2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m007_virgin_sleeve2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m011_virgin_blue2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the Virgin\u2019s blue cloak, showing azurite over the grey underpaint, visible at the edges of a paint loss (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m011_virgin_blue2-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m011_virgin_blue2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m011_virgin_blue2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m011_virgin_blue2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m011_virgin_blue2-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m011_virgin_blue2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m011_virgin_blue2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m021_plant_left1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of one of the leaves of the foliage to the left of the Virgin; distinctive lenticular brown particles are visible embedded in the green paint (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m021_plant_left1-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m021_plant_left1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m021_plant_left1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m021_plant_left1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m021_plant_left1-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m021_plant_left1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m021_plant_left1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m023_plant_right-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the flower in the bottom right corner, painted over the blue of the Virgin\u2019s cloak (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m023_plant_right-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m023_plant_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m023_plant_right-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m023_plant_right-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m023_plant_right-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m023_plant_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m023_plant_right-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m018_rocks_left-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Photomicrograph of the rocks behind the Virgin\u2019s head.  Visible through cracks is blue sky paint applied before the artist decided to put dark rocks behind the figures (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m018_rocks_left-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m018_rocks_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m018_rocks_left-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m018_rocks_left-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m018_rocks_left-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/ng1149_m018_rocks_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/ng1149_m018_rocks_left-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/12/1149_S4_XS_VIS_100xD-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Cross-section from a mid blue area of the Virgin\u2019s drapery, on her knee, showing the greyish-mauve underpaint (lead white, black, a little pale red lake and azurite) beneath the blue paint containing azurite and lead white (2100x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/12\/1149_S4_XS_VIS_100xD-PYR.tif\/full\/260,131\/0\/default.jpg","type":"Image","width":260,"height":131,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/12\/1149_S4_XS_VIS_100xD-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":262,"sizes":[[{"width":130,"height":65},{"width":260,"height":131},{"width":520,"height":262}]]}]}],
+      "height":2100,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/12/1149_S4_XS_VIS_100xD-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/12/1149_S4_XS_VIS_100xD-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/12\/1149_S4_XS_VIS_100xD-PYR.tif\/full\/1041,525\/0\/default.jpg","type":"Image","width":1041,"height":525,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/10\/12\/1149_S4_XS_VIS_100xD-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2100,"sizes":[[{"width":130,"height":65},{"width":260,"height":131},{"width":520,"height":262},{"width":1041,"height":525},{"width":2082,"height":1050}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/10/12/1149_S4_XS_VIS_100xD-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Cross-section from a green leaf in the foliage to the left of the Virgin; the paint contains verdigris, agglomerates of an intensely yellow earth pigment and black, as well as brown lenticular particles, one of which is visible in the middle of the lowest green layer (2111x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif\/full\/260,131\/0\/default.jpg","type":"Image","width":260,"height":131,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":263,"sizes":[[{"width":130,"height":65},{"width":260,"height":131},{"width":520,"height":263}]]}]}],
+      "height":2111,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif\/full\/1041,527\/0\/default.jpg","type":"Image","width":1041,"height":527,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2111,"sizes":[[{"width":130,"height":65},{"width":260,"height":131},{"width":520,"height":263},{"width":1041,"height":527},{"width":2082,"height":1055}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S3_XS_VIS_NGTB_HR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Cross-section from the shadow of the Virgin\u2019s arm. A mixture of lead white, red lake, vermilion, yellow earth, lead white and black has been used. The uppermost layer contains more red lake and yellow earth than the lower layer. (1068x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif\/full\/260,66\/0\/default.jpg","type":"Image","width":260,"height":66,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":133,"sizes":[[{"width":130,"height":33},{"width":260,"height":66},{"width":520,"height":133}]]}]}],
+      "height":1068,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif\/full\/1041,267\/0\/default.jpg","type":"Image","width":1041,"height":267,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1149\/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1068,"sizes":[[{"width":130,"height":33},{"width":260,"height":66},{"width":520,"height":133},{"width":1041,"height":267},{"width":2082,"height":534}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1149/NG1149_S6_XS_VIS_NGTB_HR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

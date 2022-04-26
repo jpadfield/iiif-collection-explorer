@@ -1,0 +1,1236 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb36-cat06.json",
+   "type":"Manifest",
+   "label": { "en": [ "The Tribute Money, 1567-8 (NG 224)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-36.json\">vol-36<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb36-cats-b.json\">tb36-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\">Technical Bulletin Vol. 36<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\/catalogue\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/24100\/vol36-cats5-8.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, about 1560-8 (perhaps begun in the 1540s), Oil on canvas, (112.2 x 103.2 cm) (6614x5673px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif\/full\/354,413\/0\/default.jpg","type":"Image","width":354,"height":413,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":709,"height":826,"sizes":[[{"width":177,"height":206},{"width":354,"height":413},{"width":709,"height":826}]]}]}],
+      "height":6614,
+      "width":5673,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif\/full\/1418,1653\/0\/default.jpg","type":"Image","width":1418,"height":1653,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/18\/N-0224-00-000075-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5673,"height":6614,"sizes":[[{"width":177,"height":206},{"width":354,"height":413},{"width":709,"height":826},{"width":1418,"height":1653},{"width":2836,"height":3307}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/18/N-0224-00-000075-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money,Infrared reflectogram (OSIRIS) (4028x3852px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif\/full\/481,503\/0\/default.jpg","type":"Image","width":481,"height":503,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":963,"height":1007,"sizes":[[{"width":240,"height":251},{"width":481,"height":503},{"width":963,"height":1007}]]}]}],
+      "height":4028,
+      "width":3852,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif\/full\/1926,2014\/0\/default.jpg","type":"Image","width":1926,"height":2014,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/27\/ng0224_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3852,"height":4028,"sizes":[[{"width":240,"height":251},{"width":481,"height":503},{"width":963,"height":1007},{"width":1926,"height":2014}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/27/ng0224_dirrO_a1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000057-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (6845x6441px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000057-PYR.tif\/full\/402,427\/0\/default.jpg","type":"Image","width":402,"height":427,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":805,"height":855,"sizes":[[{"width":201,"height":213},{"width":402,"height":427},{"width":805,"height":855}]]}]}],
+      "height":6845,
+      "width":6441,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000057-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000057-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000057-PYR.tif\/full\/1610,1711\/0\/default.jpg","type":"Image","width":1610,"height":1711,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6441,"height":6845,"sizes":[[{"width":201,"height":213},{"width":402,"height":427},{"width":805,"height":855},{"width":1610,"height":1711},{"width":3220,"height":3422}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000057-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000056-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, X-radiograph (Computer assembled mosaic) (6845x6441px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000056-PYR.tif\/full\/402,427\/0\/default.jpg","type":"Image","width":402,"height":427,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000056-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":805,"height":855,"sizes":[[{"width":201,"height":213},{"width":402,"height":427},{"width":805,"height":855}]]}]}],
+      "height":6845,
+      "width":6441,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000056-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000056-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000056-PYR.tif\/full\/1610,1711\/0\/default.jpg","type":"Image","width":1610,"height":1711,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/05\/14\/N-0224-00-000056-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6441,"height":6845,"sizes":[[{"width":201,"height":213},{"width":402,"height":427},{"width":805,"height":855},{"width":1610,"height":1711},{"width":3220,"height":3422}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/05/14/N-0224-00-000056-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/17/ng0224_m001_Christ_l_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of Christ's left eye. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/17\/ng0224_m001_Christ_l_eye-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/17\/ng0224_m001_Christ_l_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/17/ng0224_m001_Christ_l_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/17/ng0224_m001_Christ_l_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/17\/ng0224_m001_Christ_l_eye-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/17\/ng0224_m001_Christ_l_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/17/ng0224_m001_Christ_l_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m002_Christ_moustache_x06-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of Christ's moustache (x06). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m002_Christ_moustache_x06-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m002_Christ_moustache_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m002_Christ_moustache_x06-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m002_Christ_moustache_x06-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m002_Christ_moustache_x06-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m002_Christ_moustache_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m002_Christ_moustache_x06-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of hairs of Christ's moustache (x16) . (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m003_Christ_moustache_hairs_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m004_Christ_radience_left_x06-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the radience around . (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m004_Christ_radience_left_x06-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m004_Christ_radience_left_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m004_Christ_radience_left_x06-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m004_Christ_radience_left_x06-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m004_Christ_radience_left_x06-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m004_Christ_radience_left_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m004_Christ_radience_left_x06-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m005_Christ_radience_left_side_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of Christ\u2019s radiance on the left. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m005_Christ_radience_left_side_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m005_Christ_radience_left_side_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m005_Christ_radience_left_side_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m005_Christ_radience_left_side_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m005_Christ_radience_left_side_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m005_Christ_radience_left_side_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m005_Christ_radience_left_side_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m006_blue_above_Christ_x06-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of blue above Christ\u2019s head (x06). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m006_blue_above_Christ_x06-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m006_blue_above_Christ_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m006_blue_above_Christ_x06-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m006_blue_above_Christ_x06-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m006_blue_above_Christ_x06-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m006_blue_above_Christ_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m006_blue_above_Christ_x06-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m007_blue_above_Christ_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of blue above Christ\u2019s head (x16). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m007_blue_above_Christ_x16-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m007_blue_above_Christ_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m007_blue_above_Christ_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m007_blue_above_Christ_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m007_blue_above_Christ_x16-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m007_blue_above_Christ_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m007_blue_above_Christ_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m008_blue_above_Christ_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of blue above Christ\u2019s head (x40). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m008_blue_above_Christ_x40-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m008_blue_above_Christ_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m008_blue_above_Christ_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m008_blue_above_Christ_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m008_blue_above_Christ_x40-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m008_blue_above_Christ_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m008_blue_above_Christ_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m009_radience_right_of_Christ-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of Christ's radience on the right. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m009_radience_right_of_Christ-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m009_radience_right_of_Christ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m009_radience_right_of_Christ-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m009_radience_right_of_Christ-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m009_radience_right_of_Christ-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m009_radience_right_of_Christ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m009_radience_right_of_Christ-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m010_Christ_blue_layers-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph the edge of Christ's blue cloak, showing two layers of blue paint. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m010_Christ_blue_layers-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m010_Christ_blue_layers-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m010_Christ_blue_layers-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m010_Christ_blue_layers-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m010_Christ_blue_layers-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m010_Christ_blue_layers-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m010_Christ_blue_layers-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m011_Christ_blue_over_red-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph the edge of Christ's blue cloak, showing two layers of blue paint over red of robe. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m011_Christ_blue_over_red-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m011_Christ_blue_over_red-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m011_Christ_blue_over_red-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m011_Christ_blue_over_red-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m011_Christ_blue_over_red-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m011_Christ_blue_over_red-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m011_Christ_blue_over_red-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m012_red_lake_shadow-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of a shadow in Christ's red robe. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m012_red_lake_shadow-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m012_red_lake_shadow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m012_red_lake_shadow-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m012_red_lake_shadow-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m012_red_lake_shadow-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m012_red_lake_shadow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m012_red_lake_shadow-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m013_red_lake_sleeve_1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of a highlight in Christ's sleeve. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m013_red_lake_sleeve_1-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m013_red_lake_sleeve_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m013_red_lake_sleeve_1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m013_red_lake_sleeve_1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m013_red_lake_sleeve_1-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m013_red_lake_sleeve_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m013_red_lake_sleeve_1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m014_red_lake_sleeve_2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of a highlight in Christ's sleeve. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m014_red_lake_sleeve_2-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m014_red_lake_sleeve_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m014_red_lake_sleeve_2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m014_red_lake_sleeve_2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m014_red_lake_sleeve_2-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m014_red_lake_sleeve_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m014_red_lake_sleeve_2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m015_left_cuff_red_lake-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of Christ\u2019s left cuff. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m015_left_cuff_red_lake-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m015_left_cuff_red_lake-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m015_left_cuff_red_lake-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m015_left_cuff_red_lake-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m015_left_cuff_red_lake-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m015_left_cuff_red_lake-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m015_left_cuff_red_lake-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m016_red_lake_by_thumb_x10-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of red paint at left of Christ\u2019s right thumb. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m016_red_lake_by_thumb_x10-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m016_red_lake_by_thumb_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m016_red_lake_by_thumb_x10-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m016_red_lake_by_thumb_x10-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m016_red_lake_by_thumb_x10-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m016_red_lake_by_thumb_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m016_red_lake_by_thumb_x10-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m017_red_by_thumb_1_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of red paint near Christ\u2019s right thumb (x16). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m017_red_by_thumb_1_x16-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m017_red_by_thumb_1_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m017_red_by_thumb_1_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m017_red_by_thumb_1_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m017_red_by_thumb_1_x16-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m017_red_by_thumb_1_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m017_red_by_thumb_1_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of red paint near Christ\u2019s right thumb (x16). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m018_red_lake_by_thumb_2_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of red paint near Christ\u2019s right thumb (x16). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m019_red_lake_by_thumb_3_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m020_old_man_hat_x10-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the hat of the old man (x10) (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m020_old_man_hat_x10-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m020_old_man_hat_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m020_old_man_hat_x10-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m020_old_man_hat_x10-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m020_old_man_hat_x10-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m020_old_man_hat_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m020_old_man_hat_x10-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m021_old_man_hat_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the hat of the old man, showing dark grey underpaint (x40) (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m021_old_man_hat_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m021_old_man_hat_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m021_old_man_hat_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m021_old_man_hat_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m021_old_man_hat_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m021_old_man_hat_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m021_old_man_hat_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m022_old_man_glasses-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the lens of the old man's spectacles. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m022_old_man_glasses-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m022_old_man_glasses-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m022_old_man_glasses-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m022_old_man_glasses-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m022_old_man_glasses-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m022_old_man_glasses-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m022_old_man_glasses-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m023_pharisee_beard-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of hairs of the pharisee's beard. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m023_pharisee_beard-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m023_pharisee_beard-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m023_pharisee_beard-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m023_pharisee_beard-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m023_pharisee_beard-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m023_pharisee_beard-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m023_pharisee_beard-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m024_pharisee_coat-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's coat. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m024_pharisee_coat-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m024_pharisee_coat-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m024_pharisee_coat-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m024_pharisee_coat-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m024_pharisee_coat-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m024_pharisee_coat-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m024_pharisee_coat-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's sash, showing smalt (x16). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m025_pharisee_sash_smalt_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's sash, showing smalt particle (x40). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m026_pharisee_sash_smalt_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m027_pharisee_sash_yellow-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's sash, showing yellow particles (x40). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m027_pharisee_sash_yellow-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m027_pharisee_sash_yellow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m027_pharisee_sash_yellow-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m027_pharisee_sash_yellow-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m027_pharisee_sash_yellow-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m027_pharisee_sash_yellow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m027_pharisee_sash_yellow-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's sash, showing realgar particles (x16). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m028_pharisee_sash_realgar_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's sash, showing realgar particles (x40). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m029_pharisee_sash_realgar_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m030_pharisee_shoulder_black_under-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's shoulder, showing black. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m030_pharisee_shoulder_black_under-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m030_pharisee_shoulder_black_under-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m030_pharisee_shoulder_black_under-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m030_pharisee_shoulder_black_under-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m030_pharisee_shoulder_black_under-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m030_pharisee_shoulder_black_under-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m030_pharisee_shoulder_black_under-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's nose, showing black under nose paint (x10). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m031_pharisee_nose_black_under_x10-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's nose, showing black under nose paint (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m032_pharisee_nose_black_under_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m033_pharisee_shirt-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the Pharisee\u2019s white shirt. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m033_pharisee_shirt-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m033_pharisee_shirt-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m033_pharisee_shirt-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m033_pharisee_shirt-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m033_pharisee_shirt-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m033_pharisee_shirt-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m033_pharisee_shirt-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m034_ring-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the pharisee's ring. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m034_ring-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m034_ring-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m034_ring-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m034_ring-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m034_ring-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m034_ring-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m034_ring-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m035_coin-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the coin. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m035_coin-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m035_coin-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m035_coin-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m035_coin-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m035_coin-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m035_coin-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m035_coin-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m036_sky-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the sky, showing different blue pigments. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m036_sky-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m036_sky-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m036_sky-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m036_sky-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m036_sky-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m036_sky-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m036_sky-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m037_sky_near_old_man_x10-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the sky near the old man, showing different blue pigments (x10). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m037_sky_near_old_man_x10-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m037_sky_near_old_man_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m037_sky_near_old_man_x10-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m037_sky_near_old_man_x10-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m037_sky_near_old_man_x10-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m037_sky_near_old_man_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m037_sky_near_old_man_x10-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m038_sky_near_old_man_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph  of the sky near the old man, showing different blue pigments (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m038_sky_near_old_man_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m038_sky_near_old_man_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m038_sky_near_old_man_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m038_sky_near_old_man_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m038_sky_near_old_man_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m038_sky_near_old_man_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m038_sky_near_old_man_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the sky by Christ\u2019s head, showing flesh paint below blue(x10). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m039_sky_by_Christ_flesh_under_x10-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the sky by Christ\u2019s head, showing flesh paint below blue (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/18\/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/18/ng0224_m040_sky_left_Christ_flesh_under_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of Christ's cloak at his shoulder, showing red paint of first robe. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m041_Christ_shoulder_red_under_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of dark area below pharisee's elbow (x16). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m042_below_elbow_of_pharisee_x16-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of dark area below pharisee's elbow, showing yellow, green and blue pigment particles (x40). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m043_below_elbow_of_pharisee_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of grey area below pharisee's elbow (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m044_grey_below_elbow_of_pharisee_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of dark area below pharisee's elbow, showing green pigment particles (x40). (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m045_green_below_elbow_of_pharisee_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m046_signature_x06-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph of the T in the signature (x06). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m046_signature_x06-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m046_signature_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m046_signature_x06-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m046_signature_x06-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m046_signature_x06-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m046_signature_x06-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m046_signature_x06-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m047_signature_x40-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, photomicrograph  of the T in the signature (x40). (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m047_signature_x40-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m047_signature_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m047_signature_x40-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m047_signature_x40-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m047_signature_x40-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/19\/ng0224_m047_signature_x40-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/19/ng0224_m047_signature_x40-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/10/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, paint cross-section from the discoloured blue of the extension to Christ\u2019s mantle at the bottom edge. (2316x4140px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/10\/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif\/full\/258,144\/0\/default.jpg","type":"Image","width":258,"height":144,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/10\/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":517,"height":289,"sizes":[[{"width":129,"height":72},{"width":258,"height":144},{"width":517,"height":289}]]}]}],
+      "height":2316,
+      "width":4140,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/10/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/10/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/10\/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif\/full\/1035,579\/0\/default.jpg","type":"Image","width":1035,"height":579,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/10\/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4140,"height":2316,"sizes":[[{"width":129,"height":72},{"width":258,"height":144},{"width":517,"height":289},{"width":1035,"height":579},{"width":2070,"height":1158}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/10/NG224_IS1b_XS_Vis_DF_20x_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, thinpaint cross-section from Christ\u2019s blue mantle, photographed in reflected light. (1140x1980px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif\/full\/495,285\/0\/default.jpg","type":"Image","width":495,"height":285,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":990,"height":570,"sizes":[[{"width":247,"height":142},{"width":495,"height":285},{"width":990,"height":570}]]}]}],
+      "height":1140,
+      "width":1980,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif\/full\/990,570\/0\/default.jpg","type":"Image","width":990,"height":570,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/15\/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1980,"height":1140,"sizes":[[{"width":247,"height":142},{"width":495,"height":285},{"width":990,"height":570}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/15/NG224_IS5_TXS_Vis_DF_20x_b-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/08/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG224: Titian, The Tribute Money, paint cross-section from the Pharisee\u2019s stole near the edge where it runs over the yellow tunic. (2040x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/08\/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif\/full\/259,127\/0\/default.jpg","type":"Image","width":259,"height":127,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/08\/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":255,"sizes":[[{"width":129,"height":63},{"width":259,"height":127},{"width":519,"height":255}]]}]}],
+      "height":2040,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/08/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/08/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/08\/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif\/full\/1038,510\/0\/default.jpg","type":"Image","width":1038,"height":510,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/08\/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":2040,"sizes":[[{"width":129,"height":63},{"width":259,"height":127},{"width":519,"height":255},{"width":1038,"height":510},{"width":2076,"height":1020}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/08/NG224_IS6_TXS_Vis_DF_50x_b_centre-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

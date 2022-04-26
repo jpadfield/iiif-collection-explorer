@@ -1,0 +1,400 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb34-cat05.json",
+   "type":"Manifest",
+   "label": { "en": [ "05   Portrait of Gerolamo (?) Barbarigo ('The Man with a Quilted Sleeve'), c.1510 (NG1944)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>01   The Flight into Egypt, c.1507. The State Hermitage Museum, St Petersburg:<\/b> For further information about this picture see <a href=https:\/\/www.hermitagemuseum.org\/wps\/portal\/hermitage\/digital-collection\/01.+Paintings\/32250\/?lng=en>https:\/\/www.hermitagemuseum.org<\/a> (Accessed Feb 2022)<\/li><li><b>02   Christ and the Adulteress and Head of a Man, c.1508-10. Glasgow Museums:<\/b> For further information about this picture see <a href=http:\/\/collections.glasgowmuseums.com\/mwebcgi\/mweb?request=record;id=166789;type=101>http:\/\/collections.glasgowmuseums.com<\/a> (Accessed Feb 2022)<\/li><li><b>03   Rest on the Flight into Egypt, c.1508-9. The Most Hon. the Marquess of Bath, Longleat House, Warminster, Wiltshire.:<\/b> At this time no further information is available for this painting.<\/li>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-34.json\">vol-34<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb34-cats-a.json\">tb34-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-34\">Technical Bulletin Vol. 34<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-34-catalogue-2013\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/vol-34-cat-1-to-7-2013.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>01   The Flight into Egypt, c.1507. The State Hermitage Museum, St Petersburg:<\/b> For further information about this picture see <a href=https:\/\/www.hermitagemuseum.org\/wps\/portal\/hermitage\/digital-collection\/01.+Paintings\/32250\/?lng=en>https:\/\/www.hermitagemuseum.org<\/a> (Accessed Feb 2022)<\/li><li><b>02   Christ and the Adulteress and Head of a Man, c.1508-10. Glasgow Museums:<\/b> For further information about this picture see <a href=http:\/\/collections.glasgowmuseums.com\/mwebcgi\/mweb?request=record;id=166789;type=101>http:\/\/collections.glasgowmuseums.com<\/a> (Accessed Feb 2022)<\/li><li><b>03   Rest on the Flight into Egypt, c.1508-9. The Most Hon. the Marquess of Bath, Longleat House, Warminster, Wiltshire.:<\/b> At this time no further information is available for this painting.<\/li>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1944-00-000052-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, about 1510, Oil on canvas, (81.2 x 66.3 cm) (9080x7325px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1944-00-000052-PYR.tif\/full\/228,283\/0\/default.jpg","type":"Image","width":228,"height":283,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1944-00-000052-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":457,"height":567,"sizes":[[{"width":114,"height":141},{"width":228,"height":283},{"width":457,"height":567}]]}]}],
+      "height":9080,
+      "width":7325,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1944-00-000052-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1944-00-000052-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1944-00-000052-PYR.tif\/full\/915,1135\/0\/default.jpg","type":"Image","width":915,"height":1135,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1944-00-000052-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7325,"height":9080,"sizes":[[{"width":114,"height":141},{"width":228,"height":283},{"width":457,"height":567},{"width":915,"height":1135},{"width":1831,"height":2270},{"width":3662,"height":4540}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1944-00-000052-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, infrared reflectogram (OSIRIS) (4083x3457px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_a-PYR.tif\/full\/432,510\/0\/default.jpg","type":"Image","width":432,"height":510,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":864,"height":1020,"sizes":[[{"width":216,"height":255},{"width":432,"height":510},{"width":864,"height":1020}]]}]}],
+      "height":4083,
+      "width":3457,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_a-PYR.tif\/full\/1728,2041\/0\/default.jpg","type":"Image","width":1728,"height":2041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3457,"height":4083,"sizes":[[{"width":216,"height":255},{"width":432,"height":510},{"width":864,"height":1020},{"width":1728,"height":2041}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_d1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, infrared reflectogram (OSIRIS), detail of head. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_d1-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_d1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_d1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_d1-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/05\/ng1944_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/05/ng1944_dirrO_d1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000055-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (10330x8575px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000055-PYR.tif\/full\/267,322\/0\/default.jpg","type":"Image","width":267,"height":322,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":535,"height":645,"sizes":[[{"width":133,"height":161},{"width":267,"height":322},{"width":535,"height":645}]]}]}],
+      "height":10330,
+      "width":8575,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000055-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000055-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000055-PYR.tif\/full\/1071,1291\/0\/default.jpg","type":"Image","width":1071,"height":1291,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8575,"height":10330,"sizes":[[{"width":133,"height":161},{"width":267,"height":322},{"width":535,"height":645},{"width":1071,"height":1291},{"width":2143,"height":2582},{"width":4287,"height":5165}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000055-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000054-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, X-radiograph (Computer assembled mosaic) (10330x8575px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000054-PYR.tif\/full\/267,322\/0\/default.jpg","type":"Image","width":267,"height":322,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000054-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":535,"height":645,"sizes":[[{"width":133,"height":161},{"width":267,"height":322},{"width":535,"height":645}]]}]}],
+      "height":10330,
+      "width":8575,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000054-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000054-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000054-PYR.tif\/full\/1071,1291\/0\/default.jpg","type":"Image","width":1071,"height":1291,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2007\/09\/10\/N-1944-00-000054-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8575,"height":10330,"sizes":[[{"width":133,"height":161},{"width":267,"height":322},{"width":535,"height":645},{"width":1071,"height":1291},{"width":2143,"height":2582},{"width":4287,"height":5165}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2007/09/10/N-1944-00-000054-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m001_right_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of right eye. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m001_right_eye-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m001_right_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m001_right_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m001_right_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m001_right_eye-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m001_right_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m001_right_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m002_necklace-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of necklace. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m002_necklace-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m002_necklace-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m002_necklace-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m002_necklace-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m002_necklace-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m002_necklace-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m002_necklace-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m003_shirt-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of shirt. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m003_shirt-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m003_shirt-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m003_shirt-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m003_shirt-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m003_shirt-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m003_shirt-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m003_shirt-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m004_red_near_shirt-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of sleeve near neckline to show red lake over blue. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m004_red_near_shirt-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m004_red_near_shirt-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m004_red_near_shirt-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m004_red_near_shirt-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m004_red_near_shirt-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m004_red_near_shirt-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m004_red_near_shirt-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m005_red_line_near_shirt_1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of sleeve near shirt to show red line over blue. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m005_red_line_near_shirt_1-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m005_red_line_near_shirt_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m005_red_line_near_shirt_1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m005_red_line_near_shirt_1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m005_red_line_near_shirt_1-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m005_red_line_near_shirt_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m005_red_line_near_shirt_1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m006_red_line_near_shirt_2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of sleeve near shirt to show red line over blue. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m006_red_line_near_shirt_2-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m006_red_line_near_shirt_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m006_red_line_near_shirt_2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m006_red_line_near_shirt_2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m006_red_line_near_shirt_2-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m006_red_line_near_shirt_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m006_red_line_near_shirt_2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m007_red_lines_near_elbow-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of sleeve near elbow to show red lines over blue. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m007_red_lines_near_elbow-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m007_red_lines_near_elbow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m007_red_lines_near_elbow-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m007_red_lines_near_elbow-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m007_red_lines_near_elbow-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m007_red_lines_near_elbow-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m007_red_lines_near_elbow-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m008_red_lines_in_sleeve-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of sleeve to show red lines over blue. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m008_red_lines_in_sleeve-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m008_red_lines_in_sleeve-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m008_red_lines_in_sleeve-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m008_red_lines_in_sleeve-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m008_red_lines_in_sleeve-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m008_red_lines_in_sleeve-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m008_red_lines_in_sleeve-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m009_priming_left_edge_1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of left edge, showing exposed priming. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m009_priming_left_edge_1-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m009_priming_left_edge_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m009_priming_left_edge_1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m009_priming_left_edge_1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m009_priming_left_edge_1-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m009_priming_left_edge_1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m009_priming_left_edge_1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m010_priming_left_edge_2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, photomicrograph of left edge, showing exposed priming. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m010_priming_left_edge_2-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m010_priming_left_edge_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m010_priming_left_edge_2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m010_priming_left_edge_2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m010_priming_left_edge_2-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/10\/23\/ng1944_m010_priming_left_edge_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/10/23/ng1944_m010_priming_left_edge_2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1944: Titian, Portrait of Gerolamo (?) Barbarigo, paint cross-section from the purple sleeve. (2256x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif\/full\/260,141\/0\/default.jpg","type":"Image","width":260,"height":141,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":282,"sizes":[[{"width":130,"height":70},{"width":260,"height":141},{"width":520,"height":282}]]}]}],
+      "height":2256,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif\/full\/1041,564\/0\/default.jpg","type":"Image","width":1041,"height":564,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2256,"sizes":[[{"width":130,"height":70},{"width":260,"height":141},{"width":520,"height":282},{"width":1041,"height":564},{"width":2082,"height":1128}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG1944_S3new_XS_VIS_DF_50xB-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

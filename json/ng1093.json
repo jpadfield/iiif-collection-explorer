@@ -1,0 +1,202 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng1093.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG1093: Leonardo da Vinci, The Virgin with the Infant Saint John the Baptist adoring the Christ Child accompanied by an Angel ('The Virgin of the Rocks')" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-32.json\">vol-32<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/keith_roy_morrison_schade2011.json\">keith_roy_morrison_schade2011<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-32\">Technical Bulletin Vol. 32<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG1093\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/keith_roy_morrison_schade2011.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/29/N-1093-00-000328-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Leonardo da Vinci, 'The Virgin of the Rocks', oil on poplar panel, 189.5 x 120 cm, after cleaning and restoration (7801x4886px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/29\/N-1093-00-000328-PYR.tif\/full\/305,487\/0\/default.jpg","type":"Image","width":305,"height":487,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/29\/N-1093-00-000328-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":610,"height":975,"sizes":[[{"width":152,"height":243},{"width":305,"height":487},{"width":610,"height":975}]]}]}],
+      "height":7801,
+      "width":4886,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/29/N-1093-00-000328-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/29/N-1093-00-000328-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/29\/N-1093-00-000328-PYR.tif\/full\/1221,1950\/0\/default.jpg","type":"Image","width":1221,"height":1950,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/29\/N-1093-00-000328-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4886,"height":7801,"sizes":[[{"width":152,"height":243},{"width":305,"height":487},{"width":610,"height":975},{"width":1221,"height":1950},{"width":2443,"height":3900}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/29/N-1093-00-000328-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/27/N-1093-00-000214-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Large format black and white photograph from the 1948 restoration, detail showing the angel, taken after cleaning, before restoration (5861x4929px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/27\/N-1093-00-000214-PYR.tif\/full\/308,366\/0\/default.jpg","type":"Image","width":308,"height":366,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/27\/N-1093-00-000214-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":616,"height":732,"sizes":[[{"width":154,"height":183},{"width":308,"height":366},{"width":616,"height":732}]]}]}],
+      "height":5861,
+      "width":4929,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/27/N-1093-00-000214-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/27/N-1093-00-000214-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/27\/N-1093-00-000214-PYR.tif\/full\/1232,1465\/0\/default.jpg","type":"Image","width":1232,"height":1465,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/27\/N-1093-00-000214-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4929,"height":5861,"sizes":[[{"width":154,"height":183},{"width":308,"height":366},{"width":616,"height":732},{"width":1232,"height":1465},{"width":2464,"height":2930}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/27/N-1093-00-000214-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/09/03/N-1093-00-000282-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph  (computer assembled) (26316x17277px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/09\/03\/N-1093-00-000282-PYR.tif\/full\/269,411\/0\/default.jpg","type":"Image","width":269,"height":411,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/09\/03\/N-1093-00-000282-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":539,"height":822,"sizes":[[{"width":134,"height":205},{"width":269,"height":411},{"width":539,"height":822}]]}]}],
+      "height":26316,
+      "width":17277,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/09/03/N-1093-00-000282-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/09/03/N-1093-00-000282-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/09\/03\/N-1093-00-000282-PYR.tif\/full\/1079,1644\/0\/default.jpg","type":"Image","width":1079,"height":1644,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/09\/03\/N-1093-00-000282-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":17277,"height":26316,"sizes":[[{"width":134,"height":205},{"width":269,"height":411},{"width":539,"height":822},{"width":1079,"height":1644},{"width":2159,"height":3289},{"width":4319,"height":6579},{"width":8638,"height":13158}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/09/03/N-1093-00-000282-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/02/08/N-1093-00-000131-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph  (computer assembled) with the effect of the applied cradle reduced by digital manipulation (26100x16724px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/02\/08\/N-1093-00-000131-PYR.tif\/full\/261,407\/0\/default.jpg","type":"Image","width":261,"height":407,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/02\/08\/N-1093-00-000131-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":522,"height":815,"sizes":[[{"width":130,"height":203},{"width":261,"height":407},{"width":522,"height":815}]]}]}],
+      "height":26100,
+      "width":16724,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/02/08/N-1093-00-000131-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/02/08/N-1093-00-000131-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/02\/08\/N-1093-00-000131-PYR.tif\/full\/1045,1631\/0\/default.jpg","type":"Image","width":1045,"height":1631,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2005\/02\/08\/N-1093-00-000131-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":16724,"height":26100,"sizes":[[{"width":130,"height":203},{"width":261,"height":407},{"width":522,"height":815},{"width":1045,"height":1631},{"width":2090,"height":3262},{"width":4181,"height":6525},{"width":8362,"height":13050}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2005/02/08/N-1093-00-000131-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1093/ng1093.dirr-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram (INOA scanner) (7078x4500px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1093\/ng1093.dirr-PYR.tif\/full\/281,442\/0\/default.jpg","type":"Image","width":281,"height":442,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1093\/ng1093.dirr-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":562,"height":884,"sizes":[[{"width":140,"height":221},{"width":281,"height":442},{"width":562,"height":884}]]}]}],
+      "height":7078,
+      "width":4500,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1093/ng1093.dirr-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1093/ng1093.dirr-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1093\/ng1093.dirr-PYR.tif\/full\/1125,1769\/0\/default.jpg","type":"Image","width":1125,"height":1769,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng1093\/ng1093.dirr-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4500,"height":7078,"sizes":[[{"width":140,"height":221},{"width":281,"height":442},{"width":562,"height":884},{"width":1125,"height":1769}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng1093/ng1093.dirr-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/08/N-1093-00-000326-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Newly constructed frame, during gilding (4085x6648px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/08\/N-1093-00-000326-PYR.tif\/full\/415,255\/0\/default.jpg","type":"Image","width":415,"height":255,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/08\/N-1093-00-000326-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":831,"height":510,"sizes":[[{"width":207,"height":127},{"width":415,"height":255},{"width":831,"height":510}]]}]}],
+      "height":4085,
+      "width":6648,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/08/N-1093-00-000326-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/08/N-1093-00-000326-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/08\/N-1093-00-000326-PYR.tif\/full\/1662,1021\/0\/default.jpg","type":"Image","width":1662,"height":1021,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/08\/N-1093-00-000326-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6648,"height":4085,"sizes":[[{"width":207,"height":127},{"width":415,"height":255},{"width":831,"height":510},{"width":1662,"height":1021},{"width":3324,"height":2042}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/08/N-1093-00-000326-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/07/09/N-1093-00-000347-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1093 shown in newly constructed frame, after restoration (7653x5860px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/07\/09\/N-1093-00-000347-PYR.tif\/full\/366,478\/0\/default.jpg","type":"Image","width":366,"height":478,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/07\/09\/N-1093-00-000347-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":732,"height":956,"sizes":[[{"width":183,"height":239},{"width":366,"height":478},{"width":732,"height":956}]]}]}],
+      "height":7653,
+      "width":5860,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/07/09/N-1093-00-000347-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/07/09/N-1093-00-000347-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/07\/09\/N-1093-00-000347-PYR.tif\/full\/1465,1913\/0\/default.jpg","type":"Image","width":1465,"height":1913,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/07\/09\/N-1093-00-000347-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5860,"height":7653,"sizes":[[{"width":183,"height":239},{"width":366,"height":478},{"width":732,"height":956},{"width":1465,"height":1913},{"width":2930,"height":3826}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/07/09/N-1093-00-000347-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

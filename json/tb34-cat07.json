@@ -1,0 +1,686 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb34-cat07.json",
+   "type":"Manifest",
+   "label": { "en": [ "07   Noli me Tangere, c.1514 (NG270)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>01   The Flight into Egypt, c.1507. The State Hermitage Museum, St Petersburg:<\/b> For further information about this picture see <a href=https:\/\/www.hermitagemuseum.org\/wps\/portal\/hermitage\/digital-collection\/01.+Paintings\/32250\/?lng=en>https:\/\/www.hermitagemuseum.org<\/a> (Accessed Feb 2022)<\/li><li><b>02   Christ and the Adulteress and Head of a Man, c.1508-10. Glasgow Museums:<\/b> For further information about this picture see <a href=http:\/\/collections.glasgowmuseums.com\/mwebcgi\/mweb?request=record;id=166789;type=101>http:\/\/collections.glasgowmuseums.com<\/a> (Accessed Feb 2022)<\/li><li><b>03   Rest on the Flight into Egypt, c.1508-9. The Most Hon. the Marquess of Bath, Longleat House, Warminster, Wiltshire.:<\/b> At this time no further information is available for this painting.<\/li>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-34.json\">vol-34<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb34-cats-a.json\">tb34-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-34\">Technical Bulletin Vol. 34<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-34-catalogue-2013\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/vol-34-cat-1-to-7-2013.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>01   The Flight into Egypt, c.1507. The State Hermitage Museum, St Petersburg:<\/b> For further information about this picture see <a href=https:\/\/www.hermitagemuseum.org\/wps\/portal\/hermitage\/digital-collection\/01.+Paintings\/32250\/?lng=en>https:\/\/www.hermitagemuseum.org<\/a> (Accessed Feb 2022)<\/li><li><b>02   Christ and the Adulteress and Head of a Man, c.1508-10. Glasgow Museums:<\/b> For further information about this picture see <a href=http:\/\/collections.glasgowmuseums.com\/mwebcgi\/mweb?request=record;id=166789;type=101>http:\/\/collections.glasgowmuseums.com<\/a> (Accessed Feb 2022)<\/li><li><b>03   Rest on the Flight into Egypt, c.1508-9. The Most Hon. the Marquess of Bath, Longleat House, Warminster, Wiltshire.:<\/b> At this time no further information is available for this painting.<\/li>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere (7288x5606px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif\/full\/350,455\/0\/default.jpg","type":"Image","width":350,"height":455,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":700,"height":911,"sizes":[[{"width":175,"height":227},{"width":350,"height":455},{"width":700,"height":911}]]}]}],
+      "height":7288,
+      "width":5606,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif\/full\/1401,1822\/0\/default.jpg","type":"Image","width":1401,"height":1822,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5606,"height":7288,"sizes":[[{"width":175,"height":227},{"width":350,"height":455},{"width":700,"height":911},{"width":1401,"height":1822},{"width":2803,"height":3644}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, infrared reflectogram (OSIRIS) (3948x3400px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_a-PYR.tif\/full\/425,493\/0\/default.jpg","type":"Image","width":425,"height":493,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":850,"height":987,"sizes":[[{"width":212,"height":246},{"width":425,"height":493},{"width":850,"height":987}]]}]}],
+      "height":3948,
+      "width":3400,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_a-PYR.tif\/full\/1700,1974\/0\/default.jpg","type":"Image","width":1700,"height":1974,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3400,"height":3948,"sizes":[[{"width":212,"height":246},{"width":425,"height":493},{"width":850,"height":987},{"width":1700,"height":1974}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0270_dirrO_d01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, infrared reflectogram (OSIRIS), detail of figures. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0270_dirrO_d01-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0270_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0270_dirrO_d01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0270_dirrO_d01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0270_dirrO_d01-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0270_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0270_dirrO_d01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d02-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, infrared reflectogram (OSIRIS), detail of Magdalen (4096x3920px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d02-PYR.tif\/full\/490,512\/0\/default.jpg","type":"Image","width":490,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":980,"height":1024,"sizes":[[{"width":245,"height":256},{"width":490,"height":512},{"width":980,"height":1024}]]}]}],
+      "height":4096,
+      "width":3920,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d02-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d02-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d02-PYR.tif\/full\/1960,2048\/0\/default.jpg","type":"Image","width":1960,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3920,"height":4096,"sizes":[[{"width":245,"height":256},{"width":490,"height":512},{"width":980,"height":1024},{"width":1960,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d02-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d03-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, infrared reflectogram (OSIRIS), detail of landscape, top left. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d03-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d03-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d03-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d03-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d03-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d04-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, infrared reflectogram (OSIRIS), detail of landscape, top right. (4096x3920px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d04-PYR.tif\/full\/490,512\/0\/default.jpg","type":"Image","width":490,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d04-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":980,"height":1024,"sizes":[[{"width":245,"height":256},{"width":490,"height":512},{"width":980,"height":1024}]]}]}],
+      "height":4096,
+      "width":3920,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d04-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d04-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d04-PYR.tif\/full\/1960,2048\/0\/default.jpg","type":"Image","width":1960,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/08\/12\/ng0270_dirrO_d04-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3920,"height":4096,"sizes":[[{"width":245,"height":256},{"width":490,"height":512},{"width":980,"height":1024},{"width":1960,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/08/12/ng0270_dirrO_d04-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000145-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (13400x11247px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000145-PYR.tif\/full\/351,418\/0\/default.jpg","type":"Image","width":351,"height":418,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000145-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":702,"height":837,"sizes":[[{"width":175,"height":209},{"width":351,"height":418},{"width":702,"height":837}]]}]}],
+      "height":13400,
+      "width":11247,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000145-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000145-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000145-PYR.tif\/full\/1405,1675\/0\/default.jpg","type":"Image","width":1405,"height":1675,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000145-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":11247,"height":13400,"sizes":[[{"width":175,"height":209},{"width":351,"height":418},{"width":702,"height":837},{"width":1405,"height":1675},{"width":2811,"height":3350},{"width":5623,"height":6700}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000145-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000144-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, X-radiograph (Computer assembled mosaic) (13400x11247px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000144-PYR.tif\/full\/351,418\/0\/default.jpg","type":"Image","width":351,"height":418,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000144-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":702,"height":837,"sizes":[[{"width":175,"height":209},{"width":351,"height":418},{"width":702,"height":837}]]}]}],
+      "height":13400,
+      "width":11247,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000144-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000144-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000144-PYR.tif\/full\/1405,1675\/0\/default.jpg","type":"Image","width":1405,"height":1675,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/01\/15\/N-0270-00-000144-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":11247,"height":13400,"sizes":[[{"width":175,"height":209},{"width":351,"height":418},{"width":702,"height":837},{"width":1405,"height":1675},{"width":2811,"height":3350},{"width":5623,"height":6700}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/01/15/N-0270-00-000144-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m001_foliage_left_of_leg-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of foliage, left of Christ's leg x06 (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m001_foliage_left_of_leg-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m001_foliage_left_of_leg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m001_foliage_left_of_leg-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m001_foliage_left_of_leg-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m001_foliage_left_of_leg-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m001_foliage_left_of_leg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m001_foliage_left_of_leg-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m002_foliage_left_of_leg-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of foliage, left of Christ's leg x40 (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m002_foliage_left_of_leg-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m002_foliage_left_of_leg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m002_foliage_left_of_leg-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m002_foliage_left_of_leg-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m002_foliage_left_of_leg-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m002_foliage_left_of_leg-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m002_foliage_left_of_leg-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m003_Christ_loin_cloth-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of Christ's loin cloth x06 (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m003_Christ_loin_cloth-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m003_Christ_loin_cloth-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m003_Christ_loin_cloth-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m003_Christ_loin_cloth-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m003_Christ_loin_cloth-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m003_Christ_loin_cloth-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m003_Christ_loin_cloth-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m004_Christ_loin_cloth-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of Christ's loin cloth x16 (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m004_Christ_loin_cloth-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m004_Christ_loin_cloth-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m004_Christ_loin_cloth-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m004_Christ_loin_cloth-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m004_Christ_loin_cloth-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m004_Christ_loin_cloth-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m004_Christ_loin_cloth-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m005_Magdelene_eye-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of the Magdalen's eye. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m005_Magdelene_eye-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m005_Magdelene_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m005_Magdelene_eye-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m005_Magdelene_eye-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m005_Magdelene_eye-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m005_Magdelene_eye-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m005_Magdelene_eye-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m006_bush_landscape_left-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph bush, left of Christ, below sheep. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m006_bush_landscape_left-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m006_bush_landscape_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m006_bush_landscape_left-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m006_bush_landscape_left-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m006_bush_landscape_left-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m006_bush_landscape_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m006_bush_landscape_left-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m007_leaves_horizon-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves across horizon x16 (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m007_leaves_horizon-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m007_leaves_horizon-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m007_leaves_horizon-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m007_leaves_horizon-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m007_leaves_horizon-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m007_leaves_horizon-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m007_leaves_horizon-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m008_leaves_horizon-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves across horizon x40 (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m008_leaves_horizon-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m008_leaves_horizon-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m008_leaves_horizon-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m008_leaves_horizon-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m008_leaves_horizon-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m008_leaves_horizon-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m008_leaves_horizon-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m010_lower_branch_black_particles-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves on lower branch. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m010_lower_branch_black_particles-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m010_lower_branch_black_particles-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m010_lower_branch_black_particles-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m010_lower_branch_black_particles-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m010_lower_branch_black_particles-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m010_lower_branch_black_particles-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m010_lower_branch_black_particles-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m012_red_dress_bottom_folds-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of folds in red dress. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m012_red_dress_bottom_folds-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m012_red_dress_bottom_folds-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m012_red_dress_bottom_folds-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m012_red_dress_bottom_folds-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m012_red_dress_bottom_folds-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m012_red_dress_bottom_folds-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m012_red_dress_bottom_folds-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m013_white_impasto_sleeve-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of the lower edge of the Magdalen's sleeve. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m013_white_impasto_sleeve-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m013_white_impasto_sleeve-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m013_white_impasto_sleeve-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m013_white_impasto_sleeve-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m013_white_impasto_sleeve-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m013_white_impasto_sleeve-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m013_white_impasto_sleeve-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m014_white_sleeve-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of the Magdalen's sleeve. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m014_white_sleeve-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m014_white_sleeve-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m014_white_sleeve-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m014_white_sleeve-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m014_white_sleeve-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m014_white_sleeve-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m014_white_sleeve-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m015_leaves_landscape_right-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of leaves in the landscape on the right. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m015_leaves_landscape_right-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m015_leaves_landscape_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m015_leaves_landscape_right-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m015_leaves_landscape_right-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m015_leaves_landscape_right-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m015_leaves_landscape_right-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m015_leaves_landscape_right-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m016_tree_lower_canopy_left-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of the tree from an area at the bottom left of the main canopy, at the very end of the branches. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m016_tree_lower_canopy_left-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m016_tree_lower_canopy_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m016_tree_lower_canopy_left-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m016_tree_lower_canopy_left-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m016_tree_lower_canopy_left-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m016_tree_lower_canopy_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m016_tree_lower_canopy_left-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m018_tree_lower_canopy_left-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves, lower canopy, left. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m018_tree_lower_canopy_left-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m018_tree_lower_canopy_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m018_tree_lower_canopy_left-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m018_tree_lower_canopy_left-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m018_tree_lower_canopy_left-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m018_tree_lower_canopy_left-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m018_tree_lower_canopy_left-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m020_tree_lower_canopy_soaps-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves, lower canopy, left, showing lead soap particles. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m020_tree_lower_canopy_soaps-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m020_tree_lower_canopy_soaps-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m020_tree_lower_canopy_soaps-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m020_tree_lower_canopy_soaps-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m020_tree_lower_canopy_soaps-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m020_tree_lower_canopy_soaps-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m020_tree_lower_canopy_soaps-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m021_tree_lower_canopy_edge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves, lower canopy, left. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m021_tree_lower_canopy_edge-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m021_tree_lower_canopy_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m021_tree_lower_canopy_edge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m021_tree_lower_canopy_edge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m021_tree_lower_canopy_edge-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m021_tree_lower_canopy_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m021_tree_lower_canopy_edge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves, lower canopy, left, showing brown cracking in paint. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m022_tree_lower_canopy_cracked_brown-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m023_tree_sky_between_branches-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of the foliage in the tree, with a patch of sky, seen through the branches. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m023_tree_sky_between_branches-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m023_tree_sky_between_branches-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m023_tree_sky_between_branches-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m023_tree_sky_between_branches-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m023_tree_sky_between_branches-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m023_tree_sky_between_branches-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m023_tree_sky_between_branches-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m024_tree_upper_canopy_edge-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, photomicrograph of tree leaves, upper canopy, left. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m024_tree_upper_canopy_edge-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m024_tree_upper_canopy_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m024_tree_upper_canopy_edge-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m024_tree_upper_canopy_edge-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m024_tree_upper_canopy_edge-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/03\/31\/ng0270_m024_tree_upper_canopy_edge-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/03/31/ng0270_m024_tree_upper_canopy_edge-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere, paint cross-section from the brown leaves visible at the bottom of photomicrograph m016. The sample shows the gesso ground, the off-white imprimatura, the warm pinkish-grey of the clouds in the sky, the thin yellow-brown base colour of the tree, which can be distinguished in SEM images from the thick opaque greenish brown paint of the foliage above it. Orange-yellow and red earth are clearly visible, with dark agglomorates of indigo that appear black, as well as translucent particles of verdigris which appear brownish in the cross-section. The translucent dark brown layer at the surface comprises accumulated dirt and remnants of a degraded surface coating. (2016x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif\/full\/260,126\/0\/default.jpg","type":"Image","width":260,"height":126,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":252,"sizes":[[{"width":130,"height":63},{"width":260,"height":126},{"width":520,"height":252}]]}]}],
+      "height":2016,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif\/full\/1041,504\/0\/default.jpg","type":"Image","width":1041,"height":504,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/20\/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2016,"sizes":[[{"width":130,"height":63},{"width":260,"height":126},{"width":520,"height":252},{"width":1041,"height":504},{"width":2082,"height":1008}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/20/NG270_S2_XS_repolished_2_VIS_DF_50xB-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

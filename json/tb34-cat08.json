@@ -1,0 +1,246 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb34-cat08.json",
+   "type":"Manifest",
+   "label": { "en": [ "08   Bacchus and Ariadne, 1520-3 (NG35)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>13   The Triumph of Love, c.1544-6. Ashmolean Museum, Oxford:<\/b> For further information about this picture see <a href=https:\/\/artuk.org\/discover\/artworks\/the-triumph-of-love-142838\/search\/actor:titian-c-14881576\/page\/1\/view_as\/grid>https:\/\/artuk.org<\/a> (Accessed Feb 2022)<\/li>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-34.json\">vol-34<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb34-cats-b.json\">tb34-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-34\">Technical Bulletin Vol. 34<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-34-catalogue-2013\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/vol-34-cat-8-to-13-2013.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>13   The Triumph of Love, c.1544-6. Ashmolean Museum, Oxford:<\/b> For further information about this picture see <a href=https:\/\/artuk.org\/discover\/artworks\/the-triumph-of-love-142838\/search\/actor:titian-c-14881576\/page\/1\/view_as\/grid>https:\/\/artuk.org<\/a> (Accessed Feb 2022)<\/li>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/24/N-0035-00-000140-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, 1520-3, Oil on canvas, (176.5 x 191 cm) (5902x5958px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/24\/N-0035-00-000140-PYR.tif\/full\/372,368\/0\/default.jpg","type":"Image","width":372,"height":368,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/24\/N-0035-00-000140-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":744,"height":737,"sizes":[[{"width":186,"height":184},{"width":372,"height":368},{"width":744,"height":737}]]}]}],
+      "height":5902,
+      "width":5958,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/24/N-0035-00-000140-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/24/N-0035-00-000140-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/24\/N-0035-00-000140-PYR.tif\/full\/1489,1475\/0\/default.jpg","type":"Image","width":1489,"height":1475,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/24\/N-0035-00-000140-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5958,"height":5902,"sizes":[[{"width":186,"height":184},{"width":372,"height":368},{"width":744,"height":737},{"width":1489,"height":1475},{"width":2979,"height":2951}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/24/N-0035-00-000140-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, infrared reflectogram (OSIRIS) (3673x4090px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_a-PYR.tif\/full\/511,459\/0\/default.jpg","type":"Image","width":511,"height":459,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1022,"height":918,"sizes":[[{"width":255,"height":229},{"width":511,"height":459},{"width":1022,"height":918}]]}]}],
+      "height":3673,
+      "width":4090,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_a-PYR.tif\/full\/2045,1836\/0\/default.jpg","type":"Image","width":2045,"height":1836,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4090,"height":3673,"sizes":[[{"width":255,"height":229},{"width":511,"height":459},{"width":1022,"height":918},{"width":2045,"height":1836}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, infrared reflectogram (OSIRIS) detail (4096x3988px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif\/full\/498,512\/0\/default.jpg","type":"Image","width":498,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":997,"height":1024,"sizes":[[{"width":249,"height":256},{"width":498,"height":512},{"width":997,"height":1024}]]}]}],
+      "height":4096,
+      "width":3988,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif\/full\/1994,2048\/0\/default.jpg","type":"Image","width":1994,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3988,"height":4096,"sizes":[[{"width":249,"height":256},{"width":498,"height":512},{"width":997,"height":1024},{"width":1994,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, infrared reflectogram (OSIRIS), detail of Bacchus. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d2-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d2-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d3-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, infrared reflectogram (OSIRIS), detail of figure with snakes. (4096x3877px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d3-PYR.tif\/full\/484,512\/0\/default.jpg","type":"Image","width":484,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":969,"height":1024,"sizes":[[{"width":242,"height":256},{"width":484,"height":512},{"width":969,"height":1024}]]}]}],
+      "height":4096,
+      "width":3877,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d3-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d3-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d3-PYR.tif\/full\/1938,2048\/0\/default.jpg","type":"Image","width":1938,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3877,"height":4096,"sizes":[[{"width":242,"height":256},{"width":484,"height":512},{"width":969,"height":1024},{"width":1938,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d3-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d4-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, infrared reflectogram (OSIRIS), detail of figure near right edge. (4096x3987px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d4-PYR.tif\/full\/498,512\/0\/default.jpg","type":"Image","width":498,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d4-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":996,"height":1024,"sizes":[[{"width":249,"height":256},{"width":498,"height":512},{"width":996,"height":1024}]]}]}],
+      "height":4096,
+      "width":3987,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d4-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d4-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d4-PYR.tif\/full\/1993,2048\/0\/default.jpg","type":"Image","width":1993,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng0035_dirrO_d4-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3987,"height":4096,"sizes":[[{"width":249,"height":256},{"width":498,"height":512},{"width":996,"height":1024},{"width":1993,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng0035_dirrO_d4-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/04/ng0035_dirrO_d5-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, infrared reflectogram (OSIRIS), detail of faun by chariot. (3584x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/04\/ng0035_dirrO_d5-PYR.tif\/full\/512,448\/0\/default.jpg","type":"Image","width":512,"height":448,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/04\/ng0035_dirrO_d5-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":896,"sizes":[[{"width":256,"height":224},{"width":512,"height":448},{"width":1024,"height":896}]]}]}],
+      "height":3584,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/04/ng0035_dirrO_d5-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/04/ng0035_dirrO_d5-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/04\/ng0035_dirrO_d5-PYR.tif\/full\/2048,1792\/0\/default.jpg","type":"Image","width":2048,"height":1792,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/04\/ng0035_dirrO_d5-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":3584,"sizes":[[{"width":256,"height":224},{"width":512,"height":448},{"width":1024,"height":896},{"width":2048,"height":1792}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/04/ng0035_dirrO_d5-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000104-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (21093x23383px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000104-PYR.tif\/full\/365,329\/0\/default.jpg","type":"Image","width":365,"height":329,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000104-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":730,"height":659,"sizes":[[{"width":182,"height":164},{"width":365,"height":329},{"width":730,"height":659}]]}]}],
+      "height":21093,
+      "width":23383,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000104-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000104-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000104-PYR.tif\/full\/1461,1318\/0\/default.jpg","type":"Image","width":1461,"height":1318,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000104-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":23383,"height":21093,"sizes":[[{"width":182,"height":164},{"width":365,"height":329},{"width":730,"height":659},{"width":1461,"height":1318},{"width":2922,"height":2636},{"width":5845,"height":5273},{"width":11691,"height":10546}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000104-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000103-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, X-radiograph (Computer assembled mosaic) (21093x23383px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000103-PYR.tif\/full\/365,329\/0\/default.jpg","type":"Image","width":365,"height":329,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000103-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":730,"height":659,"sizes":[[{"width":182,"height":164},{"width":365,"height":329},{"width":730,"height":659}]]}]}],
+      "height":21093,
+      "width":23383,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000103-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000103-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000103-PYR.tif\/full\/1461,1318\/0\/default.jpg","type":"Image","width":1461,"height":1318,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/29\/N-0035-00-000103-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":23383,"height":21093,"sizes":[[{"width":182,"height":164},{"width":365,"height":329},{"width":730,"height":659},{"width":1461,"height":1318},{"width":2922,"height":2636},{"width":5845,"height":5273},{"width":11691,"height":10546}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/29/N-0035-00-000103-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

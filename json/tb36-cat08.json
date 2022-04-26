@@ -1,0 +1,312 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb36-cat08.json",
+   "type":"Manifest",
+   "label": { "en": [ "The Death of Actaeon, c.1559-76 (NG 35)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-36.json\">vol-36<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb36-cats-b.json\">tb36-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\">Technical Bulletin Vol. 36<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\/catalogue\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/24100\/vol36-cats5-8.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, about 1559-75, Oil on canvas, (178.8 x 197.8 cm) (5334x5454px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif\/full\/340,333\/0\/default.jpg","type":"Image","width":340,"height":333,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":681,"height":666,"sizes":[[{"width":170,"height":166},{"width":340,"height":333},{"width":681,"height":666}]]}]}],
+      "height":5334,
+      "width":5454,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif\/full\/1363,1333\/0\/default.jpg","type":"Image","width":1363,"height":1333,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6420-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5454,"height":5334,"sizes":[[{"width":170,"height":166},{"width":340,"height":333},{"width":681,"height":666},{"width":1363,"height":1333},{"width":2727,"height":2667}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6420-00-000055-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/11/20/ng6420_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, Infrared reflectogram (OSIRIS) (3680x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/11\/20\/ng6420_dirrO_a-PYR.tif\/full\/512,460\/0\/default.jpg","type":"Image","width":512,"height":460,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/11\/20\/ng6420_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":920,"sizes":[[{"width":256,"height":230},{"width":512,"height":460},{"width":1024,"height":920}]]}]}],
+      "height":3680,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/11/20/ng6420_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/11/20/ng6420_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/11\/20\/ng6420_dirrO_a-PYR.tif\/full\/2048,1840\/0\/default.jpg","type":"Image","width":2048,"height":1840,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/11\/20\/ng6420_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":3680,"sizes":[[{"width":256,"height":230},{"width":512,"height":460},{"width":1024,"height":920},{"width":2048,"height":1840}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/11/20/ng6420_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000038-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (22259x24668px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000038-PYR.tif\/full\/385,347\/0\/default.jpg","type":"Image","width":385,"height":347,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000038-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":770,"height":695,"sizes":[[{"width":192,"height":173},{"width":385,"height":347},{"width":770,"height":695}]]}]}],
+      "height":22259,
+      "width":24668,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000038-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000038-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000038-PYR.tif\/full\/1541,1391\/0\/default.jpg","type":"Image","width":1541,"height":1391,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000038-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":24668,"height":22259,"sizes":[[{"width":192,"height":173},{"width":385,"height":347},{"width":770,"height":695},{"width":1541,"height":1391},{"width":3083,"height":2782},{"width":6167,"height":5564},{"width":12334,"height":11129}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000038-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000037-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, X-radiograph (Computer assembled mosaic) (22041x24377px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000037-PYR.tif\/full\/380,344\/0\/default.jpg","type":"Image","width":380,"height":344,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":761,"height":688,"sizes":[[{"width":190,"height":172},{"width":380,"height":344},{"width":761,"height":688}]]}]}],
+      "height":22041,
+      "width":24377,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000037-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000037-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000037-PYR.tif\/full\/1523,1377\/0\/default.jpg","type":"Image","width":1523,"height":1377,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2006\/03\/07\/N-6420-00-000037-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":24377,"height":22041,"sizes":[[{"width":190,"height":172},{"width":380,"height":344},{"width":761,"height":688},{"width":1523,"height":1377},{"width":3047,"height":2755},{"width":6094,"height":5510},{"width":12188,"height":11020}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2006/03/07/N-6420-00-000037-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS1_XS_VIS_DF_50x_A_cover%20slip-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from the patch of blue sky at the upper left of the painting. (3084x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS1_XS_VIS_DF_50x_A_cover slip-PYR.tif\/full\/259,192\/0\/default.jpg","type":"Image","width":259,"height":192,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS1_XS_VIS_DF_50x_A_cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":385,"sizes":[[{"width":129,"height":96},{"width":259,"height":192},{"width":519,"height":385}]]}]}],
+      "height":3084,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS1_XS_VIS_DF_50x_A_cover%20slip-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS1_XS_VIS_DF_50x_A_cover%20slip-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS1_XS_VIS_DF_50x_A_cover slip-PYR.tif\/full\/1038,771\/0\/default.jpg","type":"Image","width":1038,"height":771,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS1_XS_VIS_DF_50x_A_cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":3084,"sizes":[[{"width":129,"height":96},{"width":259,"height":192},{"width":519,"height":385},{"width":1038,"height":771},{"width":2076,"height":1542}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS1_XS_VIS_DF_50x_A_cover%20slip-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from a shadow in Diana\u2019s red drapery. (1620x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif\/full\/260,101\/0\/default.jpg","type":"Image","width":260,"height":101,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":202,"sizes":[[{"width":130,"height":50},{"width":260,"height":101},{"width":520,"height":202}]]}]}],
+      "height":1620,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif\/full\/1041,405\/0\/default.jpg","type":"Image","width":1041,"height":405,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1620,"sizes":[[{"width":130,"height":50},{"width":260,"height":101},{"width":520,"height":202},{"width":1041,"height":405},{"width":2082,"height":810}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_Vis_DF_x50_B_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from a shadow in Diana\u2019s red drapery, showing multiple deep red layers containing mainly red lake over the lighter more opaque base colours, ultraviolet fluorescence image. (1620x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif\/full\/260,101\/0\/default.jpg","type":"Image","width":260,"height":101,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":202,"sizes":[[{"width":130,"height":50},{"width":260,"height":101},{"width":520,"height":202}]]}]}],
+      "height":1620,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif\/full\/1041,405\/0\/default.jpg","type":"Image","width":1041,"height":405,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/02\/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1620,"sizes":[[{"width":130,"height":50},{"width":260,"height":101},{"width":520,"height":202},{"width":1041,"height":405},{"width":2082,"height":810}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/02/NG6420_S2_XS_UV_x50_B_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS3_XS_VIS_DF_50x_A_cover%20slip-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from the orange of Diana\u2019s sandal. (3084x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS3_XS_VIS_DF_50x_A_cover slip-PYR.tif\/full\/259,192\/0\/default.jpg","type":"Image","width":259,"height":192,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS3_XS_VIS_DF_50x_A_cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":385,"sizes":[[{"width":129,"height":96},{"width":259,"height":192},{"width":519,"height":385}]]}]}],
+      "height":3084,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS3_XS_VIS_DF_50x_A_cover%20slip-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS3_XS_VIS_DF_50x_A_cover%20slip-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS3_XS_VIS_DF_50x_A_cover slip-PYR.tif\/full\/1038,771\/0\/default.jpg","type":"Image","width":1038,"height":771,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS3_XS_VIS_DF_50x_A_cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":3084,"sizes":[[{"width":129,"height":96},{"width":259,"height":192},{"width":519,"height":385},{"width":1038,"height":771},{"width":2076,"height":1542}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS3_XS_VIS_DF_50x_A_cover%20slip-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/21/NG6420_IS8_XS_VIS_DF_50x_G_repolished%20and%20without%20cover%20slip-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from the touch of red on the tree trunk just below the ivy leaves. (1560x3324px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/21\/NG6420_IS8_XS_VIS_DF_50x_G_repolished and without cover slip-PYR.tif\/full\/415,195\/0\/default.jpg","type":"Image","width":415,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/21\/NG6420_IS8_XS_VIS_DF_50x_G_repolished and without cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":831,"height":390,"sizes":[[{"width":207,"height":97},{"width":415,"height":195},{"width":831,"height":390}]]}]}],
+      "height":1560,
+      "width":3324,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/21/NG6420_IS8_XS_VIS_DF_50x_G_repolished%20and%20without%20cover%20slip-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/21/NG6420_IS8_XS_VIS_DF_50x_G_repolished%20and%20without%20cover%20slip-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/21\/NG6420_IS8_XS_VIS_DF_50x_G_repolished and without cover slip-PYR.tif\/full\/1662,780\/0\/default.jpg","type":"Image","width":1662,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/05\/21\/NG6420_IS8_XS_VIS_DF_50x_G_repolished and without cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3324,"height":1560,"sizes":[[{"width":207,"height":97},{"width":415,"height":195},{"width":831,"height":390},{"width":1662,"height":780}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/05/21/NG6420_IS8_XS_VIS_DF_50x_G_repolished%20and%20without%20cover%20slip-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/12/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from the edge of one of the ivy leaves on the tree trunk at the far right of the painting; the uppermost layers of browned green are present only at the far right of the sample. (1512x3516px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/12\/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif\/full\/439,189\/0\/default.jpg","type":"Image","width":439,"height":189,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/12\/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":879,"height":378,"sizes":[[{"width":219,"height":94},{"width":439,"height":189},{"width":879,"height":378}]]}]}],
+      "height":1512,
+      "width":3516,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/12/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/12/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/12\/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif\/full\/1758,756\/0\/default.jpg","type":"Image","width":1758,"height":756,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/12\/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3516,"height":1512,"sizes":[[{"width":219,"height":94},{"width":439,"height":189},{"width":879,"height":378},{"width":1758,"height":756}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/12/NG6420_IS7_XS_VIS_DF_20x_B_FirstRepolish-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS10_XS_VIS_DF_20x_A_cover%20slip-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from the foliage of a tree in the middle of the painting. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS10_XS_VIS_DF_20x_A_cover slip-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS10_XS_VIS_DF_20x_A_cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS10_XS_VIS_DF_20x_A_cover%20slip-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS10_XS_VIS_DF_20x_A_cover%20slip-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS10_XS_VIS_DF_20x_A_cover slip-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS10_XS_VIS_DF_20x_A_cover slip-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS10_XS_VIS_DF_20x_A_cover%20slip-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6420: Titian, The Death of Actaeon, paint cross-section from a highlight on one of the leaves of the bush in the foreground. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/26\/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/26/NG6420_IS4_XS_VIS_DF_20x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

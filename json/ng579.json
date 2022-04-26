@@ -1,0 +1,114 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng579.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG579: Niccol\u00f2 di Pietro Gerini, Baptism Altarpiece" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/new_howard_billinge_tomlinson_peggie_gordon2012.json\">new_howard_billinge_tomlinson_peggie_gordon2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/GROUP132\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/New-Howard-Billinge-Tomlinson-Peggie-Gordon_2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/22/N-0579-00-000077-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "GROUP132: 1387, Image Originally dated: 2011-06-20 (6868x5588px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/22\/N-0579-00-000077-PYR.tif\/full\/349,429\/0\/default.jpg","type":"Image","width":349,"height":429,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/22\/N-0579-00-000077-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":698,"height":858,"sizes":[[{"width":174,"height":214},{"width":349,"height":429},{"width":698,"height":858}]]}]}],
+      "height":6868,
+      "width":5588,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/22/N-0579-00-000077-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/22/N-0579-00-000077-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/22\/N-0579-00-000077-PYR.tif\/full\/1397,1717\/0\/default.jpg","type":"Image","width":1397,"height":1717,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/22\/N-0579-00-000077-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5588,"height":6868,"sizes":[[{"width":174,"height":214},{"width":349,"height":429},{"width":698,"height":858},{"width":1397,"height":1717},{"width":2794,"height":3434}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/22/N-0579-00-000077-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/06/16/N-0579-00-000071-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "GROUP132: 1387, Reverse Image, Image Originally dated: 2009-06-16 (6788x5352px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/06\/16\/N-0579-00-000071-PYR.tif\/full\/334,424\/0\/default.jpg","type":"Image","width":334,"height":424,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/06\/16\/N-0579-00-000071-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":669,"height":848,"sizes":[[{"width":167,"height":212},{"width":334,"height":424},{"width":669,"height":848}]]}]}],
+      "height":6788,
+      "width":5352,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/06/16/N-0579-00-000071-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/06/16/N-0579-00-000071-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/06\/16\/N-0579-00-000071-PYR.tif\/full\/1338,1697\/0\/default.jpg","type":"Image","width":1338,"height":1697,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/06\/16\/N-0579-00-000071-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5352,"height":6788,"sizes":[[{"width":167,"height":212},{"width":334,"height":424},{"width":669,"height":848},{"width":1338,"height":1697},{"width":2676,"height":3394}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/06/16/N-0579-00-000071-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/06/N-0579-00-000066-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "X-radiograph (Computer assembled mosaic), Image Originally dated: 2007-04-19 (24009x21909px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/06\/N-0579-00-000066-PYR.tif\/full\/342,375\/0\/default.jpg","type":"Image","width":342,"height":375,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/06\/N-0579-00-000066-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":684,"height":750,"sizes":[[{"width":171,"height":187},{"width":342,"height":375},{"width":684,"height":750}]]}]}],
+      "height":24009,
+      "width":21909,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/06/N-0579-00-000066-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/06/N-0579-00-000066-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/06\/N-0579-00-000066-PYR.tif\/full\/1369,1500\/0\/default.jpg","type":"Image","width":1369,"height":1500,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/10\/06\/N-0579-00-000066-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":21909,"height":24009,"sizes":[[{"width":171,"height":187},{"width":342,"height":375},{"width":684,"height":750},{"width":1369,"height":1500},{"width":2738,"height":3001},{"width":5477,"height":6002},{"width":10954,"height":12004}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/10/06/N-0579-00-000066-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

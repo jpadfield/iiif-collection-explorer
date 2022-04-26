@@ -1,0 +1,268 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat10.json",
+   "type":"Manifest",
+   "label": { "en": [ "Saint John the Baptist in the Wilderness, after 1776, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-b.json\">tb35-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23858\/volume35cataloguepart2.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/M-1404-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, , 132 x 102.2 cm. The Wallace Collection. (7172x5408px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/M-1404-00-000002-PYR.tif\/full\/338,448\/0\/default.jpg","type":"Image","width":338,"height":448,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/M-1404-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":676,"height":896,"sizes":[[{"width":169,"height":224},{"width":338,"height":448},{"width":676,"height":896}]]}]}],
+      "height":7172,
+      "width":5408,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/M-1404-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/M-1404-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/M-1404-00-000002-PYR.tif\/full\/1352,1793\/0\/default.jpg","type":"Image","width":1352,"height":1793,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/12\/M-1404-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5408,"height":7172,"sizes":[[{"width":169,"height":224},{"width":338,"height":448},{"width":676,"height":896},{"width":1352,"height":1793},{"width":2704,"height":3586}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/12/M-1404-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/16/M-1404-00-000009-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, X-radiograph (Computer assembled mosaic). The Wallace Collection. (15409x12440px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/16\/M-1404-00-000009-PYR.tif\/full\/388,481\/0\/default.jpg","type":"Image","width":388,"height":481,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/16\/M-1404-00-000009-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":777,"height":963,"sizes":[[{"width":194,"height":240},{"width":388,"height":481},{"width":777,"height":963}]]}]}],
+      "height":15409,
+      "width":12440,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/16/M-1404-00-000009-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/16/M-1404-00-000009-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/16\/M-1404-00-000009-PYR.tif\/full\/1555,1926\/0\/default.jpg","type":"Image","width":1555,"height":1926,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/12\/16\/M-1404-00-000009-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":12440,"height":15409,"sizes":[[{"width":194,"height":240},{"width":388,"height":481},{"width":777,"height":963},{"width":1555,"height":1926},{"width":3110,"height":3852},{"width":6220,"height":7704}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/12/16/M-1404-00-000009-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/06/M-1404-00-000010-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (15409x12440px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/06\/M-1404-00-000010-PYR.tif\/full\/388,481\/0\/default.jpg","type":"Image","width":388,"height":481,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/06\/M-1404-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":777,"height":963,"sizes":[[{"width":194,"height":240},{"width":388,"height":481},{"width":777,"height":963}]]}]}],
+      "height":15409,
+      "width":12440,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/06/M-1404-00-000010-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/06/M-1404-00-000010-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/06\/M-1404-00-000010-PYR.tif\/full\/1555,1926\/0\/default.jpg","type":"Image","width":1555,"height":1926,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/06\/M-1404-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":12440,"height":15409,"sizes":[[{"width":194,"height":240},{"width":388,"height":481},{"width":777,"height":963},{"width":1555,"height":1926},{"width":3110,"height":3852},{"width":6220,"height":7704}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/06/M-1404-00-000010-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/01/m1404_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, infrared reflectogram (OSIRIS). The Wallace Collection. (3920x3221px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/01\/m1404_dirrO_a-PYR.tif\/full\/402,490\/0\/default.jpg","type":"Image","width":402,"height":490,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/01\/m1404_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":805,"height":980,"sizes":[[{"width":201,"height":245},{"width":402,"height":490},{"width":805,"height":980}]]}]}],
+      "height":3920,
+      "width":3221,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/01/m1404_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/01/m1404_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/01\/m1404_dirrO_a-PYR.tif\/full\/1610,1960\/0\/default.jpg","type":"Image","width":1610,"height":1960,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/01\/m1404_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3221,"height":3920,"sizes":[[{"width":201,"height":245},{"width":402,"height":490},{"width":805,"height":980},{"width":1610,"height":1960}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/01/m1404_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_DF_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, paint cross-section from background, right edge.  The Wallace Collection. (1836x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_DF_x20-PYR.tif\/full\/260,114\/0\/default.jpg","type":"Image","width":260,"height":114,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":229,"sizes":[[{"width":130,"height":57},{"width":260,"height":114},{"width":520,"height":229}]]}]}],
+      "height":1836,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_DF_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_DF_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_DF_x20-PYR.tif\/full\/1041,459\/0\/default.jpg","type":"Image","width":1041,"height":459,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_DF_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1836,"sizes":[[{"width":130,"height":57},{"width":260,"height":114},{"width":520,"height":229},{"width":1041,"height":459},{"width":2082,"height":918}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_DF_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_UV_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, paint cross-section from background, right edge, ultraviolet fluorescence image. The Wallace Collection. (1836x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_UV_x20-PYR.tif\/full\/260,114\/0\/default.jpg","type":"Image","width":260,"height":114,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":229,"sizes":[[{"width":130,"height":57},{"width":260,"height":114},{"width":520,"height":229}]]}]}],
+      "height":1836,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_UV_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_UV_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_UV_x20-PYR.tif\/full\/1041,459\/0\/default.jpg","type":"Image","width":1041,"height":459,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1404_s2_XS_UV_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1836,"sizes":[[{"width":130,"height":57},{"width":260,"height":114},{"width":520,"height":229},{"width":1041,"height":459},{"width":2082,"height":918}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1404_s2_XS_UV_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_DF_x50-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, paint cross-section from flesh paint of the torso. The Wallace Collection. (2136x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_DF_x50-PYR.tif\/full\/260,133\/0\/default.jpg","type":"Image","width":260,"height":133,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_DF_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":267,"sizes":[[{"width":130,"height":66},{"width":260,"height":133},{"width":520,"height":267}]]}]}],
+      "height":2136,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_DF_x50-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_DF_x50-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_DF_x50-PYR.tif\/full\/1041,534\/0\/default.jpg","type":"Image","width":1041,"height":534,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_DF_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2136,"sizes":[[{"width":130,"height":66},{"width":260,"height":133},{"width":520,"height":267},{"width":1041,"height":534},{"width":2082,"height":1068}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_DF_x50-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_UV_x50-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, paint cross-section from flesh paint of the torso, ultraviolet fluorescence image. The Wallace Collection. (2136x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_UV_x50-PYR.tif\/full\/260,133\/0\/default.jpg","type":"Image","width":260,"height":133,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_UV_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":267,"sizes":[[{"width":130,"height":66},{"width":260,"height":133},{"width":520,"height":267}]]}]}],
+      "height":2136,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_UV_x50-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_UV_x50-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_UV_x50-PYR.tif\/full\/1041,534\/0\/default.jpg","type":"Image","width":1041,"height":534,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s8a_XS_UV_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2136,"sizes":[[{"width":130,"height":66},{"width":260,"height":133},{"width":520,"height":267},{"width":1041,"height":534},{"width":2082,"height":1068}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s8a_XS_UV_x50-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_DF_x50-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, paint cross-section from flesh paint of the leg. The Wallace Collection. (2160x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_DF_x50-PYR.tif\/full\/260,135\/0\/default.jpg","type":"Image","width":260,"height":135,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_DF_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":270,"sizes":[[{"width":130,"height":67},{"width":260,"height":135},{"width":520,"height":270}]]}]}],
+      "height":2160,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_DF_x50-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_DF_x50-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_DF_x50-PYR.tif\/full\/1041,540\/0\/default.jpg","type":"Image","width":1041,"height":540,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_DF_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2160,"sizes":[[{"width":130,"height":67},{"width":260,"height":135},{"width":520,"height":270},{"width":1041,"height":540},{"width":2082,"height":1080}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_DF_x50-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_UV_x50-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1404: Sir Joshua Reynolds, St John the Baptist in the Wilderness, paint cross-section from flesh paint of the leg, ultraviolet fluorescence image. The Wallace Collection. (2160x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_UV_x50-PYR.tif\/full\/260,135\/0\/default.jpg","type":"Image","width":260,"height":135,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_UV_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":270,"sizes":[[{"width":130,"height":67},{"width":260,"height":135},{"width":520,"height":270}]]}]}],
+      "height":2160,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_UV_x50-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_UV_x50-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_UV_x50-PYR.tif\/full\/1041,540\/0\/default.jpg","type":"Image","width":1041,"height":540,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/M1404_s3_XS_UV_x50-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2160,"sizes":[[{"width":130,"height":67},{"width":260,"height":135},{"width":520,"height":270},{"width":1041,"height":540},{"width":2082,"height":1080}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/M1404_s3_XS_UV_x50-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

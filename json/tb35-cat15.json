@@ -1,0 +1,400 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat15.json",
+   "type":"Manifest",
+   "label": { "en": [ "Lord Heathfield of Gibraltar, 1787 (NG 111)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-b.json\">tb35-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23858\/volume35cataloguepart2.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, 1787, 142 x 113.5 cm. (6947x5243px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif\/full\/327,434\/0\/default.jpg","type":"Image","width":327,"height":434,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":655,"height":868,"sizes":[[{"width":163,"height":217},{"width":327,"height":434},{"width":655,"height":868}]]}]}],
+      "height":6947,
+      "width":5243,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif\/full\/1310,1736\/0\/default.jpg","type":"Image","width":1310,"height":1736,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5243,"height":6947,"sizes":[[{"width":163,"height":217},{"width":327,"height":434},{"width":655,"height":868},{"width":1310,"height":1736},{"width":2621,"height":3473}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000065-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, 1787, Oil on canvas, (142 x 113.5 cm),X-radiograph (Computer assembled mosaic). (17244x13886px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000065-PYR.tif\/full\/216,269\/0\/default.jpg","type":"Image","width":216,"height":269,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000065-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":433,"height":538,"sizes":[[{"width":108,"height":134},{"width":216,"height":269},{"width":433,"height":538}]]}]}],
+      "height":17244,
+      "width":13886,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000065-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000065-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000065-PYR.tif\/full\/867,1077\/0\/default.jpg","type":"Image","width":867,"height":1077,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000065-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":13886,"height":17244,"sizes":[[{"width":108,"height":134},{"width":216,"height":269},{"width":433,"height":538},{"width":867,"height":1077},{"width":1735,"height":2155},{"width":3471,"height":4311},{"width":6943,"height":8622}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000065-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000066-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, 1787, Oil on canvas, (142 x 113.5 cm),X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. (17244x13886px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000066-PYR.tif\/full\/216,269\/0\/default.jpg","type":"Image","width":216,"height":269,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000066-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":433,"height":538,"sizes":[[{"width":108,"height":134},{"width":216,"height":269},{"width":433,"height":538}]]}]}],
+      "height":17244,
+      "width":13886,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000066-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000066-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000066-PYR.tif\/full\/867,1077\/0\/default.jpg","type":"Image","width":867,"height":1077,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/03\/03\/N-0111-00-000066-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":13886,"height":17244,"sizes":[[{"width":108,"height":134},{"width":216,"height":269},{"width":433,"height":538},{"width":867,"height":1077},{"width":1735,"height":2155},{"width":3471,"height":4311},{"width":6943,"height":8622}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/03/03/N-0111-00-000066-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from dark background, left of the sitter's head, showing single layer of white ground. (2046x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif\/full\/260,127\/0\/default.jpg","type":"Image","width":260,"height":127,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":255,"sizes":[[{"width":130,"height":63},{"width":260,"height":127},{"width":520,"height":255}]]}]}],
+      "height":2046,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif\/full\/1041,511\/0\/default.jpg","type":"Image","width":1041,"height":511,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2046,"sizes":[[{"width":130,"height":63},{"width":260,"height":127},{"width":520,"height":255},{"width":1041,"height":511},{"width":2082,"height":1023}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS14_XS_Vis_DF_20x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS14_XS_UV_20x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from dark background, left of the sitter's head, ultraviolet fluorescence image. (2046x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS14_XS_UV_20x_B-PYR.tif\/full\/260,127\/0\/default.jpg","type":"Image","width":260,"height":127,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS14_XS_UV_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":255,"sizes":[[{"width":130,"height":63},{"width":260,"height":127},{"width":520,"height":255}]]}]}],
+      "height":2046,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS14_XS_UV_20x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS14_XS_UV_20x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS14_XS_UV_20x_B-PYR.tif\/full\/1041,511\/0\/default.jpg","type":"Image","width":1041,"height":511,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS14_XS_UV_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2046,"sizes":[[{"width":130,"height":63},{"width":260,"height":127},{"width":520,"height":255},{"width":1041,"height":511},{"width":2082,"height":1023}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS14_XS_UV_20x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/ng0111_m005_right_epaulette_01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, photomicrograph of the right epaulette, showing red paint emerging through cracks. (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/ng0111_m005_right_epaulette_01-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/ng0111_m005_right_epaulette_01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/ng0111_m005_right_epaulette_01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/ng0111_m005_right_epaulette_01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/ng0111_m005_right_epaulette_01-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/25\/ng0111_m005_right_epaulette_01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/25/ng0111_m005_right_epaulette_01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_OS11_CM_Vis_TL_20x_D_diamond%20cell-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, unmounted fragment of paint from the background, photographed in transmitted light after compression in a diamond anvil cell for FTIR microscopy. Red lake pigment and Prussian blue are present. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_OS11_CM_Vis_TL_20x_D_diamond cell-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_OS11_CM_Vis_TL_20x_D_diamond cell-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_OS11_CM_Vis_TL_20x_D_diamond%20cell-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_OS11_CM_Vis_TL_20x_D_diamond%20cell-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_OS11_CM_Vis_TL_20x_D_diamond cell-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_OS11_CM_Vis_TL_20x_D_diamond cell-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_OS11_CM_Vis_TL_20x_D_diamond%20cell-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from sky at the top edge, showing bright blue paint beneath the surface. (1356x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif\/full\/260,84\/0\/default.jpg","type":"Image","width":260,"height":84,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":169,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":169}]]}]}],
+      "height":1356,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif\/full\/1041,339\/0\/default.jpg","type":"Image","width":1041,"height":339,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/19\/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1356,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":169},{"width":1041,"height":339},{"width":2082,"height":678}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/19/NG111_IS8_XS_Vis_DF_10x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS8_XS_UV_10x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from sky at the top edge, ultraviolet fluorescence image. (1356x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS8_XS_UV_10x_A-PYR.tif\/full\/260,84\/0\/default.jpg","type":"Image","width":260,"height":84,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS8_XS_UV_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":169,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":169}]]}]}],
+      "height":1356,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS8_XS_UV_10x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS8_XS_UV_10x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS8_XS_UV_10x_A-PYR.tif\/full\/1041,339\/0\/default.jpg","type":"Image","width":1041,"height":339,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/03\/05\/NG111_IS8_XS_UV_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1356,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":169},{"width":1041,"height":339},{"width":2082,"height":678}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/03/05/NG111_IS8_XS_UV_10x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from landscape in the lower left corner, showing layers of solid opaque paint and more medium-rich layers. (2454x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif\/full\/260,153\/0\/default.jpg","type":"Image","width":260,"height":153,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":306,"sizes":[[{"width":130,"height":76},{"width":260,"height":153},{"width":520,"height":306}]]}]}],
+      "height":2454,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif\/full\/1041,613\/0\/default.jpg","type":"Image","width":1041,"height":613,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2454,"sizes":[[{"width":130,"height":76},{"width":260,"height":153},{"width":520,"height":306},{"width":1041,"height":613},{"width":2082,"height":1227}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_Vis_DF_20x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_UV_20x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from landscape in the lower left corner, ultraviolet fluorescence image. (2454x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_UV_20x_B-PYR.tif\/full\/260,153\/0\/default.jpg","type":"Image","width":260,"height":153,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_UV_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":306,"sizes":[[{"width":130,"height":76},{"width":260,"height":153},{"width":520,"height":306}]]}]}],
+      "height":2454,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_UV_20x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_UV_20x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_UV_20x_B-PYR.tif\/full\/1041,613\/0\/default.jpg","type":"Image","width":1041,"height":613,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG111_IS16_XS_UV_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2454,"sizes":[[{"width":130,"height":76},{"width":260,"height":153},{"width":520,"height":306},{"width":1041,"height":613},{"width":2082,"height":1227}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG111_IS16_XS_UV_20x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from sitter's waistcoat, showing a glaze above the white paint containing vermilion, black and lead-tin-antimony yellow. (2412x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif\/full\/260,150\/0\/default.jpg","type":"Image","width":260,"height":150,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":301,"sizes":[[{"width":130,"height":75},{"width":260,"height":150},{"width":520,"height":301}]]}]}],
+      "height":2412,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif\/full\/1041,603\/0\/default.jpg","type":"Image","width":1041,"height":603,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/12\/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2412,"sizes":[[{"width":130,"height":75},{"width":260,"height":150},{"width":520,"height":301},{"width":1041,"height":603},{"width":2082,"height":1206}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/12/NG111_IS3_XS_Vis_DF_20x_G-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/15/NG111_IS3_XS_UV_20x_G-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from sitter's waistcoat, showing a glaze above the white paint, ultraviolet fluorescence image. (2412x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/15\/NG111_IS3_XS_UV_20x_G-PYR.tif\/full\/260,150\/0\/default.jpg","type":"Image","width":260,"height":150,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/15\/NG111_IS3_XS_UV_20x_G-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":301,"sizes":[[{"width":130,"height":75},{"width":260,"height":150},{"width":520,"height":301}]]}]}],
+      "height":2412,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/15/NG111_IS3_XS_UV_20x_G-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/15/NG111_IS3_XS_UV_20x_G-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/15\/NG111_IS3_XS_UV_20x_G-PYR.tif\/full\/1041,603\/0\/default.jpg","type":"Image","width":1041,"height":603,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/15\/NG111_IS3_XS_UV_20x_G-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2412,"sizes":[[{"width":130,"height":75},{"width":260,"height":150},{"width":520,"height":301},{"width":1041,"height":603},{"width":2082,"height":1206}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/15/NG111_IS3_XS_UV_20x_G-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/01/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, unmounted fragment of glaze from sitter's proper left cuff, showing a mixture of pigments including Prussian blue, brown, black and red pigments. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/01\/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/01\/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/01/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/01/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/01\/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/01\/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/01/NG111_IS20_UF_Vis_DF_20x_A_uppersurface-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/23/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from sitter's coat tail at the lower edge, showing translucent glaze layers. (1848x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/23\/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif\/full\/260,115\/0\/default.jpg","type":"Image","width":260,"height":115,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/23\/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":231,"sizes":[[{"width":130,"height":57},{"width":260,"height":115},{"width":520,"height":231}]]}]}],
+      "height":1848,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/23/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/23/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/23\/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif\/full\/1041,462\/0\/default.jpg","type":"Image","width":1041,"height":462,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/23\/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1848,"sizes":[[{"width":130,"height":57},{"width":260,"height":115},{"width":520,"height":231},{"width":1041,"height":462},{"width":2082,"height":924}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/23/NG111_IS18_XS_Vis_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/26/NG111_IS18_XS_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, paint cross-section from sitter's coat tail at the lower edge, ultraviolet fluorescence image. (1848x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/26\/NG111_IS18_XS_UV_20x_A-PYR.tif\/full\/260,115\/0\/default.jpg","type":"Image","width":260,"height":115,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/26\/NG111_IS18_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":231,"sizes":[[{"width":130,"height":57},{"width":260,"height":115},{"width":520,"height":231}]]}]}],
+      "height":1848,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/26/NG111_IS18_XS_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/26/NG111_IS18_XS_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/26\/NG111_IS18_XS_UV_20x_A-PYR.tif\/full\/1041,462\/0\/default.jpg","type":"Image","width":1041,"height":462,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/26\/NG111_IS18_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1848,"sizes":[[{"width":130,"height":57},{"width":260,"height":115},{"width":520,"height":231},{"width":1041,"height":462},{"width":2082,"height":924}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/26/NG111_IS18_XS_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

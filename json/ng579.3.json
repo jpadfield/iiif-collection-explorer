@@ -1,0 +1,92 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng579.3.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG579.3: Niccol\u00f2 di Pietro Gerini, Saint Paul: Right Main Tier Panel" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/new_howard_billinge_tomlinson_peggie_gordon2012.json\">new_howard_billinge_tomlinson_peggie_gordon2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG579.3\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/New-Howard-Billinge-Tomlinson-Peggie-Gordon_2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/08/N-0579-03-000017-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG579.3: Niccol\u00f2 di Pietro Gerini, Saint Paul: Right Main Tier Panel, 1387, Egg tempera on wood, (123 x 37 cm), Image Originally dated: 2010-12-06 (7997x3344px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/08\/N-0579-03-000017-PYR.tif\/full\/209,499\/0\/default.jpg","type":"Image","width":209,"height":499,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/08\/N-0579-03-000017-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":418,"height":999,"sizes":[[{"width":104,"height":249},{"width":209,"height":499},{"width":418,"height":999}]]}]}],
+      "height":7997,
+      "width":3344,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/08/N-0579-03-000017-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/08/N-0579-03-000017-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/08\/N-0579-03-000017-PYR.tif\/full\/836,1999\/0\/default.jpg","type":"Image","width":836,"height":1999,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/08\/N-0579-03-000017-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3344,"height":7997,"sizes":[[{"width":104,"height":249},{"width":209,"height":499},{"width":418,"height":999},{"width":836,"height":1999},{"width":1672,"height":3998}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/08/N-0579-03-000017-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-03-000021-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Ultraviolet fluorescence image, Image Originally dated: 2010-12-07 (8145x3192px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-03-000021-PYR.tif\/full\/199,509\/0\/default.jpg","type":"Image","width":199,"height":509,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-03-000021-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":399,"height":1018,"sizes":[[{"width":99,"height":254},{"width":199,"height":509},{"width":399,"height":1018}]]}]}],
+      "height":8145,
+      "width":3192,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-03-000021-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-03-000021-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-03-000021-PYR.tif\/full\/798,2036\/0\/default.jpg","type":"Image","width":798,"height":2036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/12\/06\/N-0579-03-000021-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3192,"height":8145,"sizes":[[{"width":99,"height":254},{"width":199,"height":509},{"width":399,"height":1018},{"width":798,"height":2036},{"width":1596,"height":4072}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/12/06/N-0579-03-000021-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

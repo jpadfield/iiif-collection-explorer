@@ -1,0 +1,597 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/building-the-picture.json",
+   "type":"Manifest",
+   "label": { "en": [ "Building the Picture: Architecture in Italian Renaissance Painting" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "This set of zoomable images was created for the National Gallery publication \u2018Building the Picture:\u00a0 Architecture in Italian Renaissance Painting\u2019.\u00a0 This was published in association with the exhibition \u2018Building the Picture\u2019, which was held at the National Gallery from 30 April to 21 September 2014.\u00a0" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/exhibitions.json\">exhibitions<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/exhibitions\/past\/building-the-picture-architecture-in-italian-renaissance-painting\">Building The Picture<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "This set of zoomable images was created for the National Gallery publication \u2018Building the Picture:\u00a0 Architecture in Italian Renaissance Painting\u2019.\u00a0 This was published in association with the exhibition \u2018Building the Picture\u2019, which was held at the National Gallery from 30 April to 21 September 2014.\u00a0",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1033-00-000125-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1033: Sandro Botticelli, The Adoration of the Kings, about 1470-5. \u00a9 The National Gallery, London (7995x7826px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1033-00-000125-PYR.tif\/full\/489,499\/0\/default.jpg","type":"Image","width":489,"height":499,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1033-00-000125-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":978,"height":999,"sizes":[[{"width":244,"height":249},{"width":489,"height":499},{"width":978,"height":999}]]}]}],
+      "height":7995,
+      "width":7826,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1033-00-000125-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1033-00-000125-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1033-00-000125-PYR.tif\/full\/1956,1998\/0\/default.jpg","type":"Image","width":1956,"height":1998,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1033-00-000125-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7826,"height":7995,"sizes":[[{"width":244,"height":249},{"width":489,"height":499},{"width":978,"height":999},{"width":1956,"height":1998},{"width":3913,"height":3997}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1033-00-000125-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-1119-00-000060-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1119: Lorenzo Costa and Gianfrancesco Maineri, The Virgin and Child with Saints, probably 1499. \u00a9 The National Gallery, London (6823x4926px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-1119-00-000060-PYR.tif\/full\/307,426\/0\/default.jpg","type":"Image","width":307,"height":426,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-1119-00-000060-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":615,"height":852,"sizes":[[{"width":153,"height":213},{"width":307,"height":426},{"width":615,"height":852}]]}]}],
+      "height":6823,
+      "width":4926,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-1119-00-000060-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-1119-00-000060-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-1119-00-000060-PYR.tif\/full\/1231,1705\/0\/default.jpg","type":"Image","width":1231,"height":1705,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/23\/N-1119-00-000060-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4926,"height":6823,"sizes":[[{"width":153,"height":213},{"width":307,"height":426},{"width":615,"height":852},{"width":1231,"height":1705},{"width":2463,"height":3411}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/23/N-1119-00-000060-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-1139-00-000049-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1139: Duccio, The Annunciation, 1307\/8-11. \u00a9 The National Gallery, London (8927x8838px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-1139-00-000049-PYR.tif\/full\/276,278\/0\/default.jpg","type":"Image","width":276,"height":278,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-1139-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":552,"height":557,"sizes":[[{"width":138,"height":139},{"width":276,"height":278},{"width":552,"height":557}]]}]}],
+      "height":8927,
+      "width":8838,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-1139-00-000049-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-1139-00-000049-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-1139-00-000049-PYR.tif\/full\/1104,1115\/0\/default.jpg","type":"Image","width":1104,"height":1115,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-1139-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8838,"height":8927,"sizes":[[{"width":138,"height":139},{"width":276,"height":278},{"width":552,"height":557},{"width":1104,"height":1115},{"width":2209,"height":2231},{"width":4419,"height":4463}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-1139-00-000049-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1194-00-000018-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1194: Marcello Venusti, The Purification of the Temple, after 1550. \u00a9 The National Gallery, London (8408x5347px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1194-00-000018-PYR.tif\/full\/167,262\/0\/default.jpg","type":"Image","width":167,"height":262,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1194-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":334,"height":525,"sizes":[[{"width":83,"height":131},{"width":167,"height":262},{"width":334,"height":525}]]}]}],
+      "height":8408,
+      "width":5347,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1194-00-000018-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1194-00-000018-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1194-00-000018-PYR.tif\/full\/668,1051\/0\/default.jpg","type":"Image","width":668,"height":1051,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1194-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5347,"height":8408,"sizes":[[{"width":83,"height":131},{"width":167,"height":262},{"width":334,"height":525},{"width":668,"height":1051},{"width":1336,"height":2102},{"width":2673,"height":4204}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1194-00-000018-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1215-00-000045-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1215: Domenico Veneziano, The Virgin and Child Enthroned, about 1440-4. \u00a9 The National Gallery, London (9068x5024px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1215-00-000045-PYR.tif\/full\/157,283\/0\/default.jpg","type":"Image","width":157,"height":283,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1215-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":314,"height":566,"sizes":[[{"width":78,"height":141},{"width":157,"height":283},{"width":314,"height":566}]]}]}],
+      "height":9068,
+      "width":5024,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1215-00-000045-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1215-00-000045-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1215-00-000045-PYR.tif\/full\/628,1133\/0\/default.jpg","type":"Image","width":628,"height":1133,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1215-00-000045-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5024,"height":9068,"sizes":[[{"width":78,"height":141},{"width":157,"height":283},{"width":314,"height":566},{"width":628,"height":1133},{"width":1256,"height":2267},{"width":2512,"height":4534}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1215-00-000045-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/N-1336-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1336: Liberale da Verona, Dido's Suicide, early 16th century. \u00a9 The National Gallery, London (3426x7737px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/N-1336-00-000014-PYR.tif\/full\/483,214\/0\/default.jpg","type":"Image","width":483,"height":214,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/N-1336-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":967,"height":428,"sizes":[[{"width":241,"height":107},{"width":483,"height":214},{"width":967,"height":428}]]}]}],
+      "height":3426,
+      "width":7737,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/N-1336-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/N-1336-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/N-1336-00-000014-PYR.tif\/full\/1934,856\/0\/default.jpg","type":"Image","width":1934,"height":856,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/01\/17\/N-1336-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7737,"height":3426,"sizes":[[{"width":241,"height":107},{"width":483,"height":214},{"width":967,"height":428},{"width":1934,"height":856},{"width":3868,"height":1713}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/01/17/N-1336-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1410-00-000010-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1410: Ambrogio Bergognone, The Virgin and Child, about 1488-90. \u00a9 The National Gallery, London (9044x6077px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1410-00-000010-PYR.tif\/full\/189,282\/0\/default.jpg","type":"Image","width":189,"height":282,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1410-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":379,"height":565,"sizes":[[{"width":94,"height":141},{"width":189,"height":282},{"width":379,"height":565}]]}]}],
+      "height":9044,
+      "width":6077,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1410-00-000010-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1410-00-000010-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1410-00-000010-PYR.tif\/full\/759,1130\/0\/default.jpg","type":"Image","width":759,"height":1130,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1410-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6077,"height":9044,"sizes":[[{"width":94,"height":141},{"width":189,"height":282},{"width":379,"height":565},{"width":759,"height":1130},{"width":1519,"height":2261},{"width":3038,"height":4522}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1410-00-000010-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1411-01-000012-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1411.1: Ercole de' Roberti, The Adoration of the Shepherds, about 1490. \u00a9 The National Gallery, London (5296x5622px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1411-01-000012-PYR.tif\/full\/351,331\/0\/default.jpg","type":"Image","width":351,"height":331,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1411-01-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":702,"height":662,"sizes":[[{"width":175,"height":165},{"width":351,"height":331},{"width":702,"height":662}]]}]}],
+      "height":5296,
+      "width":5622,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1411-01-000012-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1411-01-000012-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1411-01-000012-PYR.tif\/full\/1405,1324\/0\/default.jpg","type":"Image","width":1405,"height":1324,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1411-01-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5622,"height":5296,"sizes":[[{"width":175,"height":165},{"width":351,"height":331},{"width":702,"height":662},{"width":1405,"height":1324},{"width":2811,"height":2648}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1411-01-000012-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1418-00-000029-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1418: Antonello da Messina, Saint Jerome in his Study, about 1475. \u00a9 The National Gallery, London (8773x7216px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1418-00-000029-PYR.tif\/full\/225,274\/0\/default.jpg","type":"Image","width":225,"height":274,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1418-00-000029-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":451,"height":548,"sizes":[[{"width":112,"height":137},{"width":225,"height":274},{"width":451,"height":548}]]}]}],
+      "height":8773,
+      "width":7216,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1418-00-000029-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1418-00-000029-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1418-00-000029-PYR.tif\/full\/902,1096\/0\/default.jpg","type":"Image","width":902,"height":1096,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1418-00-000029-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7216,"height":8773,"sizes":[[{"width":112,"height":137},{"width":225,"height":274},{"width":451,"height":548},{"width":902,"height":1096},{"width":1804,"height":2193},{"width":3608,"height":4386}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1418-00-000029-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1430-00-000023-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1430: Domenico Beccafumi, The Story of Papirius, mid 1520s. \u00a9 The National Gallery, London (4947x9178px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1430-00-000023-PYR.tif\/full\/286,154\/0\/default.jpg","type":"Image","width":286,"height":154,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1430-00-000023-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":573,"height":309,"sizes":[[{"width":143,"height":77},{"width":286,"height":154},{"width":573,"height":309}]]}]}],
+      "height":4947,
+      "width":9178,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1430-00-000023-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1430-00-000023-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1430-00-000023-PYR.tif\/full\/1147,618\/0\/default.jpg","type":"Image","width":1147,"height":618,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1430-00-000023-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9178,"height":4947,"sizes":[[{"width":143,"height":77},{"width":286,"height":154},{"width":573,"height":309},{"width":1147,"height":618},{"width":2294,"height":1236},{"width":4589,"height":2473}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1430-00-000023-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1478-00-000010-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1478: Giovanni Mansueti, Symbolic Representation of the Crucifixion, probably 1492. \u00a9 The National Gallery, London (9179x8801px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1478-00-000010-PYR.tif\/full\/275,286\/0\/default.jpg","type":"Image","width":275,"height":286,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1478-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":550,"height":573,"sizes":[[{"width":137,"height":143},{"width":275,"height":286},{"width":550,"height":573}]]}]}],
+      "height":9179,
+      "width":8801,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1478-00-000010-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1478-00-000010-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1478-00-000010-PYR.tif\/full\/1100,1147\/0\/default.jpg","type":"Image","width":1100,"height":1147,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1478-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8801,"height":9179,"sizes":[[{"width":137,"height":143},{"width":275,"height":286},{"width":550,"height":573},{"width":1100,"height":1147},{"width":2200,"height":2294},{"width":4400,"height":4589}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1478-00-000010-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1495-00-000013-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1495: Lodovico Mazzolino, Christ disputing with the Doctors, probably about 1520-5. \u00a9 The National Gallery, London (8934x6875px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1495-00-000013-PYR.tif\/full\/214,279\/0\/default.jpg","type":"Image","width":214,"height":279,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1495-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":429,"height":558,"sizes":[[{"width":107,"height":139},{"width":214,"height":279},{"width":429,"height":558}]]}]}],
+      "height":8934,
+      "width":6875,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1495-00-000013-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1495-00-000013-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1495-00-000013-PYR.tif\/full\/859,1116\/0\/default.jpg","type":"Image","width":859,"height":1116,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1495-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6875,"height":8934,"sizes":[[{"width":107,"height":139},{"width":214,"height":279},{"width":429,"height":558},{"width":859,"height":1116},{"width":1718,"height":2233},{"width":3437,"height":4467}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1495-00-000013-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/25/N-0218-00-000025-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG218: Girolamo da Treviso, The Adoration of the Kings, about 1524-5. \u00a9 The National Gallery, London (6364x5287px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/25\/N-0218-00-000025-PYR.tif\/full\/330,397\/0\/default.jpg","type":"Image","width":330,"height":397,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/25\/N-0218-00-000025-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":660,"height":795,"sizes":[[{"width":165,"height":198},{"width":330,"height":397},{"width":660,"height":795}]]}]}],
+      "height":6364,
+      "width":5287,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/25/N-0218-00-000025-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/25/N-0218-00-000025-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/25\/N-0218-00-000025-PYR.tif\/full\/1321,1591\/0\/default.jpg","type":"Image","width":1321,"height":1591,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/25\/N-0218-00-000025-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5287,"height":6364,"sizes":[[{"width":165,"height":198},{"width":330,"height":397},{"width":660,"height":795},{"width":1321,"height":1591},{"width":2643,"height":3182}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/25/N-0218-00-000025-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3073-00-000039-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3073: Bramantino, The Adoration of the Kings, about 1500. \u00a9 The National Gallery, London (9111x8466px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3073-00-000039-PYR.tif\/full\/264,284\/0\/default.jpg","type":"Image","width":264,"height":284,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3073-00-000039-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":529,"height":569,"sizes":[[{"width":132,"height":142},{"width":264,"height":284},{"width":529,"height":569}]]}]}],
+      "height":9111,
+      "width":8466,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3073-00-000039-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3073-00-000039-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3073-00-000039-PYR.tif\/full\/1058,1138\/0\/default.jpg","type":"Image","width":1058,"height":1138,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3073-00-000039-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8466,"height":9111,"sizes":[[{"width":132,"height":142},{"width":264,"height":284},{"width":529,"height":569},{"width":1058,"height":1138},{"width":2116,"height":2277},{"width":4233,"height":4555}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3073-00-000039-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3077-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3077: Gerolamo da Vicenza, The Dormition and Assumption of the Virgin, 1488. \u00a9 The National Gallery, London (8842x6719px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3077-00-000020-PYR.tif\/full\/209,276\/0\/default.jpg","type":"Image","width":209,"height":276,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3077-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":419,"height":552,"sizes":[[{"width":104,"height":138},{"width":209,"height":276},{"width":419,"height":552}]]}]}],
+      "height":8842,
+      "width":6719,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3077-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3077-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3077-00-000020-PYR.tif\/full\/839,1105\/0\/default.jpg","type":"Image","width":839,"height":1105,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3077-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6719,"height":8842,"sizes":[[{"width":104,"height":138},{"width":209,"height":276},{"width":419,"height":552},{"width":839,"height":1105},{"width":1679,"height":2210},{"width":3359,"height":4421}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3077-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-3107-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3107: Lambert Sustris, The Queen of Sheba before King Solomon, about 1540-55. \u00a9 The National Gallery, London (2982x7114px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-3107-00-000016-PYR.tif\/full\/444,186\/0\/default.jpg","type":"Image","width":444,"height":186,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-3107-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":889,"height":372,"sizes":[[{"width":222,"height":93},{"width":444,"height":186},{"width":889,"height":372}]]}]}],
+      "height":2982,
+      "width":7114,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-3107-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-3107-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-3107-00-000016-PYR.tif\/full\/1778,745\/0\/default.jpg","type":"Image","width":1778,"height":745,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/05\/N-3107-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7114,"height":2982,"sizes":[[{"width":222,"height":93},{"width":444,"height":186},{"width":889,"height":372},{"width":1778,"height":745},{"width":3557,"height":1491}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/05/N-3107-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3919-00-000032-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3919: Sandro Botticelli, Three Miracles of Saint Zenobius, about 1500. \u00a9 The National Gallery, London (4724x9860px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3919-00-000032-PYR.tif\/full\/308,147\/0\/default.jpg","type":"Image","width":308,"height":147,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3919-00-000032-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":616,"height":295,"sizes":[[{"width":154,"height":73},{"width":308,"height":147},{"width":616,"height":295}]]}]}],
+      "height":4724,
+      "width":9860,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3919-00-000032-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3919-00-000032-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3919-00-000032-PYR.tif\/full\/1232,590\/0\/default.jpg","type":"Image","width":1232,"height":590,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-3919-00-000032-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9860,"height":4724,"sizes":[[{"width":154,"height":73},{"width":308,"height":147},{"width":616,"height":295},{"width":1232,"height":590},{"width":2465,"height":1181},{"width":4930,"height":2362}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-3919-00-000032-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4758-00-000026-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4758: Sassetta, Saint Francis renounces his Earthly Father, 1437-44. \u00a9 The National Gallery, London (9136x5536px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4758-00-000026-PYR.tif\/full\/173,285\/0\/default.jpg","type":"Image","width":173,"height":285,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4758-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":346,"height":571,"sizes":[[{"width":86,"height":142},{"width":173,"height":285},{"width":346,"height":571}]]}]}],
+      "height":9136,
+      "width":5536,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4758-00-000026-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4758-00-000026-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4758-00-000026-PYR.tif\/full\/692,1142\/0\/default.jpg","type":"Image","width":692,"height":1142,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-4758-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5536,"height":9136,"sizes":[[{"width":86,"height":142},{"width":173,"height":285},{"width":346,"height":571},{"width":692,"height":1142},{"width":1384,"height":2284},{"width":2768,"height":4568}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-4758-00-000026-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0591-00-000026-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG591: Attributed to Zanobi Strozzi, The Abduction of Helen, about 1450-5. \u00a9 The National Gallery, London (7418x8998px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0591-00-000026-PYR.tif\/full\/281,231\/0\/default.jpg","type":"Image","width":281,"height":231,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0591-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":562,"height":463,"sizes":[[{"width":140,"height":115},{"width":281,"height":231},{"width":562,"height":463}]]}]}],
+      "height":7418,
+      "width":8998,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0591-00-000026-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0591-00-000026-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0591-00-000026-PYR.tif\/full\/1124,927\/0\/default.jpg","type":"Image","width":1124,"height":927,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0591-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8998,"height":7418,"sizes":[[{"width":140,"height":115},{"width":281,"height":231},{"width":562,"height":463},{"width":1124,"height":927},{"width":2249,"height":1854},{"width":4499,"height":3709}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0591-00-000026-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0641-00-000011-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG641: Lodovico Mazzolino, Christ and the Woman taken in Adultery, probably 1522. \u00a9 The National Gallery, London (9088x6529px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0641-00-000011-PYR.tif\/full\/204,284\/0\/default.jpg","type":"Image","width":204,"height":284,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0641-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":408,"height":568,"sizes":[[{"width":102,"height":142},{"width":204,"height":284},{"width":408,"height":568}]]}]}],
+      "height":9088,
+      "width":6529,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0641-00-000011-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0641-00-000011-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0641-00-000011-PYR.tif\/full\/816,1136\/0\/default.jpg","type":"Image","width":816,"height":1136,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0641-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6529,"height":9088,"sizes":[[{"width":102,"height":142},{"width":204,"height":284},{"width":408,"height":568},{"width":816,"height":1136},{"width":1632,"height":2272},{"width":3264,"height":4544}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0641-00-000011-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0694-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG694: Vincenzo Catena, Saint Jerome in his Study, probably about 1510. \u00a9 The National Gallery, London (7643x9672px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0694-00-000016-PYR.tif\/full\/302,238\/0\/default.jpg","type":"Image","width":302,"height":238,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0694-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":604,"height":477,"sizes":[[{"width":151,"height":119},{"width":302,"height":238},{"width":604,"height":477}]]}]}],
+      "height":7643,
+      "width":9672,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0694-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0694-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0694-00-000016-PYR.tif\/full\/1209,955\/0\/default.jpg","type":"Image","width":1209,"height":955,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0694-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9672,"height":7643,"sizes":[[{"width":151,"height":119},{"width":302,"height":238},{"width":604,"height":477},{"width":1209,"height":955},{"width":2418,"height":1910},{"width":4836,"height":3821}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0694-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/14/N-0739-00-000098-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG739: Carlo Crivelli, The Annunciation, with Saint Emidius, 1486. \u00a9 The National Gallery, London (7753x5833px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/14\/N-0739-00-000098-PYR.tif\/full\/364,484\/0\/default.jpg","type":"Image","width":364,"height":484,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/14\/N-0739-00-000098-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":729,"height":969,"sizes":[[{"width":182,"height":242},{"width":364,"height":484},{"width":729,"height":969}]]}]}],
+      "height":7753,
+      "width":5833,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/14/N-0739-00-000098-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/14/N-0739-00-000098-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/14\/N-0739-00-000098-PYR.tif\/full\/1458,1938\/0\/default.jpg","type":"Image","width":1458,"height":1938,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/06\/14\/N-0739-00-000098-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5833,"height":7753,"sizes":[[{"width":182,"height":242},{"width":364,"height":484},{"width":729,"height":969},{"width":1458,"height":1938},{"width":2916,"height":3876}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/06/14/N-0739-00-000098-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0766-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG766: Domenico Veneziano, Head of a Tonsured, Beardless Saint, about 1440-4. \u00a9 The National Gallery, London (8886x6701px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0766-00-000016-PYR.tif\/full\/209,277\/0\/default.jpg","type":"Image","width":209,"height":277,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0766-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":418,"height":555,"sizes":[[{"width":104,"height":138},{"width":209,"height":277},{"width":418,"height":555}]]}]}],
+      "height":8886,
+      "width":6701,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0766-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0766-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0766-00-000016-PYR.tif\/full\/837,1110\/0\/default.jpg","type":"Image","width":837,"height":1110,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0766-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6701,"height":8886,"sizes":[[{"width":104,"height":138},{"width":209,"height":277},{"width":418,"height":555},{"width":837,"height":1110},{"width":1675,"height":2221},{"width":3350,"height":4443}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0766-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0767-00-000015-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG767: Domenico Veneziano, Head of a Tonsured, Bearded Saint, about 1440-4. \u00a9 The National Gallery, London (8646x7092px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0767-00-000015-PYR.tif\/full\/221,270\/0\/default.jpg","type":"Image","width":221,"height":270,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0767-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":443,"height":540,"sizes":[[{"width":110,"height":135},{"width":221,"height":270},{"width":443,"height":540}]]}]}],
+      "height":8646,
+      "width":7092,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0767-00-000015-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0767-00-000015-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0767-00-000015-PYR.tif\/full\/886,1080\/0\/default.jpg","type":"Image","width":886,"height":1080,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0767-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7092,"height":8646,"sizes":[[{"width":110,"height":135},{"width":221,"height":270},{"width":443,"height":540},{"width":886,"height":1080},{"width":1773,"height":2161},{"width":3546,"height":4323}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0767-00-000015-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0895-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG895: Attributed to Francesco Granacci, Portrait of a Man in Armour, about 1510. \u00a9 The National Gallery, London (8597x6235px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0895-00-000020-PYR.tif\/full\/194,268\/0\/default.jpg","type":"Image","width":194,"height":268,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0895-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":389,"height":537,"sizes":[[{"width":97,"height":134},{"width":194,"height":268},{"width":389,"height":537}]]}]}],
+      "height":8597,
+      "width":6235,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0895-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0895-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0895-00-000020-PYR.tif\/full\/779,1074\/0\/default.jpg","type":"Image","width":779,"height":1074,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0895-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6235,"height":8597,"sizes":[[{"width":97,"height":134},{"width":194,"height":268},{"width":389,"height":537},{"width":779,"height":1074},{"width":1558,"height":2149},{"width":3117,"height":4298}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0895-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

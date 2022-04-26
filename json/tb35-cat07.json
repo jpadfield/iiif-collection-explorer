@@ -1,0 +1,268 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat07.json",
+   "type":"Manifest",
+   "label": { "en": [ "Lady Cockburn and her Three Eldest Sons, 1773 (NG 2077)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-a.json\">tb35-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23857\/volume35cataloguepart1.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, 1773, Oil on canvas, (141.5 x 113 cm) (9189x7358px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif\/full\/229,287\/0\/default.jpg","type":"Image","width":229,"height":287,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":459,"height":574,"sizes":[[{"width":114,"height":143},{"width":229,"height":287},{"width":459,"height":574}]]}]}],
+      "height":9189,
+      "width":7358,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif\/full\/919,1148\/0\/default.jpg","type":"Image","width":919,"height":1148,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7358,"height":9189,"sizes":[[{"width":114,"height":143},{"width":229,"height":287},{"width":459,"height":574},{"width":919,"height":1148},{"width":1839,"height":2297},{"width":3679,"height":4594}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000036-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, 1773, Oil on canvas, (141.5 x 113 cm),X-radiograph (Computer assembled mosaic). (17113x14006px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000036-PYR.tif\/full\/218,267\/0\/default.jpg","type":"Image","width":218,"height":267,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000036-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":437,"height":534,"sizes":[[{"width":109,"height":133},{"width":218,"height":267},{"width":437,"height":534}]]}]}],
+      "height":17113,
+      "width":14006,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000036-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000036-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000036-PYR.tif\/full\/875,1069\/0\/default.jpg","type":"Image","width":875,"height":1069,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000036-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":14006,"height":17113,"sizes":[[{"width":109,"height":133},{"width":218,"height":267},{"width":437,"height":534},{"width":875,"height":1069},{"width":1750,"height":2139},{"width":3501,"height":4278},{"width":7003,"height":8556}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000036-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000052-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, 1773, Oil on canvas, (141.5 x 113 cm),X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. (17113x14006px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000052-PYR.tif\/full\/218,267\/0\/default.jpg","type":"Image","width":218,"height":267,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000052-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":437,"height":534,"sizes":[[{"width":109,"height":133},{"width":218,"height":267},{"width":437,"height":534}]]}]}],
+      "height":17113,
+      "width":14006,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000052-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000052-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000052-PYR.tif\/full\/875,1069\/0\/default.jpg","type":"Image","width":875,"height":1069,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/27\/N-2077-00-000052-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":14006,"height":17113,"sizes":[[{"width":109,"height":133},{"width":218,"height":267},{"width":437,"height":534},{"width":875,"height":1069},{"width":1750,"height":2139},{"width":3501,"height":4278},{"width":7003,"height":8556}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/27/N-2077-00-000052-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d03-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, infrared reflectogram (OSIRIS), detail showing the artist's signature along the edge of the drapery. (1024x2560px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d03-PYR.tif\/full\/320,128\/0\/default.jpg","type":"Image","width":320,"height":128,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":640,"height":256,"sizes":[[{"width":160,"height":64},{"width":320,"height":128},{"width":640,"height":256}]]}]}],
+      "height":1024,
+      "width":2560,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d03-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d03-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d03-PYR.tif\/full\/1280,512\/0\/default.jpg","type":"Image","width":1280,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2560,"height":1024,"sizes":[[{"width":160,"height":64},{"width":320,"height":128},{"width":640,"height":256},{"width":1280,"height":512}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d03-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, infrared reflectogram (OSIRIS), detail showing modification of the child's mouth. (2560x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d01-PYR.tif\/full\/512,320\/0\/default.jpg","type":"Image","width":512,"height":320,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":640,"sizes":[[{"width":256,"height":160},{"width":512,"height":320},{"width":1024,"height":640}]]}]}],
+      "height":2560,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d01-PYR.tif\/full\/2048,1280\/0\/default.jpg","type":"Image","width":2048,"height":1280,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/07\/11\/ng2077_dirrO_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":2560,"sizes":[[{"width":256,"height":160},{"width":512,"height":320},{"width":1024,"height":640},{"width":2048,"height":1280}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/07/11/ng2077_dirrO_d01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, paint cross-section from yellow-brown drapery at the left edge. (1176x3180px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif\/full\/397,147\/0\/default.jpg","type":"Image","width":397,"height":147,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":795,"height":294,"sizes":[[{"width":198,"height":73},{"width":397,"height":147},{"width":795,"height":294}]]}]}],
+      "height":1176,
+      "width":3180,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif\/full\/1590,588\/0\/default.jpg","type":"Image","width":1590,"height":588,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3180,"height":1176,"sizes":[[{"width":198,"height":73},{"width":397,"height":147},{"width":795,"height":294},{"width":1590,"height":588}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS1_XS_Vis_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/29/NG2077_IS1_XS_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, paint cross-section from yellow-brown drapery at the left edge, ultraviolet fluorescence image. (1176x3180px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/29\/NG2077_IS1_XS_UV_20x_A-PYR.tif\/full\/397,147\/0\/default.jpg","type":"Image","width":397,"height":147,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/29\/NG2077_IS1_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":795,"height":294,"sizes":[[{"width":198,"height":73},{"width":397,"height":147},{"width":795,"height":294}]]}]}],
+      "height":1176,
+      "width":3180,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/29/NG2077_IS1_XS_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/29/NG2077_IS1_XS_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/29\/NG2077_IS1_XS_UV_20x_A-PYR.tif\/full\/1590,588\/0\/default.jpg","type":"Image","width":1590,"height":588,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/29\/NG2077_IS1_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3180,"height":1176,"sizes":[[{"width":198,"height":73},{"width":397,"height":147},{"width":795,"height":294},{"width":1590,"height":588}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/29/NG2077_IS1_XS_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/30/N-2077-00-000048-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, detail of the macaw. (7210x5410px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/30\/N-2077-00-000048-PYR.tif\/full\/338,450\/0\/default.jpg","type":"Image","width":338,"height":450,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/30\/N-2077-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":676,"height":901,"sizes":[[{"width":169,"height":225},{"width":338,"height":450},{"width":676,"height":901}]]}]}],
+      "height":7210,
+      "width":5410,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/30/N-2077-00-000048-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/30/N-2077-00-000048-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/30\/N-2077-00-000048-PYR.tif\/full\/1352,1802\/0\/default.jpg","type":"Image","width":1352,"height":1802,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/04\/30\/N-2077-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5410,"height":7210,"sizes":[[{"width":169,"height":225},{"width":338,"height":450},{"width":676,"height":901},{"width":1352,"height":1802},{"width":2705,"height":3605}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/04/30/N-2077-00-000048-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, paint cross-section from greyish-blue part of the sky, showing a multi-layered application of paint. (1536x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif\/full\/260,96\/0\/default.jpg","type":"Image","width":260,"height":96,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":192,"sizes":[[{"width":130,"height":48},{"width":260,"height":96},{"width":520,"height":192}]]}]}],
+      "height":1536,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif\/full\/1041,384\/0\/default.jpg","type":"Image","width":1041,"height":384,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1536,"sizes":[[{"width":130,"height":48},{"width":260,"height":96},{"width":520,"height":192},{"width":1041,"height":384},{"width":2082,"height":768}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG2077_IS4_XS_Vis_DF_50x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/22/NG2077_IS4_XS_UV_50x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, paint cross-section from greyish-blue part of the sky, ultraviolet fluorescence image. (1536x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/22\/NG2077_IS4_XS_UV_50x_A-PYR.tif\/full\/260,96\/0\/default.jpg","type":"Image","width":260,"height":96,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/22\/NG2077_IS4_XS_UV_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":192,"sizes":[[{"width":130,"height":48},{"width":260,"height":96},{"width":520,"height":192}]]}]}],
+      "height":1536,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/22/NG2077_IS4_XS_UV_50x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/22/NG2077_IS4_XS_UV_50x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/22\/NG2077_IS4_XS_UV_50x_A-PYR.tif\/full\/1041,384\/0\/default.jpg","type":"Image","width":1041,"height":384,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/22\/NG2077_IS4_XS_UV_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1536,"sizes":[[{"width":130,"height":48},{"width":260,"height":96},{"width":520,"height":192},{"width":1041,"height":384},{"width":2082,"height":768}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/22/NG2077_IS4_XS_UV_50x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

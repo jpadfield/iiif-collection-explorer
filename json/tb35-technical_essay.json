@@ -1,0 +1,554 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-technical_essay.json",
+   "type":"Manifest",
+   "label": { "en": [ "Practice Makes Imperfect: Reynolds's Painting Technique" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 35 of the Technical Bulletin is a special edition devoted to the techniques and materials used by Sir Joshua Reynolds, one of the most successful of British portraitists and from 1768, first President of the Royal Academy in London. It was well known in his day that paintings by Reynolds were fragile and vulnerable to change, and that his flesh paints had a notorious tendency to fade. It was only later in his career that he attempted, with mixed success, to modify his technique to reduce the rapid deterioration of his works." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-essay-2-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23860\/volume35essay2reynoldstech.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 35 of the Technical Bulletin is a special edition devoted to the techniques and materials used by Sir Joshua Reynolds, one of the most successful of British portraitists and from 1768, first President of the Royal Academy in London. It was well known in his day that paintings by Reynolds were fragile and vulnerable to change, and that his flesh paints had a notorious tendency to fade. It was only later in his career that he attempted, with mixed success, to modify his technique to reduce the rapid deterioration of his works.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (28789x18061px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif\/full\/282,449\/0\/default.jpg","type":"Image","width":282,"height":449,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":564,"height":899,"sizes":[[{"width":141,"height":224},{"width":282,"height":449},{"width":564,"height":899}]]}]}],
+      "height":28789,
+      "width":18061,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif\/full\/1128,1799\/0\/default.jpg","type":"Image","width":1128,"height":1799,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18061,"height":28789,"sizes":[[{"width":141,"height":224},{"width":282,"height":449},{"width":564,"height":899},{"width":1128,"height":1799},{"width":2257,"height":3598},{"width":4515,"height":7197},{"width":9030,"height":14394}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000008-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, detail of the sitter's eye.   The Wallace Collection. (6240x8156px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000008-PYR.tif\/full\/509,390\/0\/default.jpg","type":"Image","width":509,"height":390,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1019,"height":780,"sizes":[[{"width":254,"height":195},{"width":509,"height":390},{"width":1019,"height":780}]]}]}],
+      "height":6240,
+      "width":8156,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000008-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000008-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000008-PYR.tif\/full\/2039,1560\/0\/default.jpg","type":"Image","width":2039,"height":1560,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000008-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8156,"height":6240,"sizes":[[{"width":254,"height":195},{"width":509,"height":390},{"width":1019,"height":780},{"width":2039,"height":1560},{"width":4078,"height":3120}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000008-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, reverse image.  The Wallace Collection. (7491x5619px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif\/full\/351,468\/0\/default.jpg","type":"Image","width":351,"height":468,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":702,"height":936,"sizes":[[{"width":175,"height":234},{"width":351,"height":468},{"width":702,"height":936}]]}]}],
+      "height":7491,
+      "width":5619,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif\/full\/1404,1872\/0\/default.jpg","type":"Image","width":1404,"height":1872,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/01\/M-1382-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5619,"height":7491,"sizes":[[{"width":175,"height":234},{"width":351,"height":468},{"width":702,"height":936},{"width":1404,"height":1872},{"width":2809,"height":3745}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/01/M-1382-00-000007-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from right edge, where ground protrudes beyond the paint, showing the grey double ground and varnish only.  The Wallace Collection. (1344x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif\/full\/260,84\/0\/default.jpg","type":"Image","width":260,"height":84,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":168,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":168}]]}]}],
+      "height":1344,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif\/full\/1041,336\/0\/default.jpg","type":"Image","width":1041,"height":336,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1344,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":168},{"width":1041,"height":336},{"width":2082,"height":672}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS12_XS_Vis_DF_50x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS12_XS_UV_50x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from right edge, where ground protrudes beyond the paint, ultraviolet fluorescence image.  The Wallace Collection. (1344x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS12_XS_UV_50x_A-PYR.tif\/full\/260,84\/0\/default.jpg","type":"Image","width":260,"height":84,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS12_XS_UV_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":168,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":168}]]}]}],
+      "height":1344,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS12_XS_UV_50x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS12_XS_UV_50x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS12_XS_UV_50x_A-PYR.tif\/full\/1041,336\/0\/default.jpg","type":"Image","width":1041,"height":336,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS12_XS_UV_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1344,"sizes":[[{"width":130,"height":42},{"width":260,"height":84},{"width":520,"height":168},{"width":1041,"height":336},{"width":2082,"height":672}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS12_XS_UV_50x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1398: Sir Joshua Reynolds, Mrs Susanna Hoare and Child, paint cross-section from top egde, left end of sample showing the double-ground layer with an intermediate layer of glue size. The Wallace Collection. (1404x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_A-PYR.tif\/full\/259,87\/0\/default.jpg","type":"Image","width":259,"height":87,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":175,"sizes":[[{"width":129,"height":43},{"width":259,"height":87},{"width":519,"height":175}]]}]}],
+      "height":1404,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_A-PYR.tif\/full\/1038,351\/0\/default.jpg","type":"Image","width":1038,"height":351,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1404,"sizes":[[{"width":129,"height":43},{"width":259,"height":87},{"width":519,"height":175},{"width":1038,"height":351},{"width":2076,"height":702}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1398: Sir Joshua Reynolds, Mrs Susanna Hoare and Child, paint cross-section from top egde, right end of sample showing the thin pinkish-red priming. The Wallace Collection. (1404x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_B-PYR.tif\/full\/259,87\/0\/default.jpg","type":"Image","width":259,"height":87,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":175,"sizes":[[{"width":129,"height":43},{"width":259,"height":87},{"width":519,"height":175}]]}]}],
+      "height":1404,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_B-PYR.tif\/full\/1038,351\/0\/default.jpg","type":"Image","width":1038,"height":351,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/14\/M1398_S5_XS_Vis_DF_x20_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1404,"sizes":[[{"width":129,"height":43},{"width":259,"height":87},{"width":519,"height":175},{"width":1038,"height":351},{"width":2076,"height":702}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/14/M1398_S5_XS_Vis_DF_x20_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/06/M1399s3_Vis_x20_after%20repolishing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, paint cross-section from left edge, showing the white ground.  The Wallace Collection. (1488x3516px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/06\/M1399s3_Vis_x20_after repolishing-PYR.tif\/full\/439,186\/0\/default.jpg","type":"Image","width":439,"height":186,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/06\/M1399s3_Vis_x20_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":879,"height":372,"sizes":[[{"width":219,"height":93},{"width":439,"height":186},{"width":879,"height":372}]]}]}],
+      "height":1488,
+      "width":3516,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/06/M1399s3_Vis_x20_after%20repolishing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/06/M1399s3_Vis_x20_after%20repolishing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/06\/M1399s3_Vis_x20_after repolishing-PYR.tif\/full\/1758,744\/0\/default.jpg","type":"Image","width":1758,"height":744,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/06\/M1399s3_Vis_x20_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3516,"height":1488,"sizes":[[{"width":219,"height":93},{"width":439,"height":186},{"width":879,"height":372},{"width":1758,"height":744}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/06/M1399s3_Vis_x20_after%20repolishing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/16/M1403_XS2_vis_x20-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1403: Sir Joshua Reynolds, Mrs Mary Robinson ('Perdita'), paint cross-section from rocky foreground.  The Wallace Collection. (972x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/16\/M1403_XS2_vis_x20-PYR.tif\/full\/260,60\/0\/default.jpg","type":"Image","width":260,"height":60,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/16\/M1403_XS2_vis_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":121,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121}]]}]}],
+      "height":972,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/16/M1403_XS2_vis_x20-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/16/M1403_XS2_vis_x20-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/16\/M1403_XS2_vis_x20-PYR.tif\/full\/1041,243\/0\/default.jpg","type":"Image","width":1041,"height":243,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/16\/M1403_XS2_vis_x20-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":972,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121},{"width":1041,"height":243},{"width":2082,"height":486}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/16/M1403_XS2_vis_x20-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s6_XS_DF_x50_220311-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1382: Sir Joshua Reynolds, Mrs Jane Braddyll, paint cross-section from drapery at the right edge, showing light grey ground. The Wallace Collection. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s6_XS_DF_x50_220311-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s6_XS_DF_x50_220311-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s6_XS_DF_x50_220311-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s6_XS_DF_x50_220311-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s6_XS_DF_x50_220311-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/03\/22\/M1382s6_XS_DF_x50_220311-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/03/22/M1382s6_XS_DF_x50_220311-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1398_m022_sky-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1398: Sir Joshua Reynolds, Mrs Susanna Hoare and Child, photomicrograph of damage in the sky. The pinkish-red priming and the pale ground are visible around the edges of the loss. The Wallace Collection. (4164x3120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1398_m022_sky-PYR.tif\/full\/195,260\/0\/default.jpg","type":"Image","width":195,"height":260,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1398_m022_sky-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":390,"height":520,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520}]]}]}],
+      "height":4164,
+      "width":3120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1398_m022_sky-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1398_m022_sky-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1398_m022_sky-PYR.tif\/full\/780,1041\/0\/default.jpg","type":"Image","width":780,"height":1041,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/m1398_m022_sky-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3120,"height":4164,"sizes":[[{"width":97,"height":130},{"width":195,"height":260},{"width":390,"height":520},{"width":780,"height":1041},{"width":1560,"height":2082}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/m1398_m022_sky-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000034-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Details of NG5985: Sir Joshua Reynolds, Colonel Tarleton, 1782, Oil on canvas, (236 x 145.5 cm) (5742x7913px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000034-PYR.tif\/full\/494,358\/0\/default.jpg","type":"Image","width":494,"height":358,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000034-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":989,"height":717,"sizes":[[{"width":247,"height":179},{"width":494,"height":358},{"width":989,"height":717}]]}]}],
+      "height":5742,
+      "width":7913,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000034-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000034-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000034-PYR.tif\/full\/1978,1435\/0\/default.jpg","type":"Image","width":1978,"height":1435,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000034-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7913,"height":5742,"sizes":[[{"width":247,"height":179},{"width":494,"height":358},{"width":989,"height":717},{"width":1978,"height":1435},{"width":3956,"height":2871}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000034-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from smoke filled sky, near the horizon at the right edge. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from smoke filled sky, ultraviolet fluorescence image. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/09/29/M-1401-00-000010-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1401: Sir Joshua Reynolds, Miss Nelly O'Brien, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (15248x12340px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/09\/29\/M-1401-00-000010-PYR.tif\/full\/385,476\/0\/default.jpg","type":"Image","width":385,"height":476,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/09\/29\/M-1401-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":771,"height":953,"sizes":[[{"width":192,"height":238},{"width":385,"height":476},{"width":771,"height":953}]]}]}],
+      "height":15248,
+      "width":12340,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/09/29/M-1401-00-000010-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/09/29/M-1401-00-000010-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/09\/29\/M-1401-00-000010-PYR.tif\/full\/1542,1906\/0\/default.jpg","type":"Image","width":1542,"height":1906,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/09\/29\/M-1401-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":12340,"height":15248,"sizes":[[{"width":192,"height":238},{"width":385,"height":476},{"width":771,"height":953},{"width":1542,"height":1906},{"width":3085,"height":3812},{"width":6170,"height":7624}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/09/29/M-1401-00-000010-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from thick foliage paint at the left edge of the picture. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_Vis_DF_50x_b-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG681: Sir Joshua Reynolds, Captain Robert Orme, paint cross-section from thick foliage paint at the left edge of the picture, ultraviolet fluorescence image. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/03\/NG681_IS5_XS_UV_50x_b-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/03/NG681_IS5_XS_UV_50x_b-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG111: Sir Joshua Reynolds, Lord Heathfield of Gibraltar, 1787, 142 x 113.5 cm. (6947x5243px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif\/full\/327,434\/0\/default.jpg","type":"Image","width":327,"height":434,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":655,"height":868,"sizes":[[{"width":163,"height":217},{"width":327,"height":434},{"width":655,"height":868}]]}]}],
+      "height":6947,
+      "width":5243,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif\/full\/1310,1736\/0\/default.jpg","type":"Image","width":1310,"height":1736,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/01\/15\/N-0111-00-000074-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5243,"height":6947,"sizes":[[{"width":163,"height":217},{"width":327,"height":434},{"width":655,"height":868},{"width":1310,"height":1736},{"width":2621,"height":3473}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/01/15/N-0111-00-000074-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/02/m1401_m047_foliage-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1401: Sir Joshua Reynolds, Miss Nelly O'Brien, photomicrograph of foliage on the right side, showing underlying yellow paint emerging onto the surface through cracks. The Wallace Collection. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/02\/m1401_m047_foliage-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/02\/m1401_m047_foliage-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/02/m1401_m047_foliage-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/02/m1401_m047_foliage-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/02\/m1401_m047_foliage-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/02\/m1401_m047_foliage-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/02/m1401_m047_foliage-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_vis_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from dark area of background, showing multiple layers including 'murrey' colouring. The Wallace Collection. (1764x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_vis_20x-PYR.tif\/full\/259,110\/0\/default.jpg","type":"Image","width":259,"height":110,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":220,"sizes":[[{"width":129,"height":55},{"width":259,"height":110},{"width":519,"height":220}]]}]}],
+      "height":1764,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_vis_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_vis_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_vis_20x-PYR.tif\/full\/1038,441\/0\/default.jpg","type":"Image","width":1038,"height":441,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1764,"sizes":[[{"width":129,"height":55},{"width":259,"height":110},{"width":519,"height":220},{"width":1038,"height":441},{"width":2076,"height":882}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_vis_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1381: Sir Joshua Reynolds, Mrs Mary Nesbitt, paint cross-section from dark area of background, showing multiple layers including 'murrey' colouring, ultraviolet fluorescence image. The Wallace Collection. (1764x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_UV_20x-PYR.tif\/full\/259,110\/0\/default.jpg","type":"Image","width":259,"height":110,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":220,"sizes":[[{"width":129,"height":55},{"width":259,"height":110},{"width":519,"height":220}]]}]}],
+      "height":1764,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_UV_20x-PYR.tif\/full\/1038,441\/0\/default.jpg","type":"Image","width":1038,"height":441,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/11\/M1381s9_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1764,"sizes":[[{"width":129,"height":55},{"width":259,"height":110},{"width":519,"height":220},{"width":1038,"height":441},{"width":2076,"height":882}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/11/M1381s9_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000029-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Details of NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, about 1760, Oil on canvas, (126.5 x 101 cm), detail showing faded flesh paint of the sitter's face. (8085x6096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000029-PYR.tif\/full\/381,505\/0\/default.jpg","type":"Image","width":381,"height":505,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000029-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":762,"height":1010,"sizes":[[{"width":190,"height":252},{"width":381,"height":505},{"width":762,"height":1010}]]}]}],
+      "height":8085,
+      "width":6096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000029-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000029-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000029-PYR.tif\/full\/1524,2021\/0\/default.jpg","type":"Image","width":1524,"height":2021,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000029-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6096,"height":8085,"sizes":[[{"width":190,"height":252},{"width":381,"height":505},{"width":762,"height":1010},{"width":1524,"height":2021},{"width":3048,"height":4042}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000029-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2077: Sir Joshua Reynolds, Lady Cockburn and her Three Eldest Sons, 1773, Oil on canvas, (141.5 x 113 cm) (9189x7358px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif\/full\/229,287\/0\/default.jpg","type":"Image","width":229,"height":287,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":459,"height":574,"sizes":[[{"width":114,"height":143},{"width":229,"height":287},{"width":459,"height":574}]]}]}],
+      "height":9189,
+      "width":7358,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif\/full\/919,1148\/0\/default.jpg","type":"Image","width":919,"height":1148,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2077-00-000046-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7358,"height":9189,"sizes":[[{"width":114,"height":143},{"width":229,"height":287},{"width":459,"height":574},{"width":919,"height":1148},{"width":1839,"height":2297},{"width":3679,"height":4594}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2077-00-000046-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

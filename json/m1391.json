@@ -1,0 +1,157 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/m1391.json",
+   "type":"Manifest",
+   "label": { "en": [ "M1391: Rembrandt, The Entombment" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "External collaborative projects" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/external.json\">external<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/artuk.org\/discover\/artworks\/the-entombment-138881\">Find out more about the painting<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "External collaborative projects",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/21/M-1391-00-000010-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Visible image (22180x27346px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/21\/M-1391-00-000010-PYR.tif\/full\/427,346\/0\/default.jpg","type":"Image","width":427,"height":346,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/21\/M-1391-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":854,"height":693,"sizes":[[{"width":213,"height":173},{"width":427,"height":346},{"width":854,"height":693}]]}]}],
+      "height":22180,
+      "width":27346,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/21/M-1391-00-000010-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/21/M-1391-00-000010-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/21\/M-1391-00-000010-PYR.tif\/full\/1709,1386\/0\/default.jpg","type":"Image","width":1709,"height":1386,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/21\/M-1391-00-000010-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":27346,"height":22180,"sizes":[[{"width":213,"height":173},{"width":427,"height":346},{"width":854,"height":693},{"width":1709,"height":1386},{"width":3418,"height":2772},{"width":6836,"height":5545},{"width":13673,"height":11090}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/21/M-1391-00-000010-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/13/M-1391-00-000007-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Composite X-radiograph (15729x19548px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/13\/M-1391-00-000007-PYR.tif\/full\/305,245\/0\/default.jpg","type":"Image","width":305,"height":245,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/13\/M-1391-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":610,"height":491,"sizes":[[{"width":152,"height":122},{"width":305,"height":245},{"width":610,"height":491}]]}]}],
+      "height":15729,
+      "width":19548,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/13/M-1391-00-000007-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/13/M-1391-00-000007-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/13\/M-1391-00-000007-PYR.tif\/full\/1221,983\/0\/default.jpg","type":"Image","width":1221,"height":983,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/13\/M-1391-00-000007-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":19548,"height":15729,"sizes":[[{"width":152,"height":122},{"width":305,"height":245},{"width":610,"height":491},{"width":1221,"height":983},{"width":2443,"height":1966},{"width":4887,"height":3932},{"width":9774,"height":7864}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/13/M-1391-00-000007-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/m1391/m1391_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram (OSIRIS) (3168x4072px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/m1391\/m1391_dirrO_a-PYR.tif\/full\/509,396\/0\/default.jpg","type":"Image","width":509,"height":396,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/m1391\/m1391_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1018,"height":792,"sizes":[[{"width":254,"height":198},{"width":509,"height":396},{"width":1018,"height":792}]]}]}],
+      "height":3168,
+      "width":4072,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/m1391/m1391_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/m1391/m1391_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/m1391\/m1391_dirrO_a-PYR.tif\/full\/2036,1584\/0\/default.jpg","type":"Image","width":2036,"height":1584,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/m1391\/m1391_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4072,"height":3168,"sizes":[[{"width":254,"height":198},{"width":509,"height":396},{"width":1018,"height":792},{"width":2036,"height":1584}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/m1391/m1391_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000013-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Visible image, Detail of woman, left (8284x6122px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000013-PYR.tif\/full\/191,258\/0\/default.jpg","type":"Image","width":191,"height":258,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":382,"height":517,"sizes":[[{"width":95,"height":129},{"width":191,"height":258},{"width":382,"height":517}]]}]}],
+      "height":8284,
+      "width":6122,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000013-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000013-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000013-PYR.tif\/full\/765,1035\/0\/default.jpg","type":"Image","width":765,"height":1035,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000013-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6122,"height":8284,"sizes":[[{"width":95,"height":129},{"width":191,"height":258},{"width":382,"height":517},{"width":765,"height":1035},{"width":1530,"height":2071},{"width":3061,"height":4142}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000013-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Visible image, Detail of Christ, left (8287x6124px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000014-PYR.tif\/full\/191,258\/0\/default.jpg","type":"Image","width":191,"height":258,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":382,"height":517,"sizes":[[{"width":95,"height":129},{"width":191,"height":258},{"width":382,"height":517}]]}]}],
+      "height":8287,
+      "width":6124,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000014-PYR.tif\/full\/765,1035\/0\/default.jpg","type":"Image","width":765,"height":1035,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/09\/M-1391-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6124,"height":8287,"sizes":[[{"width":95,"height":129},{"width":191,"height":258},{"width":382,"height":517},{"width":765,"height":1035},{"width":1531,"height":2071},{"width":3062,"height":4143}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/09/M-1391-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

@@ -1,0 +1,400 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat02.json",
+   "type":"Manifest",
+   "label": { "en": [ "The 4th Duke of Queensberry ('Old Q') as Earl of March, 1759-60, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-a.json\">tb35-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23857\/volume35cataloguepart1.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/14/M-1387-00-000026-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, , 91 x 67.5 cm, after cleaning and restoration. The Wallace Collection. (7892x5711px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/14\/M-1387-00-000026-PYR.tif\/full\/356,493\/0\/default.jpg","type":"Image","width":356,"height":493,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/14\/M-1387-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":713,"height":986,"sizes":[[{"width":178,"height":246},{"width":356,"height":493},{"width":713,"height":986}]]}]}],
+      "height":7892,
+      "width":5711,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/14/M-1387-00-000026-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/14/M-1387-00-000026-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/14\/M-1387-00-000026-PYR.tif\/full\/1427,1973\/0\/default.jpg","type":"Image","width":1427,"height":1973,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/14\/M-1387-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5711,"height":7892,"sizes":[[{"width":178,"height":246},{"width":356,"height":493},{"width":713,"height":986},{"width":1427,"height":1973},{"width":2855,"height":3946}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/14/M-1387-00-000026-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000015-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, X-radiograph (Computer assembled mosaic). The Wallace Collection. (11310x8846px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000015-PYR.tif\/full\/276,353\/0\/default.jpg","type":"Image","width":276,"height":353,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":552,"height":706,"sizes":[[{"width":138,"height":176},{"width":276,"height":353},{"width":552,"height":706}]]}]}],
+      "height":11310,
+      "width":8846,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000015-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000015-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000015-PYR.tif\/full\/1105,1413\/0\/default.jpg","type":"Image","width":1105,"height":1413,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000015-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8846,"height":11310,"sizes":[[{"width":138,"height":176},{"width":276,"height":353},{"width":552,"height":706},{"width":1105,"height":1413},{"width":2211,"height":2827},{"width":4423,"height":5655}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000015-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (11310x8846px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000016-PYR.tif\/full\/276,353\/0\/default.jpg","type":"Image","width":276,"height":353,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":552,"height":706,"sizes":[[{"width":138,"height":176},{"width":276,"height":353},{"width":552,"height":706}]]}]}],
+      "height":11310,
+      "width":8846,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000016-PYR.tif\/full\/1105,1413\/0\/default.jpg","type":"Image","width":1105,"height":1413,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/11\/07\/M-1387-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8846,"height":11310,"sizes":[[{"width":138,"height":176},{"width":276,"height":353},{"width":552,"height":706},{"width":1105,"height":1413},{"width":2211,"height":2827},{"width":4423,"height":5655}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/11/07/M-1387-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_Vis_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from left tacking margin, showing double ground with and intermediate layer of glue size.  The Wallace Collection. (1344x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_Vis_20x-PYR.tif\/full\/259,84\/0\/default.jpg","type":"Image","width":259,"height":84,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_Vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":168,"sizes":[[{"width":129,"height":42},{"width":259,"height":84},{"width":519,"height":168}]]}]}],
+      "height":1344,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_Vis_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_Vis_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_Vis_20x-PYR.tif\/full\/1038,336\/0\/default.jpg","type":"Image","width":1038,"height":336,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_Vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1344,"sizes":[[{"width":129,"height":42},{"width":259,"height":84},{"width":519,"height":168},{"width":1038,"height":336},{"width":2076,"height":672}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_Vis_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from left tacking margin, ultraviolet fluorescence image. The Wallace Collection. (1344x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_UV_20x-PYR.tif\/full\/259,84\/0\/default.jpg","type":"Image","width":259,"height":84,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":168,"sizes":[[{"width":129,"height":42},{"width":259,"height":84},{"width":519,"height":168}]]}]}],
+      "height":1344,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_UV_20x-PYR.tif\/full\/1038,336\/0\/default.jpg","type":"Image","width":1038,"height":336,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS8_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1344,"sizes":[[{"width":129,"height":42},{"width":259,"height":84},{"width":519,"height":168},{"width":1038,"height":336},{"width":2076,"height":672}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS8_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/13/M-1387-00-000028-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, Irev|. The Wallace Collection. (7965x5784px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/13\/M-1387-00-000028-PYR.tif\/full\/361,497\/0\/default.jpg","type":"Image","width":361,"height":497,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/13\/M-1387-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":723,"height":995,"sizes":[[{"width":180,"height":248},{"width":361,"height":497},{"width":723,"height":995}]]}]}],
+      "height":7965,
+      "width":5784,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/13/M-1387-00-000028-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/13/M-1387-00-000028-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/13\/M-1387-00-000028-PYR.tif\/full\/1446,1991\/0\/default.jpg","type":"Image","width":1446,"height":1991,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/02\/13\/M-1387-00-000028-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5784,"height":7965,"sizes":[[{"width":180,"height":248},{"width":361,"height":497},{"width":723,"height":995},{"width":1446,"height":1991},{"width":2892,"height":3982}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/02/13/M-1387-00-000028-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/m1387_dirrO_a1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, infrared reflectogram (OSIRIS). The Wallace Collection. (4044x3256px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/m1387_dirrO_a1-PYR.tif\/full\/407,505\/0\/default.jpg","type":"Image","width":407,"height":505,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/m1387_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":814,"height":1011,"sizes":[[{"width":203,"height":252},{"width":407,"height":505},{"width":814,"height":1011}]]}]}],
+      "height":4044,
+      "width":3256,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/m1387_dirrO_a1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/m1387_dirrO_a1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/m1387_dirrO_a1-PYR.tif\/full\/1628,2022\/0\/default.jpg","type":"Image","width":1628,"height":2022,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/m1387_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3256,"height":4044,"sizes":[[{"width":203,"height":252},{"width":407,"height":505},{"width":814,"height":1011},{"width":1628,"height":2022}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/m1387_dirrO_a1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1387_dirrO_a2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, infrared reflectogram (OSIRIS). Contrast adjusted to show more detail in darks.  The Wallace Collection. (4044x3256px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1387_dirrO_a2-PYR.tif\/full\/407,505\/0\/default.jpg","type":"Image","width":407,"height":505,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1387_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":814,"height":1011,"sizes":[[{"width":203,"height":252},{"width":407,"height":505},{"width":814,"height":1011}]]}]}],
+      "height":4044,
+      "width":3256,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1387_dirrO_a2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1387_dirrO_a2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1387_dirrO_a2-PYR.tif\/full\/1628,2022\/0\/default.jpg","type":"Image","width":1628,"height":2022,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/09\/21\/m1387_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3256,"height":4044,"sizes":[[{"width":203,"height":252},{"width":407,"height":505},{"width":814,"height":1011},{"width":1628,"height":2022}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/09/21/m1387_dirrO_a2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_vis_x20_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from background, upper left. The Wallace Collection. (1116x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_vis_x20_repolished-PYR.tif\/full\/260,69\/0\/default.jpg","type":"Image","width":260,"height":69,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_vis_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":139,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":139}]]}]}],
+      "height":1116,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_vis_x20_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_vis_x20_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_vis_x20_repolished-PYR.tif\/full\/1041,279\/0\/default.jpg","type":"Image","width":1041,"height":279,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_vis_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1116,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":139},{"width":1041,"height":279},{"width":2082,"height":558}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_vis_x20_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_UV_x20_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from background, upper left, ultraviolet fluorescence image. The Wallace Collection. (1116x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_UV_x20_repolished-PYR.tif\/full\/260,69\/0\/default.jpg","type":"Image","width":260,"height":69,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_UV_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":139,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":139}]]}]}],
+      "height":1116,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_UV_x20_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_UV_x20_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_UV_x20_repolished-PYR.tif\/full\/1041,279\/0\/default.jpg","type":"Image","width":1041,"height":279,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/11\/21\/M1387_S16_XS_UV_x20_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1116,"sizes":[[{"width":130,"height":34},{"width":260,"height":69},{"width":520,"height":139},{"width":1041,"height":279},{"width":2082,"height":558}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/11/21/M1387_S16_XS_UV_x20_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/15/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from proper right hand. The Wallace Collection. (1332x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/15\/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif\/full\/260,83\/0\/default.jpg","type":"Image","width":260,"height":83,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/15\/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":166,"sizes":[[{"width":130,"height":41},{"width":260,"height":83},{"width":520,"height":166}]]}]}],
+      "height":1332,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/15/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/15/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/15\/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif\/full\/1041,333\/0\/default.jpg","type":"Image","width":1041,"height":333,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/15\/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1332,"sizes":[[{"width":130,"height":41},{"width":260,"height":83},{"width":520,"height":166},{"width":1041,"height":333},{"width":2082,"height":666}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/15/M1387_S18_XS_vis_DF_50x_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_vis_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from red drapery. The Wallace Collection. (1020x3780px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_vis_20x-PYR.tif\/full\/472,127\/0\/default.jpg","type":"Image","width":472,"height":127,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":945,"height":255,"sizes":[[{"width":236,"height":63},{"width":472,"height":127},{"width":945,"height":255}]]}]}],
+      "height":1020,
+      "width":3780,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_vis_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_vis_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_vis_20x-PYR.tif\/full\/1890,510\/0\/default.jpg","type":"Image","width":1890,"height":510,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_vis_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3780,"height":1020,"sizes":[[{"width":236,"height":63},{"width":472,"height":127},{"width":945,"height":255},{"width":1890,"height":510}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_vis_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_UV_20x-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from red drapery, ultraviolet fluorescence image. The Wallace Collection. (1020x3780px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_UV_20x-PYR.tif\/full\/472,127\/0\/default.jpg","type":"Image","width":472,"height":127,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":945,"height":255,"sizes":[[{"width":236,"height":63},{"width":472,"height":127},{"width":945,"height":255}]]}]}],
+      "height":1020,
+      "width":3780,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_UV_20x-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_UV_20x-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_UV_20x-PYR.tif\/full\/1890,510\/0\/default.jpg","type":"Image","width":1890,"height":510,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/14\/M1387_XS4_UV_20x-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3780,"height":1020,"sizes":[[{"width":236,"height":63},{"width":472,"height":127},{"width":945,"height":255},{"width":1890,"height":510}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/14/M1387_XS4_UV_20x-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_vis_DF_100x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from coronet. The Wallace Collection. (1680x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_vis_DF_100x_A-PYR.tif\/full\/260,105\/0\/default.jpg","type":"Image","width":260,"height":105,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_vis_DF_100x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":210,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210}]]}]}],
+      "height":1680,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_vis_DF_100x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_vis_DF_100x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_vis_DF_100x_A-PYR.tif\/full\/1041,420\/0\/default.jpg","type":"Image","width":1041,"height":420,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_vis_DF_100x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1680,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210},{"width":1041,"height":420},{"width":2082,"height":840}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_vis_DF_100x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_UV_100x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, paint cross-section from coronet, ultraviolet fluorescence image. The Wallace Collection. (1680x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_UV_100x_A-PYR.tif\/full\/260,105\/0\/default.jpg","type":"Image","width":260,"height":105,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_UV_100x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":210,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210}]]}]}],
+      "height":1680,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_UV_100x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_UV_100x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_UV_100x_A-PYR.tif\/full\/1041,420\/0\/default.jpg","type":"Image","width":1041,"height":420,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/01\/22\/M1387_S17_XS_UV_100x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1680,"sizes":[[{"width":130,"height":52},{"width":260,"height":105},{"width":520,"height":210},{"width":1041,"height":420},{"width":2082,"height":840}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/01/22/M1387_S17_XS_UV_100x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/M1387_m001_ermine-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1387: Sir Joshua Reynolds, The 4th Duke of Queensberry ('Old Q') as Earl of March, photomicrograph showing spot on ermine.  The Wallace Collection. (4146x3102px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/M1387_m001_ermine-PYR.tif\/full\/193,259\/0\/default.jpg","type":"Image","width":193,"height":259,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/M1387_m001_ermine-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":387,"height":518,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518}]]}]}],
+      "height":4146,
+      "width":3102,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/M1387_m001_ermine-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/M1387_m001_ermine-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/M1387_m001_ermine-PYR.tif\/full\/775,1036\/0\/default.jpg","type":"Image","width":775,"height":1036,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/19\/M1387_m001_ermine-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3102,"height":4146,"sizes":[[{"width":96,"height":129},{"width":193,"height":259},{"width":387,"height":518},{"width":775,"height":1036},{"width":1551,"height":2073}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/19/M1387_m001_ermine-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

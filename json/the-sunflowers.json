@@ -1,0 +1,135 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/the-sunflowers.json",
+   "type":"Manifest",
+   "label": { "en": [ "The Sunflowers" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "\u2018The Sunflowers\u2019 offers visitors the unique opportunity to witness the reunion of two of Vincent van Gogh's iconic Sunflower paintings \u2013 one from the National Gallery, London, one from the Van Gogh Museum, Amsterdam. This resource allows you to compare and contrast both the original paintings and X-rays of each in fine detail." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/exhibitions.json\">exhibitions<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/exhibitions\/past\/the-sunflowers\">\u2018The Sunflowers\u2019 display<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/learn-about-art\/paintings-in-depth\/the-sunflowers\">Find out more<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "\u2018The Sunflowers\u2019 offers visitors the unique opportunity to witness the reunion of two of Vincent van Gogh's iconic Sunflower paintings \u2013 one from the National Gallery, London, one from the Van Gogh Museum, Amsterdam. This resource allows you to compare and contrast both the original paintings and X-rays of each in fine detail.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/18/N-3863-00-000053-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3863: Vincent van Gogh, Sunflowers, 1888, Oil on canvas, (92.1 x 73 cm). \u00a9 The National Gallery, London (7434x5341px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/18\/N-3863-00-000053-PYR.tif\/full\/333,464\/0\/default.jpg","type":"Image","width":333,"height":464,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/18\/N-3863-00-000053-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":667,"height":929,"sizes":[[{"width":166,"height":232},{"width":333,"height":464},{"width":667,"height":929}]]}]}],
+      "height":7434,
+      "width":5341,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/18/N-3863-00-000053-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/18/N-3863-00-000053-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/18\/N-3863-00-000053-PYR.tif\/full\/1335,1858\/0\/default.jpg","type":"Image","width":1335,"height":1858,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/04\/18\/N-3863-00-000053-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5341,"height":7434,"sizes":[[{"width":166,"height":232},{"width":333,"height":464},{"width":667,"height":929},{"width":1335,"height":1858},{"width":2670,"height":3717}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/04/18/N-3863-00-000053-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/30/N-3863-00-000059-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3863: Vincent van Gogh, Sunflowers, 1888, Oil on canvas, (92.1 x 73 cm), X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. \u00a9 The National Gallery, London (22892x18152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/30\/N-3863-00-000059-PYR.tif\/full\/283,357\/0\/default.jpg","type":"Image","width":283,"height":357,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/30\/N-3863-00-000059-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":567,"height":715,"sizes":[[{"width":141,"height":178},{"width":283,"height":357},{"width":567,"height":715}]]}]}],
+      "height":22892,
+      "width":18152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/30/N-3863-00-000059-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/30/N-3863-00-000059-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/30\/N-3863-00-000059-PYR.tif\/full\/1134,1430\/0\/default.jpg","type":"Image","width":1134,"height":1430,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/30\/N-3863-00-000059-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18152,"height":22892,"sizes":[[{"width":141,"height":178},{"width":283,"height":357},{"width":567,"height":715},{"width":1134,"height":1430},{"width":2269,"height":2861},{"width":4538,"height":5723},{"width":9076,"height":11446}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/30/N-3863-00-000059-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/01/09/L-1162-00-000004-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "L1162: Vincent van Gogh, Sunflowers, 1889, Oil on canvas, (95 x 73 cm). \u00a9 Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation) (11811x9013px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/01\/09\/L-1162-00-000004-PYR.tif\/full\/281,369\/0\/default.jpg","type":"Image","width":281,"height":369,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/01\/09\/L-1162-00-000004-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":563,"height":738,"sizes":[[{"width":140,"height":184},{"width":281,"height":369},{"width":563,"height":738}]]}]}],
+      "height":11811,
+      "width":9013,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/01/09/L-1162-00-000004-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/01/09/L-1162-00-000004-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/01\/09\/L-1162-00-000004-PYR.tif\/full\/1126,1476\/0\/default.jpg","type":"Image","width":1126,"height":1476,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/01\/09\/L-1162-00-000004-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9013,"height":11811,"sizes":[[{"width":140,"height":184},{"width":281,"height":369},{"width":563,"height":738},{"width":1126,"height":1476},{"width":2253,"height":2952},{"width":4506,"height":5905}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/01/09/L-1162-00-000004-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/11/29/L-1162-00-000003-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "L1162: Vincent van Gogh, Sunflowers, 1889, Oil on canvas, (95 x 73 cm), X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation.  \u00a9 Van Gogh Museum, Amsterdam (Vincent van Gogh Foundation) (23694x18274px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/11\/29\/L-1162-00-000003-PYR.tif\/full\/285,370\/0\/default.jpg","type":"Image","width":285,"height":370,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/11\/29\/L-1162-00-000003-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":571,"height":740,"sizes":[[{"width":142,"height":185},{"width":285,"height":370},{"width":571,"height":740}]]}]}],
+      "height":23694,
+      "width":18274,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/11/29/L-1162-00-000003-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/11/29/L-1162-00-000003-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/11\/29\/L-1162-00-000003-PYR.tif\/full\/1142,1480\/0\/default.jpg","type":"Image","width":1142,"height":1480,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/11\/29\/L-1162-00-000003-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18274,"height":23694,"sizes":[[{"width":142,"height":185},{"width":285,"height":370},{"width":571,"height":740},{"width":1142,"height":1480},{"width":2284,"height":2961},{"width":4568,"height":5923},{"width":9137,"height":11847}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/11/29/L-1162-00-000003-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

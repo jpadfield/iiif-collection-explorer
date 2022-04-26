@@ -1,0 +1,839 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng2790.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG2790: Jan Gossaert (Jean Gossart), The Adoration of the Kings" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/catalogues.json\">catalogues<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/sixteenth_century_netherlandish.json\">sixteenth_century_netherlandish<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG2790\">Find out more about the painting<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2790-00-000069-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "The Adoration of the Kings, oil on oak panel, 179.8 x 163.2 cm, painted surface approximately 177.2 x 161.8 cm (9001x8065px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2790-00-000069-PYR.tif\/full\/252,281\/0\/default.jpg","type":"Image","width":252,"height":281,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2790-00-000069-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":504,"height":562,"sizes":[[{"width":126,"height":140},{"width":252,"height":281},{"width":504,"height":562}]]}]}],
+      "height":9001,
+      "width":8065,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2790-00-000069-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2790-00-000069-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2790-00-000069-PYR.tif\/full\/1008,1125\/0\/default.jpg","type":"Image","width":1008,"height":1125,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2790-00-000069-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8065,"height":9001,"sizes":[[{"width":126,"height":140},{"width":252,"height":281},{"width":504,"height":562},{"width":1008,"height":1125},{"width":2016,"height":2250},{"width":4032,"height":4500}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2790-00-000069-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d001_virgin_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the Virgin's head (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d001_virgin_head-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d001_virgin_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d001_virgin_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d001_virgin_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d001_virgin_head-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d001_virgin_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d001_virgin_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d003_virgin_shirts1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the neckline of the Virgin's robe and changes to her chemise (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d003_virgin_shirts1-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d003_virgin_shirts1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d003_virgin_shirts1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d003_virgin_shirts1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d003_virgin_shirts1-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d003_virgin_shirts1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d003_virgin_shirts1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d004_virgin_shirts2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the neckline of the Virgin's robe and changes to her chemise (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d004_virgin_shirts2-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d004_virgin_shirts2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d004_virgin_shirts2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d004_virgin_shirts2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d004_virgin_shirts2-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d004_virgin_shirts2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d004_virgin_shirts2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d002_virgin_hair-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the Virgin's hair (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d002_virgin_hair-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d002_virgin_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d002_virgin_hair-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d002_virgin_hair-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d002_virgin_hair-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d002_virgin_hair-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d002_virgin_hair-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d005_child-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the Christ Child (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d005_child-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d005_child-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d005_child-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d005_child-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d005_child-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d005_child-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d005_child-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d006_child_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the head of the Child (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d006_child_head-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d006_child_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d006_child_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d006_child_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d006_child_head-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d006_child_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d006_child_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d007_child_body-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the body of the Child and the Virgin's hand (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d007_child_body-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d007_child_body-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d007_child_body-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d007_child_body-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d007_child_body-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d007_child_body-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d007_child_body-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d008_signature1_balthasar_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing Balthasar's head with Gossart's signature round his hat (IENNI \/ GOSSART : DEMABV...) (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d008_signature1_balthasar_head-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d008_signature1_balthasar_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d008_signature1_balthasar_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d008_signature1_balthasar_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d008_signature1_balthasar_head-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d008_signature1_balthasar_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d008_signature1_balthasar_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d009_balthasar_hat-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the top of Balthasar's hat with an inscription giving his name (BALTAZAR).  (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d009_balthasar_hat-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d009_balthasar_hat-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d009_balthasar_hat-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d009_balthasar_hat-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d009_balthasar_hat-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d009_balthasar_hat-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d009_balthasar_hat-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d013_signature2_balthasar_attendant-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the silver collar worn by Balthasar\u2019s second attendant, inscribed with the painter\u2019s name (IENNIN GOSS\u2026) (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d013_signature2_balthasar_attendant-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d013_signature2_balthasar_attendant-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d013_signature2_balthasar_attendant-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d013_signature2_balthasar_attendant-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d013_signature2_balthasar_attendant-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d013_signature2_balthasar_attendant-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d013_signature2_balthasar_attendant-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d017_caspar_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing Caspar\u2019s head (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d017_caspar_head-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d017_caspar_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d017_caspar_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d017_caspar_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d017_caspar_head-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d017_caspar_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d017_caspar_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d018_caspar_wart-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing Caspar\u2019s cheek with stubble and a hairy wart (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d018_caspar_wart-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d018_caspar_wart-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d018_caspar_wart-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d018_caspar_wart-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d018_caspar_wart-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d018_caspar_wart-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d018_caspar_wart-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d020_caspar_hat-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing Caspar\u2019s hat (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d020_caspar_hat-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d020_caspar_hat-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d020_caspar_hat-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d020_caspar_hat-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d020_caspar_hat-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d020_caspar_hat-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d020_caspar_hat-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d021_caspar_gift_lid-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the lid of Caspar\u2019s gift with an inscription giving his name ([L]E ROII IASPAR) (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d021_caspar_gift_lid-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d021_caspar_gift_lid-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d021_caspar_gift_lid-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d021_caspar_gift_lid-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d021_caspar_gift_lid-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d021_caspar_gift_lid-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d021_caspar_gift_lid-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d026_dog_head-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the head of the dog on the right (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d026_dog_head-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d026_dog_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d026_dog_head-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d026_dog_head-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d026_dog_head-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d026_dog_head-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d026_dog_head-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d022_melchior_tunic-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing Melchior\u2019s tunic (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d022_melchior_tunic-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d022_melchior_tunic-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d022_melchior_tunic-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d022_melchior_tunic-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d022_melchior_tunic-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d022_melchior_tunic-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d022_melchior_tunic-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d023_melchior_pearls-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing pearls decorating Melchior\u2019s tunic (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d023_melchior_pearls-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d023_melchior_pearls-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d023_melchior_pearls-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d023_melchior_pearls-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d023_melchior_pearls-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d023_melchior_pearls-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d023_melchior_pearls-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d024_melchior_cloth_of_gold-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing Melchior\u2019s cloth-of-gold robe (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d024_melchior_cloth_of_gold-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d024_melchior_cloth_of_gold-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d024_melchior_cloth_of_gold-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d024_melchior_cloth_of_gold-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d024_melchior_cloth_of_gold-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d024_melchior_cloth_of_gold-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d024_melchior_cloth_of_gold-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d010_balthasar_cloth_of_gold-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the cloth-of-gold of Balthasar's robe (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d010_balthasar_cloth_of_gold-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d010_balthasar_cloth_of_gold-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d010_balthasar_cloth_of_gold-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d010_balthasar_cloth_of_gold-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d010_balthasar_cloth_of_gold-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d010_balthasar_cloth_of_gold-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d010_balthasar_cloth_of_gold-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d014_balthasar_attendant_purple-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the purple damask worn by Balthasar\u2019s foremost attendant (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d014_balthasar_attendant_purple-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d014_balthasar_attendant_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d014_balthasar_attendant_purple-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d014_balthasar_attendant_purple-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d014_balthasar_attendant_purple-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d014_balthasar_attendant_purple-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d014_balthasar_attendant_purple-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing a blue and white fabric panel in the garment worn by Balthasar\u2019s foremost attendant (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d015_balthasar_attendant_blue_damask-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d016_balthasar_attendant_green_panel-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing a green and gold fabric panel in the garment worn by Balthasar\u2019s foremost attendant (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d016_balthasar_attendant_green_panel-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d016_balthasar_attendant_green_panel-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d016_balthasar_attendant_green_panel-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d016_balthasar_attendant_green_panel-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d016_balthasar_attendant_green_panel-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d016_balthasar_attendant_green_panel-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d016_balthasar_attendant_green_panel-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d019_caspar_cloak-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing Caspar\u2019s crimson velvet garment (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d019_caspar_cloak-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d019_caspar_cloak-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d019_caspar_cloak-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d019_caspar_cloak-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d019_caspar_cloak-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d019_caspar_cloak-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d019_caspar_cloak-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d027_blue_angel_cangiante-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the blue and yellow shot fabric of the drapery of the angel on the left (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d027_blue_angel_cangiante-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d027_blue_angel_cangiante-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d027_blue_angel_cangiante-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d027_blue_angel_cangiante-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d027_blue_angel_cangiante-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d027_blue_angel_cangiante-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d027_blue_angel_cangiante-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d029_pink_angel_cangante-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the pink and yellow shot fabric of the drapery of the foremost angel on the right, with underdrawing showing through the paint (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d029_pink_angel_cangante-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d029_pink_angel_cangante-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d029_pink_angel_cangante-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d029_pink_angel_cangante-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d029_pink_angel_cangante-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d029_pink_angel_cangante-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d029_pink_angel_cangante-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d028_pink_angel_underdrawing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing a shadowed area of the pink and yellow shot fabric of the drapery of the foremost angel on the right, with underdrawing showing through the paint (2448x3264px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d028_pink_angel_underdrawing-PYR.tif\/full\/408,306\/0\/default.jpg","type":"Image","width":408,"height":306,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d028_pink_angel_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":816,"height":612,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612}]]}]}],
+      "height":2448,
+      "width":3264,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d028_pink_angel_underdrawing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d028_pink_angel_underdrawing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d028_pink_angel_underdrawing-PYR.tif\/full\/1632,1224\/0\/default.jpg","type":"Image","width":1632,"height":1224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d028_pink_angel_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3264,"height":2448,"sizes":[[{"width":204,"height":153},{"width":408,"height":306},{"width":816,"height":612},{"width":1632,"height":1224}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d028_pink_angel_underdrawing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d025_melchior_attendant_underdrawing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing the mantle carried by Melchior\u2019s attendant with underdrawing for a hand showing through the paint (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d025_melchior_attendant_underdrawing-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d025_melchior_attendant_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d025_melchior_attendant_underdrawing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d025_melchior_attendant_underdrawing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d025_melchior_attendant_underdrawing-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d025_melchior_attendant_underdrawing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d025_melchior_attendant_underdrawing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing underdrawing visible through the paint of Balthasar\u2019s red cloak (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d011_balthasar_cloak_underdrawing1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail showing underdrawing visible through the paint of Balthasar\u2019s red cloak (3264x2448px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif\/full\/306,408\/0\/default.jpg","type":"Image","width":306,"height":408,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":612,"height":816,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816}]]}]}],
+      "height":3264,
+      "width":2448,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif\/full\/1224,1632\/0\/default.jpg","type":"Image","width":1224,"height":1632,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2448,"height":3264,"sizes":[[{"width":153,"height":204},{"width":306,"height":408},{"width":612,"height":816},{"width":1224,"height":1632}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_d012_balthasar_cloak_underdrawing2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_a_MR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Composite infrared reflectogram.  Scale 4 pixels per mm (7348x6781px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_a_MR-PYR.tif\/full\/211,229\/0\/default.jpg","type":"Image","width":211,"height":229,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_a_MR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":423,"height":459,"sizes":[[{"width":105,"height":114},{"width":211,"height":229},{"width":423,"height":459}]]}]}],
+      "height":7348,
+      "width":6781,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_a_MR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_a_MR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_a_MR-PYR.tif\/full\/847,918\/0\/default.jpg","type":"Image","width":847,"height":918,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_a_MR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6781,"height":7348,"sizes":[[{"width":105,"height":114},{"width":211,"height":229},{"width":423,"height":459},{"width":847,"height":918},{"width":1695,"height":1837},{"width":3390,"height":3674}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_a_MR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram, detail showing the Virgin and Child and Caspar\u2019s head and hands. Scale 8.7 pixels per mm (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d2-PYR.tif\/full\/256,256\/0\/default.jpg","type":"Image","width":256,"height":256,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":512,"height":512,"sizes":[[{"width":128,"height":128},{"width":256,"height":256},{"width":512,"height":512}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d2-PYR.tif\/full\/1024,1024\/0\/default.jpg","type":"Image","width":1024,"height":1024,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":128,"height":128},{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram, detail showing Balthasar and the attendants behind him. Scale 8.7 pixels per mm (7903x3982px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d1-PYR.tif\/full\/124,246\/0\/default.jpg","type":"Image","width":124,"height":246,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":248,"height":493,"sizes":[[{"width":62,"height":123},{"width":124,"height":246},{"width":248,"height":493}]]}]}],
+      "height":7903,
+      "width":3982,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d1-PYR.tif\/full\/497,987\/0\/default.jpg","type":"Image","width":497,"height":987,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3982,"height":7903,"sizes":[[{"width":62,"height":123},{"width":124,"height":246},{"width":248,"height":493},{"width":497,"height":987},{"width":995,"height":1975},{"width":1991,"height":3951}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d3-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram, detail showing Melchior and the attendants behind him. Scale 8.7 pixels per mm (7962x3496px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d3-PYR.tif\/full\/109,248\/0\/default.jpg","type":"Image","width":109,"height":248,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":218,"height":497,"sizes":[[{"width":54,"height":124},{"width":109,"height":248},{"width":218,"height":497}]]}]}],
+      "height":7962,
+      "width":3496,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d3-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d3-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d3-PYR.tif\/full\/437,995\/0\/default.jpg","type":"Image","width":437,"height":995,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d3-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3496,"height":7962,"sizes":[[{"width":54,"height":124},{"width":109,"height":248},{"width":218,"height":497},{"width":437,"height":995},{"width":874,"height":1990},{"width":1748,"height":3981}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d3-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d4-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram, detail showing the dog on the right. Scale 8.7 pixels per mm (2812x3056px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d4-PYR.tif\/full\/191,175\/0\/default.jpg","type":"Image","width":191,"height":175,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d4-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":382,"height":351,"sizes":[[{"width":95,"height":87},{"width":191,"height":175},{"width":382,"height":351}]]}]}],
+      "height":2812,
+      "width":3056,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d4-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d4-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d4-PYR.tif\/full\/764,703\/0\/default.jpg","type":"Image","width":764,"height":703,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2019\/04\/12\/ng2790_dirrO_d4-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3056,"height":2812,"sizes":[[{"width":95,"height":87},{"width":191,"height":175},{"width":382,"height":351},{"width":764,"height":703},{"width":1528,"height":1406}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2019/04/12/ng2790_dirrO_d4-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_dirrO_dm1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Infrared reflectogram, detail showing the angels on the left. Scale 4 pixels per mm (2960x2436px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_dirrO_dm1-PYR.tif\/full\/304,370\/0\/default.jpg","type":"Image","width":304,"height":370,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_dirrO_dm1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":609,"height":740,"sizes":[[{"width":152,"height":185},{"width":304,"height":370},{"width":609,"height":740}]]}]}],
+      "height":2960,
+      "width":2436,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_dirrO_dm1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_dirrO_dm1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_dirrO_dm1-PYR.tif\/full\/1218,1480\/0\/default.jpg","type":"Image","width":1218,"height":1480,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif\/pics\/pyramids\/rwCode\/ngl\/ng2790\/ng2790_dirrO_dm1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2436,"height":2960,"sizes":[[{"width":152,"height":185},{"width":304,"height":370},{"width":609,"height":740},{"width":1218,"height":1480}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif/pics/pyramids/rwCode/ngl/ng2790/ng2790_dirrO_dm1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

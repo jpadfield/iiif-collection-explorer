@@ -1,0 +1,466 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb34-essay.json",
+   "type":"Manifest",
+   "label": { "en": [ "Titian's painting technique to c.1540" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This introductory essay brings together the observations made on the paintings examined \u2013 described in detail in the catalogue entries \u2013 in order to survey various aspects of Titian\u2019s painting technique. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-34.json\">vol-34<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-34\">Technical Bulletin Vol. 34<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-34-essay-1-2013\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/vol-34-essay-1-2013.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This introductory essay brings together the observations made on the paintings examined \u2013 described in detail in the catalogue entries \u2013 in order to survey various aspects of Titian\u2019s painting technique. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1120-00-000024-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1120: Giovanni Battista Cima da Conegliano, Saint Jerome in a Landscape, about 1500-10, Oil on wood, (32.1 x 25.4 cm) (7210x5053px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1120-00-000024-PYR.tif\/full\/315,450\/0\/default.jpg","type":"Image","width":315,"height":450,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1120-00-000024-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":631,"height":901,"sizes":[[{"width":157,"height":225},{"width":315,"height":450},{"width":631,"height":901}]]}]}],
+      "height":7210,
+      "width":5053,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1120-00-000024-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1120-00-000024-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1120-00-000024-PYR.tif\/full\/1263,1802\/0\/default.jpg","type":"Image","width":1263,"height":1802,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1120-00-000024-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5053,"height":7210,"sizes":[[{"width":157,"height":225},{"width":315,"height":450},{"width":631,"height":901},{"width":1263,"height":1802},{"width":2526,"height":3605}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1120-00-000024-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6307-00-000048-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6307: Giorgione, Il Tramonto (The Sunset), 1506-10, Oil on canvas, (73.3 x 91.4 cm) (5261x5729px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6307-00-000048-PYR.tif\/full\/358,328\/0\/default.jpg","type":"Image","width":358,"height":328,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6307-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":716,"height":657,"sizes":[[{"width":179,"height":164},{"width":358,"height":328},{"width":716,"height":657}]]}]}],
+      "height":5261,
+      "width":5729,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6307-00-000048-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6307-00-000048-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6307-00-000048-PYR.tif\/full\/1432,1315\/0\/default.jpg","type":"Image","width":1432,"height":1315,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-6307-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5729,"height":5261,"sizes":[[{"width":179,"height":164},{"width":358,"height":328},{"width":716,"height":657},{"width":1432,"height":1315},{"width":2864,"height":2630}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-6307-00-000048-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1160-00-000057-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1160: Giorgione, The Adoration of the Kings, 1506-7, Oil on wood, (29.8 x 81.3 cm) The Three Kings have come to adore the new-born Christ Child and offer gifts of gold, frankincense and myrrh. They are followed by a retinue with horses. Saint Joseph holds a gift, presumably from the kneeling king who points to himself. New Testament (Matthew 2: 11).\nThe painting may have formed part of the predella of an altarpiece, although it is unusually large. The costumes, particularly of the figures at the right, reflect Venetian fashions of about 1506-7. Bought as by Giovanni Bellini; the painting was widely regarded as by Giorgione in the early part of this century as it is today but other artists have been proposed, notably Catena and Bonifazio.\nUnderdrawing is visible, especially on the body of the Christ Child.\nPhilip John Miles collection, Leigh Court, near Bristol, by 1822; bought, 1884.\nLilli and Zampetti 1968, p. 88\nPignatti 1969, pp. 97-8\nGould 1975, pp. 104-5 Bought, 1884 (3620x8990px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1160-00-000057-PYR.tif\/full\/280,113\/0\/default.jpg","type":"Image","width":280,"height":113,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1160-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":561,"height":226,"sizes":[[{"width":140,"height":56},{"width":280,"height":113},{"width":561,"height":226}]]}]}],
+      "height":3620,
+      "width":8990,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1160-00-000057-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1160-00-000057-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1160-00-000057-PYR.tif\/full\/1123,452\/0\/default.jpg","type":"Image","width":1123,"height":452,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-1160-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8990,"height":3620,"sizes":[[{"width":140,"height":56},{"width":280,"height":113},{"width":561,"height":226},{"width":1123,"height":452},{"width":2247,"height":905},{"width":4495,"height":1810}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-1160-00-000057-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0634-00-000025-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG634: Giovanni Battista Cima da Conegliano, The Virgin and Child, about 1505, Oil and egg on poplar, (53.3 x 43.8 cm) (8740x7065px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0634-00-000025-PYR.tif\/full\/220,273\/0\/default.jpg","type":"Image","width":220,"height":273,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0634-00-000025-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":441,"height":546,"sizes":[[{"width":110,"height":136},{"width":220,"height":273},{"width":441,"height":546}]]}]}],
+      "height":8740,
+      "width":7065,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0634-00-000025-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0634-00-000025-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0634-00-000025-PYR.tif\/full\/883,1092\/0\/default.jpg","type":"Image","width":883,"height":1092,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0634-00-000025-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7065,"height":8740,"sizes":[[{"width":110,"height":136},{"width":220,"height":273},{"width":441,"height":546},{"width":883,"height":1092},{"width":1766,"height":2185},{"width":3532,"height":4370}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0634-00-000025-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0599-00-000057-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG599: Giovanni Bellini, Madonna of the Meadow, about 1500, Oil and egg on synthetic panel, transferred from wood, (67.3 x 86.4 cm) (7664x9570px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0599-00-000057-PYR.tif\/full\/299,239\/0\/default.jpg","type":"Image","width":299,"height":239,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0599-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":598,"height":479,"sizes":[[{"width":149,"height":119},{"width":299,"height":239},{"width":598,"height":479}]]}]}],
+      "height":7664,
+      "width":9570,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0599-00-000057-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0599-00-000057-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0599-00-000057-PYR.tif\/full\/1196,958\/0\/default.jpg","type":"Image","width":1196,"height":958,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0599-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9570,"height":7664,"sizes":[[{"width":149,"height":119},{"width":299,"height":239},{"width":598,"height":479},{"width":1196,"height":958},{"width":2392,"height":1916},{"width":4785,"height":3832}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0599-00-000057-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/21/N-3949-00-000040-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro,back of the original canvas, exposed during relining. (6045x5754px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/21\/N-3949-00-000040-PYR.tif\/full\/359,377\/0\/default.jpg","type":"Image","width":359,"height":377,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/21\/N-3949-00-000040-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":719,"height":755,"sizes":[[{"width":179,"height":188},{"width":359,"height":377},{"width":719,"height":755}]]}]}],
+      "height":6045,
+      "width":5754,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/21/N-3949-00-000040-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/21/N-3949-00-000040-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/21\/N-3949-00-000040-PYR.tif\/full\/1438,1511\/0\/default.jpg","type":"Image","width":1438,"height":1511,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/06\/21\/N-3949-00-000040-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5754,"height":6045,"sizes":[[{"width":179,"height":188},{"width":359,"height":377},{"width":719,"height":755},{"width":1438,"height":1511},{"width":2877,"height":3022}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/06/21/N-3949-00-000040-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/23/N-3949-00-000053-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, about 1528, Oil on canvas, (84 x 73.5 cm) (6688x5598px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/23\/N-3949-00-000053-PYR.tif\/full\/349,418\/0\/default.jpg","type":"Image","width":349,"height":418,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/23\/N-3949-00-000053-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":699,"height":836,"sizes":[[{"width":174,"height":209},{"width":349,"height":418},{"width":699,"height":836}]]}]}],
+      "height":6688,
+      "width":5598,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/23/N-3949-00-000053-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/23/N-3949-00-000053-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/23\/N-3949-00-000053-PYR.tif\/full\/1399,1672\/0\/default.jpg","type":"Image","width":1399,"height":1672,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/23\/N-3949-00-000053-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5598,"height":6688,"sizes":[[{"width":174,"height":209},{"width":349,"height":418},{"width":699,"height":836},{"width":1399,"height":1672},{"width":2799,"height":3344}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/23/N-3949-00-000053-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/30/ng3949_m003_gesso_ridges3_DR-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, photomicrograph showing ridges in the gesso, perhaps as the result of application with a palette knife. (3102x4146px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/30\/ng3949_m003_gesso_ridges3_DR-PYR.tif\/full\/259,193\/0\/default.jpg","type":"Image","width":259,"height":193,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/30\/ng3949_m003_gesso_ridges3_DR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":518,"height":387,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387}]]}]}],
+      "height":3102,
+      "width":4146,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/30/ng3949_m003_gesso_ridges3_DR-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/30/ng3949_m003_gesso_ridges3_DR-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/30\/ng3949_m003_gesso_ridges3_DR-PYR.tif\/full\/1036,775\/0\/default.jpg","type":"Image","width":1036,"height":775,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/04\/30\/ng3949_m003_gesso_ridges3_DR-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4146,"height":3102,"sizes":[[{"width":129,"height":96},{"width":259,"height":193},{"width":518,"height":387},{"width":1036,"height":775},{"width":2073,"height":1551}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/04/30/ng3949_m003_gesso_ridges3_DR-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2493-00-000033-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2493: Sebastiano del Piombo, Salome, 1510, Oil on wood, (54.9 x 44.5 cm) (9047x7175px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2493-00-000033-PYR.tif\/full\/224,282\/0\/default.jpg","type":"Image","width":224,"height":282,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2493-00-000033-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":448,"height":565,"sizes":[[{"width":112,"height":141},{"width":224,"height":282},{"width":448,"height":565}]]}]}],
+      "height":9047,
+      "width":7175,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2493-00-000033-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2493-00-000033-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2493-00-000033-PYR.tif\/full\/896,1130\/0\/default.jpg","type":"Image","width":896,"height":1130,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-2493-00-000033-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7175,"height":9047,"sizes":[[{"width":112,"height":141},{"width":224,"height":282},{"width":448,"height":565},{"width":896,"height":1130},{"width":1793,"height":2261},{"width":3587,"height":4523}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-2493-00-000033-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/16/ng2493_irr_d01-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2493: Sebastiano del Piombo, Salome, infrared reflectogram mosaic, detail of head. (1660x1142px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/16\/ng2493_irr_d01-PYR.tif\/full\/285,415\/0\/default.jpg","type":"Image","width":285,"height":415,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/16\/ng2493_irr_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":571,"height":830,"sizes":[[{"width":142,"height":207},{"width":285,"height":415},{"width":571,"height":830}]]}]}],
+      "height":1660,
+      "width":1142,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/16/ng2493_irr_d01-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/16/ng2493_irr_d01-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/16\/ng2493_irr_d01-PYR.tif\/full\/571,830\/0\/default.jpg","type":"Image","width":571,"height":830,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/16\/ng2493_irr_d01-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1142,"height":1660,"sizes":[[{"width":142,"height":207},{"width":285,"height":415},{"width":571,"height":830}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/16/ng2493_irr_d01-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng0004_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4: Titian, The Holy Family with a Shepherd, infrared reflectogram (OSIRIS) (2954x4078px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng0004_dirrO_a-PYR.tif\/full\/509,369\/0\/default.jpg","type":"Image","width":509,"height":369,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng0004_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1019,"height":738,"sizes":[[{"width":254,"height":184},{"width":509,"height":369},{"width":1019,"height":738}]]}]}],
+      "height":2954,
+      "width":4078,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng0004_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng0004_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng0004_dirrO_a-PYR.tif\/full\/2039,1477\/0\/default.jpg","type":"Image","width":2039,"height":1477,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/09\/05\/ng0004_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4078,"height":2954,"sizes":[[{"width":254,"height":184},{"width":509,"height":369},{"width":1019,"height":738},{"width":2039,"height":1477}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/09/05/ng0004_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, infrared reflectogram (OSIRIS) detail (4096x3988px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif\/full\/498,512\/0\/default.jpg","type":"Image","width":498,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":997,"height":1024,"sizes":[[{"width":249,"height":256},{"width":498,"height":512},{"width":997,"height":1024}]]}]}],
+      "height":4096,
+      "width":3988,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif\/full\/1994,2048\/0\/default.jpg","type":"Image","width":1994,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/03\/01\/ng0035_dirrO_d1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3988,"height":4096,"sizes":[[{"width":249,"height":256},{"width":498,"height":512},{"width":997,"height":1024},{"width":1994,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/03/01/ng0035_dirrO_d1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/24/N-0004-00-000080-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4: Titian, The Holy Family with a Shepherd, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (13012x17476px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/24\/N-0004-00-000080-PYR.tif\/full\/273,203\/0\/default.jpg","type":"Image","width":273,"height":203,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/24\/N-0004-00-000080-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":546,"height":406,"sizes":[[{"width":136,"height":101},{"width":273,"height":203},{"width":546,"height":406}]]}]}],
+      "height":13012,
+      "width":17476,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/24/N-0004-00-000080-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/24/N-0004-00-000080-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/24\/N-0004-00-000080-PYR.tif\/full\/1092,813\/0\/default.jpg","type":"Image","width":1092,"height":813,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/02\/24\/N-0004-00-000080-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":17476,"height":13012,"sizes":[[{"width":136,"height":101},{"width":273,"height":203},{"width":546,"height":406},{"width":1092,"height":813},{"width":2184,"height":1626},{"width":4369,"height":3253},{"width":8738,"height":6506}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/02/24/N-0004-00-000080-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0035-00-000151-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG35: Titian, Bacchus and Ariadne, detail. (7979x5414px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0035-00-000151-PYR.tif\/full\/338,498\/0\/default.jpg","type":"Image","width":338,"height":498,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0035-00-000151-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":676,"height":997,"sizes":[[{"width":169,"height":249},{"width":338,"height":498},{"width":676,"height":997}]]}]}],
+      "height":7979,
+      "width":5414,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0035-00-000151-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0035-00-000151-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0035-00-000151-PYR.tif\/full\/1353,1994\/0\/default.jpg","type":"Image","width":1353,"height":1994,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0035-00-000151-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5414,"height":7979,"sizes":[[{"width":169,"height":249},{"width":338,"height":498},{"width":676,"height":997},{"width":1353,"height":1994},{"width":2707,"height":3989}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0035-00-000151-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0004-00-000085-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4: Titian, The Holy Family with a Shepherd, detail shepherd's sleeve. (7884x5814px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0004-00-000085-PYR.tif\/full\/363,492\/0\/default.jpg","type":"Image","width":363,"height":492,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0004-00-000085-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":726,"height":985,"sizes":[[{"width":181,"height":246},{"width":363,"height":492},{"width":726,"height":985}]]}]}],
+      "height":7884,
+      "width":5814,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0004-00-000085-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0004-00-000085-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0004-00-000085-PYR.tif\/full\/1453,1971\/0\/default.jpg","type":"Image","width":1453,"height":1971,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/04\/N-0004-00-000085-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5814,"height":7884,"sizes":[[{"width":181,"height":246},{"width":363,"height":492},{"width":726,"height":985},{"width":1453,"height":1971},{"width":2907,"height":3942}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/04/N-0004-00-000085-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG270: Titian, Noli me Tangere (7288x5606px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif\/full\/350,455\/0\/default.jpg","type":"Image","width":350,"height":455,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":700,"height":911,"sizes":[[{"width":175,"height":227},{"width":350,"height":455},{"width":700,"height":911}]]}]}],
+      "height":7288,
+      "width":5606,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif\/full\/1401,1822\/0\/default.jpg","type":"Image","width":1401,"height":1822,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0270-00-000148-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5606,"height":7288,"sizes":[[{"width":175,"height":227},{"width":350,"height":455},{"width":700,"height":911},{"width":1401,"height":1822},{"width":2803,"height":3644}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0270-00-000148-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/17/N-3949-00-000058-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG3949: Titian, Portrait of Girolamo Fracastoro, detail of fur. (5862x7385px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/17\/N-3949-00-000058-PYR.tif\/full\/461,366\/0\/default.jpg","type":"Image","width":461,"height":366,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/17\/N-3949-00-000058-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":923,"height":732,"sizes":[[{"width":230,"height":183},{"width":461,"height":366},{"width":923,"height":732}]]}]}],
+      "height":5862,
+      "width":7385,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/17/N-3949-00-000058-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/17/N-3949-00-000058-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/17\/N-3949-00-000058-PYR.tif\/full\/1846,1465\/0\/default.jpg","type":"Image","width":1846,"height":1465,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/06\/17\/N-3949-00-000058-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7385,"height":5862,"sizes":[[{"width":230,"height":183},{"width":461,"height":366},{"width":923,"height":732},{"width":1846,"height":1465},{"width":3692,"height":2931}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/06/17/N-3949-00-000058-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG635: Titian, The Aldobrandini Madonna (6913x9634px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif\/full\/301,216\/0\/default.jpg","type":"Image","width":301,"height":216,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":602,"height":432,"sizes":[[{"width":150,"height":108},{"width":301,"height":216},{"width":602,"height":432}]]}]}],
+      "height":6913,
+      "width":9634,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif\/full\/1204,864\/0\/default.jpg","type":"Image","width":1204,"height":864,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9634,"height":6913,"sizes":[[{"width":150,"height":108},{"width":301,"height":216},{"width":602,"height":432},{"width":1204,"height":864},{"width":2408,"height":1728},{"width":4817,"height":3456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0004-00-000082-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG4: Titian, The Holy Family with a Shepherd (5912x7180px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0004-00-000082-PYR.tif\/full\/448,369\/0\/default.jpg","type":"Image","width":448,"height":369,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0004-00-000082-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":897,"height":739,"sizes":[[{"width":224,"height":184},{"width":448,"height":369},{"width":897,"height":739}]]}]}],
+      "height":5912,
+      "width":7180,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0004-00-000082-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0004-00-000082-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0004-00-000082-PYR.tif\/full\/1795,1478\/0\/default.jpg","type":"Image","width":1795,"height":1478,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/03\/26\/N-0004-00-000082-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7180,"height":5912,"sizes":[[{"width":224,"height":184},{"width":448,"height":369},{"width":897,"height":739},{"width":1795,"height":1478},{"width":3590,"height":2956}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/03/26/N-0004-00-000082-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

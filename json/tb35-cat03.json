@@ -1,0 +1,378 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat03.json",
+   "type":"Manifest",
+   "label": { "en": [ "Anne, 2nd Countess of Albemarle, about 1760 (NG 1259)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-a.json\">tb35-cats-a<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23857\/volume35cataloguepart1.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000026-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, about 1760, Oil on canvas, (126.5 x 101 cm) (7503x5719px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000026-PYR.tif\/full\/357,468\/0\/default.jpg","type":"Image","width":357,"height":468,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":714,"height":937,"sizes":[[{"width":178,"height":234},{"width":357,"height":468},{"width":714,"height":937}]]}]}],
+      "height":7503,
+      "width":5719,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000026-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000026-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000026-PYR.tif\/full\/1429,1875\/0\/default.jpg","type":"Image","width":1429,"height":1875,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/11\/N-1259-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5719,"height":7503,"sizes":[[{"width":178,"height":234},{"width":357,"height":468},{"width":714,"height":937},{"width":1429,"height":1875},{"width":2859,"height":3751}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/11/N-1259-00-000026-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000038-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, about 1760, Oil on canvas, (126.5 x 101 cm),X-radiograph (Computer assembled mosaic). (15480x12499px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000038-PYR.tif\/full\/390,483\/0\/default.jpg","type":"Image","width":390,"height":483,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000038-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":781,"height":967,"sizes":[[{"width":195,"height":241},{"width":390,"height":483},{"width":781,"height":967}]]}]}],
+      "height":15480,
+      "width":12499,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000038-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000038-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000038-PYR.tif\/full\/1562,1935\/0\/default.jpg","type":"Image","width":1562,"height":1935,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000038-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":12499,"height":15480,"sizes":[[{"width":195,"height":241},{"width":390,"height":483},{"width":781,"height":967},{"width":1562,"height":1935},{"width":3124,"height":3870},{"width":6249,"height":7740}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000038-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000039-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, about 1760, Oil on canvas, (126.5 x 101 cm),X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. (15480x12499px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000039-PYR.tif\/full\/390,483\/0\/default.jpg","type":"Image","width":390,"height":483,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000039-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":781,"height":967,"sizes":[[{"width":195,"height":241},{"width":390,"height":483},{"width":781,"height":967}]]}]}],
+      "height":15480,
+      "width":12499,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000039-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000039-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000039-PYR.tif\/full\/1562,1935\/0\/default.jpg","type":"Image","width":1562,"height":1935,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/N-1259-00-000039-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":12499,"height":15480,"sizes":[[{"width":195,"height":241},{"width":390,"height":483},{"width":781,"height":967},{"width":1562,"height":1935},{"width":3124,"height":3870},{"width":6249,"height":7740}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/N-1259-00-000039-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from dark background, upper right edge, showing the double ground. The black pigment in the ground is probably charcoal. (1320x3588px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif\/full\/448,165\/0\/default.jpg","type":"Image","width":448,"height":165,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":897,"height":330,"sizes":[[{"width":224,"height":82},{"width":448,"height":165},{"width":897,"height":330}]]}]}],
+      "height":1320,
+      "width":3588,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif\/full\/1794,660\/0\/default.jpg","type":"Image","width":1794,"height":660,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3588,"height":1320,"sizes":[[{"width":224,"height":82},{"width":448,"height":165},{"width":897,"height":330},{"width":1794,"height":660}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS10_XS_Vis_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS10_XS_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from dark background, upper right edge, showing the double ground, ultraviolet fluorescence image. (1320x3588px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS10_XS_UV_20x_A-PYR.tif\/full\/448,165\/0\/default.jpg","type":"Image","width":448,"height":165,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS10_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":897,"height":330,"sizes":[[{"width":224,"height":82},{"width":448,"height":165},{"width":897,"height":330}]]}]}],
+      "height":1320,
+      "width":3588,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS10_XS_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS10_XS_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS10_XS_UV_20x_A-PYR.tif\/full\/1794,660\/0\/default.jpg","type":"Image","width":1794,"height":660,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/10\/NG1259_IS10_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3588,"height":1320,"sizes":[[{"width":224,"height":82},{"width":448,"height":165},{"width":897,"height":330},{"width":1794,"height":660}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/10/NG1259_IS10_XS_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from sitter's face, showing fading of the lake pigment. (1044x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif\/full\/260,65\/0\/default.jpg","type":"Image","width":260,"height":65,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":130,"sizes":[[{"width":130,"height":32},{"width":260,"height":65},{"width":520,"height":130}]]}]}],
+      "height":1044,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif\/full\/1041,261\/0\/default.jpg","type":"Image","width":1041,"height":261,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1044,"sizes":[[{"width":130,"height":32},{"width":260,"height":65},{"width":520,"height":130},{"width":1041,"height":261},{"width":2082,"height":522}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS5_XS_Vis_DF_50x_C_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from yellow green shadow on sitter's proper left arm. (912x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif\/full\/260,57\/0\/default.jpg","type":"Image","width":260,"height":57,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":114,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114}]]}]}],
+      "height":912,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif\/full\/1041,228\/0\/default.jpg","type":"Image","width":1041,"height":228,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":912,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114},{"width":1041,"height":228},{"width":2082,"height":456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS6_XS_Vis_DF_20x_F-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS6_XS_UV_20x_F-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from yellow green shadow on sitter's proper left arm, ultraviolet fluorescence image. (912x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS6_XS_UV_20x_F-PYR.tif\/full\/260,57\/0\/default.jpg","type":"Image","width":260,"height":57,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS6_XS_UV_20x_F-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":114,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114}]]}]}],
+      "height":912,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS6_XS_UV_20x_F-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS6_XS_UV_20x_F-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS6_XS_UV_20x_F-PYR.tif\/full\/1041,228\/0\/default.jpg","type":"Image","width":1041,"height":228,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS6_XS_UV_20x_F-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":912,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114},{"width":1041,"height":228},{"width":2082,"height":456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS6_XS_UV_20x_F-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from curtain at the left edge, where the paint had been protected from light underneath the frame rebate. (1200x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif\/full\/260,75\/0\/default.jpg","type":"Image","width":260,"height":75,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":150,"sizes":[[{"width":130,"height":37},{"width":260,"height":75},{"width":520,"height":150}]]}]}],
+      "height":1200,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif\/full\/1041,300\/0\/default.jpg","type":"Image","width":1041,"height":300,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1200,"sizes":[[{"width":130,"height":37},{"width":260,"height":75},{"width":520,"height":150},{"width":1041,"height":300},{"width":2082,"height":600}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_Vis_DF_20x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_20x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from curtain at the left edge, where the paint had been protected from light underneath the frame rebate, ultraviolet fluorescence image. (1200x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_20x_B-PYR.tif\/full\/260,75\/0\/default.jpg","type":"Image","width":260,"height":75,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":150,"sizes":[[{"width":130,"height":37},{"width":260,"height":75},{"width":520,"height":150}]]}]}],
+      "height":1200,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_20x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_20x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_20x_B-PYR.tif\/full\/1041,300\/0\/default.jpg","type":"Image","width":1041,"height":300,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_20x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1200,"sizes":[[{"width":130,"height":37},{"width":260,"height":75},{"width":520,"height":150},{"width":1041,"height":300},{"width":2082,"height":600}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_20x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_50x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from curtain at the left edge, detail showing the red lake glaze layer at the right end of the sample, ultraviolet fluorescence image. (2580x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_50x_A-PYR.tif\/full\/260,161\/0\/default.jpg","type":"Image","width":260,"height":161,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":322,"sizes":[[{"width":130,"height":80},{"width":260,"height":161},{"width":520,"height":322}]]}]}],
+      "height":2580,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_50x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_50x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_50x_A-PYR.tif\/full\/1041,645\/0\/default.jpg","type":"Image","width":1041,"height":645,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS1_XS_UV_50x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2580,"sizes":[[{"width":130,"height":80},{"width":260,"height":161},{"width":520,"height":322},{"width":1041,"height":645},{"width":2082,"height":1290}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS1_XS_UV_50x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from dark shadow of the curtain near the top edge, showing red lake glaze containing some black pigment. (1512x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif\/full\/259,94\/0\/default.jpg","type":"Image","width":259,"height":94,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":189,"sizes":[[{"width":129,"height":47},{"width":259,"height":94},{"width":519,"height":189}]]}]}],
+      "height":1512,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif\/full\/1038,378\/0\/default.jpg","type":"Image","width":1038,"height":378,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1512,"sizes":[[{"width":129,"height":47},{"width":259,"height":94},{"width":519,"height":189},{"width":1038,"height":378},{"width":2076,"height":756}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS4_XS_Vis_DF_50x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/NG1259_IS4_XS_UV_50x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from dark shadow of the curtain near the top edge, ultraviolet fluorescence image. (1512x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/NG1259_IS4_XS_UV_50x_B-PYR.tif\/full\/259,94\/0\/default.jpg","type":"Image","width":259,"height":94,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/NG1259_IS4_XS_UV_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":189,"sizes":[[{"width":129,"height":47},{"width":259,"height":94},{"width":519,"height":189}]]}]}],
+      "height":1512,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/NG1259_IS4_XS_UV_50x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/NG1259_IS4_XS_UV_50x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/NG1259_IS4_XS_UV_50x_B-PYR.tif\/full\/1038,378\/0\/default.jpg","type":"Image","width":1038,"height":378,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/05\/07\/NG1259_IS4_XS_UV_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":1512,"sizes":[[{"width":129,"height":47},{"width":259,"height":94},{"width":519,"height":189},{"width":1038,"height":378},{"width":2076,"height":756}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/05/07/NG1259_IS4_XS_UV_50x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from brightest blue highlight of dress (1512x3348px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif\/full\/418,189\/0\/default.jpg","type":"Image","width":418,"height":189,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":837,"height":378,"sizes":[[{"width":209,"height":94},{"width":418,"height":189},{"width":837,"height":378}]]}]}],
+      "height":1512,
+      "width":3348,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif\/full\/1674,756\/0\/default.jpg","type":"Image","width":1674,"height":756,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/10\/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3348,"height":1512,"sizes":[[{"width":209,"height":94},{"width":418,"height":189},{"width":837,"height":378},{"width":1674,"height":756}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/10/NG1259_IS7_XS_Vis_DF_50x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS7_XS_UV_50x_B-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG1259: Sir Joshua Reynolds, Anne, 2nd Countess of Albemarle, paint cross-section from brightest blue highlight of dress, ultraviolet fluorescence image. (1512x3348px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS7_XS_UV_50x_B-PYR.tif\/full\/418,189\/0\/default.jpg","type":"Image","width":418,"height":189,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS7_XS_UV_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":837,"height":378,"sizes":[[{"width":209,"height":94},{"width":418,"height":189},{"width":837,"height":378}]]}]}],
+      "height":1512,
+      "width":3348,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS7_XS_UV_50x_B-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS7_XS_UV_50x_B-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS7_XS_UV_50x_B-PYR.tif\/full\/1674,756\/0\/default.jpg","type":"Image","width":1674,"height":756,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/01\/NG1259_IS7_XS_UV_50x_B-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3348,"height":1512,"sizes":[[{"width":209,"height":94},{"width":418,"height":189},{"width":837,"height":378},{"width":1674,"height":756}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/01/NG1259_IS7_XS_UV_50x_B-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

@@ -1,0 +1,443 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/whitechalk.json",
+   "type":"Manifest",
+   "label": { "en": [ "Barocci Drawings: White chalk" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "White chalk is a calcium-based mineral. It is a dry drawing medium and was used by tailors and artists mainly to draw on coloured textiles or papers. It was often used by Barocci on a coloured support to explore light effects. This medium can easily be removed by rubbing or abrasion and it is possible that its presence on today\u2019s Old Master drawings is much less evident than it would originally have been." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/exhibitions.json\">exhibitions<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/baroccidrawings2013.json\">baroccidrawings2013<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/media.json\">media<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/federico-barocci-the-madonna-of-the-cat-la-madonna-del-gatto\">View the painting<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/learn-about-art\/paintings-in-depth\/barocci-a-lesson-in-drawing\">Barocci: a lesson in drawing<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "White chalk is a calcium-based mineral. It is a dry drawing medium and was used by tailors and artists mainly to draw on coloured textiles or papers. It was often used by Barocci on a coloured support to explore light effects. This medium can easily be removed by rubbing or abrasion and it is possible that its presence on today\u2019s Old Master drawings is much less evident than it would originally have been.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R18: Federico Barocci, Study for the Virgin and the two children, before 1575\u20136, black, red and white chalk on yellow paper, (27.8 x 23 cm), (inv. KdZ 20525 (3777), Staatliche Museen zu Berlin, Kupferstichkabinett) The rapidly sketched upper part of this drawing reveals that Barocci had already established the relationship between the figures. His main concern in this study is to outline the position of the Virgin\u2019s legs and feet and, consequently, the fall of her drapery. This is clearly evident in the lower part of the sheet in his use of black and white chalks to emphasize areas of light and shadow. The basket and the little table visible on the lower right of the painting had probably not been addressed at this stage. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ J\u00f6rg P. Anders (3324x2799px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif\/full\/349,415\/0\/default.jpg","type":"Image","width":349,"height":415,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":699,"height":831,"sizes":[[{"width":174,"height":207},{"width":349,"height":415},{"width":699,"height":831}]]}]}],
+      "height":3324,
+      "width":2799,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif\/full\/1399,1662\/0\/default.jpg","type":"Image","width":1399,"height":1662,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0018-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2799,"height":3324,"sizes":[[{"width":174,"height":207},{"width":349,"height":415},{"width":699,"height":831},{"width":1399,"height":1662}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0018-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0019-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R19: Federico Barocci, Nude study for the Virgin, before 1575\u20136, red and white chalk with some black chalk on yellow paper, (19.2 x 15.9 cm), (inv. KdZ 20140 (4156), Staatliche Museen zu Berlin, Kupferstichkabinett) Barocci frequently made life studies to prepare the complex poses in his pictures, insisting on his models\u2019 comfort so that his painted figures would appear natural. Here, a nude workshop assistant poses for the Virgin in \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019. Revisions to the feet and right hand (pointing at a black chalk squiggle standing for the cat) reveal that Barocci was still refining these elements. The yellow paper provides a warm mid-tone for the hatched shadows and white chalk highlights. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ J\u00f6rg P. Anders (3476x2869px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0019-00-000002-PYR.tif\/full\/358,434\/0\/default.jpg","type":"Image","width":358,"height":434,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0019-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":717,"height":869,"sizes":[[{"width":179,"height":217},{"width":358,"height":434},{"width":717,"height":869}]]}]}],
+      "height":3476,
+      "width":2869,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0019-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0019-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0019-00-000002-PYR.tif\/full\/1434,1738\/0\/default.jpg","type":"Image","width":1434,"height":1738,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0019-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2869,"height":3476,"sizes":[[{"width":179,"height":217},{"width":358,"height":434},{"width":717,"height":869},{"width":1434,"height":1738}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0019-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0020-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R20: Federico Barocci, Study for Saint John's Right Arm and Hand with the Goldfinch, before 1575\u20136, black, red and white chalk on blue paper, (19.3 x 17.8 cm), (inv. KdZ 20518 (4244), Staatliche Museen zu Berlin, Kupferstichkabinett) Barocci is a celebrated animal painter. After having studied the anatomy of Saint John the Baptist\u2019s right arm in this rather damaged sheet, he focuses on the saint\u2019s hand holding the animated goldfinch. He depicts the bird in detail and experiments with the pose of its head and its legs. The bird\u2019s form and placement are a primary concern for him, but he is also exploring how to create the dynamism revealed in the saint\u2019s arm holding the restless goldfinch, which is shown ready to retreat after the cat\u2019s imminent pounce. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ Volker-H. Schneider (3598x3324px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0020-00-000002-PYR.tif\/full\/415,449\/0\/default.jpg","type":"Image","width":415,"height":449,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0020-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":831,"height":899,"sizes":[[{"width":207,"height":224},{"width":415,"height":449},{"width":831,"height":899}]]}]}],
+      "height":3598,
+      "width":3324,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0020-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0020-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0020-00-000002-PYR.tif\/full\/1662,1799\/0\/default.jpg","type":"Image","width":1662,"height":1799,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0020-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3324,"height":3598,"sizes":[[{"width":207,"height":224},{"width":415,"height":449},{"width":831,"height":899},{"width":1662,"height":1799}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0020-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R21: Federico Barocci, Study of drapery for the Virgin, before 1575\u20136, black, red and white chalk on blue paper, (27.4 x 39.7 cm), (inv. KdZ 20529 (4324), Staatliche Museen zu Berlin, Kupferstichkabinett) It is plausible that Barocci sketched the drapery study on the left of this sheet from a life model. It is also tempting to assume that a clothed male model was used due to the omission of the breast in the sketch. However, this conclusion cannot be firmly established as the figure of the Virgin is partly covered by the position of Christ in the finished painting. The pose of the Virgin\u2019s left arm with the long folding drapery of the sleeve differs from the one in \u2018The Madonna of the Cat ('La Madonna del Gatto')\u2019. Barocci might have carried out this drawing quite early on in the preparatory stages and he may also have used some of these studies in other compositions. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ Volker-H. Schneider (3584x5024px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif\/full\/314,224\/0\/default.jpg","type":"Image","width":314,"height":224,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":628,"height":448,"sizes":[[{"width":157,"height":112},{"width":314,"height":224},{"width":628,"height":448}]]}]}],
+      "height":3584,
+      "width":5024,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif\/full\/1256,896\/0\/default.jpg","type":"Image","width":1256,"height":896,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0021-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5024,"height":3584,"sizes":[[{"width":157,"height":112},{"width":314,"height":224},{"width":628,"height":448},{"width":1256,"height":896},{"width":2512,"height":1792}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0021-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R22: Federico Barocci, Study of drapery for the Virgin, before 1575\u20136, black, red and white chalk on blue paper, (26 x 22.6 cm), (inv. KdZ 20524 (4399), Staatliche Museen zu Berlin, Kupferstichkabinett) Barocci worked on this drawing from different angles and possibly returned to it on two separate occasions. He began by studying the fall of the drapery over the outstretched legs of the Virgin using red and white chalk, focusing in particular on what will become the blue and yellow part of her skirt in the finished painting. He then turned the sheet upside-down and executed three black chalk sketches to investigate how the Virgin\u2019s green mantle stretches over the nipple of her exposed breast. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ J\u00f6rg P. Anders (3124x2760px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif\/full\/345,390\/0\/default.jpg","type":"Image","width":345,"height":390,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":690,"height":781,"sizes":[[{"width":172,"height":195},{"width":345,"height":390},{"width":690,"height":781}]]}]}],
+      "height":3124,
+      "width":2760,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif\/full\/1380,1562\/0\/default.jpg","type":"Image","width":1380,"height":1562,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0022-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2760,"height":3124,"sizes":[[{"width":172,"height":195},{"width":345,"height":390},{"width":690,"height":781},{"width":1380,"height":1562}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0022-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0030-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R30: Federico Barocci, Study for the Virgin's head, before 1575\u20136, red and white chalk with pink and brown pastel on brown paper, (24.3 x 19.2 cm), (Coll. Santarelli and inv. 9319 S)Coll. Santarelli, inv. 9319 S, Gabinetto dei Disegni e delle Stampedegli Uffizi, Florence This study is very close to the Virgin\u2019s head in the final painting. The face is less idealized than the one shown in the drawing from the Royal Library, Windsor (R41), suggesting that it was done from life. Also, if one compares this study with the Virgin\u2019s youthful head in the final composition, the head in the sketch seems to belong to a slightly older woman. Barocci uses quick black chalk lines to revise some of the facial features such as the eyes, nose, mouth and even the ears. \u00a9 Photo Scala, Florence - courtesy of the Ministero per i Beni e le Attivit\u00e0 Culturali (3164x2514px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0030-00-000002-PYR.tif\/full\/314,395\/0\/default.jpg","type":"Image","width":314,"height":395,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0030-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":628,"height":791,"sizes":[[{"width":157,"height":197},{"width":314,"height":395},{"width":628,"height":791}]]}]}],
+      "height":3164,
+      "width":2514,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0030-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0030-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0030-00-000002-PYR.tif\/full\/1257,1582\/0\/default.jpg","type":"Image","width":1257,"height":1582,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0030-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2514,"height":3164,"sizes":[[{"width":157,"height":197},{"width":314,"height":395},{"width":628,"height":791},{"width":1257,"height":1582}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0030-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0031-01-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R31.1: Federico Barocci, Study for 'The Madonna of the Cat' ('La Madonna del Gatto'), before 1575\u20136, black, white and red chalk on blue paper, (21.6 x 17 cm), (inv. 11555 F recto, Gabinetto dei Disegni e delle Stampe degli Uffizi, Florence) Although this drawing is in poor condition, it offers the possibility of following the development of the composition. The group of the two children and the Virgin Mary is fully established at this point, but the background is very different from the one found in the final painting. On the left, Barocci draws what appears to be the Virgin\u2019s bed and on the right he shows a window with an open shutter, and the figure of Saint Joseph leaning on the window sill. This drawing along with other compositional studies, reveals how complex it was for Barocci to introduce the figure of Saint Joseph into the composition. \u00a9 Photo Scala, Florence - courtesy of the Ministero per i Beni e le Attivit\u00e0 Culturali (3284x2595px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0031-01-000002-PYR.tif\/full\/324,410\/0\/default.jpg","type":"Image","width":324,"height":410,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0031-01-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":648,"height":821,"sizes":[[{"width":162,"height":205},{"width":324,"height":410},{"width":648,"height":821}]]}]}],
+      "height":3284,
+      "width":2595,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0031-01-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0031-01-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0031-01-000002-PYR.tif\/full\/1297,1642\/0\/default.jpg","type":"Image","width":1297,"height":1642,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0031-01-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2595,"height":3284,"sizes":[[{"width":162,"height":205},{"width":324,"height":410},{"width":648,"height":821},{"width":1297,"height":1642}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0031-01-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0035-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R35: Federico Barocci, Study for the Virgin's Right Arm and Hand, before 1575\u20136, black, red and white chalk, charcoal and white heightening on blue paper, (41 x 26.7 cm), (inv. 11635 F recto, Gabinetto dei Disegni e delle Stampe, Galleria degli Uffizi, Florence) This drawing may possibly be the last of the series dedicated to the key feature of the Virgin\u2019s right hand. Barocci here explored both her hand and her arm. In the upper part of the drawing he first looked at a naked arm (on the left and in the centre) and then he drew it again clothed (on the right). In the bottom part of the sheet he seems to have defined the final position of the Virgin\u2019s right thumb suppressing the view of her nail, as he does in the painting. The drapery study on the bottom right is probably for the white cloth in the basket to the right of the composition. \u00a9 By courtesy of the Ministero per i Beni e le Attivit\u00e0 Culturali (2796x4330px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0035-00-000002-PYR.tif\/full\/270,174\/0\/default.jpg","type":"Image","width":270,"height":174,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0035-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":541,"height":349,"sizes":[[{"width":135,"height":87},{"width":270,"height":174},{"width":541,"height":349}]]}]}],
+      "height":2796,
+      "width":4330,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0035-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0035-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0035-00-000002-PYR.tif\/full\/1082,699\/0\/default.jpg","type":"Image","width":1082,"height":699,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0035-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4330,"height":2796,"sizes":[[{"width":135,"height":87},{"width":270,"height":174},{"width":541,"height":349},{"width":1082,"height":699},{"width":2165,"height":1398}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0035-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0036-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R36: Federico Barocci, Study for the Virgin's head, before 1575\u20136, black, red and white chalk and pink, ochre and brown pastel with stump on blue paper, reinforced with blue paper, and laid down on board, (35.4 x 24.4 cm), (inv. 1960:99-TR870\/1, Smith College of Art Northampton, Massachusetts) Of the existing head studies for the Virgin in \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019, this one is the most individualized. It is probable that Barocci remodelled it from one of his previous head studies at a very late stage in the compositional process. The face is created using a light outline in black chalk, then the design is reinforced with various coloured chalks. Finally, Barocci uses black and red chalk once again for the background and the curls of hair. Although the artist smudged the pastels to some extent to harmonize the tonal relations, the extraordinary strength and density of the lines is clearly visible throughout the various stages of his drawing process. \u00a9 Smith College of Art Northampton, Massachusetts (4892x3688px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0036-00-000002-PYR.tif\/full\/230,305\/0\/default.jpg","type":"Image","width":230,"height":305,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0036-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":461,"height":611,"sizes":[[{"width":115,"height":152},{"width":230,"height":305},{"width":461,"height":611}]]}]}],
+      "height":4892,
+      "width":3688,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0036-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0036-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0036-00-000002-PYR.tif\/full\/922,1223\/0\/default.jpg","type":"Image","width":922,"height":1223,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/16\/R-0036-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3688,"height":4892,"sizes":[[{"width":115,"height":152},{"width":230,"height":305},{"width":461,"height":611},{"width":922,"height":1223},{"width":1844,"height":2446}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/16/R-0036-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0037-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R37: Federico Barocci, Two studies for the Child's head, before 1575\u20136, black, red and white chalk with peach pastel on blue paper laid down on a 18th-century mat, (26.8 x 23 cm), (inv. 2869 recto, Mus\u00e9e du Louvre, Paris) These studies for the Christ Child\u2019s head were probably made from life. In the main study the model looks down, smiling pacifically, as Christ does in the painting. In the more rapid subsidiary sketch he is chuckling with his mouth and eyes open, an expression ultimately adopted for Saint John the Baptist. The cool blue colour of the paper offered Barocci a broad range of tonal contrasts: the pearly sheen of the infant\u2019s skull offsets the warmth of his chubby cheeks and chin. \u00a9 RMN-Grand Palais (mus\u00e9e du Louvre) \/ Thierry Le Mage (5560x4920px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0037-00-000002-PYR.tif\/full\/307,347\/0\/default.jpg","type":"Image","width":307,"height":347,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0037-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":615,"height":695,"sizes":[[{"width":153,"height":173},{"width":307,"height":347},{"width":615,"height":695}]]}]}],
+      "height":5560,
+      "width":4920,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0037-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0037-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0037-00-000002-PYR.tif\/full\/1230,1390\/0\/default.jpg","type":"Image","width":1230,"height":1390,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0037-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4920,"height":5560,"sizes":[[{"width":153,"height":173},{"width":307,"height":347},{"width":615,"height":695},{"width":1230,"height":1390},{"width":2460,"height":2780}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0037-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0041-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R41: Federico Barocci, Study for the Virgin's head, about 1575, black, red and white chalk with pink and brown pastel on faded blue paper, (22.2 x 18.5 cm), (inv. 5230, Royal Collection Trust) This ethereal study for the Virgin\u2019s head, similar in scale to that in \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019 painting, appears at once sublimely idealised yet remarkably lifelike. It may in fact be based on a young workshop assistant. Barocci\u2019s subtly blended flesh tones and beautiful coral-coloured accents in the facial features and ear survive despite the sheet\u2019s damaged condition. Royal Collection Trust \/ \u00a9 Her Majesty Queen Elizabeth II 2013 (3255x2706px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0041-00-000002-PYR.tif\/full\/338,406\/0\/default.jpg","type":"Image","width":338,"height":406,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0041-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":676,"height":813,"sizes":[[{"width":169,"height":203},{"width":338,"height":406},{"width":676,"height":813}]]}]}],
+      "height":3255,
+      "width":2706,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0041-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0041-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0041-00-000002-PYR.tif\/full\/1353,1627\/0\/default.jpg","type":"Image","width":1353,"height":1627,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0041-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2706,"height":3255,"sizes":[[{"width":169,"height":203},{"width":338,"height":406},{"width":676,"height":813},{"width":1353,"height":1627}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0041-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-01-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R44.1: Federico Barocci, Study for Joseph, Left Arm on the Table, before 1575\u20136, red and white chalk on blue paper, (28 x 21.8 cm), (inv. Z 3071 recto, Anhaltische Gem\u00e4ldegalerie Dessau) Together with its verso (R44.2) this newly discovered sheet improves our understanding of Barocci\u2019s vision of Saint Joseph. This study is taken from a model leaning on a table and holding its edge with his right hand. The model is dressed in contemporary clothes with the sleeve of his left arm rolled up. Barocci would later develop this design on the verso. \u00a9 Anhaltische Gem\u00e4ldegalerie Dessau (4692x3543px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-01-000002-PYR.tif\/full\/221,293\/0\/default.jpg","type":"Image","width":221,"height":293,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-01-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":442,"height":586,"sizes":[[{"width":110,"height":146},{"width":221,"height":293},{"width":442,"height":586}]]}]}],
+      "height":4692,
+      "width":3543,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-01-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-01-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-01-000002-PYR.tif\/full\/885,1173\/0\/default.jpg","type":"Image","width":885,"height":1173,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-01-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3543,"height":4692,"sizes":[[{"width":110,"height":146},{"width":221,"height":293},{"width":442,"height":586},{"width":885,"height":1173},{"width":1771,"height":2346}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-01-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-02-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R44.2: Federico Barocci, Study for Joseph, Left Arm on the Table, before 1575\u20136, black, red and white chalk on blue paper, (28 x 21.8 cm), (inv. Z 3071 verso, Anhaltische Gem\u00e4ldegalerie Dessau) More finished than its recto (R44.1), this drawing shows a drapery study for Saint Joseph\u2019s arms. Using black chalk he revises the left sleeve of the saint and explores light and shade effects by means of white heightening. He then draws Saint Joseph\u2019s right sleeve which falls into shadow using red chalk. In this sketch Barocci is primarily interested in the textile itself and not in the hands or the balance of the figure, which appears much more dynamic in the final painting. \u00a9 Anhaltische Gem\u00e4ldegalerie Dessau (4666x3499px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-02-000002-PYR.tif\/full\/218,291\/0\/default.jpg","type":"Image","width":218,"height":291,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-02-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":437,"height":583,"sizes":[[{"width":109,"height":145},{"width":218,"height":291},{"width":437,"height":583}]]}]}],
+      "height":4666,
+      "width":3499,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-02-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-02-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-02-000002-PYR.tif\/full\/874,1166\/0\/default.jpg","type":"Image","width":874,"height":1166,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0044-02-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3499,"height":4666,"sizes":[[{"width":109,"height":145},{"width":218,"height":291},{"width":437,"height":583},{"width":874,"height":1166},{"width":1749,"height":2333}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0044-02-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0045-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R45: Federico Barocci, Study for the child, 1545\u20131577, black and white chalk on brown paper, (17 x 16.2 cm), (RP-T-1955-64, Rijksmuseum, Amsterdam) In the past, this drawing has been taken to be a preparatory study for the figure of Christ in \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019. However, not only  does it relate to the National Gallery painting, but it can also be associated with the recently discovered \u2018The Virgin Reading, with the Christ Child on her Lap\u2019 in a private collection, as well as other late works by Barocci. In these later works the baby is reversed, with his eyes staring at the viewer. Signs of incisions are evident along almost all the lines defining the child, revealing one of the artist\u2019s distinctive techniques for tracing a motif from one sheet to another. \u00a9 Rijksmuseum, Amsterdam (2500x2413px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0045-00-000002-PYR.tif\/full\/301,312\/0\/default.jpg","type":"Image","width":301,"height":312,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0045-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":603,"height":625,"sizes":[[{"width":150,"height":156},{"width":301,"height":312},{"width":603,"height":625}]]}]}],
+      "height":2500,
+      "width":2413,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0045-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0045-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0045-00-000002-PYR.tif\/full\/1206,1250\/0\/default.jpg","type":"Image","width":1206,"height":1250,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/23\/R-0045-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2413,"height":2500,"sizes":[[{"width":150,"height":156},{"width":301,"height":312},{"width":603,"height":625},{"width":1206,"height":1250}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/23/R-0045-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0046-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R46: Federico Barocci, Study probably for Saint Joseph, before 1575\u20136, black, red and white chalk on blue paper, (29.9 x 11.4 cm), (inv. KdZ 20526 (4413) verso, Staatliche Museen zu Berlin, Kupferstichkabinett) In an early sheet of studies for \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019 in Berlin (R23), and in all likelihood in an initial composition study in Florence (R31.2), Joseph is shown in the foreground leaning on his elbow. In this drawing the artist sketches three studies from a life model displaying variations on the same pose. Ultimately he selected a much more dynamic pose for Joseph in \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019, which implies that these studies from life might have been made at a very early stage of the preparation for the painting. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ Volker-H. Schneider (5253x2427px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0046-00-000002-PYR.tif\/full\/151,328\/0\/default.jpg","type":"Image","width":151,"height":328,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0046-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":303,"height":656,"sizes":[[{"width":75,"height":164},{"width":151,"height":328},{"width":303,"height":656}]]}]}],
+      "height":5253,
+      "width":2427,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0046-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0046-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0046-00-000002-PYR.tif\/full\/606,1313\/0\/default.jpg","type":"Image","width":606,"height":1313,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0046-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2427,"height":5253,"sizes":[[{"width":75,"height":164},{"width":151,"height":328},{"width":303,"height":656},{"width":606,"height":1313},{"width":1213,"height":2626}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0046-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0047-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R47: Federico Barocci, Study for a cat, possibly before 1575\u20136, black and white chalk on blue paper, (14.3 x 13.4 cm), (inv.KdZ 20153 (4345), Staatliche Museen zu Berlin, Kupferstichkabinett) Not only was Barocci a great draughtsman, but he was also a great lover of cats. The same tortoiseshell cat frequently recurs in his drawings and paintings, and the model probably belonged to him. Although in reverse, the cat\u2019s hind leg and paw in this drawing is similar to the arrangement of the hind leg of the cat in the National Gallery picture. However the drawing seems to belong to a longer haired feline and it has also been suggested that it may be a study for a lion\u2019s hindquarters. \u00a9 Staatliche Museen zu Berlin, Kupferstichkabinett \/ Volker-H. Schneider (3797x3635px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0047-00-000002-PYR.tif\/full\/454,474\/0\/default.jpg","type":"Image","width":454,"height":474,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0047-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":908,"height":949,"sizes":[[{"width":227,"height":237},{"width":454,"height":474},{"width":908,"height":949}]]}]}],
+      "height":3797,
+      "width":3635,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0047-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0047-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0047-00-000002-PYR.tif\/full\/1817,1898\/0\/default.jpg","type":"Image","width":1817,"height":1898,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0047-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3635,"height":3797,"sizes":[[{"width":227,"height":237},{"width":454,"height":474},{"width":908,"height":949},{"width":1817,"height":1898}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0047-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0053-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "R53: Federico Barocci, Study for the head of a woman looking down, about 1590\u20131610, black, red and white chalk and brown pastel on blue paper, (25.6 x 19.8 cm), (inv. 5229, Royal Collection Trust) The relationship between this drawing and \u2018The Madonna of the Cat (\u2018La Madonna del Gatto\u2019)\u2019 is still debated. In this study, Barocci is not as interested in the depiction of the skin or of the woman\u2019s facial features as he is in other head studies. His concern here lies instead in defining the woman\u2019s hair. He alternates thin lines of black chalk with smudged brown pastel to render the depiction of the hair as natural as possible. His use of colours also tells us that the source of light was placed to the left of the composition. Royal Collection Trust \/ \u00a9 Her Majesty Queen Elizabeth II 2013 (4078x3319px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0053-00-000002-PYR.tif\/full\/414,509\/0\/default.jpg","type":"Image","width":414,"height":509,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0053-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":829,"height":1019,"sizes":[[{"width":207,"height":254},{"width":414,"height":509},{"width":829,"height":1019}]]}]}],
+      "height":4078,
+      "width":3319,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0053-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0053-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0053-00-000002-PYR.tif\/full\/1659,2039\/0\/default.jpg","type":"Image","width":1659,"height":2039,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/07\/12\/R-0053-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3319,"height":4078,"sizes":[[{"width":207,"height":254},{"width":414,"height":509},{"width":829,"height":1019},{"width":1659,"height":2039}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/07/12/R-0053-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG29: Federico Barocci, The Madonna of the Cat ('La Madonna del Gatto'), probably about 1575, Oil on canvas, (112.7 x 92.7 cm) The young John the Baptist holds a goldfinch, a bird frequently kept as a pet but also a traditional symbol of Christ's Passion; the Baptist is teasing the cat shown in the left foreground by holding the bird above his head. The Virgin is suckling the Child and Saint Joseph looks on from the right.\nNG 29 may be the picture painted, according to Bellori (1672), for Count Antonio Brancaleoni, who lived near Perugia. The design was engraved in reverse in 1577 by Cornelius Cort and the painting probably dates from about 1575. Numerous drawings made in preparation for NG 29 are known; a highly finished drawing made by Barocci in preparation for the engraving and formerly in the National Gallery is now in the British Museum.\nThe window and the bench in the background seem to be based on windows in the Palazzo Ducale, Urbino. There are several copies and workshop versions of the picture.\nCesarei collection, Perugia, by 1784; acquired in Italy by Buchanan, about 1805; collection of Revd Holwell Carr, 1807; by whom bequeathed, 1831.\nGould 1975, pp. 11-12\nEmiliani 1985, I, pp. 93-103 Bequeathed by Revd Holwell Carr, 1831 (6000x4929px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif\/full\/308,375\/0\/default.jpg","type":"Image","width":308,"height":375,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":616,"height":750,"sizes":[[{"width":154,"height":187},{"width":308,"height":375},{"width":616,"height":750}]]}]}],
+      "height":6000,
+      "width":4929,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif\/full\/1232,1500\/0\/default.jpg","type":"Image","width":1232,"height":1500,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2008\/04\/30\/N-0029-00-000064-WZ-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4929,"height":6000,"sizes":[[{"width":154,"height":187},{"width":308,"height":375},{"width":616,"height":750},{"width":1232,"height":1500},{"width":2464,"height":3000}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2008/04/30/N-0029-00-000064-WZ-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

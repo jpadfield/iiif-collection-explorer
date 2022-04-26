@@ -1,0 +1,180 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb34-cat11.json",
+   "type":"Manifest",
+   "label": { "en": [ "11   The Virgin and Child with the Infant Saint John and a Female Saint or Donor ('The Aldobrandini Madonna'), c.1532 (NG635)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>13   The Triumph of Love, c.1544-6. Ashmolean Museum, Oxford:<\/b> For further information about this picture see <a href=https:\/\/artuk.org\/discover\/artworks\/the-triumph-of-love-142838\/search\/actor:titian-c-14881576\/page\/1\/view_as\/grid>https:\/\/artuk.org<\/a> (Accessed Feb 2022)<\/li>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-34.json\">vol-34<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb34-cats-b.json\">tb34-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-34\">Technical Bulletin Vol. 34<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-34-catalogue-2013\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/vol-34-cat-8-to-13-2013.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 34 of the National Gallery Technical Bulletin is dedicated to the evolution of Titian\u2019s technique in the first part of his career, up to around 1540. This volume presents catalogue entries for 13 by Titian, four of which do not belong to the National Gallery (cats 1, 2, 3, and 13).  At this time it is not possible to include extra images for those four catalogue entries.<li><b>13   The Triumph of Love, c.1544-6. Ashmolean Museum, Oxford:<\/b> For further information about this picture see <a href=https:\/\/artuk.org\/discover\/artworks\/the-triumph-of-love-142838\/search\/actor:titian-c-14881576\/page\/1\/view_as\/grid>https:\/\/artuk.org<\/a> (Accessed Feb 2022)<\/li>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG635: Titian, The Aldobrandini Madonna (6913x9634px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif\/full\/301,216\/0\/default.jpg","type":"Image","width":301,"height":216,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":602,"height":432,"sizes":[[{"width":150,"height":108},{"width":301,"height":216},{"width":602,"height":432}]]}]}],
+      "height":6913,
+      "width":9634,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif\/full\/1204,864\/0\/default.jpg","type":"Image","width":1204,"height":864,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2010\/03\/04\/N-0635-00-000044-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":9634,"height":6913,"sizes":[[{"width":150,"height":108},{"width":301,"height":216},{"width":602,"height":432},{"width":1204,"height":864},{"width":2408,"height":1728},{"width":4817,"height":3456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2010/03/04/N-0635-00-000044-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d03-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG635: Titian, The Aldobrandini Madonna, infrared reflectogram mosaic, detail of Baptist's head. (1240x1134px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d03-PYR.tif\/full\/283,310\/0\/default.jpg","type":"Image","width":283,"height":310,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":567,"height":620,"sizes":[[{"width":141,"height":155},{"width":283,"height":310},{"width":567,"height":620}]]}]}],
+      "height":1240,
+      "width":1134,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d03-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d03-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d03-PYR.tif\/full\/567,620\/0\/default.jpg","type":"Image","width":567,"height":620,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d03-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1134,"height":1240,"sizes":[[{"width":141,"height":155},{"width":283,"height":310},{"width":567,"height":620}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d03-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d04-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG635: Titian, The Aldobrandini Madonna, infrared reflectogram mosaic, detail of Virgin's head. (1252x1130px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d04-PYR.tif\/full\/282,313\/0\/default.jpg","type":"Image","width":282,"height":313,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d04-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":565,"height":626,"sizes":[[{"width":141,"height":156},{"width":282,"height":313},{"width":565,"height":626}]]}]}],
+      "height":1252,
+      "width":1130,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d04-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d04-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d04-PYR.tif\/full\/565,626\/0\/default.jpg","type":"Image","width":565,"height":626,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d04-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1130,"height":1252,"sizes":[[{"width":141,"height":156},{"width":282,"height":313},{"width":565,"height":626}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d04-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d05-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG635: Titian, The Aldobrandini Madonna, infrared reflectogram mosaic, detail of Saint with Child. (2049x1662px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d05-PYR.tif\/full\/415,512\/0\/default.jpg","type":"Image","width":415,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d05-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":831,"height":1024,"sizes":[[{"width":207,"height":256},{"width":415,"height":512},{"width":831,"height":1024}]]}]}],
+      "height":2049,
+      "width":1662,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d05-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d05-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d05-PYR.tif\/full\/831,1024\/0\/default.jpg","type":"Image","width":831,"height":1024,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/12\/07\/ng0635_irr_d05-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1662,"height":2049,"sizes":[[{"width":207,"height":256},{"width":415,"height":512},{"width":831,"height":1024}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/12/07/ng0635_irr_d05-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000049-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG635: Titian, The Aldobrandini Madonna, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (12509x17312px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000049-PYR.tif\/full\/270,195\/0\/default.jpg","type":"Image","width":270,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":541,"height":390,"sizes":[[{"width":135,"height":97},{"width":270,"height":195},{"width":541,"height":390}]]}]}],
+      "height":12509,
+      "width":17312,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000049-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000049-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000049-PYR.tif\/full\/1082,781\/0\/default.jpg","type":"Image","width":1082,"height":781,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":17312,"height":12509,"sizes":[[{"width":135,"height":97},{"width":270,"height":195},{"width":541,"height":390},{"width":1082,"height":781},{"width":2164,"height":1563},{"width":4328,"height":3127},{"width":8656,"height":6254}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000049-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000048-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG635: Titian, The Aldobrandini Madonna, X-radiograph (Computer assembled mosaic) (12509x17312px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000048-PYR.tif\/full\/270,195\/0\/default.jpg","type":"Image","width":270,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":541,"height":390,"sizes":[[{"width":135,"height":97},{"width":270,"height":195},{"width":541,"height":390}]]}]}],
+      "height":12509,
+      "width":17312,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000048-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000048-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000048-PYR.tif\/full\/1082,781\/0\/default.jpg","type":"Image","width":1082,"height":781,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/13\/N-0635-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":17312,"height":12509,"sizes":[[{"width":135,"height":97},{"width":270,"height":195},{"width":541,"height":390},{"width":1082,"height":781},{"width":2164,"height":1563},{"width":4328,"height":3127},{"width":8656,"height":6254}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/13/N-0635-00-000048-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

@@ -1,0 +1,378 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat13.json",
+   "type":"Manifest",
+   "label": { "en": [ "Colonel Tarleton, 1782 (NG 5985)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-b.json\">tb35-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23858\/volume35cataloguepart2.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000031-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, 1782, Oil on canvas, (236 x 145.5 cm) (7928x5286px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000031-PYR.tif\/full\/330,495\/0\/default.jpg","type":"Image","width":330,"height":495,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":660,"height":991,"sizes":[[{"width":165,"height":247},{"width":330,"height":495},{"width":660,"height":991}]]}]}],
+      "height":7928,
+      "width":5286,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000031-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000031-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000031-PYR.tif\/full\/1321,1982\/0\/default.jpg","type":"Image","width":1321,"height":1982,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5286,"height":7928,"sizes":[[{"width":165,"height":247},{"width":330,"height":495},{"width":660,"height":991},{"width":1321,"height":1982},{"width":2643,"height":3964}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000031-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000048-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, 1782, Oil on canvas, (236 x 145.5 cm),X-radiograph (Computer assembled mosaic). (29564x18441px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000048-PYR.tif\/full\/288,461\/0\/default.jpg","type":"Image","width":288,"height":461,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":576,"height":923,"sizes":[[{"width":144,"height":230},{"width":288,"height":461},{"width":576,"height":923}]]}]}],
+      "height":29564,
+      "width":18441,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000048-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000048-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000048-PYR.tif\/full\/1152,1847\/0\/default.jpg","type":"Image","width":1152,"height":1847,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000048-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18441,"height":29564,"sizes":[[{"width":144,"height":230},{"width":288,"height":461},{"width":576,"height":923},{"width":1152,"height":1847},{"width":2305,"height":3695},{"width":4610,"height":7391},{"width":9220,"height":14782}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000048-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000049-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, 1782, Oil on canvas, (236 x 145.5 cm),X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. (29564x18441px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000049-PYR.tif\/full\/288,461\/0\/default.jpg","type":"Image","width":288,"height":461,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":576,"height":923,"sizes":[[{"width":144,"height":230},{"width":288,"height":461},{"width":576,"height":923}]]}]}],
+      "height":29564,
+      "width":18441,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000049-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000049-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000049-PYR.tif\/full\/1152,1847\/0\/default.jpg","type":"Image","width":1152,"height":1847,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/21\/N-5985-00-000049-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18441,"height":29564,"sizes":[[{"width":144,"height":230},{"width":288,"height":461},{"width":576,"height":923},{"width":1152,"height":1847},{"width":2305,"height":3695},{"width":4610,"height":7391},{"width":9220,"height":14782}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/21/N-5985-00-000049-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000036-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Details of NG5985: Sir Joshua Reynolds, Colonel Tarleton, 1782, Oil on canvas, (236 x 145.5 cm) (8063x5988px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000036-PYR.tif\/full\/374,503\/0\/default.jpg","type":"Image","width":374,"height":503,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000036-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":748,"height":1007,"sizes":[[{"width":187,"height":251},{"width":374,"height":503},{"width":748,"height":1007}]]}]}],
+      "height":8063,
+      "width":5988,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000036-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000036-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000036-PYR.tif\/full\/1497,2015\/0\/default.jpg","type":"Image","width":1497,"height":2015,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000036-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5988,"height":8063,"sizes":[[{"width":187,"height":251},{"width":374,"height":503},{"width":748,"height":1007},{"width":1497,"height":2015},{"width":2994,"height":4031}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000036-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/R-0081-00-000001-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Anon. engraver,Portrait of Lt. Col. Tarleton, after Joshua Reynolds, above vignette showing Tarleton drilling his troop.  Published in The Westminster Magazine, 1 April 1782. Image downloaded from the Library of Congress. (1536x938px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/R-0081-00-000001-PYR.tif\/full\/234,384\/0\/default.jpg","type":"Image","width":234,"height":384,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/R-0081-00-000001-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":469,"height":768,"sizes":[[{"width":117,"height":192},{"width":234,"height":384},{"width":469,"height":768}]]}]}],
+      "height":1536,
+      "width":938,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/R-0081-00-000001-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/R-0081-00-000001-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/R-0081-00-000001-PYR.tif\/full\/469,768\/0\/default.jpg","type":"Image","width":469,"height":768,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/R-0081-00-000001-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":938,"height":1536,"sizes":[[{"width":117,"height":192},{"width":234,"height":384},{"width":469,"height":768}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/R-0081-00-000001-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from background at the left edge, near the edge of the gun carriage's wheel. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS13_XS_Vis_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/18/NG5985_IS13_XS_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from background at the left edge, ultraviolet fluorescence image. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/18\/NG5985_IS13_XS_UV_20x_A-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/18\/NG5985_IS13_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/18/NG5985_IS13_XS_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/18/NG5985_IS13_XS_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/18\/NG5985_IS13_XS_UV_20x_A-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/12\/18\/NG5985_IS13_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/12/18/NG5985_IS13_XS_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from horse's neck at the left edge. (2322x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif\/full\/260,145\/0\/default.jpg","type":"Image","width":260,"height":145,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":290,"sizes":[[{"width":130,"height":72},{"width":260,"height":145},{"width":520,"height":290}]]}]}],
+      "height":2322,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif\/full\/1041,580\/0\/default.jpg","type":"Image","width":1041,"height":580,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2322,"sizes":[[{"width":130,"height":72},{"width":260,"height":145},{"width":520,"height":290},{"width":1041,"height":580},{"width":2082,"height":1161}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS24_XS_Vis_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS24_XS_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from horse's neck at the left edge, ultraviolet fluorescence image. (2322x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS24_XS_UV_20x_A-PYR.tif\/full\/260,145\/0\/default.jpg","type":"Image","width":260,"height":145,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS24_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":290,"sizes":[[{"width":130,"height":72},{"width":260,"height":145},{"width":520,"height":290}]]}]}],
+      "height":2322,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS24_XS_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS24_XS_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS24_XS_UV_20x_A-PYR.tif\/full\/1041,580\/0\/default.jpg","type":"Image","width":1041,"height":580,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS24_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2322,"sizes":[[{"width":130,"height":72},{"width":260,"height":145},{"width":520,"height":290},{"width":1041,"height":580},{"width":2082,"height":1161}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS24_XS_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from smoke filled sky, near the horizon at the right edge. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS11_XS_Vis_DF_10x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from smoke filled sky, ultraviolet fluorescence image. (3120x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif\/full\/260,195\/0\/default.jpg","type":"Image","width":260,"height":195,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":390,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390}]]}]}],
+      "height":3120,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif\/full\/1041,780\/0\/default.jpg","type":"Image","width":1041,"height":780,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS11_XS_UV_10x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":3120,"sizes":[[{"width":130,"height":97},{"width":260,"height":195},{"width":520,"height":390},{"width":1041,"height":780},{"width":2082,"height":1560}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS11_XS_UV_10x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from yellow-brown drapery in the lower left corner. (2220x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif\/full\/260,138\/0\/default.jpg","type":"Image","width":260,"height":138,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":277,"sizes":[[{"width":130,"height":69},{"width":260,"height":138},{"width":520,"height":277}]]}]}],
+      "height":2220,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif\/full\/1041,555\/0\/default.jpg","type":"Image","width":1041,"height":555,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2220,"sizes":[[{"width":130,"height":69},{"width":260,"height":138},{"width":520,"height":277},{"width":1041,"height":555},{"width":2082,"height":1110}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS12_XS_Vis_DF_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS12_XS_UV_20x_A-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from yellow-brown drapery in the lower left corner, ultraviolet fluorescence image. (2220x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS12_XS_UV_20x_A-PYR.tif\/full\/260,138\/0\/default.jpg","type":"Image","width":260,"height":138,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS12_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":277,"sizes":[[{"width":130,"height":69},{"width":260,"height":138},{"width":520,"height":277}]]}]}],
+      "height":2220,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS12_XS_UV_20x_A-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS12_XS_UV_20x_A-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS12_XS_UV_20x_A-PYR.tif\/full\/1041,555\/0\/default.jpg","type":"Image","width":1041,"height":555,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2009\/10\/19\/NG5985_IS12_XS_UV_20x_A-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":2220,"sizes":[[{"width":130,"height":69},{"width":260,"height":138},{"width":520,"height":277},{"width":1041,"height":555},{"width":2082,"height":1110}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2009/10/19/NG5985_IS12_XS_UV_20x_A-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000040-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Details of NG5985: Sir Joshua Reynolds, Colonel Tarleton, 1782, Oil on canvas, (236 x 145.5 cm) (8176x6132px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000040-PYR.tif\/full\/383,511\/0\/default.jpg","type":"Image","width":383,"height":511,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000040-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":766,"height":1022,"sizes":[[{"width":191,"height":255},{"width":383,"height":511},{"width":766,"height":1022}]]}]}],
+      "height":8176,
+      "width":6132,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000040-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000040-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000040-PYR.tif\/full\/1533,2044\/0\/default.jpg","type":"Image","width":1533,"height":2044,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2013\/10\/14\/N-5985-00-000040-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6132,"height":8176,"sizes":[[{"width":191,"height":255},{"width":383,"height":511},{"width":766,"height":1022},{"width":1533,"height":2044},{"width":3066,"height":4088}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2013/10/14/N-5985-00-000040-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5985: Sir Joshua Reynolds, Colonel Tarleton, paint cross-section from proper right sleeve of sitter's jacket, near to cuff. (960x4152px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif\/full\/259,60\/0\/default.jpg","type":"Image","width":259,"height":60,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":519,"height":120,"sizes":[[{"width":129,"height":30},{"width":259,"height":60},{"width":519,"height":120}]]}]}],
+      "height":960,
+      "width":4152,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif\/full\/1038,240\/0\/default.jpg","type":"Image","width":1038,"height":240,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/08\/11\/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4152,"height":960,"sizes":[[{"width":129,"height":30},{"width":259,"height":60},{"width":519,"height":120},{"width":1038,"height":240},{"width":2076,"height":480}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/08/11/NG5985_IS3_XS_Vis_DF_20x_B_repolished_2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

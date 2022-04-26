@@ -1,0 +1,290 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb35-cat09.json",
+   "type":"Manifest",
+   "label": { "en": [ "Mrs Elizabeth Carnac, 1775-6, The Wallace Collection" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>" ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-35.json\">vol-35<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb35-cats-b.json\">tb35-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-35\">Technical Bulletin Vol. 35<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/technical-bulletin\/vol-35-catalogue-2014\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/23858\/volume35cataloguepart2.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Some additional images which are referred to in the Catalogue entries of the Technical Bulletin can be viewed by following the links below.<br\/><br\/><ul><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=970746001&objectId=1606895&partId=1\">Thomas Watson, after Joshua Reynolds, The Strawberry Girl, 1774. Mezzotint. 37 x 27.6 cm. The British Museum, Inv. 1840,0808.130.<\/a><\/li><li class='resList'><a href=\"http:\/\/www.britishmuseum.org\/research\/collection_online\/collection_object_details\/collection_image_gallery.aspx?assetId=969849001&objectId=1606614&partId=1\">Joseph Grozer, after Joshua Reynolds, Saint John, 1799, Mezzotint, 45.6 x 35.5 cm. The British Museum, Inv. 1866,1114.567.<\/a><\/li><li class='resList'><a href=\"http:\/\/collections.britishart.yale.edu\/vufind\/Record\/1665158\">Joshua Reynolds, Mrs Robinson, about 1784. Canvas, 88.6 x 68.9 cm. Yale Centre for British Art, New Haven, CT, Inv. B1981.25.520.<\/a><\/li><\/ul>",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/03/M-1399-00-000002-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, , 240.4 x 146.4 cm, after cleaning and restoration. The Wallace Collection. (7763x4548px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/03\/M-1399-00-000002-PYR.tif\/full\/284,485\/0\/default.jpg","type":"Image","width":284,"height":485,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/03\/M-1399-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":568,"height":970,"sizes":[[{"width":142,"height":242},{"width":284,"height":485},{"width":568,"height":970}]]}]}],
+      "height":7763,
+      "width":4548,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/03/M-1399-00-000002-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/03/M-1399-00-000002-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/03\/M-1399-00-000002-PYR.tif\/full\/1137,1940\/0\/default.jpg","type":"Image","width":1137,"height":1940,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/03\/M-1399-00-000002-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4548,"height":7763,"sizes":[[{"width":142,"height":242},{"width":284,"height":485},{"width":568,"height":970},{"width":1137,"height":1940},{"width":2274,"height":3881}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/03/M-1399-00-000002-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000017-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, X-radiograph (Computer assembled mosaic). The Wallace Collection. (28789x18061px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000017-PYR.tif\/full\/282,449\/0\/default.jpg","type":"Image","width":282,"height":449,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000017-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":564,"height":899,"sizes":[[{"width":141,"height":224},{"width":282,"height":449},{"width":564,"height":899}]]}]}],
+      "height":28789,
+      "width":18061,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000017-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000017-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000017-PYR.tif\/full\/1128,1799\/0\/default.jpg","type":"Image","width":1128,"height":1799,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000017-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18061,"height":28789,"sizes":[[{"width":141,"height":224},{"width":282,"height":449},{"width":564,"height":899},{"width":1128,"height":1799},{"width":2257,"height":3598},{"width":4515,"height":7197},{"width":9030,"height":14394}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000017-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation. The Wallace Collection. (28789x18061px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif\/full\/282,449\/0\/default.jpg","type":"Image","width":282,"height":449,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":564,"height":899,"sizes":[[{"width":141,"height":224},{"width":282,"height":449},{"width":564,"height":899}]]}]}],
+      "height":28789,
+      "width":18061,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif\/full\/1128,1799\/0\/default.jpg","type":"Image","width":1128,"height":1799,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/07\/14\/M-1399-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":18061,"height":28789,"sizes":[[{"width":141,"height":224},{"width":282,"height":449},{"width":564,"height":899},{"width":1128,"height":1799},{"width":2257,"height":3598},{"width":4515,"height":7197},{"width":9030,"height":14394}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/07/14/M-1399-00-000018-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000012-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, detail of the sitter's mouth.  The Wallace Collection. (6185x8101px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000012-PYR.tif\/full\/506,386\/0\/default.jpg","type":"Image","width":506,"height":386,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1012,"height":773,"sizes":[[{"width":253,"height":193},{"width":506,"height":386},{"width":1012,"height":773}]]}]}],
+      "height":6185,
+      "width":8101,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000012-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000012-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000012-PYR.tif\/full\/2025,1546\/0\/default.jpg","type":"Image","width":2025,"height":1546,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/06\/07\/M-1399-00-000012-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8101,"height":6185,"sizes":[[{"width":253,"height":193},{"width":506,"height":386},{"width":1012,"height":773},{"width":2025,"height":1546},{"width":4050,"height":3092}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/06/07/M-1399-00-000012-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a1-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, infrared reflectogram (OSIRIS). The Wallace Collection. (3944x2542px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a1-PYR.tif\/full\/317,493\/0\/default.jpg","type":"Image","width":317,"height":493,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":635,"height":986,"sizes":[[{"width":158,"height":246},{"width":317,"height":493},{"width":635,"height":986}]]}]}],
+      "height":3944,
+      "width":2542,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a1-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a1-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a1-PYR.tif\/full\/1271,1972\/0\/default.jpg","type":"Image","width":1271,"height":1972,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a1-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2542,"height":3944,"sizes":[[{"width":158,"height":246},{"width":317,"height":493},{"width":635,"height":986},{"width":1271,"height":1972}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a1-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a2-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, infrared reflectogram (OSIRIS). Contrast adjusted to show more detail in darks. The Wallace Collection. (3944x2542px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a2-PYR.tif\/full\/317,493\/0\/default.jpg","type":"Image","width":317,"height":493,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":635,"height":986,"sizes":[[{"width":158,"height":246},{"width":317,"height":493},{"width":635,"height":986}]]}]}],
+      "height":3944,
+      "width":2542,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a2-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a2-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a2-PYR.tif\/full\/1271,1972\/0\/default.jpg","type":"Image","width":1271,"height":1972,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/07\/m1399_dirrO_a2-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2542,"height":3944,"sizes":[[{"width":158,"height":246},{"width":317,"height":493},{"width":635,"height":986},{"width":1271,"height":1972}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/07/m1399_dirrO_a2-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/M-1399-00-000019-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, detail photographed under ultraviolet illumination, during varnish removal. The Wallace Collection. Photo: Anna Sand\u00e8n. (586x546px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/M-1399-00-000019-PYR.tif\/full\/273,293\/0\/default.jpg","type":"Image","width":273,"height":293,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/M-1399-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":273,"height":293,"sizes":[[{"width":136,"height":146},{"width":273,"height":293}]]}]}],
+      "height":586,
+      "width":546,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/M-1399-00-000019-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/M-1399-00-000019-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/M-1399-00-000019-PYR.tif\/full\/273,293\/0\/default.jpg","type":"Image","width":273,"height":293,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/10\/02\/M-1399-00-000019-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":546,"height":586,"sizes":[[{"width":136,"height":146},{"width":273,"height":293}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/10/02/M-1399-00-000019-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_Vis_x20_after%20repolishing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, paint cross-section from brown foreground near the lower edge. The Wallace Collection. (912x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_Vis_x20_after repolishing-PYR.tif\/full\/260,57\/0\/default.jpg","type":"Image","width":260,"height":57,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_Vis_x20_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":114,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114}]]}]}],
+      "height":912,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_Vis_x20_after%20repolishing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_Vis_x20_after%20repolishing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_Vis_x20_after repolishing-PYR.tif\/full\/1041,228\/0\/default.jpg","type":"Image","width":1041,"height":228,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_Vis_x20_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":912,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114},{"width":1041,"height":228},{"width":2082,"height":456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_Vis_x20_after%20repolishing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_UV_x20_after%20repolishing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, paint cross-section from brown foreground near the lower edge, ultraviolet fluorescence image. The Wallace Collection. (912x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_UV_x20_after repolishing-PYR.tif\/full\/260,57\/0\/default.jpg","type":"Image","width":260,"height":57,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_UV_x20_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":114,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114}]]}]}],
+      "height":912,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_UV_x20_after%20repolishing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_UV_x20_after%20repolishing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_UV_x20_after repolishing-PYR.tif\/full\/1041,228\/0\/default.jpg","type":"Image","width":1041,"height":228,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s8_UV_x20_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":912,"sizes":[[{"width":130,"height":28},{"width":260,"height":57},{"width":520,"height":114},{"width":1041,"height":228},{"width":2082,"height":456}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s8_UV_x20_after%20repolishing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_Vis_x50_after%20repolishing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, paint cross-section from red foliage at the right side. The Wallace Collection. (1488x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_Vis_x50_after repolishing-PYR.tif\/full\/260,93\/0\/default.jpg","type":"Image","width":260,"height":93,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_Vis_x50_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":186,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186}]]}]}],
+      "height":1488,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_Vis_x50_after%20repolishing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_Vis_x50_after%20repolishing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_Vis_x50_after repolishing-PYR.tif\/full\/1041,372\/0\/default.jpg","type":"Image","width":1041,"height":372,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_Vis_x50_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1488,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186},{"width":1041,"height":372},{"width":2082,"height":744}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_Vis_x50_after%20repolishing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_UV_x50_after%20repolishing-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "M1399: Sir Joshua Reynolds, Mrs Elizabeth Carnac, paint cross-section from red foliage at the right side, ultraviolet fluorescence image. The Wallace Collection. (1488x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_UV_x50_after repolishing-PYR.tif\/full\/260,93\/0\/default.jpg","type":"Image","width":260,"height":93,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_UV_x50_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":186,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186}]]}]}],
+      "height":1488,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_UV_x50_after%20repolishing-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_UV_x50_after%20repolishing-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_UV_x50_after repolishing-PYR.tif\/full\/1041,372\/0\/default.jpg","type":"Image","width":1041,"height":372,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/05\/09\/M1399s11_UV_x50_after repolishing-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1488,"sizes":[[{"width":130,"height":46},{"width":260,"height":93},{"width":520,"height":186},{"width":1041,"height":372},{"width":2082,"height":744}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/05/09/M1399s11_UV_x50_after%20repolishing-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

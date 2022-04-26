@@ -1,0 +1,576 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/tb36-cat05.json",
+   "type":"Manifest",
+   "label": { "en": [ "Diana and Callisto, 1556-9 (NG 6616, NGS 2844)" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. " ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-36.json\">vol-36<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/tb36-cats-b.json\">tb36-cats-b<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\">Technical Bulletin Vol. 36<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-36\/catalogue\">Read Abstract<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/media\/24100\/vol36-cats5-8.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "Volume 36 of the National Gallery Technical Bulletin focuses on Titian\u2019s technique from after 1540 to his death in 1576. The results of technical examination of eight canvases in the National Gallery (two owned jointly with the National Galleries of Scotland) are assembled in the catalogue entries. ",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, 1556-9, Oil on canvas, (187 x 204.5 cm) (5946x6235px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif\/full\/389,371\/0\/default.jpg","type":"Image","width":389,"height":371,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":779,"height":743,"sizes":[[{"width":194,"height":185},{"width":389,"height":371},{"width":779,"height":743}]]}]}],
+      "height":5946,
+      "width":6235,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif\/full\/1558,1486\/0\/default.jpg","type":"Image","width":1558,"height":1486,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/10\/N-6616-00-000026-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6235,"height":5946,"sizes":[[{"width":194,"height":185},{"width":389,"height":371},{"width":779,"height":743},{"width":1558,"height":1486},{"width":3117,"height":2973}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/10/N-6616-00-000026-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/24/ng6616_dirrO_a-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, Infrared reflectogram (OSIRIS) (3717x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/24\/ng6616_dirrO_a-PYR.tif\/full\/512,464\/0\/default.jpg","type":"Image","width":512,"height":464,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/24\/ng6616_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":929,"sizes":[[{"width":256,"height":232},{"width":512,"height":464},{"width":1024,"height":929}]]}]}],
+      "height":3717,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/24/ng6616_dirrO_a-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/24/ng6616_dirrO_a-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/24\/ng6616_dirrO_a-PYR.tif\/full\/2048,1858\/0\/default.jpg","type":"Image","width":2048,"height":1858,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/10\/24\/ng6616_dirrO_a-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":3717,"sizes":[[{"width":256,"height":232},{"width":512,"height":464},{"width":1024,"height":929},{"width":2048,"height":1858}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/10/24/ng6616_dirrO_a-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng6616_dirrO_d02-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, Infrared reflectogram (OSIRIS), detail of Diana's legs and nymph seated in front of her. (4096x4096px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng6616_dirrO_d02-PYR.tif\/full\/512,512\/0\/default.jpg","type":"Image","width":512,"height":512,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng6616_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1024,"height":1024,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024}]]}]}],
+      "height":4096,
+      "width":4096,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng6616_dirrO_d02-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng6616_dirrO_d02-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng6616_dirrO_d02-PYR.tif\/full\/2048,2048\/0\/default.jpg","type":"Image","width":2048,"height":2048,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/01\/ng6616_dirrO_d02-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4096,"height":4096,"sizes":[[{"width":256,"height":256},{"width":512,"height":512},{"width":1024,"height":1024},{"width":2048,"height":2048}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/01/ng6616_dirrO_d02-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/07/N-6616-00-000031-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, X-radiograph (Computer assembled mosaic), with the effect of the painting stretcher reduced by digital manipulation (23636x25975px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/07\/N-6616-00-000031-PYR.tif\/full\/405,369\/0\/default.jpg","type":"Image","width":405,"height":369,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/07\/N-6616-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":811,"height":738,"sizes":[[{"width":202,"height":184},{"width":405,"height":369},{"width":811,"height":738}]]}]}],
+      "height":23636,
+      "width":25975,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/07/N-6616-00-000031-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/07/N-6616-00-000031-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/07\/N-6616-00-000031-PYR.tif\/full\/1623,1477\/0\/default.jpg","type":"Image","width":1623,"height":1477,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/08\/07\/N-6616-00-000031-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":25975,"height":23636,"sizes":[[{"width":202,"height":184},{"width":405,"height":369},{"width":811,"height":738},{"width":1623,"height":1477},{"width":3246,"height":2954},{"width":6493,"height":5909},{"width":12987,"height":11818}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/08/07/N-6616-00-000031-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/N-6616-00-000030-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, X-radiograph (Computer assembled mosaic) (23636x25975px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/N-6616-00-000030-PYR.tif\/full\/405,369\/0\/default.jpg","type":"Image","width":405,"height":369,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/N-6616-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":811,"height":738,"sizes":[[{"width":202,"height":184},{"width":405,"height":369},{"width":811,"height":738}]]}]}],
+      "height":23636,
+      "width":25975,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/N-6616-00-000030-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/N-6616-00-000030-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/N-6616-00-000030-PYR.tif\/full\/1623,1477\/0\/default.jpg","type":"Image","width":1623,"height":1477,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/07\/31\/N-6616-00-000030-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":25975,"height":23636,"sizes":[[{"width":202,"height":184},{"width":405,"height":369},{"width":811,"height":738},{"width":1623,"height":1477},{"width":3246,"height":2954},{"width":6493,"height":5909},{"width":12987,"height":11818}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/07/31/N-6616-00-000030-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/18/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the green foliage of the landscape at the far left edge. (1956x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/18\/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif\/full\/260,122\/0\/default.jpg","type":"Image","width":260,"height":122,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/18\/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":244,"sizes":[[{"width":130,"height":61},{"width":260,"height":122},{"width":520,"height":244}]]}]}],
+      "height":1956,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/18/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/18/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/18\/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif\/full\/1041,489\/0\/default.jpg","type":"Image","width":1041,"height":489,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/02\/18\/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1956,"sizes":[[{"width":130,"height":61},{"width":260,"height":122},{"width":520,"height":244},{"width":1041,"height":489},{"width":2082,"height":978}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/02/18/NG6616_IS2_XS_Vis_DF_20x_C_NGS2839_repolished-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the flesh of the torso of the standing nymph on the left. (1008x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/260,63\/0\/default.jpg","type":"Image","width":260,"height":63,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":126,"sizes":[[{"width":130,"height":31},{"width":260,"height":63},{"width":520,"height":126}]]}]}],
+      "height":1008,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1041,252\/0\/default.jpg","type":"Image","width":1041,"height":252,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1008,"sizes":[[{"width":130,"height":31},{"width":260,"height":63},{"width":520,"height":126},{"width":1041,"height":252},{"width":2082,"height":504}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS13_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the pink drapery of the nymph behind Callisto. (804x2712px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/339,100\/0\/default.jpg","type":"Image","width":339,"height":100,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":678,"height":201,"sizes":[[{"width":169,"height":50},{"width":339,"height":100},{"width":678,"height":201}]]}]}],
+      "height":804,
+      "width":2712,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1356,402\/0\/default.jpg","type":"Image","width":1356,"height":402,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2712,"height":804,"sizes":[[{"width":169,"height":50},{"width":339,"height":100},{"width":678,"height":201},{"width":1356,"height":402}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS10_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the pink drapery of the nymph to the right of Diana, taken from a fold near her shoulder. (1152x3600px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif\/full\/450,144\/0\/default.jpg","type":"Image","width":450,"height":144,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":900,"height":288,"sizes":[[{"width":225,"height":72},{"width":450,"height":144},{"width":900,"height":288}]]}]}],
+      "height":1152,
+      "width":3600,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif\/full\/1800,576\/0\/default.jpg","type":"Image","width":1800,"height":576,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3600,"height":1152,"sizes":[[{"width":225,"height":72},{"width":450,"height":144},{"width":900,"height":288},{"width":1800,"height":576}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the pink drapery of the nymph to the right of Diana, taken from a fold near her shoulder, ultraviolet fluorescence image. (1152x3600px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif\/full\/450,144\/0\/default.jpg","type":"Image","width":450,"height":144,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":900,"height":288,"sizes":[[{"width":225,"height":72},{"width":450,"height":144},{"width":900,"height":288}]]}]}],
+      "height":1152,
+      "width":3600,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif\/full\/1800,576\/0\/default.jpg","type":"Image","width":1800,"height":576,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3600,"height":1152,"sizes":[[{"width":225,"height":72},{"width":450,"height":144},{"width":900,"height":288},{"width":1800,"height":576}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the pink drapery of the nymph to the right of Diana, taken from a fold near her waist. (1032x2952px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif\/full\/369,129\/0\/default.jpg","type":"Image","width":369,"height":129,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":738,"height":258,"sizes":[[{"width":184,"height":64},{"width":369,"height":129},{"width":738,"height":258}]]}]}],
+      "height":1032,
+      "width":2952,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif\/full\/1476,516\/0\/default.jpg","type":"Image","width":1476,"height":516,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2952,"height":1032,"sizes":[[{"width":184,"height":64},{"width":369,"height":129},{"width":738,"height":258},{"width":1476,"height":516}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_Vis_DF_20x_B_FragmentA_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the pink drapery of the nymph to the right of Diana, taken from a fold near her waist, ultraviolet fluorescence image. (1032x2952px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif\/full\/369,129\/0\/default.jpg","type":"Image","width":369,"height":129,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":738,"height":258,"sizes":[[{"width":184,"height":64},{"width":369,"height":129},{"width":738,"height":258}]]}]}],
+      "height":1032,
+      "width":2952,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif\/full\/1476,516\/0\/default.jpg","type":"Image","width":1476,"height":516,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/13\/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2952,"height":1032,"sizes":[[{"width":184,"height":64},{"width":369,"height":129},{"width":738,"height":258},{"width":1476,"height":516}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/13/NG6616_IS6_XS_UV_20x_B_FragmentA_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the purple drapery on which Diana is seated. (972x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/260,60\/0\/default.jpg","type":"Image","width":260,"height":60,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":121,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121}]]}]}],
+      "height":972,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1041,243\/0\/default.jpg","type":"Image","width":1041,"height":243,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":972,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121},{"width":1041,"height":243},{"width":2082,"height":486}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS9_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the blue drapery of the nymph at the far right. (1524x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/260,95\/0\/default.jpg","type":"Image","width":260,"height":95,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":190,"sizes":[[{"width":130,"height":47},{"width":260,"height":95},{"width":520,"height":190}]]}]}],
+      "height":1524,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1041,381\/0\/default.jpg","type":"Image","width":1041,"height":381,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1524,"sizes":[[{"width":130,"height":47},{"width":260,"height":95},{"width":520,"height":190},{"width":1041,"height":381},{"width":2082,"height":762}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS4_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/22/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section of flesh from the shoulder of the nymph in blue at the far right. (1608x3228px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/22\/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif\/full\/403,201\/0\/default.jpg","type":"Image","width":403,"height":201,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/22\/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":807,"height":402,"sizes":[[{"width":201,"height":100},{"width":403,"height":201},{"width":807,"height":402}]]}]}],
+      "height":1608,
+      "width":3228,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/22/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/22/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/22\/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif\/full\/1614,804\/0\/default.jpg","type":"Image","width":1614,"height":804,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/22\/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3228,"height":1608,"sizes":[[{"width":201,"height":100},{"width":403,"height":201},{"width":807,"height":402},{"width":1614,"height":804}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/22/NG6616_IS5_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the yellow shaft of sunlight in the upper left corner. (1140x3228px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/403,142\/0\/default.jpg","type":"Image","width":403,"height":142,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":807,"height":285,"sizes":[[{"width":201,"height":71},{"width":403,"height":142},{"width":807,"height":285}]]}]}],
+      "height":1140,
+      "width":3228,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1614,570\/0\/default.jpg","type":"Image","width":1614,"height":570,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3228,"height":1140,"sizes":[[{"width":201,"height":71},{"width":403,"height":142},{"width":807,"height":285},{"width":1614,"height":570}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS20_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the bright green foliage to the left of the upheld arm of the standing nymph at the left. (996x3468px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/433,124\/0\/default.jpg","type":"Image","width":433,"height":124,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":867,"height":249,"sizes":[[{"width":216,"height":62},{"width":433,"height":124},{"width":867,"height":249}]]}]}],
+      "height":996,
+      "width":3468,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1734,498\/0\/default.jpg","type":"Image","width":1734,"height":498,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3468,"height":996,"sizes":[[{"width":216,"height":62},{"width":433,"height":124},{"width":867,"height":249},{"width":1734,"height":498}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS8_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from a green area of the foreground, where it overlaps the quiver at the bottom right. (1200x2964px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/370,150\/0\/default.jpg","type":"Image","width":370,"height":150,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":741,"height":300,"sizes":[[{"width":185,"height":75},{"width":370,"height":150},{"width":741,"height":300}]]}]}],
+      "height":1200,
+      "width":2964,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1482,600\/0\/default.jpg","type":"Image","width":1482,"height":600,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2964,"height":1200,"sizes":[[{"width":185,"height":75},{"width":370,"height":150},{"width":741,"height":300},{"width":1482,"height":600}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16A_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the orange paint at the edge of the quiver at the bottom right. (2016x2916px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/364,252\/0\/default.jpg","type":"Image","width":364,"height":252,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":729,"height":504,"sizes":[[{"width":182,"height":126},{"width":364,"height":252},{"width":729,"height":504}]]}]}],
+      "height":2016,
+      "width":2916,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1458,1008\/0\/default.jpg","type":"Image","width":1458,"height":1008,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2916,"height":2016,"sizes":[[{"width":182,"height":126},{"width":364,"height":252},{"width":729,"height":504},{"width":1458,"height":1008}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS16_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the back of the nymph\u2019s hand that rests on the quiver at the bottom right. (852x2928px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/366,106\/0\/default.jpg","type":"Image","width":366,"height":106,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":732,"height":213,"sizes":[[{"width":183,"height":53},{"width":366,"height":106},{"width":732,"height":213}]]}]}],
+      "height":852,
+      "width":2928,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1464,426\/0\/default.jpg","type":"Image","width":1464,"height":426,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2928,"height":852,"sizes":[[{"width":183,"height":53},{"width":366,"height":106},{"width":732,"height":213},{"width":1464,"height":426}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS14_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/27/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the blue of the distant mountain in the centre, below Diana\u2019s wrist. (804x2424px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/27\/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif\/full\/303,100\/0\/default.jpg","type":"Image","width":303,"height":100,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/27\/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":606,"height":201,"sizes":[[{"width":151,"height":50},{"width":303,"height":100},{"width":606,"height":201}]]}]}],
+      "height":804,
+      "width":2424,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/27/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/27/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/27\/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif\/full\/1212,402\/0\/default.jpg","type":"Image","width":1212,"height":402,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/04\/27\/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight repolish-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":2424,"height":804,"sizes":[[{"width":151,"height":50},{"width":303,"height":100},{"width":606,"height":201},{"width":1212,"height":402}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/04/27/NG6616_IS7_XS_Vis_DF_20x_B_NGS2839_slight%20repolish-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the distant green foliage below Diana\u2019s outstretched hand. (972x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/260,60\/0\/default.jpg","type":"Image","width":260,"height":60,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":121,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121}]]}]}],
+      "height":972,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1041,243\/0\/default.jpg","type":"Image","width":1041,"height":243,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2014\/09\/22\/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":972,"sizes":[[{"width":130,"height":30},{"width":260,"height":60},{"width":520,"height":121},{"width":1041,"height":243},{"width":2082,"height":486}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2014/09/22/NG6616_IS1_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the orange fabric at the top right. (1344x3348px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/418,168\/0\/default.jpg","type":"Image","width":418,"height":168,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":837,"height":336,"sizes":[[{"width":209,"height":84},{"width":418,"height":168},{"width":837,"height":336}]]}]}],
+      "height":1344,
+      "width":3348,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1674,672\/0\/default.jpg","type":"Image","width":1674,"height":672,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":3348,"height":1344,"sizes":[[{"width":209,"height":84},{"width":418,"height":168},{"width":837,"height":336},{"width":1674,"height":672}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS19_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG6616: Titian, Diana and Callisto, paint cross-section from the green tree at the upper right edge. (1524x4164px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/260,95\/0\/default.jpg","type":"Image","width":260,"height":95,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":520,"height":190,"sizes":[[{"width":130,"height":47},{"width":260,"height":95},{"width":520,"height":190}]]}]}],
+      "height":1524,
+      "width":4164,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif\/full\/1041,381\/0\/default.jpg","type":"Image","width":1041,"height":381,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2015\/01\/06\/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":4164,"height":1524,"sizes":[[{"width":130,"height":47},{"width":260,"height":95},{"width":520,"height":190},{"width":1041,"height":381},{"width":2082,"height":762}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2015/01/06/NG6616_IS11_XS_Vis_DF_20x_A_NGS2839-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

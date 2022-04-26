@@ -1,0 +1,91 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng2568.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG2568: Johannes Vermeer, A Young Woman seated at a Virginal" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/exhibitions.json\">exhibitions<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vermeer2013.json\">vermeer2013<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/exhibitions\">Exhibitions<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG2568\">Find out more about the painting<\/a>"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/27/N-2568-00-000055-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2568: Johannes Vermeer, A Young Woman seated at a Virginal, about 1670\u20132, oil on canvas, 51.5 x 45.5 cm (6748x5662px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/27\/N-2568-00-000055-PYR.tif\/full\/353,421\/0\/default.jpg","type":"Image","width":353,"height":421,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/27\/N-2568-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":707,"height":843,"sizes":[[{"width":176,"height":210},{"width":353,"height":421},{"width":707,"height":843}]]}]}],
+      "height":6748,
+      "width":5662,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/27/N-2568-00-000055-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/27/N-2568-00-000055-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/27\/N-2568-00-000055-PYR.tif\/full\/1415,1687\/0\/default.jpg","type":"Image","width":1415,"height":1687,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/01\/27\/N-2568-00-000055-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5662,"height":6748,"sizes":[[{"width":176,"height":210},{"width":353,"height":421},{"width":707,"height":843},{"width":1415,"height":1687},{"width":2831,"height":3374}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/01/27/N-2568-00-000055-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/16/N-2568-00-000057-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG2568: Johannes Vermeer, A Young Woman seated at a Virginal, about 1670\u20132, oil on canvas, 51.5 x 45.5 cm, X-radiograph (Computer assembled mosaic) (12710x11338px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/16\/N-2568-00-000057-PYR.tif\/full\/354,397\/0\/default.jpg","type":"Image","width":354,"height":397,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/16\/N-2568-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":708,"height":794,"sizes":[[{"width":177,"height":198},{"width":354,"height":397},{"width":708,"height":794}]]}]}],
+      "height":12710,
+      "width":11338,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/16/N-2568-00-000057-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/16/N-2568-00-000057-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/16\/N-2568-00-000057-PYR.tif\/full\/1417,1588\/0\/default.jpg","type":"Image","width":1417,"height":1588,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2012\/02\/16\/N-2568-00-000057-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":11338,"height":12710,"sizes":[[{"width":177,"height":198},{"width":354,"height":397},{"width":708,"height":794},{"width":1417,"height":1588},{"width":2834,"height":3177},{"width":5669,"height":6355}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2012/02/16/N-2568-00-000057-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

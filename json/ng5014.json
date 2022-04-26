@@ -1,0 +1,158 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng5014.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG5014: Adolphe Monticelli, Still Life: Fruit" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/stonor_morrison2012.json\">stonor_morrison2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG5014\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/Stonor-Morrison2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000011-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5014: Adolphe Monticelli, Still Life: Fruit, about 1878-82, Oil on wood, probably mahogany, (45.7 x 61 cm), Image Originally dated: 2011-08-22 (5985x6513px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000011-PYR.tif\/full\/407,374\/0\/default.jpg","type":"Image","width":407,"height":374,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":814,"height":748,"sizes":[[{"width":203,"height":187},{"width":407,"height":374},{"width":814,"height":748}]]}]}],
+      "height":5985,
+      "width":6513,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000011-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000011-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000011-PYR.tif\/full\/1628,1496\/0\/default.jpg","type":"Image","width":1628,"height":1496,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6513,"height":5985,"sizes":[[{"width":203,"height":187},{"width":407,"height":374},{"width":814,"height":748},{"width":1628,"height":1496},{"width":3256,"height":2992}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000011-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5014: Adolphe Monticelli, Still Life: Fruit, about 1878-82, Oil on wood, probably mahogany, (45.7 x 61 cm), Reverse Image, Image Originally dated: 2011-08-22 (5771x6564px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000016-PYR.tif\/full\/410,360\/0\/default.jpg","type":"Image","width":410,"height":360,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":820,"height":721,"sizes":[[{"width":205,"height":180},{"width":410,"height":360},{"width":820,"height":721}]]}]}],
+      "height":5771,
+      "width":6564,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000016-PYR.tif\/full\/1641,1442\/0\/default.jpg","type":"Image","width":1641,"height":1442,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6564,"height":5771,"sizes":[[{"width":205,"height":180},{"width":410,"height":360},{"width":820,"height":721},{"width":1641,"height":1442},{"width":3282,"height":2885}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000018-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Small detail of multicoloured brushstroke on edge of tablecloth, left, Image Originally dated: 2011-08-22 (6081x7367px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000018-PYR.tif\/full\/460,380\/0\/default.jpg","type":"Image","width":460,"height":380,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":920,"height":760,"sizes":[[{"width":230,"height":190},{"width":460,"height":380},{"width":920,"height":760}]]}]}],
+      "height":6081,
+      "width":7367,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000018-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000018-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000018-PYR.tif\/full\/1841,1520\/0\/default.jpg","type":"Image","width":1841,"height":1520,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":7367,"height":6081,"sizes":[[{"width":230,"height":190},{"width":460,"height":380},{"width":920,"height":760},{"width":1841,"height":1520},{"width":3683,"height":3040}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000018-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Area showing pronounced texture of pentiment around bottle and flat are to the right of bottle, Image Originally dated: 2011-08-22 (6077x8136px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000020-PYR.tif\/full\/508,379\/0\/default.jpg","type":"Image","width":508,"height":379,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":1017,"height":759,"sizes":[[{"width":254,"height":189},{"width":508,"height":379},{"width":1017,"height":759}]]}]}],
+      "height":6077,
+      "width":8136,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000020-PYR.tif\/full\/2034,1519\/0\/default.jpg","type":"Image","width":2034,"height":1519,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":8136,"height":6077,"sizes":[[{"width":254,"height":189},{"width":508,"height":379},{"width":1017,"height":759},{"width":2034,"height":1519},{"width":4068,"height":3038}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Front, Raking light to highlight surface texture. A compositional change is visible in the paint texture to the left of the carafe. This image is very similar to the Mus\u00e9e d'Orsay's 'Nature morte au pichet blanc' (1878) and the shape visible in raking light resembles the jug seen in this painting, Image Originally dated: 2011-08-22 (5777x6474px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000014-PYR.tif\/full\/404,361\/0\/default.jpg","type":"Image","width":404,"height":361,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":809,"height":722,"sizes":[[{"width":202,"height":180},{"width":404,"height":361},{"width":809,"height":722}]]}]}],
+      "height":5777,
+      "width":6474,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000014-PYR.tif\/full\/1618,1444\/0\/default.jpg","type":"Image","width":1618,"height":1444,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5014-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6474,"height":5777,"sizes":[[{"width":202,"height":180},{"width":404,"height":361},{"width":809,"height":722},{"width":1618,"height":1444},{"width":3237,"height":2888}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5014-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}

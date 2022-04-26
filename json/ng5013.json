@@ -1,0 +1,180 @@
+{  
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://research.ng-london.org.uk/iiif-projects/json/ng5013.json",
+   "type":"Manifest",
+   "label": { "en": [ "NG5013: Adolphe Monticelli, Still Life: Oysters, Fish" ]},
+   "logo": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+   "summary": { "en": [ "A selection of images associated with this particular painting and publication." ] },
+   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+   "metadata": [
+     {"label":{"en":["Manifest Author"]},"value":{"en":["Scientific Department (NG)"]}},
+     {"label":{"en":["Related Projects"]},"value":{"en":["<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/iiif_collection_explorer.json\">iiif_collection_explorer<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/ng-projects.json\">ng-projects<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/technical-bulletin.json\">technical-bulletin<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/vol-33.json\">vol-33<\/a>","<a href=\"https:\/\/research.ng-london.org.uk\/iiif-projects\/json\/stonor_morrison2012.json\">stonor_morrison2012<\/a>"]}},
+     {"label":{"en":["Additional Links"]},"value":{"en":["<a href=\"https:\/\/www.nationalgallery.org.uk\/research\/research-resources\/technical-bulletin\/technical-bulletin-volume-33\">Technical Bulletin Vol. 33<\/a>","<a href=\"https:\/\/www.nationalgallery.org.uk\/paintings\/NG5013\">Find out more about the painting<\/a>"]}},
+     {"label":{"en":["Related PDF"]},"value":{"en":["https:\/\/research.ng-london.org.uk\/ngws\/upload\/pdf\/Stonor-Morrison2012.pdf"]}}  ],
+  
+  "provider": [
+    {
+      "id": "https://www.nationalgallery.org.uk/about-us",
+      "type": "Agent",
+      "label": { "en": [ "The National Gallery" ] },
+      "homepage": [
+        {
+          "id": "https://www.nationalgallery.org.uk/",
+          "type": "Text",
+          "label": { "en": [ "The National Gallery Homepage" ] },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://research.ng-london.org.uk/ng/graphics/ng_logo_tr_125.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  
+   "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "&copy; The National Gallery, London" ] }
+		},
+   "description": "A selection of images associated with this particular painting and publication.",
+   "viewingDirection":"left-to-right",
+   "viewingHint":"individuals",
+   "items":[       		
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5013-00-000011-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5013: Adolphe Monticelli, Still Life: Oysters, Fish, about 1878-82, Oil on wood, probably mahogany, (46.4 x 61.6 cm), Image Originally dated: 2011-08-22 (5831x6555px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5013-00-000011-PYR.tif\/full\/409,364\/0\/default.jpg","type":"Image","width":409,"height":364,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5013-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":819,"height":728,"sizes":[[{"width":204,"height":182},{"width":409,"height":364},{"width":819,"height":728}]]}]}],
+      "height":5831,
+      "width":6555,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5013-00-000011-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5013-00-000011-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5013-00-000011-PYR.tif\/full\/1638,1457\/0\/default.jpg","type":"Image","width":1638,"height":1457,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/22\/N-5013-00-000011-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6555,"height":5831,"sizes":[[{"width":204,"height":182},{"width":409,"height":364},{"width":819,"height":728},{"width":1638,"height":1457},{"width":3277,"height":2915}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/22/N-5013-00-000011-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000014-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "NG5013: Adolphe Monticelli, Still Life: Oysters, Fish, about 1878-82, Oil on wood, probably mahogany, (46.4 x 61.6 cm), Reverse Image, Image Originally dated: 2011-08-23 (6043x6720px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000014-PYR.tif\/full\/420,377\/0\/default.jpg","type":"Image","width":420,"height":377,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":840,"height":755,"sizes":[[{"width":210,"height":188},{"width":420,"height":377},{"width":840,"height":755}]]}]}],
+      "height":6043,
+      "width":6720,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000014-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000014-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000014-PYR.tif\/full\/1680,1510\/0\/default.jpg","type":"Image","width":1680,"height":1510,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000014-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6720,"height":6043,"sizes":[[{"width":210,"height":188},{"width":420,"height":377},{"width":840,"height":755},{"width":1680,"height":1510},{"width":3360,"height":3021}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000014-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000016-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Large area of washy red\/brown fluid paint applied directly to panel, centre right edge, Image Originally dated: 2011-08-23 (7891x5629px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000016-PYR.tif\/full\/351,493\/0\/default.jpg","type":"Image","width":351,"height":493,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":703,"height":986,"sizes":[[{"width":175,"height":246},{"width":351,"height":493},{"width":703,"height":986}]]}]}],
+      "height":7891,
+      "width":5629,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000016-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000016-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000016-PYR.tif\/full\/1407,1972\/0\/default.jpg","type":"Image","width":1407,"height":1972,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000016-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5629,"height":7891,"sizes":[[{"width":175,"height":246},{"width":351,"height":493},{"width":703,"height":986},{"width":1407,"height":1972},{"width":2814,"height":3945}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000016-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000018-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Small area of underpaint with thicker blue strokes of paint above bottom right, Image Originally dated: 2011-08-23 (6082x5865px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000018-PYR.tif\/full\/366,380\/0\/default.jpg","type":"Image","width":366,"height":380,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":733,"height":760,"sizes":[[{"width":183,"height":190},{"width":366,"height":380},{"width":733,"height":760}]]}]}],
+      "height":6082,
+      "width":5865,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000018-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000018-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000018-PYR.tif\/full\/1466,1520\/0\/default.jpg","type":"Image","width":1466,"height":1520,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000018-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5865,"height":6082,"sizes":[[{"width":183,"height":190},{"width":366,"height":380},{"width":733,"height":760},{"width":1466,"height":1520},{"width":2932,"height":3041}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000018-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000020-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: The head of the fish, Image Originally dated: 2011-08-23 (6081x6805px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000020-PYR.tif\/full\/425,380\/0\/default.jpg","type":"Image","width":425,"height":380,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":850,"height":760,"sizes":[[{"width":212,"height":190},{"width":425,"height":380},{"width":850,"height":760}]]}]}],
+      "height":6081,
+      "width":6805,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000020-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000020-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000020-PYR.tif\/full\/1701,1520\/0\/default.jpg","type":"Image","width":1701,"height":1520,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000020-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":6805,"height":6081,"sizes":[[{"width":212,"height":190},{"width":425,"height":380},{"width":850,"height":760},{"width":1701,"height":1520},{"width":3402,"height":3040}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000020-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }		,
+     {  
+      "id":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000022-PYR.tif/canvas",
+      "type":"Canvas",
+      "label": { "en": [ "Detail: Area bottom left, Image Originally dated: 2011-08-23 (8081x5120px)" ] },
+      "thumbnail": [{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000022-PYR.tif\/full\/320,505\/0\/default.jpg","type":"Image","width":320,"height":505,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000022-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":640,"height":1010,"sizes":[[{"width":160,"height":252},{"width":320,"height":505},{"width":640,"height":1010}]]}]}],
+      "height":8081,
+      "width":5120,
+      "items":[  
+        {  
+        "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000022-PYR.tif/page",
+        "type":"AnnotationPage",
+        "items":[  
+            {  
+            "id": "https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000022-PYR.tif",
+            "type":"Annotation",
+            "motivation":"painting",
+            "body":[{"id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000022-PYR.tif\/full\/1280,2020\/0\/default.jpg","type":"Image","width":1280,"height":2020,"format":"image\/jpeg","service":[{"@id":"https:\/\/research.ng-london.org.uk\/iiif-int\/pics\/pyrByDate\/2011\/08\/23\/N-5013-00-000022-PYR.tif","@type":"type","profile":"http:\/\/iiif.io\/api\/image\/2\/level1.json","width":5120,"height":8081,"sizes":[[{"width":160,"height":252},{"width":320,"height":505},{"width":640,"height":1010},{"width":1280,"height":2020},{"width":2560,"height":4040}]]}]}],
+            "target":"https://research.ng-london.org.uk/iiif-int/pics/pyrByDate/2011/08/23/N-5013-00-000022-PYR.tif/canvas"
+            }
+          ]
+        }]
+      }         
+      
+   ]
+}
