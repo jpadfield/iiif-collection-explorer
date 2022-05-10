@@ -31,14 +31,33 @@ if (filter_var($_GET["root"], FILTER_VALIDATE_URL) === FALSE) {
 $tjson = getsslJSONfile ($_GET["root"], true);    
 if(!$tjson) {$tjson = getsslJSONfile ($_GET["root"].".json", true);}
 
-if (isset($tjson["@context"]) and $tjson["@context"] == "http://iiif.io/api/presentation/3/context.json")
-  {$rootDets = $tjson;}
-else
+$rootDets = false;
+
+if (isset($tjson["@context"])) {  
+  if (is_array($tjson["@context"])) 
+    {
+    if (in_array("http://iiif.io/api/presentation/3/context.json", $tjson["@context"]))
+      {$rootDets = $tjson;} 
+    else if (in_array("https://iiif.io/api/presentation/3/context.json", $tjson["@context"]))
+      {$rootDets = $tjson;}    
+    }
+  else if ($tjson["@context"] == "http://iiif.io/api/presentation/3/context.json")
+    {$rootDets = $tjson;}
+  }
+
+if (!$rootDets)
   {$rootDets =  getsslJSONfile ($defaultPath.$defaultCollection, true);
    $_GET["root"] = $defaultCollection;}
 
-$title = getLangValue ($rootDets["label"], "en");
-$comment = getLangValue ($rootDets["summary"], "en");
+if (isset($rootDets["label"]))
+  {$title = getLangValue ($rootDets["label"], "en");}
+else
+  {$title = "Unknown";}
+
+if (isset($rootDets["summary"]))
+  {$comment = getLangValue ($rootDets["summary"], "en");}
+else
+  {$comment = "";}
 
 $hasCols = false;
 $hasTable = false;
@@ -72,12 +91,15 @@ else if ($rootDets["type"] == "Collection")
     {
     if ($avr["type"] == "Collection")
       {$hasCols = true;}    
-      
-    $children[$avr["label"]["en"][0]] = $avr["id"];
-    $path_parts = pathinfo($avr["id"]);
-    $avrList .= formatIIIFCard ($avr["id"], "./?root=".$path_parts["filename"]);
-  
-    $check = getsslJSONfile($avr["id"]);
+    
+    if (isset($avr["label"]))
+      {$clabel = getLangValue ($rootDets["label"], "en");
+       $children[$clabel] = $avr["id"];
+       $path_parts = pathinfo($avr["id"]);
+       $avrList .= formatIIIFCard ($avr["id"], "./?root=".$path_parts["filename"]);
+       $check = getsslJSONfile($avr["id"]);}
+    else
+      {$check = false;}
     
     if ($check)
       {
@@ -113,7 +135,7 @@ else if ($rootDets["type"] == "Table")
   $extraCSS .= $rootDets["table"]["cssScripts"];
   }
 else
-  {
+  { 
   $check = getsslJSONfile($rootDets["id"]);
     if ($check)
       {$cats[] = $rootDets["id"];} 
@@ -149,8 +171,9 @@ else
    $M3Display = "block";}
 
 $mda = array();
+
 foreach ($rootDets["metadata"] as $k => $md)
-  {$tmp = getMDLVpair ($md);
+  {$tmp = getMDLVpair ($md);  
    $mda[$tmp["label"]] = $tmp["value"];}
 
 if (isset($mda["Manifest Author"]))
@@ -259,7 +282,7 @@ END;
       ]);  
 END;
   $m3JS = ob_get_contents();
-  ob_end_clean(); // Don't send output to client     
+  ob_end_clean(); // Don't send output to client
   }
 else
   {$m3HTML = false;
@@ -276,7 +299,10 @@ foreach ($mda as $mk => $mv)
       if (preg_match("/^.+href=.(http.+)[\"][>](.+)[<].+$/", $mvv, $m))
 	{$mvv = $m[1];
 	 $mvk = $m[2];}
-      $links[] = "<a href=\"$mvv\">$mvk</a>";
+      
+    // Only include values that are links
+      if (filter_var($mvv, FILTER_VALIDATE_URL))
+	{$links[] = "<a href=\"$mvv\">$mvk</a>";}
       
       //// Could pull details from NG website - but does not work due to network issues.
       //if (preg_match("/^.+article$/", $mvk, $m))
@@ -290,13 +316,15 @@ foreach ($mda as $mk => $mv)
     {
     // in case links have been wrapped in html
     if (preg_match("/^.+href=.(http.+)[\"][>].+$/", $mv, $m))
-    {$mv = $m[1];}
-    $links[] = "<a href=\"$mv\">$mk</a>";
+      {$mv = $m[1];}
+    // Only include values that are links
+    if (filter_var($mv, FILTER_VALIDATE_URL))
+      {$links[] = "<a href=\"$mv\">$mk</a>";}
     }
   }
 $links = implode(", ", $links);
 if ($links)
-  {$links = "<hr/><h5>National Gallery Website Links</h5>".$links;}
+  {$links = "<hr/><h5>Additional Links</h5>".$links;}
 
 ob_start();
 echo <<<END
@@ -312,7 +340,6 @@ $list
 END;
 $details = ob_get_contents();
 ob_end_clean(); // Don't send output to client
-
 
 
 ob_start();
@@ -458,9 +485,20 @@ echo <<<END
                       </div>
                       <div class="modal-body">                         
                           
-                        <p>Further Help coming soon ....</p>
-                        <img src="https://data.ng-london.org.uk/iiif/image/016H-0001-0000-0000/600,2300,3400,4900/500,/0/native.jpg">
-                        <p>NG277: Jacopo Bassano, The Good Samaritan</p>
+                        <h4>Feedback and Questions</h4>
+			<p>Please report any issues or submit any questions directly to the <a href="https://github.com/jpadfield/iiif-collection-explorer/issues">IIIF Collection Explorer GitHub repository</a>.</p>
+			
+			
+			<h4>Acknowledgement</h4>
+
+			  <p>This development of the IIIF Collection Explorer project has been directly supported by the following project:</p>
+			  <br>
+			  <h5>Practical applications of IIIF Project</h5>
+			  <figure class="figure">
+			    <img style="height:64px;" src="https://research.ng-london.org.uk/ss-iiif/graphics/TANC%20-%20IIIF.png" class="figure-img img-fluid rounded" alt="IIIF - TANC">
+			    <figcaption class="figure-caption">AHRC funded - IIIF-TNC | Practical applications of IIIF as a building block towards a digital National Collection -   <a href="https://tanc-ahrc.github.io/IIIF-TNC">IIIF - TNC</a></figcaption>
+			  </figure>
+
                       </div>
                       <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -638,8 +676,8 @@ function getLangValue ($arr, $lang="en", $force=false)
   {
   if (isset($arr[$lang]))
     {$lv = $arr[$lang];}
-  else if (isset($arr["label"]))
-    {$lv = array_shift($arr);}
+  else if (current($arr))
+    {$lv = current($arr);}
   else
     {$lv = array("Unknown");}
     
@@ -905,4 +943,3 @@ END;
   }
   
 ?>
-
